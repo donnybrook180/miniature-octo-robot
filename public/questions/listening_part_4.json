@@ -1,0 +1,950 @@
+{
+  "part": "listening_part_4",
+  "questions": [
+    {
+      "id": "l4-201",
+      "part": "listening_part_4",
+      "skill": "listening talk - main idea",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part4_airport_announcement",
+      "audioFile": "part4_airport_announcement.mp3",
+      "audioTitle": "Announcement: Airport Boarding",
+      "transcript": "Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minutes. Please have your boarding passes and identification ready before entering the boarding area. Passengers requiring special assistance may board first. Thank you for your cooperation.",
+      "prompt": "What is the announcement mainly about?",
+      "options": [
+        "A. A delayed flight",
+        "B. A boarding procedure",
+        "C. A baggage problem",
+        "D. A gate change"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The announcement explains when boarding begins, what passengers should prepare, and who may board first.",
+      "koreanLearnerHint": "\"Announcement: Airport Boarding / What is the announcement mainly about?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "A boarding procedure",
+          "meaningKo": "핵심 표현: A boarding procedure",
+          "meaningJa": "搭乗手続き",
+          "exampleSentence": "A boarding procedure"
+        },
+        {
+          "word": "What is the announcement mainly about",
+          "meaningKo": "핵심 표현: What is the announcement mainly about",
+          "meaningJa": "アナウンスは主に何についてですか",
+          "exampleSentence": "What is the announcement mainly about"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "A boarding procedure",
+        "meaningKo": "핵심 표현: A boarding procedure",
+        "meaningJa": "搭乗手続き",
+        "exampleSentence": "A boarding procedure"
+      },
+      "explanationKo": "정답은 B. A boarding procedure입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut\" 부분이 단서입니다. 선택지 \"A boarding procedure\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. A boarding procedure です。音声では「Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut」が手がかりです。選択肢「A boarding procedure」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Airport Boarding」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 1
+    },
+    {
+      "id": "l4-202",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part4_airport_announcement",
+      "audioFile": "part4_airport_announcement.mp3",
+      "audioTitle": "Announcement: Airport Boarding",
+      "transcript": "Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minutes. Please have your boarding passes and identification ready before entering the boarding area. Passengers requiring special assistance may board first. Thank you for your cooperation.",
+      "prompt": "What should passengers prepare?",
+      "options": [
+        "A. Their luggage receipts",
+        "B. Their passports only",
+        "C. Their boarding passes and identification",
+        "D. Their meal tickets"
+      ],
+      "correctOption": "C",
+      "explanationEn": "Passengers are asked to have their boarding passes and identification ready.",
+      "koreanLearnerHint": "\"Announcement: Airport Boarding / What should passengers prepare?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Their boarding passes and identification",
+          "meaningKo": "핵심 표현: Their boarding passes and identification",
+          "meaningJa": "搭乗券と身分証明書",
+          "exampleSentence": "Their boarding passes and identification"
+        },
+        {
+          "word": "What should passengers prepare",
+          "meaningKo": "핵심 표현: What should passengers prepare",
+          "meaningJa": "乗客は何を準備すべきですか",
+          "exampleSentence": "What should passengers prepare"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Their boarding passes and identification",
+        "meaningKo": "핵심 표현: Their boarding passes and identification",
+        "meaningJa": "搭乗券と身分証明書",
+        "exampleSentence": "Their boarding passes and identification"
+      },
+      "explanationKo": "정답은 C. Their boarding passes and identification입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut\" 부분이 단서입니다. 선택지 \"Their boarding passes and identification\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. Their boarding passes and identification です。音声では「Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut」が手がかりです。選択肢「Their boarding passes and identification」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Airport Boarding」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 2
+    },
+    {
+      "id": "l4-203",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part4_airport_announcement",
+      "audioFile": "part4_airport_announcement.mp3",
+      "audioTitle": "Announcement: Airport Boarding",
+      "transcript": "Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minutes. Please have your boarding passes and identification ready before entering the boarding area. Passengers requiring special assistance may board first. Thank you for your cooperation.",
+      "prompt": "Who may board first?",
+      "options": [
+        "A. Business-class passengers",
+        "B. Airline employees",
+        "C. Families with children",
+        "D. Passengers needing assistance"
+      ],
+      "correctOption": "D",
+      "explanationEn": "The announcement says passengers requiring special assistance may board first.",
+      "koreanLearnerHint": "\"Announcement: Airport Boarding / Who may board first?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Passengers needing assistance",
+          "meaningKo": "핵심 표현: Passengers needing assistance",
+          "meaningJa": "支援が必要な乗客",
+          "exampleSentence": "Passengers needing assistance"
+        },
+        {
+          "word": "Who may board first",
+          "meaningKo": "핵심 표현: Who may board first",
+          "meaningJa": "誰が先に搭乗できますか",
+          "exampleSentence": "Who may board first"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Passengers needing assistance",
+        "meaningKo": "핵심 표현: Passengers needing assistance",
+        "meaningJa": "支援が必要な乗客",
+        "exampleSentence": "Passengers needing assistance"
+      },
+      "explanationKo": "정답은 D. Passengers needing assistance입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut\" 부분이 단서입니다. 선택지 \"Passengers needing assistance\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は D. Passengers needing assistance です。音声では「Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut」が手がかりです。選択肢「Passengers needing assistance」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Airport Boarding」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 3
+    },
+    {
+      "id": "l4-204",
+      "part": "listening_part_4",
+      "skill": "listening talk - purpose",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part4_voicemail_message",
+      "audioFile": "part4_voicemail_message.mp3",
+      "audioTitle": "Voicemail: Auto Repair",
+      "transcript": "Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repaired and is ready for pickup. We replaced the front brake pads and completed the oil change you requested. Our office closes at 6 p.m. today, but you may also pick up the car tomorrow morning after 8 a.m. Thank you.",
+      "prompt": "Why is Emily calling?",
+      "options": [
+        "A. To schedule an appointment",
+        "B. To discuss car insurance",
+        "C. To announce that repairs are complete",
+        "D. To request payment information"
+      ],
+      "correctOption": "C",
+      "explanationEn": "Emily says the vehicle has been repaired and is ready for pickup.",
+      "koreanLearnerHint": "\"Voicemail: Auto Repair / Why is Emily calling?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "To announce that repairs are complete",
+          "meaningKo": "핵심 표현: To announce that repairs are complete",
+          "meaningJa": "修理完了を知らせるため",
+          "exampleSentence": "To announce that repairs are complete"
+        },
+        {
+          "word": "Why is Emily calling",
+          "meaningKo": "핵심 표현: Why is Emily calling",
+          "meaningJa": "エミリーはなぜ電話していますか",
+          "exampleSentence": "Why is Emily calling"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "To announce that repairs are complete",
+        "meaningKo": "핵심 표현: To announce that repairs are complete",
+        "meaningJa": "修理完了を知らせるため",
+        "exampleSentence": "To announce that repairs are complete"
+      },
+      "explanationKo": "정답은 C. To announce that repairs are complete입니다. 음성에서는 \"Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair\" 부분이 단서입니다. 선택지 \"To announce that repairs are complete\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. To announce that repairs are complete です。音声では「Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair」が手がかりです。選択肢「To announce that repairs are complete」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Voicemail: Auto Repair」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 4
+    },
+    {
+      "id": "l4-205",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part4_voicemail_message",
+      "audioFile": "part4_voicemail_message.mp3",
+      "audioTitle": "Voicemail: Auto Repair",
+      "transcript": "Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repaired and is ready for pickup. We replaced the front brake pads and completed the oil change you requested. Our office closes at 6 p.m. today, but you may also pick up the car tomorrow morning after 8 a.m. Thank you.",
+      "prompt": "What service was completed?",
+      "options": [
+        "A. Tire replacement",
+        "B. Brake repair",
+        "C. Window cleaning",
+        "D. Engine replacement"
+      ],
+      "correctOption": "B",
+      "explanationEn": "Emily says the front brake pads were replaced.",
+      "koreanLearnerHint": "\"Voicemail: Auto Repair / What service was completed?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Brake repair",
+          "meaningKo": "핵심 표현: Brake repair",
+          "meaningJa": "ブレーキ修理",
+          "exampleSentence": "Brake repair"
+        },
+        {
+          "word": "What service was completed",
+          "meaningKo": "핵심 표현: What service was completed",
+          "meaningJa": "どのサービスが完了しましたか",
+          "exampleSentence": "What service was completed"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Brake repair",
+        "meaningKo": "핵심 표현: Brake repair",
+        "meaningJa": "ブレーキ修理",
+        "exampleSentence": "Brake repair"
+      },
+      "explanationKo": "정답은 B. Brake repair입니다. 음성에서는 \"Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair\" 부분이 단서입니다. 선택지 \"Brake repair\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. Brake repair です。音声では「Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair」が手がかりです。選択肢「Brake repair」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Voicemail: Auto Repair」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 5
+    },
+    {
+      "id": "l4-206",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part4_voicemail_message",
+      "audioFile": "part4_voicemail_message.mp3",
+      "audioTitle": "Voicemail: Auto Repair",
+      "transcript": "Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repaired and is ready for pickup. We replaced the front brake pads and completed the oil change you requested. Our office closes at 6 p.m. today, but you may also pick up the car tomorrow morning after 8 a.m. Thank you.",
+      "prompt": "When can the customer pick up the vehicle tomorrow?",
+      "options": [
+        "A. After 6 a.m.",
+        "B. After 7 a.m.",
+        "C. After 8 a.m.",
+        "D. After 9 a.m."
+      ],
+      "correctOption": "C",
+      "explanationEn": "Emily says the customer may pick up the car tomorrow morning after 8 a.m.",
+      "koreanLearnerHint": "\"Voicemail: Auto Repair / When can the customer pick up the vehicle tomorrow?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "After 8 a.m",
+          "meaningKo": "핵심 표현: After 8 a.m",
+          "meaningJa": "午前8時以降",
+          "exampleSentence": "After 8 a.m"
+        },
+        {
+          "word": "When can the customer pick up the vehicle tomorrow",
+          "meaningKo": "핵심 표현: When can the customer pick up the vehicle tomorrow",
+          "meaningJa": "顧客は明日いつ車を受け取れますか",
+          "exampleSentence": "When can the customer pick up the vehicle tomorrow"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "After 8 a.m",
+        "meaningKo": "핵심 표현: After 8 a.m",
+        "meaningJa": "午前8時以降",
+        "exampleSentence": "After 8 a.m"
+      },
+      "explanationKo": "정답은 C. After 8 a.m.입니다. 음성에서는 \"Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair\" 부분이 단서입니다. 선택지 \"After 8 a.m.\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. After 8 a.m. です。音声では「Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair」が手がかりです。選択肢「After 8 a.m.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Voicemail: Auto Repair」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 6
+    },
+    {
+      "id": "l4-101",
+      "part": "listening_part_4",
+      "skill": "listening talk - main idea",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "brightstar_closed",
+      "audioFile": "brightstar_closed.mp3",
+      "audioTitle": "Announcement: Brightstar Closure",
+      "transcript": "Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.",
+      "prompt": "What is the announcement mainly about?",
+      "options": [
+        "A. A temporary store closure.",
+        "B. A new electronics product.",
+        "C. A change in branch ownership.",
+        "D. A weekend discount event."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement says Brightstar Electronics is closed because of a national holiday.",
+      "explanationKo": "안내문은 Brightstar Electronics가 재고 작업 때문에 이번 토요일에 임시 휴점한다고 말합니다.",
+      "koreanLearnerHint": "announcement 문제에서는 첫 문장에 전체 목적이 나오는 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "be closed",
+          "meaningKo": "문을 닫다, 휴점하다",
+          "exampleSentence": "The store will be closed this Saturday.",
+          "meaningJa": "閉まっている"
+        },
+        {
+          "word": "national holiday",
+          "meaningKo": "공휴일",
+          "exampleSentence": "The store is closed because of a national holiday.",
+          "meaningJa": "祝日"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "be closed",
+        "meaningKo": "문을 닫다, 휴점하다",
+        "exampleSentence": "The store will be closed this Saturday.",
+        "meaningJa": "閉まっている"
+      },
+      "explanationJa": "正解は A. A temporary store closure. です。音声では「Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.」が手がかりです。選択肢「A temporary store closure.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Brightstar Closure」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 7
+    },
+    {
+      "id": "l4-102",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "brightstar_closed",
+      "audioFile": "brightstar_closed.mp3",
+      "audioTitle": "Announcement: Brightstar Closure",
+      "transcript": "Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.",
+      "prompt": "Why will Brightstar Electronics be closed?",
+      "options": [
+        "A. Because of a national holiday.",
+        "B. For employee training.",
+        "C. Because of a power outage.",
+        "D. Because the store is moving."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement gives a national holiday as the reason for the closure.",
+      "explanationKo": "안내문은 토요일 휴점 이유로 재고 작업을 제시합니다.",
+      "koreanLearnerHint": "Why 문제에서는 for, because 같은 이유 표현을 집중해서 들으세요.",
+      "vocabularyItems": [
+        {
+          "word": "temporary closure",
+          "meaningKo": "임시 휴점",
+          "exampleSentence": "The store announced a temporary closure.",
+          "meaningJa": "一時休業"
+        },
+        {
+          "word": "national holiday",
+          "meaningKo": "공휴일",
+          "exampleSentence": "The store is closed for a national holiday.",
+          "meaningJa": "祝日"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "temporary closure",
+        "meaningKo": "임시 휴점",
+        "exampleSentence": "The store announced a temporary closure.",
+        "meaningJa": "一時休業"
+      },
+      "explanationJa": "正解は A. Because of a national holiday. です。音声では「Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.」が手がかりです。選択肢「Because of a national holiday.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Brightstar Closure」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 8
+    },
+    {
+      "id": "l4-103",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "brightstar_closed",
+      "audioFile": "brightstar_closed.mp3",
+      "audioTitle": "Announcement: Brightstar Closure",
+      "transcript": "Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.",
+      "prompt": "When will the store reopen?",
+      "options": [
+        "A. Tomorrow at 9 A.M.",
+        "B. Tomorrow at noon.",
+        "C. Next Monday at 10 A.M.",
+        "D. This evening at 5 P.M."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement says the store will open tomorrow at 9 A.M.",
+      "explanationKo": "안내문은 매장이 월요일 오전 10시에 다시 문을 연다고 말합니다.",
+      "koreanLearnerHint": "시간 문제에서는 요일과 시간을 함께 들어야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "reopen",
+          "meaningKo": "다시 문을 열다",
+          "exampleSentence": "The store will reopen on Monday.",
+          "meaningJa": "再開する"
+        },
+        {
+          "word": "tomorrow",
+          "meaningKo": "내일",
+          "exampleSentence": "The store will open tomorrow at 9 A.M.",
+          "meaningJa": "明日"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "reopen",
+        "meaningKo": "다시 문을 열다",
+        "exampleSentence": "The store will reopen on Monday.",
+        "meaningJa": "再開する"
+      },
+      "explanationJa": "正解は A. Tomorrow at 9 A.M. です。音声では「Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.」が手がかりです。選択肢「Tomorrow at 9 A.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Brightstar Closure」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 9
+    },
+    {
+      "id": "l4-207",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part4_store_announcement",
+      "audioFile": "part4_store_announcement.mp3",
+      "audioTitle": "Announcement: Store Sale",
+      "transcript": "Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. Customers who spend more than one hundred dollars will also receive a free gift card for future purchases. Please visit our customer service desk for more information.",
+      "prompt": "What product is on sale?",
+      "options": [
+        "A. Shoes",
+        "B. Electronics",
+        "C. Winter jackets",
+        "D. Furniture"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The announcement says all winter jackets are available at a twenty percent discount.",
+      "koreanLearnerHint": "\"Announcement: Store Sale / What product is on sale?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Winter jackets",
+          "meaningKo": "핵심 표현: Winter jackets",
+          "meaningJa": "冬用ジャケット",
+          "exampleSentence": "Winter jackets"
+        },
+        {
+          "word": "What product is on sale",
+          "meaningKo": "핵심 표현: What product is on sale",
+          "meaningJa": "どの商品がセール対象ですか",
+          "exampleSentence": "What product is on sale"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Winter jackets",
+        "meaningKo": "핵심 표현: Winter jackets",
+        "meaningJa": "冬用ジャケット",
+        "exampleSentence": "Winter jackets"
+      },
+      "explanationKo": "정답은 C. Winter jackets입니다. 음성에서는 \"Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. \" 부분이 단서입니다. 선택지 \"Winter jackets\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. Winter jackets です。音声では「Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. 」が手がかりです。選択肢「Winter jackets」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Store Sale」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 10
+    },
+    {
+      "id": "l4-208",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part4_store_announcement",
+      "audioFile": "part4_store_announcement.mp3",
+      "audioTitle": "Announcement: Store Sale",
+      "transcript": "Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. Customers who spend more than one hundred dollars will also receive a free gift card for future purchases. Please visit our customer service desk for more information.",
+      "prompt": "Where are the sale items located?",
+      "options": [
+        "A. On the first floor",
+        "B. On the second floor",
+        "C. Near the entrance",
+        "D. At the customer service desk"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The winter jackets on sale are located on the second floor.",
+      "koreanLearnerHint": "\"Announcement: Store Sale / Where are the sale items located?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "On the second floor",
+          "meaningKo": "핵심 표현: On the second floor",
+          "meaningJa": "2階で",
+          "exampleSentence": "On the second floor"
+        },
+        {
+          "word": "Where are the sale items located",
+          "meaningKo": "핵심 표현: Where are the sale items located",
+          "meaningJa": "セール品はどこにありますか",
+          "exampleSentence": "Where are the sale items located"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "On the second floor",
+        "meaningKo": "핵심 표현: On the second floor",
+        "meaningJa": "2階で",
+        "exampleSentence": "On the second floor"
+      },
+      "explanationKo": "정답은 B. On the second floor입니다. 음성에서는 \"Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. \" 부분이 단서입니다. 선택지 \"On the second floor\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. On the second floor です。音声では「Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. 」が手がかりです。選択肢「On the second floor」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Store Sale」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 11
+    },
+    {
+      "id": "l4-209",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part4_store_announcement",
+      "audioFile": "part4_store_announcement.mp3",
+      "audioTitle": "Announcement: Store Sale",
+      "transcript": "Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. Customers who spend more than one hundred dollars will also receive a free gift card for future purchases. Please visit our customer service desk for more information.",
+      "prompt": "What will customers receive after spending over $100?",
+      "options": [
+        "A. A free jacket",
+        "B. A parking voucher",
+        "C. A discount coupon",
+        "D. A gift card"
+      ],
+      "correctOption": "D",
+      "explanationEn": "Customers who spend more than one hundred dollars will receive a free gift card.",
+      "koreanLearnerHint": "\"Announcement: Store Sale / What will customers receive after spending over $100?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "A gift card",
+          "meaningKo": "핵심 표현: A gift card",
+          "meaningJa": "ギフトカード",
+          "exampleSentence": "A gift card"
+        },
+        {
+          "word": "What will customers receive after spending over $100",
+          "meaningKo": "핵심 표현: What will customers receive after spending over $100",
+          "meaningJa": "100ドルを超えて使うと顧客は何を受け取りますか",
+          "exampleSentence": "What will customers receive after spending over $100"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "A gift card",
+        "meaningKo": "핵심 표현: A gift card",
+        "meaningJa": "ギフトカード",
+        "exampleSentence": "A gift card"
+      },
+      "explanationKo": "정답은 D. A gift card입니다. 음성에서는 \"Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. \" 부분이 단서입니다. 선택지 \"A gift card\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は D. A gift card です。音声では「Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. 」が手がかりです。選択肢「A gift card」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Store Sale」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 12
+    },
+    {
+      "id": "l4-104",
+      "part": "listening_part_4",
+      "skill": "listening talk - main idea",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "train_to_busan",
+      "audioFile": "train_to_busan.mp3",
+      "audioTitle": "Announcement: Train to Busan",
+      "transcript": "Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats should board cars one through five. Food service will not be available on this train, so passengers may purchase snacks before boarding.",
+      "prompt": "What is the announcement mainly about?",
+      "options": [
+        "A. Boarding information for a train to Busan.",
+        "B. A delayed flight to Busan.",
+        "C. A new restaurant at the station.",
+        "D. A lost passenger ticket."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement gives departure, platform, boarding, and food-service information for a train to Busan.",
+      "explanationKo": "안내 방송은 부산행 열차의 출발, 플랫폼, 탑승, 음식 서비스 정보를 제공합니다.",
+      "koreanLearnerHint": "station announcement에서는 platform, depart, board 같은 단어가 핵심입니다.",
+      "vocabularyItems": [
+        {
+          "word": "depart from",
+          "meaningKo": "~에서 출발하다",
+          "exampleSentence": "The train will depart from platform 6.",
+          "meaningJa": "出発する"
+        },
+        {
+          "word": "reserved seat",
+          "meaningKo": "예약 좌석",
+          "exampleSentence": "Passengers with reserved seats should board first.",
+          "meaningJa": "指定席"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "depart from",
+        "meaningKo": "~에서 출발하다",
+        "exampleSentence": "The train will depart from platform 6.",
+        "meaningJa": "出発する"
+      },
+      "explanationJa": "正解は A. Boarding information for a train to Busan. です。音声では「Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats」が手がかりです。選択肢「Boarding information for a train to Busan.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Train to Busan」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 13
+    },
+    {
+      "id": "l4-105",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "train_to_busan",
+      "audioFile": "train_to_busan.mp3",
+      "audioTitle": "Announcement: Train to Busan",
+      "transcript": "Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats should board cars one through five. Food service will not be available on this train, so passengers may purchase snacks before boarding.",
+      "prompt": "What time will the train depart?",
+      "options": [
+        "A. 3:20 P.M.",
+        "B. 3:06 P.M.",
+        "C. 2:30 P.M.",
+        "D. 5:00 P.M."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement says the train will depart at 3:20 P.M.",
+      "explanationKo": "안내 방송은 열차가 오후 3시 20분에 출발한다고 말합니다.",
+      "koreanLearnerHint": "시간 문제에서는 숫자를 정확히 구분해서 들어야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "express train",
+          "meaningKo": "급행열차",
+          "exampleSentence": "The express train leaves at 3:20.",
+          "meaningJa": "急行列車"
+        },
+        {
+          "word": "platform",
+          "meaningKo": "승강장",
+          "exampleSentence": "The train departs from platform 6.",
+          "meaningJa": "ホーム"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "express train",
+        "meaningKo": "급행열차",
+        "exampleSentence": "The express train leaves at 3:20.",
+        "meaningJa": "急行列車"
+      },
+      "explanationJa": "正解は A. 3:20 P.M. です。音声では「Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats」が手がかりです。選択肢「3:20 P.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Train to Busan」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 14
+    },
+    {
+      "id": "l4-106",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "train_to_busan",
+      "audioFile": "train_to_busan.mp3",
+      "audioTitle": "Announcement: Train to Busan",
+      "transcript": "Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats should board cars one through five. Food service will not be available on this train, so passengers may purchase snacks before boarding.",
+      "prompt": "What should passengers know about food service?",
+      "options": [
+        "A. It will not be available on the train.",
+        "B. It is free for passengers in car 6.",
+        "C. It starts after departure.",
+        "D. It is available only on weekends."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement says food service will not be available on this train.",
+      "explanationKo": "안내 방송은 이 열차에서 음식 서비스가 제공되지 않는다고 말합니다.",
+      "koreanLearnerHint": "not be available은 이용할 수 없다는 뜻입니다.",
+      "vocabularyItems": [
+        {
+          "word": "food service",
+          "meaningKo": "음식 서비스",
+          "exampleSentence": "Food service is not available.",
+          "meaningJa": "飲食サービス"
+        },
+        {
+          "word": "before boarding",
+          "meaningKo": "탑승 전에",
+          "exampleSentence": "Passengers may buy snacks before boarding.",
+          "meaningJa": "搭乗前に"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "food service",
+        "meaningKo": "음식 서비스",
+        "exampleSentence": "Food service is not available.",
+        "meaningJa": "飲食サービス"
+      },
+      "explanationJa": "正解は A. It will not be available on the train. です。音声では「Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats」が手がかりです。選択肢「It will not be available on the train.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Train to Busan」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 15
+    },
+    {
+      "id": "l4-107",
+      "part": "listening_part_4",
+      "skill": "listening talk - main idea",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "conference_badge",
+      "audioFile": "conference_badge.mp3",
+      "audioTitle": "Announcement: Conference Badge",
+      "transcript": "Attention conference participants. Please pick up your name badge at the registration desk before entering Hall A. Badges are required for all workshops and lunch sessions. If your badge contains an error, visit the information counter next to the main entrance.",
+      "prompt": "What is the announcement mainly about?",
+      "options": [
+        "A. Picking up and using conference badges.",
+        "B. Changing the location of Hall A.",
+        "C. Registering for a lunch discount.",
+        "D. Canceling afternoon workshops."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement explains where to pick up badges and when they are required.",
+      "explanationKo": "안내 방송은 배지를 어디서 받고 언제 필요한지 설명합니다.",
+      "koreanLearnerHint": "conference participants, name badge, registration desk가 핵심 단서입니다.",
+      "vocabularyItems": [
+        {
+          "word": "name badge",
+          "meaningKo": "이름표, 명찰",
+          "exampleSentence": "Pick up your name badge at the desk.",
+          "meaningJa": "名札"
+        },
+        {
+          "word": "registration desk",
+          "meaningKo": "등록 데스크",
+          "exampleSentence": "The registration desk is near the entrance.",
+          "meaningJa": "受付デスク"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "name badge",
+        "meaningKo": "이름표, 명찰",
+        "exampleSentence": "Pick up your name badge at the desk.",
+        "meaningJa": "名札"
+      },
+      "explanationJa": "正解は A. Picking up and using conference badges. です。音声では「Attention conference participants. Please pick up your name badge at the registration desk before entering Hall A. Badge」が手がかりです。選択肢「Picking up and using conference badges.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Conference Badge」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 16
+    },
+    {
+      "id": "l4-108",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "conference_badge",
+      "audioFile": "conference_badge.mp3",
+      "audioTitle": "Announcement: Conference Badge",
+      "transcript": "Attention conference participants. Please pick up your name badge at the registration desk before entering Hall A. Badges are required for all workshops and lunch sessions. If your badge contains an error, visit the information counter next to the main entrance.",
+      "prompt": "Where should participants pick up their badges?",
+      "options": [
+        "A. At the registration desk.",
+        "B. At the information counter.",
+        "C. Inside Hall A.",
+        "D. In the lunch room."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Participants are asked to pick up their badges at the registration desk.",
+      "explanationKo": "참가자들은 등록 데스크에서 배지를 받으라는 안내를 받습니다.",
+      "koreanLearnerHint": "Where 문제에서는 장소 표현을 정확히 연결해야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "participant",
+          "meaningKo": "참가자",
+          "exampleSentence": "Conference participants need badges.",
+          "meaningJa": "参加者"
+        },
+        {
+          "word": "before entering",
+          "meaningKo": "들어가기 전에",
+          "exampleSentence": "Pick up your badge before entering Hall A.",
+          "meaningJa": "入場前に"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "participant",
+        "meaningKo": "참가자",
+        "exampleSentence": "Conference participants need badges.",
+        "meaningJa": "参加者"
+      },
+      "explanationJa": "正解は A. At the registration desk. です。音声では「Attention conference participants. Please pick up your name badge at the registration desk before entering Hall A. Badge」が手がかりです。選択肢「At the registration desk.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Conference Badge」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 17
+    },
+    {
+      "id": "l4-109",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "conference_badge",
+      "audioFile": "conference_badge.mp3",
+      "audioTitle": "Announcement: Conference Badge",
+      "transcript": "Attention conference participants. Please pick up your name badge at the registration desk before entering Hall A. Badges are required for all workshops and lunch sessions. If your badge contains an error, visit the information counter next to the main entrance.",
+      "prompt": "What should participants do if their badge has an error?",
+      "options": [
+        "A. Visit the information counter.",
+        "B. Enter Hall A immediately.",
+        "C. Print a badge at home.",
+        "D. Skip the lunch session."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement says participants should visit the information counter if their badge contains an error.",
+      "explanationKo": "안내 방송은 배지에 오류가 있으면 안내 데스크를 방문하라고 말합니다.",
+      "koreanLearnerHint": "if 조건절 뒤에는 문제가 있을 때 해야 할 행동이 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "contain an error",
+          "meaningKo": "오류가 있다",
+          "exampleSentence": "The badge contains an error.",
+          "meaningJa": "誤りが含まれている"
+        },
+        {
+          "word": "information counter",
+          "meaningKo": "안내 데스크",
+          "exampleSentence": "Visit the information counter.",
+          "meaningJa": "案内カウンター"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "contain an error",
+        "meaningKo": "오류가 있다",
+        "exampleSentence": "The badge contains an error.",
+        "meaningJa": "誤りが含まれている"
+      },
+      "explanationJa": "正解は A. Visit the information counter. です。音声では「Attention conference participants. Please pick up your name badge at the registration desk before entering Hall A. Badge」が手がかりです。選択肢「Visit the information counter.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Conference Badge」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 18
+    },
+    {
+      "id": "l4-110",
+      "part": "listening_part_4",
+      "skill": "listening talk - main idea",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "training_workshop",
+      "audioFile": "training_workshop.mp3",
+      "audioTitle": "Announcement: Training Workshop",
+      "transcript": "Good afternoon. This is a reminder for employees registered for tomorrow's customer service training workshop. The workshop will begin at 9 A.M. in Room 204. Please bring your employee ID and a laptop. Printed materials will be provided when you arrive.",
+      "prompt": "What is the announcement mainly about?",
+      "options": [
+        "A. Instructions for a training workshop.",
+        "B. A new customer service policy.",
+        "C. A room repair schedule.",
+        "D. A laptop replacement program."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement gives time, location, and preparation instructions for a training workshop.",
+      "explanationKo": "안내 방송은 교육 워크숍의 시간, 장소, 준비물을 알려 줍니다.",
+      "koreanLearnerHint": "reminder, registered, workshop 같은 단어가 안내 목적을 보여 줍니다.",
+      "vocabularyItems": [
+        {
+          "word": "training workshop",
+          "meaningKo": "교육 워크숍",
+          "exampleSentence": "The training workshop begins at 9 A.M.",
+          "meaningJa": "研修ワークショップ"
+        },
+        {
+          "word": "registered for",
+          "meaningKo": "~에 등록한",
+          "exampleSentence": "Employees registered for the workshop should attend.",
+          "meaningJa": "登録した"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "training workshop",
+        "meaningKo": "교육 워크숍",
+        "exampleSentence": "The training workshop begins at 9 A.M.",
+        "meaningJa": "研修ワークショップ"
+      },
+      "explanationJa": "正解は A. Instructions for a training workshop. です。音声では「Good afternoon. This is a reminder for employees registered for tomorrow's customer service training workshop. The works」が手がかりです。選択肢「Instructions for a training workshop.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Training Workshop」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 19
+    },
+    {
+      "id": "l4-111",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "training_workshop",
+      "audioFile": "training_workshop.mp3",
+      "audioTitle": "Announcement: Training Workshop",
+      "transcript": "Good afternoon. This is a reminder for employees registered for tomorrow's customer service training workshop. The workshop will begin at 9 A.M. in Room 204. Please bring your employee ID and a laptop. Printed materials will be provided when you arrive.",
+      "prompt": "Where will the workshop take place?",
+      "options": [
+        "A. In Room 204.",
+        "B. At the service desk.",
+        "C. In the main lobby.",
+        "D. At a customer office."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The announcement says the workshop will begin at 9 A.M. in Room 204.",
+      "explanationKo": "안내 방송은 워크숍이 오전 9시에 204호에서 시작된다고 말합니다.",
+      "koreanLearnerHint": "시간과 장소가 한 문장에 함께 나올 때 둘을 정확히 구분하세요.",
+      "vocabularyItems": [
+        {
+          "word": "take place",
+          "meaningKo": "열리다",
+          "exampleSentence": "The workshop takes place in Room 204.",
+          "meaningJa": "行われる"
+        },
+        {
+          "word": "Room 204",
+          "meaningKo": "204호",
+          "exampleSentence": "Please go to Room 204.",
+          "meaningJa": "204号室"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "take place",
+        "meaningKo": "열리다",
+        "exampleSentence": "The workshop takes place in Room 204.",
+        "meaningJa": "行われる"
+      },
+      "explanationJa": "正解は A. In Room 204. です。音声では「Good afternoon. This is a reminder for employees registered for tomorrow's customer service training workshop. The works」が手がかりです。選択肢「In Room 204.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Training Workshop」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 20
+    },
+    {
+      "id": "l4-112",
+      "part": "listening_part_4",
+      "skill": "listening talk - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "training_workshop",
+      "audioFile": "training_workshop.mp3",
+      "audioTitle": "Announcement: Training Workshop",
+      "transcript": "Good afternoon. This is a reminder for employees registered for tomorrow's customer service training workshop. The workshop will begin at 9 A.M. in Room 204. Please bring your employee ID and a laptop. Printed materials will be provided when you arrive.",
+      "prompt": "What should employees bring?",
+      "options": [
+        "A. An employee ID and a laptop.",
+        "B. Printed training materials.",
+        "C. A customer complaint form.",
+        "D. A lunch receipt."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Employees are asked to bring their employee ID and a laptop.",
+      "explanationKo": "직원들은 사원증과 노트북을 가져오라는 안내를 받습니다.",
+      "koreanLearnerHint": "bring 뒤에 나오는 물건 목록을 정확히 들어야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "employee ID",
+          "meaningKo": "사원증",
+          "exampleSentence": "Bring your employee ID.",
+          "meaningJa": "社員証"
+        },
+        {
+          "word": "printed materials",
+          "meaningKo": "인쇄 자료",
+          "exampleSentence": "Printed materials will be provided.",
+          "meaningJa": "印刷資料"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "employee ID",
+        "meaningKo": "사원증",
+        "exampleSentence": "Bring your employee ID.",
+        "meaningJa": "社員証"
+      },
+      "explanationJa": "正解は A. An employee ID and a laptop. です。音声では「Good afternoon. This is a reminder for employees registered for tomorrow's customer service training workshop. The works」が手がかりです。選択肢「An employee ID and a laptop.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Announcement: Training Workshop」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 21
+    }
+  ]
+}

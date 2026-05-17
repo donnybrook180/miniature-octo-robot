@@ -1,0 +1,950 @@
+{
+  "part": "listening_part_3",
+  "questions": [
+    {
+      "id": "l3-201",
+      "part": "listening_part_3",
+      "skill": "listening conversation - main idea",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part3_office_equipment",
+      "audioFile": "part3_office_equipment.mp3",
+      "audioTitle": "Conversation: Office Equipment",
+      "transcript": "Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The maintenance team is setting them up now.\nMan: Great. Could you also check whether the conference room projector was repaired?\nWoman: Sure, I'll contact the technician after lunch.",
+      "prompt": "What are the speakers mainly discussing?",
+      "options": [
+        "A. A business trip",
+        "B. Office equipment",
+        "C. A marketing campaign",
+        "D. Employee training"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The speakers talk about new office chairs and a conference room projector, so they are discussing office equipment.",
+      "koreanLearnerHint": "\"Conversation: Office Equipment / What are the speakers mainly discussing?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Office equipment",
+          "meaningKo": "핵심 표현: Office equipment",
+          "meaningJa": "オフィス機器",
+          "exampleSentence": "Office equipment"
+        },
+        {
+          "word": "What are the speakers mainly discussing",
+          "meaningKo": "핵심 표현: What are the speakers mainly discussing",
+          "meaningJa": "話者たちは主に何について話していますか",
+          "exampleSentence": "What are the speakers mainly discussing"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Office equipment",
+        "meaningKo": "핵심 표현: Office equipment",
+        "meaningJa": "オフィス機器",
+        "exampleSentence": "Office equipment"
+      },
+      "explanationKo": "정답은 B. Office equipment입니다. 음성에서는 \"Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai\" 부분이 단서입니다. 선택지 \"Office equipment\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. Office equipment です。音声では「Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai」が手がかりです。選択肢「Office equipment」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Office Equipment」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 1
+    },
+    {
+      "id": "l3-202",
+      "part": "listening_part_3",
+      "skill": "listening conversation - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part3_office_equipment",
+      "audioFile": "part3_office_equipment.mp3",
+      "audioTitle": "Conversation: Office Equipment",
+      "transcript": "Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The maintenance team is setting them up now.\nMan: Great. Could you also check whether the conference room projector was repaired?\nWoman: Sure, I'll contact the technician after lunch.",
+      "prompt": "When were the chairs delivered?",
+      "options": [
+        "A. Yesterday evening",
+        "B. This morning",
+        "C. After lunch",
+        "D. Last week"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The man asks whether the chairs arrived this morning, and the woman confirms that they did.",
+      "koreanLearnerHint": "\"Conversation: Office Equipment / When were the chairs delivered?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "This morning",
+          "meaningKo": "핵심 표현: This morning",
+          "meaningJa": "今朝",
+          "exampleSentence": "This morning"
+        },
+        {
+          "word": "When were the chairs delivered",
+          "meaningKo": "핵심 표현: When were the chairs delivered",
+          "meaningJa": "椅子はいつ配達されましたか",
+          "exampleSentence": "When were the chairs delivered"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "This morning",
+        "meaningKo": "핵심 표현: This morning",
+        "meaningJa": "今朝",
+        "exampleSentence": "This morning"
+      },
+      "explanationKo": "정답은 B. This morning입니다. 음성에서는 \"Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai\" 부분이 단서입니다. 선택지 \"This morning\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. This morning です。音声では「Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai」が手がかりです。選択肢「This morning」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Office Equipment」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 2
+    },
+    {
+      "id": "l3-203",
+      "part": "listening_part_3",
+      "skill": "listening conversation - next action",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part3_office_equipment",
+      "audioFile": "part3_office_equipment.mp3",
+      "audioTitle": "Conversation: Office Equipment",
+      "transcript": "Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The maintenance team is setting them up now.\nMan: Great. Could you also check whether the conference room projector was repaired?\nWoman: Sure, I'll contact the technician after lunch.",
+      "prompt": "What will the woman do later?",
+      "options": [
+        "A. Repair a projector",
+        "B. Buy new chairs",
+        "C. Contact a technician",
+        "D. Clean the conference room"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The woman says she will contact the technician after lunch.",
+      "koreanLearnerHint": "\"Conversation: Office Equipment / What will the woman do later?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Contact a technician",
+          "meaningKo": "핵심 표현: Contact a technician",
+          "meaningJa": "技術者に連絡する",
+          "exampleSentence": "Contact a technician"
+        },
+        {
+          "word": "What will the woman do later",
+          "meaningKo": "핵심 표현: What will the woman do later",
+          "meaningJa": "女性は後で何をしますか",
+          "exampleSentence": "What will the woman do later"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Contact a technician",
+        "meaningKo": "핵심 표현: Contact a technician",
+        "meaningJa": "技術者に連絡する",
+        "exampleSentence": "Contact a technician"
+      },
+      "explanationKo": "정답은 C. Contact a technician입니다. 음성에서는 \"Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai\" 부분이 단서입니다. 선택지 \"Contact a technician\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. Contact a technician です。音声では「Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai」が手がかりです。選択肢「Contact a technician」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Office Equipment」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 3
+    },
+    {
+      "id": "l3-204",
+      "part": "listening_part_3",
+      "skill": "listening conversation - location",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part3_restaurant_reservation",
+      "audioFile": "part3_restaurant_reservation.mp3",
+      "audioTitle": "Conversation: Restaurant Reservation",
+      "transcript": "Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow night.\nWoman: Certainly. Would you prefer indoor or outdoor seating?\nMan: Outdoor seating, please, if available.\nWoman: No problem. Your reservation is confirmed for 7:30 p.m.",
+      "prompt": "Where does the conversation most likely take place?",
+      "options": [
+        "A. At a hotel",
+        "B. At a restaurant",
+        "C. At a theater",
+        "D. At a travel agency"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The woman answers the phone by saying Riverside Restaurant, so the conversation takes place at a restaurant.",
+      "koreanLearnerHint": "\"Conversation: Restaurant Reservation / Where does the conversation most likely take place?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "At a restaurant",
+          "meaningKo": "핵심 표현: At a restaurant",
+          "meaningJa": "レストランで",
+          "exampleSentence": "At a restaurant"
+        },
+        {
+          "word": "Where does the conversation most likely take place",
+          "meaningKo": "핵심 표현: Where does the conversation most likely take place",
+          "meaningJa": "会話はおそらくどこで行われていますか",
+          "exampleSentence": "Where does the conversation most likely take place"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "At a restaurant",
+        "meaningKo": "핵심 표현: At a restaurant",
+        "meaningJa": "レストランで",
+        "exampleSentence": "At a restaurant"
+      },
+      "explanationKo": "정답은 B. At a restaurant입니다. 음성에서는 \"Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni\" 부분이 단서입니다. 선택지 \"At a restaurant\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. At a restaurant です。音声では「Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni」が手がかりです。選択肢「At a restaurant」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Restaurant Reservation」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 4
+    },
+    {
+      "id": "l3-205",
+      "part": "listening_part_3",
+      "skill": "listening conversation - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part3_restaurant_reservation",
+      "audioFile": "part3_restaurant_reservation.mp3",
+      "audioTitle": "Conversation: Restaurant Reservation",
+      "transcript": "Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow night.\nWoman: Certainly. Would you prefer indoor or outdoor seating?\nMan: Outdoor seating, please, if available.\nWoman: No problem. Your reservation is confirmed for 7:30 p.m.",
+      "prompt": "How many people will attend?",
+      "options": [
+        "A. Two",
+        "B. Three",
+        "C. Four",
+        "D. Five"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The man says he would like to reserve a table for four.",
+      "koreanLearnerHint": "\"Conversation: Restaurant Reservation / How many people will attend?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Four",
+          "meaningKo": "핵심 표현: Four",
+          "meaningJa": "4",
+          "exampleSentence": "Four"
+        },
+        {
+          "word": "How many people will attend",
+          "meaningKo": "핵심 표현: How many people will attend",
+          "meaningJa": "何人が出席しますか",
+          "exampleSentence": "How many people will attend"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Four",
+        "meaningKo": "핵심 표현: Four",
+        "meaningJa": "4",
+        "exampleSentence": "Four"
+      },
+      "explanationKo": "정답은 C. Four입니다. 음성에서는 \"Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni\" 부분이 단서입니다. 선택지 \"Four\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. Four です。音声では「Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni」が手がかりです。選択肢「Four」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Restaurant Reservation」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 5
+    },
+    {
+      "id": "l3-206",
+      "part": "listening_part_3",
+      "skill": "listening conversation - request",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part3_restaurant_reservation",
+      "audioFile": "part3_restaurant_reservation.mp3",
+      "audioTitle": "Conversation: Restaurant Reservation",
+      "transcript": "Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow night.\nWoman: Certainly. Would you prefer indoor or outdoor seating?\nMan: Outdoor seating, please, if available.\nWoman: No problem. Your reservation is confirmed for 7:30 p.m.",
+      "prompt": "What does the man request?",
+      "options": [
+        "A. A private room",
+        "B. A later reservation",
+        "C. Outdoor seating",
+        "D. A menu recommendation"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The man requests outdoor seating if it is available.",
+      "koreanLearnerHint": "\"Conversation: Restaurant Reservation / What does the man request?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Outdoor seating",
+          "meaningKo": "핵심 표현: Outdoor seating",
+          "meaningJa": "屋外席",
+          "exampleSentence": "Outdoor seating"
+        },
+        {
+          "word": "What does the man request",
+          "meaningKo": "핵심 표현: What does the man request",
+          "meaningJa": "男性は何を依頼していますか",
+          "exampleSentence": "What does the man request"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Outdoor seating",
+        "meaningKo": "핵심 표현: Outdoor seating",
+        "meaningJa": "屋外席",
+        "exampleSentence": "Outdoor seating"
+      },
+      "explanationKo": "정답은 C. Outdoor seating입니다. 음성에서는 \"Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni\" 부분이 단서입니다. 선택지 \"Outdoor seating\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. Outdoor seating です。音声では「Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni」が手がかりです。選択肢「Outdoor seating」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Restaurant Reservation」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 6
+    },
+    {
+      "id": "l3-207",
+      "part": "listening_part_3",
+      "skill": "listening conversation - location",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part3_package_delivery",
+      "audioFile": "part3_package_delivery.mp3",
+      "audioTitle": "Conversation: Package Delivery",
+      "transcript": "Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: Sure. Here's my employee card.\nWoman: Thank you. Please sign here before taking the package.",
+      "prompt": "Where most likely are the speakers?",
+      "options": [
+        "A. At a shipping center",
+        "B. At a supermarket",
+        "C. At a museum",
+        "D. At a bank"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The man is picking up a package, so the speakers are most likely at a shipping center.",
+      "koreanLearnerHint": "\"Conversation: Package Delivery / Where most likely are the speakers?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "At a shipping center",
+          "meaningKo": "핵심 표현: At a shipping center",
+          "meaningJa": "配送センターで",
+          "exampleSentence": "At a shipping center"
+        },
+        {
+          "word": "Where most likely are the speakers",
+          "meaningKo": "핵심 표현: Where most likely are the speakers",
+          "meaningJa": "話者たちはおそらくどこにいますか",
+          "exampleSentence": "Where most likely are the speakers"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "At a shipping center",
+        "meaningKo": "핵심 표현: At a shipping center",
+        "meaningJa": "配送センターで",
+        "exampleSentence": "At a shipping center"
+      },
+      "explanationKo": "정답은 A. At a shipping center입니다. 음성에서는 \"Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S\" 부분이 단서입니다. 선택지 \"At a shipping center\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は A. At a shipping center です。音声では「Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S」が手がかりです。選択肢「At a shipping center」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Package Delivery」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 7
+    },
+    {
+      "id": "l3-208",
+      "part": "listening_part_3",
+      "skill": "listening conversation - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part3_package_delivery",
+      "audioFile": "part3_package_delivery.mp3",
+      "audioTitle": "Conversation: Package Delivery",
+      "transcript": "Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: Sure. Here's my employee card.\nWoman: Thank you. Please sign here before taking the package.",
+      "prompt": "What does the woman ask for?",
+      "options": [
+        "A. A receipt",
+        "B. Identification",
+        "C. A delivery address",
+        "D. A business card"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The woman asks to see the man's identification.",
+      "koreanLearnerHint": "\"Conversation: Package Delivery / What does the woman ask for?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Identification",
+          "meaningKo": "핵심 표현: Identification",
+          "meaningJa": "身分証明書",
+          "exampleSentence": "Identification"
+        },
+        {
+          "word": "What does the woman ask for",
+          "meaningKo": "핵심 표현: What does the woman ask for",
+          "meaningJa": "女性は何を求めていますか",
+          "exampleSentence": "What does the woman ask for"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Identification",
+        "meaningKo": "핵심 표현: Identification",
+        "meaningJa": "身分証明書",
+        "exampleSentence": "Identification"
+      },
+      "explanationKo": "정답은 B. Identification입니다. 음성에서는 \"Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S\" 부분이 단서입니다. 선택지 \"Identification\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. Identification です。音声では「Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S」が手がかりです。選択肢「Identification」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Package Delivery」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 8
+    },
+    {
+      "id": "l3-209",
+      "part": "listening_part_3",
+      "skill": "listening conversation - next action",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part3_package_delivery",
+      "audioFile": "part3_package_delivery.mp3",
+      "audioTitle": "Conversation: Package Delivery",
+      "transcript": "Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: Sure. Here's my employee card.\nWoman: Thank you. Please sign here before taking the package.",
+      "prompt": "What must the man do before leaving?",
+      "options": [
+        "A. Pay a fee",
+        "B. Open the package",
+        "C. Sign a document",
+        "D. Call his company"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The woman tells the man to sign before taking the package.",
+      "koreanLearnerHint": "\"Conversation: Package Delivery / What must the man do before leaving?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Sign a document",
+          "meaningKo": "핵심 표현: Sign a document",
+          "meaningJa": "書類に署名する",
+          "exampleSentence": "Sign a document"
+        },
+        {
+          "word": "What must the man do before leaving",
+          "meaningKo": "핵심 표현: What must the man do before leaving",
+          "meaningJa": "男性は出発前に何をしなければなりませんか",
+          "exampleSentence": "What must the man do before leaving"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Sign a document",
+        "meaningKo": "핵심 표현: Sign a document",
+        "meaningJa": "書類に署名する",
+        "exampleSentence": "Sign a document"
+      },
+      "explanationKo": "정답은 C. Sign a document입니다. 음성에서는 \"Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S\" 부분이 단서입니다. 선택지 \"Sign a document\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. Sign a document です。音声では「Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S」が手がかりです。選択肢「Sign a document」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Package Delivery」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 9
+    },
+    {
+      "id": "l3-101",
+      "part": "listening_part_3",
+      "skill": "listening conversation - purpose",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "greentech_appointment",
+      "audioFile": "greentech_appointment.mp3",
+      "audioTitle": "Conversation: Greentech Appointment",
+      "transcript": "Man: Good morning. I am calling to confirm my appointment with a Greentech consultant. Woman: Certainly. Your appointment is scheduled for Thursday at 2 P.M. Man: Could I move it to Friday morning? Woman: Yes, we have an opening at 10 A.M.",
+      "prompt": "What is the man calling about?",
+      "options": [
+        "A. Changing an appointment time.",
+        "B. Ordering office equipment.",
+        "C. Reporting a billing error.",
+        "D. Asking for a job interview."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The man confirms an appointment and asks to move it to Friday morning.",
+      "explanationKo": "남자는 예약을 확인한 뒤 금요일 오전으로 변경할 수 있는지 묻습니다.",
+      "koreanLearnerHint": "confirm, appointment, move it 같은 표현이 예약 변경 상황을 알려 줍니다.",
+      "vocabularyItems": [
+        {
+          "word": "appointment",
+          "meaningKo": "예약, 약속",
+          "exampleSentence": "The appointment is scheduled for Thursday.",
+          "meaningJa": "予約、約束"
+        },
+        {
+          "word": "consultant",
+          "meaningKo": "상담원, 컨설턴트",
+          "exampleSentence": "He has an appointment with a consultant.",
+          "meaningJa": "コンサルタント、相談員"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "appointment",
+        "meaningKo": "예약, 약속",
+        "exampleSentence": "The appointment is scheduled for Thursday.",
+        "meaningJa": "予約、約束"
+      },
+      "explanationJa": "正解は A. Changing an appointment time. です。音声では「Man: Good morning. I am calling to confirm my appointment with a Greentech consultant. Woman: Certainly. Your appointmen」が手がかりです。選択肢「Changing an appointment time.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Greentech Appointment」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 10
+    },
+    {
+      "id": "l3-102",
+      "part": "listening_part_3",
+      "skill": "listening conversation - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "greentech_appointment",
+      "audioFile": "greentech_appointment.mp3",
+      "audioTitle": "Conversation: Greentech Appointment",
+      "transcript": "Man: Good morning. I am calling to confirm my appointment with a Greentech consultant. Woman: Certainly. Your appointment is scheduled for Thursday at 2 P.M. Man: Could I move it to Friday morning? Woman: Yes, we have an opening at 10 A.M.",
+      "prompt": "When is the original appointment?",
+      "options": [
+        "A. Thursday at 2 P.M.",
+        "B. Friday at 10 A.M.",
+        "C. Monday morning.",
+        "D. Wednesday at noon."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The woman says the original appointment is scheduled for Thursday at 2 P.M.",
+      "explanationKo": "여자는 원래 예약이 목요일 오후 2시로 예정되어 있다고 말합니다.",
+      "koreanLearnerHint": "원래 시간과 변경 가능한 시간을 구분해서 들어야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "be scheduled for",
+          "meaningKo": "~로 예정되어 있다",
+          "exampleSentence": "The appointment is scheduled for Thursday.",
+          "meaningJa": "予定されている"
+        },
+        {
+          "word": "opening",
+          "meaningKo": "빈 시간, 예약 가능 시간",
+          "exampleSentence": "There is an opening at 10 A.M.",
+          "meaningJa": "空き時間"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "be scheduled for",
+        "meaningKo": "~로 예정되어 있다",
+        "exampleSentence": "The appointment is scheduled for Thursday.",
+        "meaningJa": "予定されている"
+      },
+      "explanationJa": "正解は A. Thursday at 2 P.M. です。音声では「Man: Good morning. I am calling to confirm my appointment with a Greentech consultant. Woman: Certainly. Your appointmen」が手がかりです。選択肢「Thursday at 2 P.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Greentech Appointment」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 11
+    },
+    {
+      "id": "l3-103",
+      "part": "listening_part_3",
+      "skill": "listening conversation - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "greentech_appointment",
+      "audioFile": "greentech_appointment.mp3",
+      "audioTitle": "Conversation: Greentech Appointment",
+      "transcript": "Man: Good morning. I am calling to confirm my appointment with a Greentech consultant. Woman: Certainly. Your appointment is scheduled for Thursday at 2 P.M. Man: Could I move it to Friday morning? Woman: Yes, we have an opening at 10 A.M.",
+      "prompt": "What time is available on Friday?",
+      "options": [
+        "A. 10 A.M.",
+        "B. 2 P.M.",
+        "C. 8 A.M.",
+        "D. 5 P.M."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The woman says there is an opening at 10 A.M. on Friday.",
+      "explanationKo": "여자는 금요일 오전 10시에 예약 가능한 시간이 있다고 말합니다.",
+      "koreanLearnerHint": "opening은 예약 가능한 빈 시간을 뜻합니다.",
+      "vocabularyItems": [
+        {
+          "word": "move an appointment",
+          "meaningKo": "예약 시간을 옮기다",
+          "exampleSentence": "He wants to move the appointment.",
+          "meaningJa": "予約を変更する"
+        },
+        {
+          "word": "Friday morning",
+          "meaningKo": "금요일 오전",
+          "exampleSentence": "He asks for Friday morning.",
+          "meaningJa": "金曜日の午前"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "move an appointment",
+        "meaningKo": "예약 시간을 옮기다",
+        "exampleSentence": "He wants to move the appointment.",
+        "meaningJa": "予約を変更する"
+      },
+      "explanationJa": "正解は A. 10 A.M. です。音声では「Man: Good morning. I am calling to confirm my appointment with a Greentech consultant. Woman: Certainly. Your appointmen」が手がかりです。選択肢「10 A.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Greentech Appointment」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 12
+    },
+    {
+      "id": "l3-210",
+      "part": "listening_part_3",
+      "skill": "listening conversation - problem",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part3_delayed_delivery",
+      "audioFile": "part3_delayed_delivery.mp3",
+      "audioTitle": "Conversation: Delayed Delivery",
+      "transcript": "Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let me check the tracking information. It looks like the shipment was delayed because of bad weather.\nWoman: I see. When should we expect delivery?\nMan: According to the system, it should arrive tomorrow morning before 10 a.m.",
+      "prompt": "What problem is discussed?",
+      "options": [
+        "A. Incorrect pricing",
+        "B. A delayed shipment",
+        "C. Missing employees",
+        "D. A canceled order"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The woman says the office supplies were supposed to arrive yesterday, and the man says the shipment was delayed.",
+      "koreanLearnerHint": "\"Conversation: Delayed Delivery / What problem is discussed?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "A delayed shipment",
+          "meaningKo": "핵심 표현: A delayed shipment",
+          "meaningJa": "遅れた配送",
+          "exampleSentence": "A delayed shipment"
+        },
+        {
+          "word": "What problem is discussed",
+          "meaningKo": "핵심 표현: What problem is discussed",
+          "meaningJa": "どんな問題が話し合われていますか",
+          "exampleSentence": "What problem is discussed"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "A delayed shipment",
+        "meaningKo": "핵심 표현: A delayed shipment",
+        "meaningJa": "遅れた配送",
+        "exampleSentence": "A delayed shipment"
+      },
+      "explanationKo": "정답은 B. A delayed shipment입니다. 음성에서는 \"Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let \" 부분이 단서입니다. 선택지 \"A delayed shipment\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. A delayed shipment です。音声では「Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let 」が手がかりです。選択肢「A delayed shipment」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Delayed Delivery」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 13
+    },
+    {
+      "id": "l3-211",
+      "part": "listening_part_3",
+      "skill": "listening conversation - reason",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part3_delayed_delivery",
+      "audioFile": "part3_delayed_delivery.mp3",
+      "audioTitle": "Conversation: Delayed Delivery",
+      "transcript": "Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let me check the tracking information. It looks like the shipment was delayed because of bad weather.\nWoman: I see. When should we expect delivery?\nMan: According to the system, it should arrive tomorrow morning before 10 a.m.",
+      "prompt": "Why was the shipment delayed?",
+      "options": [
+        "A. A computer error",
+        "B. Heavy traffic",
+        "C. Bad weather",
+        "D. Staff shortages"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The man says the shipment was delayed because of bad weather.",
+      "koreanLearnerHint": "\"Conversation: Delayed Delivery / Why was the shipment delayed?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Bad weather",
+          "meaningKo": "핵심 표현: Bad weather",
+          "meaningJa": "悪天候",
+          "exampleSentence": "Bad weather"
+        },
+        {
+          "word": "Why was the shipment delayed",
+          "meaningKo": "핵심 표현: Why was the shipment delayed",
+          "meaningJa": "配送はなぜ遅れましたか",
+          "exampleSentence": "Why was the shipment delayed"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Bad weather",
+        "meaningKo": "핵심 표현: Bad weather",
+        "meaningJa": "悪天候",
+        "exampleSentence": "Bad weather"
+      },
+      "explanationKo": "정답은 C. Bad weather입니다. 음성에서는 \"Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let \" 부분이 단서입니다. 선택지 \"Bad weather\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. Bad weather です。音声では「Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let 」が手がかりです。選択肢「Bad weather」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Delayed Delivery」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 14
+    },
+    {
+      "id": "l3-212",
+      "part": "listening_part_3",
+      "skill": "listening conversation - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part3_delayed_delivery",
+      "audioFile": "part3_delayed_delivery.mp3",
+      "audioTitle": "Conversation: Delayed Delivery",
+      "transcript": "Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let me check the tracking information. It looks like the shipment was delayed because of bad weather.\nWoman: I see. When should we expect delivery?\nMan: According to the system, it should arrive tomorrow morning before 10 a.m.",
+      "prompt": "When will the order probably arrive?",
+      "options": [
+        "A. This afternoon",
+        "B. Tomorrow morning",
+        "C. Next week",
+        "D. Tonight"
+      ],
+      "correctOption": "B",
+      "explanationEn": "According to the system, the order should arrive tomorrow morning before 10 a.m.",
+      "koreanLearnerHint": "\"Conversation: Delayed Delivery / When will the order probably arrive?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
+      "vocabularyItems": [
+        {
+          "word": "Tomorrow morning",
+          "meaningKo": "핵심 표현: Tomorrow morning",
+          "meaningJa": "明日の午前",
+          "exampleSentence": "Tomorrow morning"
+        },
+        {
+          "word": "When will the order probably arrive",
+          "meaningKo": "핵심 표현: When will the order probably arrive",
+          "meaningJa": "注文品はおそらくいつ届きますか",
+          "exampleSentence": "When will the order probably arrive"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Tomorrow morning",
+        "meaningKo": "핵심 표현: Tomorrow morning",
+        "meaningJa": "明日の午前",
+        "exampleSentence": "Tomorrow morning"
+      },
+      "explanationKo": "정답은 B. Tomorrow morning입니다. 음성에서는 \"Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let \" 부분이 단서입니다. 선택지 \"Tomorrow morning\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. Tomorrow morning です。音声では「Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let 」が手がかりです。選択肢「Tomorrow morning」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Delayed Delivery」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 15
+    },
+    {
+      "id": "l3-104",
+      "part": "listening_part_3",
+      "skill": "listening conversation - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "office_conversation",
+      "audioFile": "office_conversation.mp3",
+      "audioTitle": "Conversation: Office Supplies",
+      "transcript": "Woman: Did the office supply order arrive this morning? Man: Yes, most of it arrived, but the copy paper was missing. Woman: We need it for tomorrow's training materials. Man: I already called the supplier, and they will deliver the missing paper by 4 P.M. today.",
+      "prompt": "What item is missing?",
+      "options": [
+        "A. Copy paper.",
+        "B. Training folders.",
+        "C. Printer ink.",
+        "D. Name tags."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The man says most of the order arrived, but the copy paper was missing.",
+      "explanationKo": "남자는 주문 대부분은 도착했지만 복사용지가 빠졌다고 말합니다.",
+      "koreanLearnerHint": "but 뒤에 나오는 정보가 문제의 핵심인 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "office supply order",
+          "meaningKo": "사무용품 주문",
+          "exampleSentence": "The office supply order arrived this morning.",
+          "meaningJa": "事務用品の注文"
+        },
+        {
+          "word": "copy paper",
+          "meaningKo": "복사용지",
+          "exampleSentence": "The copy paper was missing.",
+          "meaningJa": "コピー用紙"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "office supply order",
+        "meaningKo": "사무용품 주문",
+        "exampleSentence": "The office supply order arrived this morning.",
+        "meaningJa": "事務用品の注文"
+      },
+      "explanationJa": "正解は A. Copy paper. です。音声では「Woman: Did the office supply order arrive this morning? Man: Yes, most of it arrived, but the copy paper was missing. Wo」が手がかりです。選択肢「Copy paper.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Office Supplies」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 16
+    },
+    {
+      "id": "l3-105",
+      "part": "listening_part_3",
+      "skill": "listening conversation - purpose",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "office_conversation",
+      "audioFile": "office_conversation.mp3",
+      "audioTitle": "Conversation: Office Supplies",
+      "transcript": "Woman: Did the office supply order arrive this morning? Man: Yes, most of it arrived, but the copy paper was missing. Woman: We need it for tomorrow's training materials. Man: I already called the supplier, and they will deliver the missing paper by 4 P.M. today.",
+      "prompt": "Why do the speakers need the missing item?",
+      "options": [
+        "A. For tomorrow's training materials.",
+        "B. For a client invoice.",
+        "C. For a product display.",
+        "D. For a staff lunch menu."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The woman says they need the copy paper for tomorrow's training materials.",
+      "explanationKo": "여자는 내일 교육 자료에 복사용지가 필요하다고 말합니다.",
+      "koreanLearnerHint": "need it for 뒤에 목적이 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "training materials",
+          "meaningKo": "교육 자료",
+          "exampleSentence": "They need paper for training materials.",
+          "meaningJa": "研修資料"
+        },
+        {
+          "word": "supplier",
+          "meaningKo": "공급업체",
+          "exampleSentence": "The supplier will deliver the paper.",
+          "meaningJa": "供給業者"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "training materials",
+        "meaningKo": "교육 자료",
+        "exampleSentence": "They need paper for training materials.",
+        "meaningJa": "研修資料"
+      },
+      "explanationJa": "正解は A. For tomorrow's training materials. です。音声では「Woman: Did the office supply order arrive this morning? Man: Yes, most of it arrived, but the copy paper was missing. Wo」が手がかりです。選択肢「For tomorrow's training materials.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Office Supplies」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 17
+    },
+    {
+      "id": "l3-106",
+      "part": "listening_part_3",
+      "skill": "listening conversation - next action",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "office_conversation",
+      "audioFile": "office_conversation.mp3",
+      "audioTitle": "Conversation: Office Supplies",
+      "transcript": "Woman: Did the office supply order arrive this morning? Man: Yes, most of it arrived, but the copy paper was missing. Woman: We need it for tomorrow's training materials. Man: I already called the supplier, and they will deliver the missing paper by 4 P.M. today.",
+      "prompt": "What will the supplier do?",
+      "options": [
+        "A. Deliver the missing paper by 4 P.M.",
+        "B. Cancel tomorrow's training.",
+        "C. Send a new invoice next week.",
+        "D. Pick up the training materials."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The supplier will deliver the missing paper by 4 P.M. today.",
+      "explanationKo": "공급업체는 오늘 오후 4시까지 빠진 종이를 배송할 예정입니다.",
+      "koreanLearnerHint": "will deliver가 앞으로 일어날 행동을 알려 줍니다.",
+      "vocabularyItems": [
+        {
+          "word": "deliver",
+          "meaningKo": "배송하다",
+          "exampleSentence": "They will deliver the missing paper.",
+          "meaningJa": "配達する"
+        },
+        {
+          "word": "by 4 P.M.",
+          "meaningKo": "오후 4시까지",
+          "exampleSentence": "The paper will arrive by 4 P.M.",
+          "meaningJa": "午後4時までに"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "deliver",
+        "meaningKo": "배송하다",
+        "exampleSentence": "They will deliver the missing paper.",
+        "meaningJa": "配達する"
+      },
+      "explanationJa": "正解は A. Deliver the missing paper by 4 P.M. です。音声では「Woman: Did the office supply order arrive this morning? Man: Yes, most of it arrived, but the copy paper was missing. Wo」が手がかりです。選択肢「Deliver the missing paper by 4 P.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Office Supplies」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 18
+    },
+    {
+      "id": "l3-107",
+      "part": "listening_part_3",
+      "skill": "listening conversation - purpose",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "airport_conversation",
+      "audioFile": "airport_conversation.mp3",
+      "audioTitle": "Conversation: Airport Pickup",
+      "transcript": "Woman: Hello, this is Mina from the travel desk. I am calling about tomorrow's airport pickup.\nMan: Is there a change to the arrival time?\nWoman: Yes. The client's flight now arrives at 4:40 P.M., not 3:15. Could you send the driver an updated schedule?\nMan: Of course. I will send it right away and ask the driver to wait near Gate 6.",
+      "prompt": "What are the speakers mainly discussing?",
+      "options": [
+        "A. A change to an airport pickup schedule.",
+        "B. A problem with a hotel reservation.",
+        "C. A request for a new travel budget.",
+        "D. A delayed train departure."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The speakers discuss a changed arrival time and an updated airport pickup schedule.",
+      "explanationKo": "두 사람은 변경된 도착 시간과 공항 픽업 일정 업데이트에 대해 이야기합니다.",
+      "koreanLearnerHint": "arrival time, airport pickup, updated schedule 같은 표현이 주제를 알려 줍니다.",
+      "vocabularyItems": [
+        {
+          "word": "airport pickup",
+          "meaningKo": "공항 픽업",
+          "exampleSentence": "The airport pickup schedule changed.",
+          "meaningJa": "空港送迎"
+        },
+        {
+          "word": "arrival time",
+          "meaningKo": "도착 시간",
+          "exampleSentence": "The arrival time is now 4:40 P.M.",
+          "meaningJa": "到着時刻"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "airport pickup",
+        "meaningKo": "공항 픽업",
+        "exampleSentence": "The airport pickup schedule changed.",
+        "meaningJa": "空港送迎"
+      },
+      "explanationJa": "正解は A. A change to an airport pickup schedule. です。音声では「Woman: Hello, this is Mina from the travel desk. I am calling about tomorrow's airport pickup.\nMan: Is there a change to」が手がかりです。選択肢「A change to an airport pickup schedule.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Airport Pickup」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 19
+    },
+    {
+      "id": "l3-108",
+      "part": "listening_part_3",
+      "skill": "listening conversation - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "airport_conversation",
+      "audioFile": "airport_conversation.mp3",
+      "audioTitle": "Conversation: Airport Pickup",
+      "transcript": "Woman: Hello, this is Mina from the travel desk. I am calling about tomorrow's airport pickup.\nMan: Is there a change to the arrival time?\nWoman: Yes. The client's flight now arrives at 4:40 P.M., not 3:15. Could you send the driver an updated schedule?\nMan: Of course. I will send it right away and ask the driver to wait near Gate 6.",
+      "prompt": "What is the client's new arrival time?",
+      "options": [
+        "A. 4:40 P.M.",
+        "B. 3:15 P.M.",
+        "C. 6:00 P.M.",
+        "D. 11:40 A.M."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The woman says the client's flight now arrives at 4:40 P.M.",
+      "explanationKo": "여자는 고객의 항공편이 이제 오후 4시 40분에 도착한다고 말합니다.",
+      "koreanLearnerHint": "숫자 문제가 나오면 원래 시간과 변경된 시간을 구분해서 들어야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "flight",
+          "meaningKo": "항공편",
+          "exampleSentence": "The client's flight arrives at 4:40.",
+          "meaningJa": "航空便"
+        },
+        {
+          "word": "not 3:15",
+          "meaningKo": "3시 15분이 아니라",
+          "exampleSentence": "It arrives at 4:40, not 3:15.",
+          "meaningJa": "3時15分ではない"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "flight",
+        "meaningKo": "항공편",
+        "exampleSentence": "The client's flight arrives at 4:40.",
+        "meaningJa": "航空便"
+      },
+      "explanationJa": "正解は A. 4:40 P.M. です。音声では「Woman: Hello, this is Mina from the travel desk. I am calling about tomorrow's airport pickup.\nMan: Is there a change to」が手がかりです。選択肢「4:40 P.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Airport Pickup」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 20
+    },
+    {
+      "id": "l3-109",
+      "part": "listening_part_3",
+      "skill": "listening conversation - next action",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "airport_conversation",
+      "audioFile": "airport_conversation.mp3",
+      "audioTitle": "Conversation: Airport Pickup",
+      "transcript": "Woman: Hello, this is Mina from the travel desk. I am calling about tomorrow's airport pickup.\nMan: Is there a change to the arrival time?\nWoman: Yes. The client's flight now arrives at 4:40 P.M., not 3:15. Could you send the driver an updated schedule?\nMan: Of course. I will send it right away and ask the driver to wait near Gate 6.",
+      "prompt": "What will the man probably do next?",
+      "options": [
+        "A. Send the driver an updated schedule.",
+        "B. Book a new flight for the client.",
+        "C. Meet the client at Gate 3.",
+        "D. Cancel the airport pickup."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The man says he will send the updated schedule right away.",
+      "explanationKo": "남자는 업데이트된 일정을 바로 보내겠다고 말합니다.",
+      "koreanLearnerHint": "대화 마지막의 'I will...' 뒤에 다음 행동이 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "updated schedule",
+          "meaningKo": "업데이트된 일정",
+          "exampleSentence": "Send the driver an updated schedule.",
+          "meaningJa": "更新された予定"
+        },
+        {
+          "word": "right away",
+          "meaningKo": "즉시",
+          "exampleSentence": "I will send it right away.",
+          "meaningJa": "すぐに"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "updated schedule",
+        "meaningKo": "업데이트된 일정",
+        "exampleSentence": "Send the driver an updated schedule.",
+        "meaningJa": "更新された予定"
+      },
+      "explanationJa": "正解は A. Send the driver an updated schedule. です。音声では「Woman: Hello, this is Mina from the travel desk. I am calling about tomorrow's airport pickup.\nMan: Is there a change to」が手がかりです。選択肢「Send the driver an updated schedule.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "「Conversation: Airport Pickup」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
+      "exerciseNumber": 21
+    }
+  ]
+}

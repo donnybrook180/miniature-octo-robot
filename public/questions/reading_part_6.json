@@ -1,0 +1,905 @@
+{
+  "part": "reading_part_6",
+  "questions": [
+    {
+      "id": "r6-001",
+      "part": "reading_part_6",
+      "skill": "text completion - time expression",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageText": "Notice\n\nTo: All Branch Employees\nSubject: Weekend System Update\n\nThe customer database will be unavailable from 9 P.M. on Friday until 6 A.M. on Monday while the IT department installs security updates. During this period, employees will not be able to view customer records or process online returns.\n\nPlease complete any urgent customer requests before _____(1). If a customer contacts the branch during the weekend, _____(2) should record the customer's name and phone number on the temporary request form.\n\nThe IT department expects the system to be available again on Monday morning. _____(3), employees should check that all weekend requests have been entered into the database before noon. This step is important because _____(4).",
+      "prompt": "Choose the best answer for blank (1).",
+      "options": [
+        "A. Friday evening",
+        "B. Monday afternoon",
+        "C. next quarter",
+        "D. the customer record"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The system becomes unavailable at 9 P.M. on Friday, so urgent requests should be completed before Friday evening.",
+      "explanationKo": "시스템은 금요일 오후 9시부터 사용할 수 없으므로 긴급 고객 요청은 금요일 저녁 전에 완료해야 합니다.",
+      "koreanLearnerHint": "Part 6에서는 빈칸 주변뿐 아니라 앞 문장의 시간 정보를 연결해야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "urgent request",
+          "meaningKo": "긴급 요청",
+          "exampleSentence": "Please complete any urgent customer requests before Friday evening.",
+          "meaningJa": "緊急依頼"
+        },
+        {
+          "word": "unavailable",
+          "meaningKo": "이용할 수 없는",
+          "exampleSentence": "The database will be unavailable during the update.",
+          "meaningJa": "利用できない"
+        }
+      ],
+      "passageId": "p-r6-weekend-system-update",
+      "passageTitle": "Notice: Weekend System Update",
+      "blankNumber": 1,
+      "vocabularyItem": {
+        "word": "urgent request",
+        "meaningKo": "긴급 요청",
+        "exampleSentence": "Please complete any urgent customer requests before Friday evening.",
+        "meaningJa": "緊急依頼"
+      },
+      "explanationJa": "正解は A. Friday evening です。設問「Choose the best answer for blank (1).」は、Notice: Weekend System Update の該当箇所を根拠に判断します。選択肢「Friday evening」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the best answer for blank (1).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 1
+    },
+    {
+      "id": "r6-002",
+      "part": "reading_part_6",
+      "skill": "text completion - pronoun reference",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageText": "Notice\n\nTo: All Branch Employees\nSubject: Weekend System Update\n\nThe customer database will be unavailable from 9 P.M. on Friday until 6 A.M. on Monday while the IT department installs security updates. During this period, employees will not be able to view customer records or process online returns.\n\nPlease complete any urgent customer requests before _____(1). If a customer contacts the branch during the weekend, _____(2) should record the customer's name and phone number on the temporary request form.\n\nThe IT department expects the system to be available again on Monday morning. _____(3), employees should check that all weekend requests have been entered into the database before noon. This step is important because _____(4).",
+      "prompt": "Choose the best answer for blank (2).",
+      "options": [
+        "A. they",
+        "B. it",
+        "C. the employee",
+        "D. the database"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The sentence needs a person who can record the customer's information, so 'the employee' fits best.",
+      "explanationKo": "고객 정보를 기록할 주체가 필요하므로 사람을 가리키는 'the employee'가 가장 자연스럽습니다.",
+      "koreanLearnerHint": "대명사나 명사 선택 문제에서는 실제로 그 행동을 할 수 있는 주체를 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "record",
+          "meaningKo": "기록하다",
+          "exampleSentence": "The employee should record the customer's name.",
+          "meaningJa": "記録する"
+        },
+        {
+          "word": "temporary request form",
+          "meaningKo": "임시 요청 양식",
+          "exampleSentence": "Use the temporary request form during the weekend.",
+          "meaningJa": "臨時依頼フォーム"
+        }
+      ],
+      "passageId": "p-r6-weekend-system-update",
+      "passageTitle": "Notice: Weekend System Update",
+      "blankNumber": 2,
+      "vocabularyItem": {
+        "word": "record",
+        "meaningKo": "기록하다",
+        "exampleSentence": "The employee should record the customer's name.",
+        "meaningJa": "記録する"
+      },
+      "explanationJa": "正解は C. the employee です。設問「Choose the best answer for blank (2).」は、Notice: Weekend System Update の該当箇所を根拠に判断します。選択肢「the employee」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「Choose the best answer for blank (2).」では中心になる名詞を探してから選択肢を見ましょう。",
+      "exerciseNumber": 2
+    },
+    {
+      "id": "r6-003",
+      "part": "reading_part_6",
+      "skill": "text completion - transition",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageText": "Notice\n\nTo: All Branch Employees\nSubject: Weekend System Update\n\nThe customer database will be unavailable from 9 P.M. on Friday until 6 A.M. on Monday while the IT department installs security updates. During this period, employees will not be able to view customer records or process online returns.\n\nPlease complete any urgent customer requests before _____(1). If a customer contacts the branch during the weekend, _____(2) should record the customer's name and phone number on the temporary request form.\n\nThe IT department expects the system to be available again on Monday morning. _____(3), employees should check that all weekend requests have been entered into the database before noon. This step is important because _____(4).",
+      "prompt": "Choose the best answer for blank (3).",
+      "options": [
+        "A. Instead",
+        "B. Afterward",
+        "C. For example",
+        "D. Otherwise"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The sentence describes what employees should do after the system becomes available again.",
+      "explanationKo": "시스템을 다시 사용할 수 있게 된 후 해야 할 일을 말하므로 'Afterward'가 맞습니다.",
+      "koreanLearnerHint": "전환어 문제는 앞뒤 사건의 시간 순서를 먼저 파악하면 정답을 고르기 쉽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "afterward",
+          "meaningKo": "그 후에",
+          "exampleSentence": "Afterward, employees should enter the requests.",
+          "meaningJa": "その後"
+        },
+        {
+          "word": "enter into the database",
+          "meaningKo": "데이터베이스에 입력하다",
+          "exampleSentence": "Requests must be entered into the database.",
+          "meaningJa": "データベースに入力する"
+        }
+      ],
+      "passageId": "p-r6-weekend-system-update",
+      "passageTitle": "Notice: Weekend System Update",
+      "blankNumber": 3,
+      "vocabularyItem": {
+        "word": "afterward",
+        "meaningKo": "그 후에",
+        "exampleSentence": "Afterward, employees should enter the requests.",
+        "meaningJa": "その後"
+      },
+      "explanationJa": "正解は B. Afterward です。設問「Choose the best answer for blank (3).」は、Notice: Weekend System Update の該当箇所を根拠に判断します。選択肢「Afterward」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「Choose the best answer for blank (3).」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "exerciseNumber": 3
+    },
+    {
+      "id": "r6-004",
+      "part": "reading_part_6",
+      "skill": "text completion - sentence completion",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageText": "Notice\n\nTo: All Branch Employees\nSubject: Weekend System Update\n\nThe customer database will be unavailable from 9 P.M. on Friday until 6 A.M. on Monday while the IT department installs security updates. During this period, employees will not be able to view customer records or process online returns.\n\nPlease complete any urgent customer requests before _____(1). If a customer contacts the branch during the weekend, _____(2) should record the customer's name and phone number on the temporary request form.\n\nThe IT department expects the system to be available again on Monday morning. _____(3), employees should check that all weekend requests have been entered into the database before noon. This step is important because _____(4).",
+      "prompt": "Choose the phrase that best completes blank (4).",
+      "options": [
+        "A. the update was completed last year",
+        "B. customers may be waiting for a response",
+        "C. the branch will hire new employees",
+        "D. phone numbers are never required"
+      ],
+      "correctOption": "B",
+      "explanationEn": "Entering weekend requests quickly is important because customers may be waiting for a response.",
+      "explanationKo": "주말 요청을 빨리 입력해야 하는 이유는 고객들이 답변을 기다리고 있을 수 있기 때문입니다.",
+      "koreanLearnerHint": "문장 완성 문제에서는 바로 앞 문장의 행동이 왜 중요한지 설명하는 선택지를 찾으세요.",
+      "vocabularyItems": [
+        {
+          "word": "wait for a response",
+          "meaningKo": "답변을 기다리다",
+          "exampleSentence": "Customers may be waiting for a response.",
+          "meaningJa": "返答を待つ"
+        },
+        {
+          "word": "complete an update",
+          "meaningKo": "업데이트를 완료하다",
+          "exampleSentence": "The IT department completed the update.",
+          "meaningJa": "更新を完了する"
+        }
+      ],
+      "passageId": "p-r6-weekend-system-update",
+      "passageTitle": "Notice: Weekend System Update",
+      "blankNumber": 4,
+      "vocabularyItem": {
+        "word": "wait for a response",
+        "meaningKo": "답변을 기다리다",
+        "exampleSentence": "Customers may be waiting for a response.",
+        "meaningJa": "返答を待つ"
+      },
+      "explanationJa": "正解は B. customers may be waiting for a response です。設問「Choose the phrase that best completes blank (4).」は、Notice: Weekend System Update の該当箇所を根拠に判断します。選択肢「customers may be waiting for a response」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the phrase that best completes blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 4
+    },
+    {
+      "id": "r6-005",
+      "part": "reading_part_6",
+      "skill": "text completion - preposition",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageText": "E-mail\n\nTo: Product Development Team\nFrom: Angela Rivera, Project Manager\nSubject: Packaging Review\n\nThank you for attending yesterday's packaging review. The client liked the overall design, but asked us to make the product instructions easier to read.\n\nBy Wednesday afternoon, please send me any suggestions _____(1) the instruction sheet. I will compile the suggestions and share them with the design team on Thursday morning.\n\nThe final version must be ready before the client presentation next Monday. _____(2). If we miss that deadline, the product launch may be delayed.\n\nSeveral team members also mentioned that the package photos look too dark. The photographer _____(3) new images tomorrow, so we should have updated files by Friday.\n\nPlease keep your comments brief and specific. _____(4).",
+      "prompt": "Choose the best answer for blank (1).",
+      "options": [
+        "A. improve",
+        "B. improving",
+        "C. to improve",
+        "D. improved"
+      ],
+      "correctOption": "C",
+      "explanationEn": "After 'suggestions,' the infinitive phrase 'to improve the instruction sheet' explains the purpose.",
+      "explanationKo": "'suggestions' 뒤에서 목적을 설명하므로 'to improve the instruction sheet'가 자연스럽습니다.",
+      "koreanLearnerHint": "명사 뒤의 to부정사가 목적이나 용도를 설명하는 경우가 TOEIC에서 자주 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "instruction sheet",
+          "meaningKo": "설명서",
+          "exampleSentence": "The instruction sheet should be easier to read.",
+          "meaningJa": "説明書"
+        },
+        {
+          "word": "suggestion",
+          "meaningKo": "제안",
+          "exampleSentence": "Please send me any suggestions.",
+          "meaningJa": "提案"
+        }
+      ],
+      "passageId": "p-r6-packaging-review",
+      "passageTitle": "E-mail: Packaging Review",
+      "blankNumber": 1,
+      "vocabularyItem": {
+        "word": "instruction sheet",
+        "meaningKo": "설명서",
+        "exampleSentence": "The instruction sheet should be easier to read.",
+        "meaningJa": "説明書"
+      },
+      "explanationJa": "正解は C. to improve です。設問「Choose the best answer for blank (1).」は、E-mail: Packaging Review の該当箇所を根拠に判断します。選択肢「to improve」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「Choose the best answer for blank (1).」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "exerciseNumber": 5
+    },
+    {
+      "id": "r6-006",
+      "part": "reading_part_6",
+      "skill": "text completion - sentence insertion",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r6-packaging-review",
+      "passageTitle": "E-mail: Packaging Review",
+      "passageText": "E-mail\n\nTo: Product Development Team\nFrom: Angela Rivera, Project Manager\nSubject: Packaging Review\n\nThank you for attending yesterday's packaging review. The client liked the overall design, but asked us to make the product instructions easier to read.\n\nBy Wednesday afternoon, please send me any suggestions _____(1) the instruction sheet. I will compile the suggestions and share them with the design team on Thursday morning.\n\nThe final version must be ready before the client presentation next Monday. _____(2). If we miss that deadline, the product launch may be delayed.\n\nSeveral team members also mentioned that the package photos look too dark. The photographer _____(3) new images tomorrow, so we should have updated files by Friday.\n\nPlease keep your comments brief and specific. _____(4).",
+      "blankNumber": 2,
+      "prompt": "Choose the sentence that best fits blank (2).",
+      "options": [
+        "A. The sales team will move to a new office.",
+        "B. The client will review the updated package at that time.",
+        "C. The photographer has already left the company.",
+        "D. The instruction sheet was printed last year."
+      ],
+      "correctOption": "B",
+      "explanationEn": "The sentence explains why the final version must be ready before Monday's client presentation.",
+      "explanationKo": "월요일 고객 발표 전에 최종본이 준비되어야 하는 이유를 설명하므로 B가 가장 자연스럽습니다.",
+      "koreanLearnerHint": "문장 삽입 문제에서는 빈칸 뒤의 'that deadline'이 무엇을 가리키는지 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "final version",
+          "meaningKo": "최종본",
+          "exampleSentence": "The final version must be ready before Monday.",
+          "meaningJa": "最終版"
+        },
+        {
+          "word": "client presentation",
+          "meaningKo": "고객 발표",
+          "exampleSentence": "The client presentation is next Monday.",
+          "meaningJa": "顧客向け発表"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "final version",
+        "meaningKo": "최종본",
+        "exampleSentence": "The final version must be ready before Monday.",
+        "meaningJa": "最終版"
+      },
+      "explanationJa": "正解は B. The client will review the updated package at that time. です。設問「Choose the sentence that best fits blank (2).」は、E-mail: Packaging Review の該当箇所を根拠に判断します。選択肢「The client will review the updated package at that time.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (2).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 6
+    },
+    {
+      "id": "r6-007",
+      "part": "reading_part_6",
+      "skill": "text completion - verb tense",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r6-packaging-review",
+      "passageTitle": "E-mail: Packaging Review",
+      "passageText": "E-mail\n\nTo: Product Development Team\nFrom: Angela Rivera, Project Manager\nSubject: Packaging Review\n\nThank you for attending yesterday's packaging review. The client liked the overall design, but asked us to make the product instructions easier to read.\n\nBy Wednesday afternoon, please send me any suggestions _____(1) the instruction sheet. I will compile the suggestions and share them with the design team on Thursday morning.\n\nThe final version must be ready before the client presentation next Monday. _____(2). If we miss that deadline, the product launch may be delayed.\n\nSeveral team members also mentioned that the package photos look too dark. The photographer _____(3) new images tomorrow, so we should have updated files by Friday.\n\nPlease keep your comments brief and specific. _____(4).",
+      "blankNumber": 3,
+      "prompt": "Choose the best answer for blank (3).",
+      "options": [
+        "A. took",
+        "B. takes",
+        "C. will take",
+        "D. has taken"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The action is scheduled for tomorrow, so the future form 'will take' is correct.",
+      "explanationKo": "내일 예정된 일이므로 미래형 'will take'가 맞습니다.",
+      "koreanLearnerHint": "tomorrow 같은 시간 표현은 미래 시제를 고르는 강한 단서입니다.",
+      "vocabularyItems": [
+        {
+          "word": "photographer",
+          "meaningKo": "사진작가",
+          "exampleSentence": "The photographer will take new images tomorrow.",
+          "meaningJa": "写真家"
+        },
+        {
+          "word": "updated files",
+          "meaningKo": "수정된 파일",
+          "exampleSentence": "We should have updated files by Friday.",
+          "meaningJa": "更新されたファイル"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "photographer",
+        "meaningKo": "사진작가",
+        "exampleSentence": "The photographer will take new images tomorrow.",
+        "meaningJa": "写真家"
+      },
+      "explanationJa": "正解は C. will take です。設問「Choose the best answer for blank (3).」は、E-mail: Packaging Review の該当箇所を根拠に判断します。選択肢「will take」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「Choose the best answer for blank (3).」の中の過去・未来・継続の合図が得点源です。",
+      "exerciseNumber": 7
+    },
+    {
+      "id": "r6-008",
+      "part": "reading_part_6",
+      "skill": "text completion - sentence completion",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r6-packaging-review",
+      "passageTitle": "E-mail: Packaging Review",
+      "passageText": "E-mail\n\nTo: Product Development Team\nFrom: Angela Rivera, Project Manager\nSubject: Packaging Review\n\nThank you for attending yesterday's packaging review. The client liked the overall design, but asked us to make the product instructions easier to read.\n\nBy Wednesday afternoon, please send me any suggestions _____(1) the instruction sheet. I will compile the suggestions and share them with the design team on Thursday morning.\n\nThe final version must be ready before the client presentation next Monday. _____(2). If we miss that deadline, the product launch may be delayed.\n\nSeveral team members also mentioned that the package photos look too dark. The photographer _____(3) new images tomorrow, so we should have updated files by Friday.\n\nPlease keep your comments brief and specific. _____(4).",
+      "blankNumber": 4,
+      "prompt": "Choose the sentence that best fits blank (4).",
+      "options": [
+        "A. Long explanations will make the review process slower.",
+        "B. The cafeteria will be closed during lunch.",
+        "C. The old package was delivered to the warehouse.",
+        "D. All employees must update their passwords."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The previous sentence asks for brief and specific comments, so a warning about long explanations fits the context.",
+      "explanationKo": "앞 문장에서 간단하고 구체적인 의견을 요청했으므로 긴 설명이 검토를 늦춘다는 문장이 문맥에 맞습니다.",
+      "koreanLearnerHint": "빈칸 앞 문장의 핵심 형용사 brief and specific과 의미가 이어지는 선택지를 고르세요.",
+      "vocabularyItems": [
+        {
+          "word": "brief",
+          "meaningKo": "간단한",
+          "exampleSentence": "Please keep your comments brief.",
+          "meaningJa": "短い、簡潔な"
+        },
+        {
+          "word": "review process",
+          "meaningKo": "검토 과정",
+          "exampleSentence": "Long explanations can slow the review process.",
+          "meaningJa": "確認手順"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "brief",
+        "meaningKo": "간단한",
+        "exampleSentence": "Please keep your comments brief.",
+        "meaningJa": "短い、簡潔な"
+      },
+      "explanationJa": "正解は A. Long explanations will make the review process slower. です。設問「Choose the sentence that best fits blank (4).」は、E-mail: Packaging Review の該当箇所を根拠に判断します。選択肢「Long explanations will make the review process slower.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 8
+    },
+    {
+      "id": "r6-009",
+      "part": "reading_part_6",
+      "skill": "text completion - adverbial phrase",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r6-library-evening-hours",
+      "passageTitle": "Announcement: Extended Evening Hours",
+      "passageText": "Announcement\n\nTo: All City Library Members\nSubject: Extended Evening Hours\n\nBeginning June 3, the central library will remain open until 9 P.M. on Tuesdays and Thursdays. The extended hours are intended to support students and workers who cannot visit during the day.\n\nMembers who want to use the study rooms after 6 P.M. should reserve a space online _____(1). Reservations can be made up to seven days in advance, and each member may reserve one room for a maximum of two hours.\n\nThe library will also offer short research workshops on Thursday evenings. _____(2). Topics will include using academic databases, organizing sources, and preparing citations.\n\nBecause staffing will be limited in the evening, members are asked to return borrowed laptops to the service desk before closing. _____(3). Any laptop returned late may result in a temporary borrowing restriction.\n\nWe hope the new schedule will make the library more useful for the community. _____(4).",
+      "blankNumber": 1,
+      "prompt": "Choose the best answer for blank (1).",
+      "options": [
+        "A. in advance",
+        "B. on display",
+        "C. by accident",
+        "D. under repair"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The next sentence explains that reservations can be made up to seven days before use, so 'in advance' fits.",
+      "explanationKo": "다음 문장에서 예약을 최대 7일 전에 할 수 있다고 설명하므로 'in advance'가 알맞습니다.",
+      "koreanLearnerHint": "Part 6에서는 빈칸 바로 뒤 문장이 정답 단서가 되는 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "in advance",
+          "meaningKo": "미리, 사전에",
+          "exampleSentence": "Reserve a study room in advance.",
+          "meaningJa": "事前に"
+        },
+        {
+          "word": "study room",
+          "meaningKo": "스터디룸",
+          "exampleSentence": "Members can reserve a study room online.",
+          "meaningJa": "学習室"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "in advance",
+        "meaningKo": "미리, 사전에",
+        "exampleSentence": "Reserve a study room in advance.",
+        "meaningJa": "事前に"
+      },
+      "explanationJa": "正解は A. in advance です。設問「Choose the best answer for blank (1).」は、Announcement: Extended Evening Hours の該当箇所を根拠に判断します。選択肢「in advance」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「Choose the best answer for blank (1).」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 9
+    },
+    {
+      "id": "r6-010",
+      "part": "reading_part_6",
+      "skill": "text completion - sentence insertion",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r6-library-evening-hours",
+      "passageTitle": "Announcement: Extended Evening Hours",
+      "passageText": "Announcement\n\nTo: All City Library Members\nSubject: Extended Evening Hours\n\nBeginning June 3, the central library will remain open until 9 P.M. on Tuesdays and Thursdays. The extended hours are intended to support students and workers who cannot visit during the day.\n\nMembers who want to use the study rooms after 6 P.M. should reserve a space online _____(1). Reservations can be made up to seven days in advance, and each member may reserve one room for a maximum of two hours.\n\nThe library will also offer short research workshops on Thursday evenings. _____(2). Topics will include using academic databases, organizing sources, and preparing citations.\n\nBecause staffing will be limited in the evening, members are asked to return borrowed laptops to the service desk before closing. _____(3). Any laptop returned late may result in a temporary borrowing restriction.\n\nWe hope the new schedule will make the library more useful for the community. _____(4).",
+      "blankNumber": 2,
+      "prompt": "Choose the sentence that best fits blank (2).",
+      "options": [
+        "A. These sessions are designed for members who need help with school or work projects.",
+        "B. The library cafe will stop serving drinks at noon.",
+        "C. All books must be returned through the outdoor drop box.",
+        "D. The city will replace the library's front windows next year."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The blank introduces the purpose of the research workshops before listing their topics.",
+      "explanationKo": "빈칸 뒤에서 워크숍 주제가 이어지므로, 워크숍의 목적을 설명하는 문장이 가장 자연스럽습니다.",
+      "koreanLearnerHint": "문장 삽입 문제에서는 빈칸 앞의 주제와 빈칸 뒤의 세부 내용을 자연스럽게 연결하는 문장을 찾으세요.",
+      "vocabularyItems": [
+        {
+          "word": "research workshop",
+          "meaningKo": "자료 조사 워크숍",
+          "exampleSentence": "The library offers research workshops.",
+          "meaningJa": "調査ワークショップ"
+        },
+        {
+          "word": "academic database",
+          "meaningKo": "학술 데이터베이스",
+          "exampleSentence": "Students can learn to use academic databases.",
+          "meaningJa": "学術データベース"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "research workshop",
+        "meaningKo": "자료 조사 워크숍",
+        "exampleSentence": "The library offers research workshops.",
+        "meaningJa": "調査ワークショップ"
+      },
+      "explanationJa": "正解は A. These sessions are designed for members who need help with school or work projects. です。設問「Choose the sentence that best fits blank (2).」は、Announcement: Extended Evening Hours の該当箇所を根拠に判断します。選択肢「These sessions are designed for members who need help with school or work projects.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (2).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 10
+    },
+    {
+      "id": "r6-011",
+      "part": "reading_part_6",
+      "skill": "text completion - transition",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r6-library-evening-hours",
+      "passageTitle": "Announcement: Extended Evening Hours",
+      "passageText": "Announcement\n\nTo: All City Library Members\nSubject: Extended Evening Hours\n\nBeginning June 3, the central library will remain open until 9 P.M. on Tuesdays and Thursdays. The extended hours are intended to support students and workers who cannot visit during the day.\n\nMembers who want to use the study rooms after 6 P.M. should reserve a space online _____(1). Reservations can be made up to seven days in advance, and each member may reserve one room for a maximum of two hours.\n\nThe library will also offer short research workshops on Thursday evenings. _____(2). Topics will include using academic databases, organizing sources, and preparing citations.\n\nBecause staffing will be limited in the evening, members are asked to return borrowed laptops to the service desk before closing. _____(3). Any laptop returned late may result in a temporary borrowing restriction.\n\nWe hope the new schedule will make the library more useful for the community. _____(4).",
+      "blankNumber": 3,
+      "prompt": "Choose the sentence that best fits blank (3).",
+      "options": [
+        "A. This rule helps staff check that all equipment is available for the next day.",
+        "B. The workshops will be held in the children's reading area.",
+        "C. Members may bring drinks into the study rooms.",
+        "D. The library will purchase additional fiction titles."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The sentence explains why laptops must be returned before closing.",
+      "explanationKo": "이 문장은 노트북을 폐관 전에 반납해야 하는 이유를 설명합니다.",
+      "koreanLearnerHint": "앞 문장의 규칙을 왜 지켜야 하는지 설명하는 선택지가 문맥에 맞습니다.",
+      "vocabularyItems": [
+        {
+          "word": "borrowed laptop",
+          "meaningKo": "대여한 노트북",
+          "exampleSentence": "Borrowed laptops must be returned before closing.",
+          "meaningJa": "借用したノートパソコン"
+        },
+        {
+          "word": "borrowing restriction",
+          "meaningKo": "대여 제한",
+          "exampleSentence": "Late returns may cause a borrowing restriction.",
+          "meaningJa": "貸出制限"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "borrowed laptop",
+        "meaningKo": "대여한 노트북",
+        "exampleSentence": "Borrowed laptops must be returned before closing.",
+        "meaningJa": "借用したノートパソコン"
+      },
+      "explanationJa": "正解は A. This rule helps staff check that all equipment is available for the next day. です。設問「Choose the sentence that best fits blank (3).」は、Announcement: Extended Evening Hours の該当箇所を根拠に判断します。選択肢「This rule helps staff check that all equipment is available for the next day.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「Choose the sentence that best fits blank (3).」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "exerciseNumber": 11
+    },
+    {
+      "id": "r6-012",
+      "part": "reading_part_6",
+      "skill": "text completion - closing sentence",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r6-library-evening-hours",
+      "passageTitle": "Announcement: Extended Evening Hours",
+      "passageText": "Announcement\n\nTo: All City Library Members\nSubject: Extended Evening Hours\n\nBeginning June 3, the central library will remain open until 9 P.M. on Tuesdays and Thursdays. The extended hours are intended to support students and workers who cannot visit during the day.\n\nMembers who want to use the study rooms after 6 P.M. should reserve a space online _____(1). Reservations can be made up to seven days in advance, and each member may reserve one room for a maximum of two hours.\n\nThe library will also offer short research workshops on Thursday evenings. _____(2). Topics will include using academic databases, organizing sources, and preparing citations.\n\nBecause staffing will be limited in the evening, members are asked to return borrowed laptops to the service desk before closing. _____(3). Any laptop returned late may result in a temporary borrowing restriction.\n\nWe hope the new schedule will make the library more useful for the community. _____(4).",
+      "blankNumber": 4,
+      "prompt": "Choose the sentence that best completes blank (4).",
+      "options": [
+        "A. Feedback about the extended hours may be sent through the library website.",
+        "B. The old schedule was printed on blue paper.",
+        "C. Study rooms cannot be reserved during regular hours.",
+        "D. The library will close permanently next month."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The closing sentence naturally invites members to give feedback about the new schedule.",
+      "explanationKo": "마무리 문장으로 새 운영 시간에 대한 의견을 웹사이트로 보낼 수 있다는 안내가 자연스럽습니다.",
+      "koreanLearnerHint": "마지막 빈칸은 전체 글의 목적과 어울리는 안내나 마무리 문장을 고르는 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "extended hours",
+          "meaningKo": "연장 운영 시간",
+          "exampleSentence": "Members can comment on the extended hours.",
+          "meaningJa": "延長営業時間"
+        },
+        {
+          "word": "feedback",
+          "meaningKo": "의견, 피드백",
+          "exampleSentence": "Feedback may be sent online.",
+          "meaningJa": "意見、フィードバック"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "extended hours",
+        "meaningKo": "연장 운영 시간",
+        "exampleSentence": "Members can comment on the extended hours.",
+        "meaningJa": "延長営業時間"
+      },
+      "explanationJa": "正解は A. Feedback about the extended hours may be sent through the library website. です。設問「Choose the sentence that best completes blank (4).」は、Announcement: Extended Evening Hours の該当箇所を根拠に判断します。選択肢「Feedback about the extended hours may be sent through the library website.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best completes blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 12
+    },
+    {
+      "id": "r6-013",
+      "part": "reading_part_6",
+      "skill": "text completion - time expression",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r6-supplier-delivery-schedule",
+      "passageTitle": "E-mail: Delivery Schedule",
+      "passageText": "E-mail\n\nTo: Purchasing Department\nFrom: Martin Keller, OfficePro Supplies\nSubject: Delivery Schedule for Order OP-771\n\nThank you for your order of conference folders and presentation markers. Most of the items are currently in stock and will be shipped from our warehouse tomorrow morning.\n\nHowever, the navy folders you requested are temporarily unavailable. We expect to receive a new shipment from the manufacturer _____(1). If this schedule is acceptable, the complete order can be delivered to your office next Wednesday.\n\nAnother option is to substitute black folders for the navy folders. _____(2). Please let us know by 3 P.M. today which option you prefer.\n\nIf we do not receive a response by that time, _____(3). This will prevent the available items from being delayed.\n\nWe apologize for the inconvenience and appreciate your patience. _____(4).",
+      "blankNumber": 1,
+      "prompt": "Choose the best answer for blank (1).",
+      "options": [
+        "A. late this week",
+        "B. every morning",
+        "C. before the invoice",
+        "D. under the desk"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The supplier expects a new shipment soon, and delivery is possible next Wednesday, so 'late this week' fits.",
+      "explanationKo": "공급업체가 곧 새 물량을 받을 예정이고 다음 주 수요일 배송이 가능하므로 'late this week'가 자연스럽습니다.",
+      "koreanLearnerHint": "시간 표현은 뒤 문장의 배송 가능 날짜와 논리적으로 맞아야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "temporarily unavailable",
+          "meaningKo": "일시적으로 이용 불가능한",
+          "exampleSentence": "The navy folders are temporarily unavailable.",
+          "meaningJa": "一時的に利用できない"
+        },
+        {
+          "word": "manufacturer",
+          "meaningKo": "제조업체",
+          "exampleSentence": "The manufacturer will send a new shipment.",
+          "meaningJa": "製造業者"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "temporarily unavailable",
+        "meaningKo": "일시적으로 이용 불가능한",
+        "exampleSentence": "The navy folders are temporarily unavailable.",
+        "meaningJa": "一時的に利用できない"
+      },
+      "explanationJa": "正解は A. late this week です。設問「Choose the best answer for blank (1).」は、E-mail: Delivery Schedule の該当箇所を根拠に判断します。選択肢「late this week」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the best answer for blank (1).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 13
+    },
+    {
+      "id": "r6-014",
+      "part": "reading_part_6",
+      "skill": "text completion - sentence insertion",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r6-supplier-delivery-schedule",
+      "passageTitle": "E-mail: Delivery Schedule",
+      "passageText": "E-mail\n\nTo: Purchasing Department\nFrom: Martin Keller, OfficePro Supplies\nSubject: Delivery Schedule for Order OP-771\n\nThank you for your order of conference folders and presentation markers. Most of the items are currently in stock and will be shipped from our warehouse tomorrow morning.\n\nHowever, the navy folders you requested are temporarily unavailable. We expect to receive a new shipment from the manufacturer _____(1). If this schedule is acceptable, the complete order can be delivered to your office next Wednesday.\n\nAnother option is to substitute black folders for the navy folders. _____(2). Please let us know by 3 P.M. today which option you prefer.\n\nIf we do not receive a response by that time, _____(3). This will prevent the available items from being delayed.\n\nWe apologize for the inconvenience and appreciate your patience. _____(4).",
+      "blankNumber": 2,
+      "prompt": "Choose the sentence that best fits blank (2).",
+      "options": [
+        "A. This change would allow us to ship the order immediately.",
+        "B. The markers are designed for outdoor advertising.",
+        "C. Our accounting department is closed on weekends.",
+        "D. The conference room can seat twenty people."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Using black folders instead would avoid waiting for the navy folders, so immediate shipping is possible.",
+      "explanationKo": "검은색 폴더로 대체하면 네이비 폴더를 기다릴 필요가 없으므로 즉시 배송이 가능하다는 문장이 자연스럽습니다.",
+      "koreanLearnerHint": "'Another option' 뒤에는 그 선택지를 고르면 어떤 결과가 생기는지 설명하는 문장이 와야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "substitute",
+          "meaningKo": "대체하다",
+          "exampleSentence": "Black folders can be substituted for navy folders.",
+          "meaningJa": "代用する"
+        },
+        {
+          "word": "ship immediately",
+          "meaningKo": "즉시 배송하다",
+          "exampleSentence": "The order can be shipped immediately.",
+          "meaningJa": "すぐに発送する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "substitute",
+        "meaningKo": "대체하다",
+        "exampleSentence": "Black folders can be substituted for navy folders.",
+        "meaningJa": "代用する"
+      },
+      "explanationJa": "正解は A. This change would allow us to ship the order immediately. です。設問「Choose the sentence that best fits blank (2).」は、E-mail: Delivery Schedule の該当箇所を根拠に判断します。選択肢「This change would allow us to ship the order immediately.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (2).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 14
+    },
+    {
+      "id": "r6-015",
+      "part": "reading_part_6",
+      "skill": "text completion - consequence",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r6-supplier-delivery-schedule",
+      "passageTitle": "E-mail: Delivery Schedule",
+      "passageText": "E-mail\n\nTo: Purchasing Department\nFrom: Martin Keller, OfficePro Supplies\nSubject: Delivery Schedule for Order OP-771\n\nThank you for your order of conference folders and presentation markers. Most of the items are currently in stock and will be shipped from our warehouse tomorrow morning.\n\nHowever, the navy folders you requested are temporarily unavailable. We expect to receive a new shipment from the manufacturer _____(1). If this schedule is acceptable, the complete order can be delivered to your office next Wednesday.\n\nAnother option is to substitute black folders for the navy folders. _____(2). Please let us know by 3 P.M. today which option you prefer.\n\nIf we do not receive a response by that time, _____(3). This will prevent the available items from being delayed.\n\nWe apologize for the inconvenience and appreciate your patience. _____(4).",
+      "blankNumber": 3,
+      "prompt": "Choose the sentence that best fits blank (3).",
+      "options": [
+        "A. we will ship the available items first",
+        "B. the warehouse will close permanently",
+        "C. your order was delivered yesterday",
+        "D. the markers will be removed from the catalog"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The next sentence says this will prevent available items from being delayed, so shipping available items first fits.",
+      "explanationKo": "다음 문장에서 사용 가능한 물품의 지연을 막는다고 하므로, 가능한 물품을 먼저 배송한다는 내용이 맞습니다.",
+      "koreanLearnerHint": "This가 가리키는 행동을 찾으세요. 뒤 문장이 정답의 결과를 설명합니다.",
+      "vocabularyItems": [
+        {
+          "word": "available items",
+          "meaningKo": "사용 가능한 물품",
+          "exampleSentence": "Available items will be shipped first.",
+          "meaningJa": "利用可能な品物"
+        },
+        {
+          "word": "delay",
+          "meaningKo": "지연시키다",
+          "exampleSentence": "This will prevent items from being delayed.",
+          "meaningJa": "遅延、遅らせる"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "available items",
+        "meaningKo": "사용 가능한 물품",
+        "exampleSentence": "Available items will be shipped first.",
+        "meaningJa": "利用可能な品物"
+      },
+      "explanationJa": "正解は A. we will ship the available items first です。設問「Choose the sentence that best fits blank (3).」は、E-mail: Delivery Schedule の該当箇所を根拠に判断します。選択肢「we will ship the available items first」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (3).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 15
+    },
+    {
+      "id": "r6-016",
+      "part": "reading_part_6",
+      "skill": "text completion - closing sentence",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r6-supplier-delivery-schedule",
+      "passageTitle": "E-mail: Delivery Schedule",
+      "passageText": "E-mail\n\nTo: Purchasing Department\nFrom: Martin Keller, OfficePro Supplies\nSubject: Delivery Schedule for Order OP-771\n\nThank you for your order of conference folders and presentation markers. Most of the items are currently in stock and will be shipped from our warehouse tomorrow morning.\n\nHowever, the navy folders you requested are temporarily unavailable. We expect to receive a new shipment from the manufacturer _____(1). If this schedule is acceptable, the complete order can be delivered to your office next Wednesday.\n\nAnother option is to substitute black folders for the navy folders. _____(2). Please let us know by 3 P.M. today which option you prefer.\n\nIf we do not receive a response by that time, _____(3). This will prevent the available items from being delayed.\n\nWe apologize for the inconvenience and appreciate your patience. _____(4).",
+      "blankNumber": 4,
+      "prompt": "Choose the sentence that best completes blank (4).",
+      "options": [
+        "A. Please contact me if you have any questions about these options.",
+        "B. The folders were displayed near the front entrance.",
+        "C. Your office moved to a different city last year.",
+        "D. The presentation markers cannot be used on paper."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The e-mail presents delivery options, so inviting questions about those options is an appropriate closing.",
+      "explanationKo": "이 이메일은 배송 선택지를 제시하므로 해당 선택지에 대한 질문을 받겠다는 마무리가 적절합니다.",
+      "koreanLearnerHint": "비즈니스 이메일의 마지막 문장은 보통 문의 안내나 다음 행동을 제시합니다.",
+      "vocabularyItems": [
+        {
+          "word": "option",
+          "meaningKo": "선택지",
+          "exampleSentence": "Please choose one of the options.",
+          "meaningJa": "選択肢"
+        },
+        {
+          "word": "contact me",
+          "meaningKo": "저에게 연락하다",
+          "exampleSentence": "Please contact me with questions.",
+          "meaningJa": "私に連絡する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "option",
+        "meaningKo": "선택지",
+        "exampleSentence": "Please choose one of the options.",
+        "meaningJa": "選択肢"
+      },
+      "explanationJa": "正解は A. Please contact me if you have any questions about these options. です。設問「Choose the sentence that best completes blank (4).」は、E-mail: Delivery Schedule の該当箇所を根拠に判断します。選択肢「Please contact me if you have any questions about these options.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best completes blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 16
+    },
+    {
+      "id": "r6-017",
+      "part": "reading_part_6",
+      "skill": "text completion - sequence",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r6-chat-response-guidelines",
+      "passageTitle": "Memo: Chat Response Guidelines",
+      "passageText": "Memo\n\nTo: Customer Support Staff\nFrom: Daniel Ortiz, Support Manager\nSubject: Updated Chat Response Guidelines\n\nStarting next Monday, all customer chat messages should receive an initial response within three minutes. The first response does not need to solve the issue completely, but it should let the customer know that a support agent is reviewing the request.\n\nWhen a question requires information from another department, agents should create a follow-up ticket _____(1). The ticket should include the customer's account number, a summary of the issue, and any screenshots provided by the customer.\n\nAgents should avoid using technical terms that customers may not understand. _____(2). Clear explanations reduce repeat questions and improve customer satisfaction.\n\nSupervisors will review chat records twice a week to make sure the new guidelines are being followed. _____(3). Agents who need additional coaching will be invited to a short training session.\n\nPlease review the sample responses attached to this memo before Monday. _____(4).",
+      "blankNumber": 1,
+      "prompt": "Choose the best answer for blank (1).",
+      "options": [
+        "A. before ending the chat",
+        "B. instead of reading the message",
+        "C. after the company picnic",
+        "D. without the customer's name"
+      ],
+      "correctOption": "A",
+      "explanationEn": "Agents should create a follow-up ticket before ending the chat so the issue can be handled later.",
+      "explanationKo": "상담원이 채팅을 끝내기 전에 후속 처리 티켓을 만들어야 나중에 문제를 처리할 수 있습니다.",
+      "koreanLearnerHint": "절차를 설명하는 글에서는 행동의 순서가 중요합니다. 고객과의 채팅이 끝나기 전이 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "follow-up ticket",
+          "meaningKo": "후속 처리 티켓",
+          "exampleSentence": "Create a follow-up ticket before ending the chat.",
+          "meaningJa": "フォローアップ用チケット"
+        },
+        {
+          "word": "account number",
+          "meaningKo": "계정 번호",
+          "exampleSentence": "Include the customer's account number.",
+          "meaningJa": "口座番号、アカウント番号"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "follow-up ticket",
+        "meaningKo": "후속 처리 티켓",
+        "exampleSentence": "Create a follow-up ticket before ending the chat.",
+        "meaningJa": "フォローアップ用チケット"
+      },
+      "explanationJa": "正解は A. before ending the chat です。設問「Choose the best answer for blank (1).」は、Memo: Chat Response Guidelines の該当箇所を根拠に判断します。選択肢「before ending the chat」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the best answer for blank (1).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 17
+    },
+    {
+      "id": "r6-018",
+      "part": "reading_part_6",
+      "skill": "text completion - sentence insertion",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r6-chat-response-guidelines",
+      "passageTitle": "Memo: Chat Response Guidelines",
+      "passageText": "Memo\n\nTo: Customer Support Staff\nFrom: Daniel Ortiz, Support Manager\nSubject: Updated Chat Response Guidelines\n\nStarting next Monday, all customer chat messages should receive an initial response within three minutes. The first response does not need to solve the issue completely, but it should let the customer know that a support agent is reviewing the request.\n\nWhen a question requires information from another department, agents should create a follow-up ticket _____(1). The ticket should include the customer's account number, a summary of the issue, and any screenshots provided by the customer.\n\nAgents should avoid using technical terms that customers may not understand. _____(2). Clear explanations reduce repeat questions and improve customer satisfaction.\n\nSupervisors will review chat records twice a week to make sure the new guidelines are being followed. _____(3). Agents who need additional coaching will be invited to a short training session.\n\nPlease review the sample responses attached to this memo before Monday. _____(4).",
+      "blankNumber": 2,
+      "prompt": "Choose the sentence that best fits blank (2).",
+      "options": [
+        "A. Instead, they should use simple language and provide examples when possible.",
+        "B. Customers will be asked to install new office furniture.",
+        "C. The support office will close every Tuesday morning.",
+        "D. Screenshots should be deleted before tickets are created."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The previous sentence warns against technical terms, so using simple language is the logical alternative.",
+      "explanationKo": "앞 문장에서 전문 용어 사용을 피하라고 했으므로, 대신 쉬운 표현과 예시를 사용하라는 문장이 자연스럽습니다.",
+      "koreanLearnerHint": "'Instead'는 앞 문장과 반대되는 대안을 제시할 때 쓰입니다.",
+      "vocabularyItems": [
+        {
+          "word": "technical term",
+          "meaningKo": "전문 용어",
+          "exampleSentence": "Avoid technical terms customers may not understand.",
+          "meaningJa": "専門用語"
+        },
+        {
+          "word": "simple language",
+          "meaningKo": "쉬운 표현",
+          "exampleSentence": "Use simple language in chat responses.",
+          "meaningJa": "簡単な表現"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "technical term",
+        "meaningKo": "전문 용어",
+        "exampleSentence": "Avoid technical terms customers may not understand.",
+        "meaningJa": "専門用語"
+      },
+      "explanationJa": "正解は A. Instead, they should use simple language and provide examples when possible. です。設問「Choose the sentence that best fits blank (2).」は、Memo: Chat Response Guidelines の該当箇所を根拠に判断します。選択肢「Instead, they should use simple language and provide examples when possible.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (2).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 18
+    },
+    {
+      "id": "r6-019",
+      "part": "reading_part_6",
+      "skill": "text completion - result",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r6-chat-response-guidelines",
+      "passageTitle": "Memo: Chat Response Guidelines",
+      "passageText": "Memo\n\nTo: Customer Support Staff\nFrom: Daniel Ortiz, Support Manager\nSubject: Updated Chat Response Guidelines\n\nStarting next Monday, all customer chat messages should receive an initial response within three minutes. The first response does not need to solve the issue completely, but it should let the customer know that a support agent is reviewing the request.\n\nWhen a question requires information from another department, agents should create a follow-up ticket _____(1). The ticket should include the customer's account number, a summary of the issue, and any screenshots provided by the customer.\n\nAgents should avoid using technical terms that customers may not understand. _____(2). Clear explanations reduce repeat questions and improve customer satisfaction.\n\nSupervisors will review chat records twice a week to make sure the new guidelines are being followed. _____(3). Agents who need additional coaching will be invited to a short training session.\n\nPlease review the sample responses attached to this memo before Monday. _____(4).",
+      "blankNumber": 3,
+      "prompt": "Choose the sentence that best fits blank (3).",
+      "options": [
+        "A. The results of these reviews will be shared privately with each agent.",
+        "B. The company cafeteria will add more lunch options.",
+        "C. Customers should call the sales office for product prices.",
+        "D. The screenshots were taken during last year's training."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The sentence explains what will happen after supervisors review chat records.",
+      "explanationKo": "이 문장은 감독자가 채팅 기록을 검토한 뒤 그 결과가 어떻게 전달되는지를 설명합니다.",
+      "koreanLearnerHint": "앞 문장의 review와 뒤 문장의 coaching을 연결하는 중간 단계가 필요합니다.",
+      "vocabularyItems": [
+        {
+          "word": "review chat records",
+          "meaningKo": "채팅 기록을 검토하다",
+          "exampleSentence": "Supervisors review chat records twice a week.",
+          "meaningJa": "チャット記録を確認する"
+        },
+        {
+          "word": "privately",
+          "meaningKo": "비공개로, 개인적으로",
+          "exampleSentence": "Feedback will be shared privately.",
+          "meaningJa": "非公開で、個別に"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "review chat records",
+        "meaningKo": "채팅 기록을 검토하다",
+        "exampleSentence": "Supervisors review chat records twice a week.",
+        "meaningJa": "チャット記録を確認する"
+      },
+      "explanationJa": "正解は A. The results of these reviews will be shared privately with each agent. です。設問「Choose the sentence that best fits blank (3).」は、Memo: Chat Response Guidelines の該当箇所を根拠に判断します。選択肢「The results of these reviews will be shared privately with each agent.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (3).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 19
+    },
+    {
+      "id": "r6-020",
+      "part": "reading_part_6",
+      "skill": "text completion - closing instruction",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r6-chat-response-guidelines",
+      "passageTitle": "Memo: Chat Response Guidelines",
+      "passageText": "Memo\n\nTo: Customer Support Staff\nFrom: Daniel Ortiz, Support Manager\nSubject: Updated Chat Response Guidelines\n\nStarting next Monday, all customer chat messages should receive an initial response within three minutes. The first response does not need to solve the issue completely, but it should let the customer know that a support agent is reviewing the request.\n\nWhen a question requires information from another department, agents should create a follow-up ticket _____(1). The ticket should include the customer's account number, a summary of the issue, and any screenshots provided by the customer.\n\nAgents should avoid using technical terms that customers may not understand. _____(2). Clear explanations reduce repeat questions and improve customer satisfaction.\n\nSupervisors will review chat records twice a week to make sure the new guidelines are being followed. _____(3). Agents who need additional coaching will be invited to a short training session.\n\nPlease review the sample responses attached to this memo before Monday. _____(4).",
+      "blankNumber": 4,
+      "prompt": "Choose the sentence that best completes blank (4).",
+      "options": [
+        "A. They show how to apply the new guidelines in common situations.",
+        "B. The company will replace all office chairs next month.",
+        "C. Customers may submit expense reports online.",
+        "D. The warehouse manager will update the delivery schedule."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The attached sample responses are useful because they demonstrate how to use the new guidelines.",
+      "explanationKo": "첨부된 예시 답변은 새 지침을 일반적인 상황에 적용하는 방법을 보여 주므로 유용합니다.",
+      "koreanLearnerHint": "They가 바로 앞의 sample responses를 가리킨다는 점을 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "sample response",
+          "meaningKo": "예시 답변",
+          "exampleSentence": "Review the sample responses before Monday.",
+          "meaningJa": "回答例"
+        },
+        {
+          "word": "apply guidelines",
+          "meaningKo": "지침을 적용하다",
+          "exampleSentence": "The examples show how to apply the guidelines.",
+          "meaningJa": "指針を適用する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "sample response",
+        "meaningKo": "예시 답변",
+        "exampleSentence": "Review the sample responses before Monday.",
+        "meaningJa": "回答例"
+      },
+      "explanationJa": "正解は A. They show how to apply the new guidelines in common situations. です。設問「Choose the sentence that best completes blank (4).」は、Memo: Chat Response Guidelines の該当箇所を根拠に判断します。選択肢「They show how to apply the new guidelines in common situations.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best completes blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 20
+    }
+  ]
+}

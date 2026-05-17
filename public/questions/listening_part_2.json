@@ -1,0 +1,957 @@
+{
+  "part": "listening_part_2",
+  "questions": [
+    {
+      "id": "l2-101",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part2_001",
+      "audioFile": "l2_ex1_answer_c.mp3",
+      "audioTitle": "Question Response 1",
+      "transcript": "Question: Where is the meeting being held?\nA. With the marketing team.\nB. At three o'clock.\nC. In the main conference room.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The question asks where the meeting is being held, so a place is needed. Choice C gives a place: the main conference room.",
+      "explanationKo": "질문은 회의가 어디에서 열리는지 묻고 있으므로 장소가 필요합니다. C는 장소인 main conference room을 제시합니다.",
+      "koreanLearnerHint": "Where 질문은 장소를 묻습니다. 시간이나 사람/팀을 말하는 응답은 자연스럽지 않습니다.",
+      "vocabularyItems": [
+        {
+          "word": "be held",
+          "meaningKo": "열리다, 개최되다",
+          "exampleSentence": "The meeting is being held in the main conference room.",
+          "meaningJa": "開かれる"
+        },
+        {
+          "word": "main conference room",
+          "meaningKo": "주 회의실",
+          "exampleSentence": "The meeting is in the main conference room.",
+          "meaningJa": "メイン会議室"
+        },
+        {
+          "word": "marketing team",
+          "meaningKo": "마케팅 팀",
+          "exampleSentence": "The marketing team will attend the meeting.",
+          "meaningJa": "マーケティングチーム"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "be held",
+        "meaningKo": "열리다, 개최되다",
+        "exampleSentence": "The meeting is being held in the main conference room.",
+        "meaningJa": "開かれる"
+      },
+      "explanationJa": "正解は C です。質問は「Where is the meeting being held?」で、場所を求めています。正しい応答「In the main conference room.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Where is the meeting being held?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 1
+    },
+    {
+      "id": "l2-102",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part2_002",
+      "audioFile": "l2_ex2_answer_a.mp3",
+      "audioTitle": "Question Response 2",
+      "transcript": "Question: Have you finished the report yet?\nA. Yes, I sent it this morning.\nB. It's on the desk.\nC. I work every day.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The question asks whether the report has been finished. Choice A answers yes and explains that it was sent this morning.",
+      "explanationKo": "질문은 보고서를 끝냈는지 묻고 있습니다. A는 그렇다고 답하며 오늘 아침에 보냈다고 설명합니다.",
+      "koreanLearnerHint": "Have you finished...? 는 완료 여부를 묻는 질문입니다. Yes/No와 함께 완료된 행동을 설명하는 응답이 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "finish the report",
+          "meaningKo": "보고서를 끝내다",
+          "exampleSentence": "Have you finished the report yet?",
+          "meaningJa": "報告書を仕上げる"
+        },
+        {
+          "word": "send it",
+          "meaningKo": "그것을 보내다",
+          "exampleSentence": "I sent it this morning.",
+          "meaningJa": "それを送る"
+        },
+        {
+          "word": "this morning",
+          "meaningKo": "오늘 아침",
+          "exampleSentence": "The report was sent this morning.",
+          "meaningJa": "今朝"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "finish the report",
+        "meaningKo": "보고서를 끝내다",
+        "exampleSentence": "Have you finished the report yet?",
+        "meaningJa": "報告書を仕上げる"
+      },
+      "explanationJa": "正解は A です。質問は「Have you finished the report yet?」で、Yes/No または間接的な確認を求めています。正しい応答「Yes, I sent it this morning.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Have you finished the report yet?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 2
+    },
+    {
+      "id": "l2-103",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_003",
+      "audioFile": "l2_ex3_answer_a.mp3",
+      "audioTitle": "Question Response 3",
+      "transcript": "Question: Could you take a message for me?\nA. Sure, what should I write down?\nB. The message was clear.\nC. I sent an email yesterday.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The question is a request to take a message. Choice A accepts the request and asks what should be written down.",
+      "explanationKo": "질문은 메시지를 받아 달라는 요청입니다. A는 요청을 수락하고 무엇을 적어야 하는지 묻습니다.",
+      "koreanLearnerHint": "Could you...? 는 정중한 요청입니다. 요청을 받아들이거나 필요한 정보를 묻는 응답이 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "take a message",
+          "meaningKo": "메시지를 받아 적다",
+          "exampleSentence": "Could you take a message for me?",
+          "meaningJa": "伝言を受ける"
+        },
+        {
+          "word": "write down",
+          "meaningKo": "적어 두다",
+          "exampleSentence": "What should I write down?",
+          "meaningJa": "書き留める"
+        },
+        {
+          "word": "clear",
+          "meaningKo": "명확한",
+          "exampleSentence": "The message was clear.",
+          "meaningJa": "明確な、片付ける"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "take a message",
+        "meaningKo": "메시지를 받아 적다",
+        "exampleSentence": "Could you take a message for me?",
+        "meaningJa": "伝言を受ける"
+      },
+      "explanationJa": "正解は A です。質問は「Could you take a message for me?」で、依頼への応答を求めています。正しい応答「Sure, what should I write down?」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Could you take a message for me?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 3
+    },
+    {
+      "id": "l2-104",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_004",
+      "audioFile": "l2_ex4_answer_c.mp3",
+      "audioTitle": "Question Response 4",
+      "transcript": "Question: Why was the meeting canceled?\nA. With our clients.\nB. In the afternoon.\nC. Because the manager was sick.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The question asks why the meeting was canceled, so a reason is needed. Choice C gives the reason: the manager was sick.",
+      "explanationKo": "질문은 회의가 왜 취소되었는지 묻고 있으므로 이유가 필요합니다. C는 매니저가 아팠다는 이유를 제시합니다.",
+      "koreanLearnerHint": "Why 질문은 이유를 묻습니다. Because로 시작하는 응답은 이유를 제시할 때 자주 쓰입니다.",
+      "vocabularyItems": [
+        {
+          "word": "be canceled",
+          "meaningKo": "취소되다",
+          "exampleSentence": "The meeting was canceled.",
+          "meaningJa": "中止される"
+        },
+        {
+          "word": "manager",
+          "meaningKo": "관리자, 매니저",
+          "exampleSentence": "The manager was sick.",
+          "meaningJa": "管理者、マネージャー"
+        },
+        {
+          "word": "sick",
+          "meaningKo": "아픈",
+          "exampleSentence": "The manager was sick yesterday.",
+          "meaningJa": "病気の"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "be canceled",
+        "meaningKo": "취소되다",
+        "exampleSentence": "The meeting was canceled.",
+        "meaningJa": "中止される"
+      },
+      "explanationJa": "正解は C です。質問は「Why was the meeting canceled?」で、理由を求めています。正しい応答「Because the manager was sick.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Why was the meeting canceled?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 4
+    },
+    {
+      "id": "l2-105",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part2_005",
+      "audioFile": "l2_ex5_answer_b.mp3",
+      "audioTitle": "Question Response 5",
+      "transcript": "Question: Do you accept credit cards?\nA. On the counter.\nB. Yes, we do.\nC. For two hours.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The question asks whether credit cards are accepted. Choice B directly answers yes.",
+      "explanationKo": "질문은 신용카드를 받는지 묻고 있습니다. B는 그렇다고 직접 답합니다.",
+      "koreanLearnerHint": "Do you...? 로 시작하는 Yes/No 질문입니다. 장소나 시간 표현보다 yes/no 응답이 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "accept credit cards",
+          "meaningKo": "신용카드를 받다",
+          "exampleSentence": "Do you accept credit cards?",
+          "meaningJa": "クレジットカードを受け付ける"
+        },
+        {
+          "word": "counter",
+          "meaningKo": "계산대, 카운터",
+          "exampleSentence": "The card reader is on the counter.",
+          "meaningJa": "カウンター"
+        },
+        {
+          "word": "for two hours",
+          "meaningKo": "두 시간 동안",
+          "exampleSentence": "The store was closed for two hours.",
+          "meaningJa": "2時間"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "accept credit cards",
+        "meaningKo": "신용카드를 받다",
+        "exampleSentence": "Do you accept credit cards?",
+        "meaningJa": "クレジットカードを受け付ける"
+      },
+      "explanationJa": "正解は B です。質問は「Do you accept credit cards?」で、Yes/No または間接的な確認を求めています。正しい応答「Yes, we do.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Do you accept credit cards?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 5
+    },
+    {
+      "id": "l2-106",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_006",
+      "audioFile": "l2_ex6_answer_c.mp3",
+      "audioTitle": "Question Response 6",
+      "transcript": "Question: Who is in charge of this project?\nA. In the office.\nB. Next week.\nC. Ms. Williams is.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The question asks who is responsible for the project. Choice C names the person in charge: Ms. Williams.",
+      "explanationKo": "질문은 이 프로젝트의 담당자가 누구인지 묻고 있습니다. C는 담당자인 Ms. Williams를 말합니다.",
+      "koreanLearnerHint": "Who 질문은 사람을 묻습니다. 장소나 시간 표현은 이 질문에 맞지 않습니다.",
+      "vocabularyItems": [
+        {
+          "word": "in charge of",
+          "meaningKo": "~을 담당하는",
+          "exampleSentence": "Who is in charge of this project?",
+          "meaningJa": "担当している"
+        },
+        {
+          "word": "project",
+          "meaningKo": "프로젝트",
+          "exampleSentence": "Ms. Williams is in charge of the project.",
+          "meaningJa": "プロジェクト"
+        },
+        {
+          "word": "next week",
+          "meaningKo": "다음 주",
+          "exampleSentence": "The project starts next week.",
+          "meaningJa": "来週"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "in charge of",
+        "meaningKo": "~을 담당하는",
+        "exampleSentence": "Who is in charge of this project?",
+        "meaningJa": "担当している"
+      },
+      "explanationJa": "正解は C です。質問は「Who is in charge of this project?」で、人を求めています。正しい応答「Ms. Williams is.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Who is in charge of this project?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 6
+    },
+    {
+      "id": "l2-107",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_007",
+      "audioFile": "l2_ex7_answer_b.mp3",
+      "audioTitle": "Question Response 7",
+      "transcript": "Question: Should we postpone the presentation?\nA. It was very interesting.\nB. That might be a good idea.\nC. On the second floor.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The question suggests postponing the presentation. Choice B responds naturally by agreeing that it might be a good idea.",
+      "explanationKo": "질문은 발표를 연기할지 제안하고 있습니다. B는 좋은 생각일 수 있다고 자연스럽게 응답합니다.",
+      "koreanLearnerHint": "Should we...? 는 제안이나 의견 요청입니다. 동의하거나 반대하는 응답이 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "postpone",
+          "meaningKo": "연기하다",
+          "exampleSentence": "Should we postpone the presentation?",
+          "meaningJa": "延期する"
+        },
+        {
+          "word": "presentation",
+          "meaningKo": "발표",
+          "exampleSentence": "The presentation was very interesting.",
+          "meaningJa": "発表"
+        },
+        {
+          "word": "good idea",
+          "meaningKo": "좋은 생각",
+          "exampleSentence": "That might be a good idea.",
+          "meaningJa": "良い考え"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "postpone",
+        "meaningKo": "연기하다",
+        "exampleSentence": "Should we postpone the presentation?",
+        "meaningJa": "延期する"
+      },
+      "explanationJa": "正解は B です。質問は「Should we postpone the presentation?」で、提案への反応を求めています。正しい応答「That might be a good idea.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Should we postpone the presentation?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 7
+    },
+    {
+      "id": "l2-108",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part2_008",
+      "audioFile": "l2_ex8_answer_a.mp3",
+      "audioTitle": "Question Response 8",
+      "transcript": "Question: What seems to be the problem with the computer?\nA. It keeps shutting down.\nB. On my desk.\nC. Yesterday afternoon.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The question asks what the computer problem is. Choice A describes the problem: it keeps shutting down.",
+      "explanationKo": "질문은 컴퓨터에 어떤 문제가 있는지 묻고 있습니다. A는 계속 꺼진다는 문제를 설명합니다.",
+      "koreanLearnerHint": "What is the problem...? 은 문제의 내용을 묻습니다. 장소나 시간보다 증상 설명이 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "problem with the computer",
+          "meaningKo": "컴퓨터 문제",
+          "exampleSentence": "What seems to be the problem with the computer?",
+          "meaningJa": "コンピューターの問題"
+        },
+        {
+          "word": "keep shutting down",
+          "meaningKo": "계속 꺼지다",
+          "exampleSentence": "It keeps shutting down.",
+          "meaningJa": "停止し続ける"
+        },
+        {
+          "word": "yesterday afternoon",
+          "meaningKo": "어제 오후",
+          "exampleSentence": "The problem started yesterday afternoon.",
+          "meaningJa": "昨日の午後"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "problem with the computer",
+        "meaningKo": "컴퓨터 문제",
+        "exampleSentence": "What seems to be the problem with the computer?",
+        "meaningJa": "コンピューターの問題"
+      },
+      "explanationJa": "正解は A です。質問は「What seems to be the problem with the computer?」で、質問の機能を求めています。正しい応答「It keeps shutting down.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「What seems to be the problem with the computer?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 8
+    },
+    {
+      "id": "l2-109",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_009",
+      "audioFile": "l2_ex9_answer_b.mp3",
+      "audioTitle": "Question Response 9",
+      "transcript": "Question: Where did you put my passport?\nA. At the airport.\nB. In your bag.\nC. With my colleague.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The question asks where the passport was put. Choice B gives a specific location: in your bag.",
+      "explanationKo": "질문은 여권을 어디에 두었는지 묻고 있습니다. B는 구체적인 위치인 가방 안을 말합니다.",
+      "koreanLearnerHint": "Where did you put...? 은 물건의 위치를 묻습니다. 가장 자연스러운 위치 표현을 고르세요.",
+      "vocabularyItems": [
+        {
+          "word": "passport",
+          "meaningKo": "여권",
+          "exampleSentence": "Where did you put my passport?",
+          "meaningJa": "パスポート"
+        },
+        {
+          "word": "in your bag",
+          "meaningKo": "네 가방 안에",
+          "exampleSentence": "I put it in your bag.",
+          "meaningJa": "あなたのかばんの中に"
+        },
+        {
+          "word": "colleague",
+          "meaningKo": "동료",
+          "exampleSentence": "I traveled with my colleague.",
+          "meaningJa": "同僚"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "passport",
+        "meaningKo": "여권",
+        "exampleSentence": "Where did you put my passport?",
+        "meaningJa": "パスポート"
+      },
+      "explanationJa": "正解は B です。質問は「Where did you put my passport?」で、場所を求めています。正しい応答「In your bag.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Where did you put my passport?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 9
+    },
+    {
+      "id": "l2-110",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_010",
+      "audioFile": "l2_ex10_answer_c.mp3",
+      "audioTitle": "Question Response 10",
+      "transcript": "Question: Did you receive my email?\nA. In the inbox.\nB. It's very important.\nC. Yes, I replied this morning.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The question asks whether the email was received. Choice C answers yes and says the speaker replied this morning.",
+      "explanationKo": "질문은 이메일을 받았는지 묻고 있습니다. C는 그렇다고 답하며 오늘 아침에 답장했다고 말합니다.",
+      "koreanLearnerHint": "Did you...? 는 과거 행동 여부를 묻는 Yes/No 질문입니다. Yes/No와 이어지는 행동 설명을 들으세요.",
+      "vocabularyItems": [
+        {
+          "word": "receive my email",
+          "meaningKo": "내 이메일을 받다",
+          "exampleSentence": "Did you receive my email?",
+          "meaningJa": "私のメールを受け取る"
+        },
+        {
+          "word": "inbox",
+          "meaningKo": "받은 편지함",
+          "exampleSentence": "The message is in the inbox.",
+          "meaningJa": "受信箱"
+        },
+        {
+          "word": "reply",
+          "meaningKo": "답장하다",
+          "exampleSentence": "I replied this morning.",
+          "meaningJa": "返信する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "receive my email",
+        "meaningKo": "내 이메일을 받다",
+        "exampleSentence": "Did you receive my email?",
+        "meaningJa": "私のメールを受け取る"
+      },
+      "explanationJa": "正解は C です。質問は「Did you receive my email?」で、Yes/No または間接的な確認を求めています。正しい応答「Yes, I replied this morning.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Did you receive my email?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 10
+    },
+    {
+      "id": "l2-111",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_011",
+      "audioFile": "l2_ex11_answer_a.mp3",
+      "audioTitle": "Question Response 11",
+      "transcript": "Question: Can I get the bill, please?\nA. Of course, I'll bring it right away.\nB. It's very delicious.\nC. At the next table.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The question is a polite request for the bill. Choice A accepts the request and says the bill will be brought right away.",
+      "explanationKo": "질문은 계산서를 달라는 정중한 요청입니다. A는 요청을 수락하고 바로 가져오겠다고 말합니다.",
+      "koreanLearnerHint": "Can I get...? 은 식당이나 서비스 상황에서 자주 쓰는 요청 표현입니다. 요청에 응하는 응답이 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "get the bill",
+          "meaningKo": "계산서를 받다",
+          "exampleSentence": "Can I get the bill, please?",
+          "meaningJa": "会計をもらう"
+        },
+        {
+          "word": "bring it",
+          "meaningKo": "그것을 가져오다",
+          "exampleSentence": "I'll bring it right away.",
+          "meaningJa": "それを持ってくる"
+        },
+        {
+          "word": "right away",
+          "meaningKo": "즉시",
+          "exampleSentence": "I'll bring it right away.",
+          "meaningJa": "すぐに"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "get the bill",
+        "meaningKo": "계산서를 받다",
+        "exampleSentence": "Can I get the bill, please?",
+        "meaningJa": "会計をもらう"
+      },
+      "explanationJa": "正解は A です。質問は「Can I get the bill, please?」で、質問の機能を求めています。正しい応答「Of course, I'll bring it right away.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Can I get the bill, please?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 11
+    },
+    {
+      "id": "l2-112",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part2_012",
+      "audioFile": "l2_ex12_answer_b.mp3",
+      "audioTitle": "Question Response 12",
+      "transcript": "Question: When does the train arrive?\nA. On platform five.\nB. In about ten minutes.\nC. With two bags.",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The question asks when the train arrives. Choice B gives a time: in about ten minutes.",
+      "explanationKo": "질문은 기차가 언제 도착하는지 묻고 있습니다. B는 약 10분 후라는 시간을 제시합니다.",
+      "koreanLearnerHint": "When 질문은 시간을 묻습니다. 플랫폼이나 동반 물건보다 시간 표현을 고르세요.",
+      "vocabularyItems": [
+        {
+          "word": "train",
+          "meaningKo": "기차",
+          "exampleSentence": "When does the train arrive?",
+          "meaningJa": "列車"
+        },
+        {
+          "word": "arrive",
+          "meaningKo": "도착하다",
+          "exampleSentence": "The train arrives in ten minutes.",
+          "meaningJa": "到着する"
+        },
+        {
+          "word": "in about ten minutes",
+          "meaningKo": "약 10분 후에",
+          "exampleSentence": "It arrives in about ten minutes.",
+          "meaningJa": "約10分後に"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "train",
+        "meaningKo": "기차",
+        "exampleSentence": "When does the train arrive?",
+        "meaningJa": "列車"
+      },
+      "explanationJa": "正解は B です。質問は「When does the train arrive?」で、時間を求めています。正しい応答「In about ten minutes.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「When does the train arrive?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 12
+    },
+    {
+      "id": "l2-201",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part2_budget_proposal",
+      "audioFile": "l2_ex13_answer_b.mp3",
+      "audioTitle": "Question Response: Budget Proposal",
+      "transcript": "Question: Who approved the budget proposal?\nA. At the end of the hallway\nB. The finance manager did\nC. Nearly fifty dollars",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "B",
+      "explanationEn": "Choice B is the best response in the audio.",
+      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Who approved the budget proposal?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "vocabularyItems": [
+        {
+          "word": "The finance manager did",
+          "meaningKo": "핵심 표현: The finance manager did",
+          "meaningJa": "財務部長が行った",
+          "exampleSentence": "The finance manager did"
+        },
+        {
+          "word": "Who approved the budget proposal",
+          "meaningKo": "핵심 표현: Who approved the budget proposal",
+          "meaningJa": "誰が予算案を承認したか",
+          "exampleSentence": "Who approved the budget proposal"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "The finance manager did",
+        "meaningKo": "핵심 표현: The finance manager did",
+        "meaningJa": "財務部長が行った",
+        "exampleSentence": "The finance manager did"
+      },
+      "explanationKo": "정답은 B입니다. 질문은 \"Who approved the budget proposal?\"이고, 사람을 요구합니다. 정답 응답 \"The finance manager did\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationJa": "正解は B です。質問は「Who approved the budget proposal?」で、人を求めています。正しい応答「The finance manager did」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Who approved the budget proposal?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 13
+    },
+    {
+      "id": "l2-202",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part2_order_office_supplies",
+      "audioFile": "l2_ex14_answer_c.mp3",
+      "audioTitle": "Question Response: Order Office Supplies",
+      "transcript": "Question: Should we order more office supplies?\nA. I prefer blue pens\nB. On the wooden table\nC. Yes, we're running low",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "C",
+      "explanationEn": "Choice C is the best response in the audio.",
+      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Should we order more office supplies?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "vocabularyItems": [
+        {
+          "word": "Yes, we're running low",
+          "meaningKo": "핵심 표현: Yes, we're running low",
+          "meaningJa": "はい、残りが少なくなっています",
+          "exampleSentence": "Yes, we're running low"
+        },
+        {
+          "word": "Should we order more office supplies",
+          "meaningKo": "핵심 표현: Should we order more office supplies",
+          "meaningJa": "もっと事務用品を注文すべきですか",
+          "exampleSentence": "Should we order more office supplies"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Yes, we're running low",
+        "meaningKo": "핵심 표현: Yes, we're running low",
+        "meaningJa": "はい、残りが少なくなっています",
+        "exampleSentence": "Yes, we're running low"
+      },
+      "explanationKo": "정답은 C입니다. 질문은 \"Should we order more office supplies?\"이고, 제안에 대한 반응을 요구합니다. 정답 응답 \"Yes, we're running low\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationJa": "正解は C です。質問は「Should we order more office supplies?」で、提案への反応を求めています。正しい応答「Yes, we're running low」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Should we order more office supplies?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 14
+    },
+    {
+      "id": "l2-203",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part2_park_my_car",
+      "audioFile": "l2_ex15_answer_b.mp3",
+      "audioTitle": "Question Response: Park My Car",
+      "transcript": "Question: Where should I park my car?\nA. I usually drive to work\nB. In the underground garage\nC. It's a very small vehicle",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "B",
+      "explanationEn": "Choice B is the best response in the audio.",
+      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Where should I park my car?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "vocabularyItems": [
+        {
+          "word": "In the underground garage",
+          "meaningKo": "핵심 표현: In the underground garage",
+          "meaningJa": "地下駐車場で",
+          "exampleSentence": "In the underground garage"
+        },
+        {
+          "word": "Where should I park my car",
+          "meaningKo": "핵심 표현: Where should I park my car",
+          "meaningJa": "どこに車を駐車すればよいですか",
+          "exampleSentence": "Where should I park my car"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "In the underground garage",
+        "meaningKo": "핵심 표현: In the underground garage",
+        "meaningJa": "地下駐車場で",
+        "exampleSentence": "In the underground garage"
+      },
+      "explanationKo": "정답은 B입니다. 질문은 \"Where should I park my car?\"이고, 장소을 요구합니다. 정답 응답 \"In the underground garage\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationJa": "正解は B です。質問は「Where should I park my car?」で、場所を求めています。正しい応答「In the underground garage」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Where should I park my car?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 15
+    },
+    {
+      "id": "l2-204",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "audioId": "part2_printer_noise",
+      "audioFile": "l2_ex16_answer_a.mp3",
+      "audioTitle": "Question Response: Printer Noise",
+      "transcript": "Question: Why is the printer making noise?\nA. It probably needs more paper\nB. Next to the computer desk\nC. I printed ten copies",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "A",
+      "explanationEn": "Choice A is the best response in the audio.",
+      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Why is the printer making noise?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "vocabularyItems": [
+        {
+          "word": "It probably needs more paper",
+          "meaningKo": "핵심 표현: It probably needs more paper",
+          "meaningJa": "おそらく用紙がもっと必要です",
+          "exampleSentence": "It probably needs more paper"
+        },
+        {
+          "word": "Why is the printer making noise",
+          "meaningKo": "핵심 표현: Why is the printer making noise",
+          "meaningJa": "なぜプリンターが音を立てているのか",
+          "exampleSentence": "Why is the printer making noise"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "It probably needs more paper",
+        "meaningKo": "핵심 표현: It probably needs more paper",
+        "meaningJa": "おそらく用紙がもっと必要です",
+        "exampleSentence": "It probably needs more paper"
+      },
+      "explanationKo": "정답은 A입니다. 질문은 \"Why is the printer making noise?\"이고, 이유을 요구합니다. 정답 응답 \"It probably needs more paper\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationJa": "正解は A です。質問は「Why is the printer making noise?」で、理由を求めています。正しい応答「It probably needs more paper」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Why is the printer making noise?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 16
+    },
+    {
+      "id": "l2-205",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_responsible_customer_support",
+      "audioFile": "l2_ex17_answer_b.mp3",
+      "audioTitle": "Question Response: Responsible Customer Support",
+      "transcript": "Question: Who is responsible for customer support?\nA. The blue folder\nB. Janet handles that department\nC. Before lunch time",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "B",
+      "explanationEn": "Choice B is the best response in the audio.",
+      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Who is responsible for customer support?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "vocabularyItems": [
+        {
+          "word": "Janet handles that department",
+          "meaningKo": "핵심 표현: Janet handles that department",
+          "meaningJa": "ジャネットがその部署を担当しています",
+          "exampleSentence": "Janet handles that department"
+        },
+        {
+          "word": "Who is responsible for customer support",
+          "meaningKo": "핵심 표현: Who is responsible for customer support",
+          "meaningJa": "顧客サポートの担当者は誰ですか",
+          "exampleSentence": "Who is responsible for customer support"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Janet handles that department",
+        "meaningKo": "핵심 표현: Janet handles that department",
+        "meaningJa": "ジャネットがその部署を担当しています",
+        "exampleSentence": "Janet handles that department"
+      },
+      "explanationKo": "정답은 B입니다. 질문은 \"Who is responsible for customer support?\"이고, 사람을 요구합니다. 정답 응답 \"Janet handles that department\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationJa": "正解は B です。質問は「Who is responsible for customer support?」で、人を求めています。正しい応答「Janet handles that department」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Who is responsible for customer support?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 17
+    },
+    {
+      "id": "l2-206",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_training_session",
+      "audioFile": "l2_ex18_answer_c.mp3",
+      "audioTitle": "Question Response: Training Session",
+      "transcript": "Question: Didn't you attend the training session?\nA. About computer safety\nB. In the training center\nC. No, I was out sick",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "C",
+      "explanationEn": "Choice C is the best response in the audio.",
+      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Didn't you attend the training session?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "vocabularyItems": [
+        {
+          "word": "No, I was out sick",
+          "meaningKo": "핵심 표현: No, I was out sick",
+          "meaningJa": "いいえ、病欠していました",
+          "exampleSentence": "No, I was out sick"
+        },
+        {
+          "word": "Didn't you attend the training session",
+          "meaningKo": "핵심 표현: Didn't you attend the training session",
+          "meaningJa": "研修に出席しなかったのですか",
+          "exampleSentence": "Didn't you attend the training session"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "No, I was out sick",
+        "meaningKo": "핵심 표현: No, I was out sick",
+        "meaningJa": "いいえ、病欠していました",
+        "exampleSentence": "No, I was out sick"
+      },
+      "explanationKo": "정답은 C입니다. 질문은 \"Didn't you attend the training session?\"이고, 질문의 기능을 요구합니다. 정답 응답 \"No, I was out sick\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationJa": "正解は C です。質問は「Didn't you attend the training session?」で、質問の機能を求めています。正しい応答「No, I was out sick」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Didn't you attend the training session?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 18
+    },
+    {
+      "id": "l2-207",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_update_website",
+      "audioFile": "l2_ex19_answer_a.mp3",
+      "audioTitle": "Question Response: Update Website",
+      "transcript": "Question: How often do you update the website?\nA. Nearly every week\nB. With the software engineer\nC. At the front desk",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "A",
+      "explanationEn": "Choice A is the best response in the audio.",
+      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"How often do you update the website?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "vocabularyItems": [
+        {
+          "word": "Nearly every week",
+          "meaningKo": "핵심 표현: Nearly every week",
+          "meaningJa": "ほぼ毎週",
+          "exampleSentence": "Nearly every week"
+        },
+        {
+          "word": "How often do you update the website",
+          "meaningKo": "핵심 표현: How often do you update the website",
+          "meaningJa": "どのくらいの頻度でウェブサイトを更新しますか",
+          "exampleSentence": "How often do you update the website"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "Nearly every week",
+        "meaningKo": "핵심 표현: Nearly every week",
+        "meaningJa": "ほぼ毎週",
+        "exampleSentence": "Nearly every week"
+      },
+      "explanationKo": "정답은 A입니다. 질문은 \"How often do you update the website?\"이고, 방법이나 상태을 요구합니다. 정답 응답 \"Nearly every week\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationJa": "正解は A です。質問は「How often do you update the website?」で、方法や状態を求めています。正しい応答「Nearly every week」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「How often do you update the website?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 19
+    },
+    {
+      "id": "l2-208",
+      "part": "listening_part_2",
+      "skill": "listening question response",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "audioId": "part2_updated_schedule",
+      "audioFile": "l2_ex20_answer_a.mp3",
+      "audioTitle": "Question Response: Updated Schedule",
+      "transcript": "Question: Can you send me the updated schedule?\nA. I sent it earlier today\nB. At the train station\nC. With the accounting team",
+      "prompt": "Select the best response to the question.",
+      "options": [
+        "A",
+        "B",
+        "C"
+      ],
+      "correctOption": "A",
+      "explanationEn": "Choice A is the best response in the audio.",
+      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Can you send me the updated schedule?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "vocabularyItems": [
+        {
+          "word": "I sent it earlier today",
+          "meaningKo": "핵심 표현: I sent it earlier today",
+          "meaningJa": "今日の早い時間に送りました",
+          "exampleSentence": "I sent it earlier today"
+        },
+        {
+          "word": "Can you send me the updated schedule",
+          "meaningKo": "핵심 표현: Can you send me the updated schedule",
+          "meaningJa": "更新された予定を送ってもらえますか",
+          "exampleSentence": "Can you send me the updated schedule"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "I sent it earlier today",
+        "meaningKo": "핵심 표현: I sent it earlier today",
+        "meaningJa": "今日の早い時間に送りました",
+        "exampleSentence": "I sent it earlier today"
+      },
+      "explanationKo": "정답은 A입니다. 질문은 \"Can you send me the updated schedule?\"이고, 요청에 대한 응답을 요구합니다. 정답 응답 \"I sent it earlier today\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationJa": "正解は A です。質問は「Can you send me the updated schedule?」で、依頼への応答を求めています。正しい応答「I sent it earlier today」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Can you send me the updated schedule?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "exerciseNumber": 20
+    }
+  ]
+}

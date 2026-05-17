@@ -1,0 +1,2405 @@
+{
+  "part": "reading_part_5",
+  "questions": [
+    {
+      "id": "r5-001",
+      "part": "reading_part_5",
+      "skill": "prepositions",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The marketing report must be submitted _____ Friday afternoon.",
+      "options": [
+        "A. on",
+        "B. by",
+        "C. at",
+        "D. with"
+      ],
+      "correctOption": "B",
+      "explanationEn": "'By Friday afternoon' means the report must be submitted no later than that time.",
+      "explanationKo": "'by Friday afternoon'는 금요일 오후까지, 즉 그 시간보다 늦지 않게 제출해야 한다는 뜻입니다.",
+      "koreanLearnerHint": "한국어의 '-까지'는 영어에서 상황에 따라 'until' 또는 'by'가 됩니다. 마감 시간에는 보통 'by'를 씁니다.",
+      "vocabularyItems": [
+        {
+          "word": "submit",
+          "meaningKo": "제출하다",
+          "exampleSentence": "Please submit the report by Friday.",
+          "meaningJa": "提出する"
+        },
+        {
+          "word": "marketing report",
+          "meaningKo": "마케팅 보고서",
+          "exampleSentence": "The marketing report is due Friday.",
+          "meaningJa": "マーケティング報告書"
+        },
+        {
+          "word": "by Friday",
+          "meaningKo": "금요일까지",
+          "exampleSentence": "Please submit the report by Friday.",
+          "meaningJa": "金曜日までに"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "submit",
+        "meaningKo": "제출하다",
+        "exampleSentence": "Please submit the report by Friday.",
+        "meaningJa": "提出する"
+      },
+      "explanationJa": "正解は B. by です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「Friday」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The marketing report must be submitted _____ Friday afternoon.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "exerciseNumber": 1
+    },
+    {
+      "id": "r5-002",
+      "part": "reading_part_5",
+      "skill": "articles",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "Ms. Kim has scheduled _____ interview with the new applicant.",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. no article"
+      ],
+      "correctOption": "B",
+      "explanationEn": "Use 'an' before a vowel sound. 'Interview' starts with a vowel sound.",
+      "explanationKo": "'interview'는 모음 소리로 시작하므로 부정관사 'an'을 사용합니다.",
+      "koreanLearnerHint": "한국어에는 관사가 없기 때문에 영어의 'a/an/the'를 자주 놓칠 수 있습니다.",
+      "vocabularyItems": [
+        {
+          "word": "applicant",
+          "meaningKo": "지원자",
+          "exampleSentence": "The applicant arrived early for the interview.",
+          "meaningJa": "応募者"
+        },
+        {
+          "word": "schedule an interview",
+          "meaningKo": "면접 일정을 잡다",
+          "exampleSentence": "Ms. Kim scheduled an interview.",
+          "meaningJa": "面接の日程を組む"
+        },
+        {
+          "word": "new applicant",
+          "meaningKo": "새 지원자",
+          "exampleSentence": "The new applicant arrived early.",
+          "meaningJa": "新しい応募者"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "applicant",
+        "meaningKo": "지원자",
+        "exampleSentence": "The applicant arrived early for the interview.",
+        "meaningJa": "応募者"
+      },
+      "explanationJa": "正解は B. an です。空所の後ろにある名詞句を見ます。この文では「Ms. Kim has scheduled _____ interview with the new applicant.」の空所に an が入り、後ろの名詞の数や音に合います。日本語には冠詞がないため、意味だけでなく名詞が単数か、母音で始まる音か、初出か既出かを確認するのがポイントです。",
+      "japaneseLearnerHint": "空所の直後の名詞を見てください。「Ms. Kim has scheduled _____ interview with the new applicant.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "exerciseNumber": 2
+    },
+    {
+      "id": "r5-003",
+      "part": "reading_part_5",
+      "skill": "verb tense",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The supplier _____ the updated invoice yesterday.",
+      "options": [
+        "A. send",
+        "B. sends",
+        "C. sent",
+        "D. has sent"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'Yesterday' refers to a finished past time, so the simple past 'sent' is correct.",
+      "explanationKo": "'yesterday'는 끝난 과거 시점을 나타내므로 단순과거 'sent'가 맞습니다.",
+      "koreanLearnerHint": "한국어는 시제가 문맥으로 표현되는 경우가 많지만, 영어 TOEIC에서는 시간 표현이 동사 시제를 결정하는 핵심 단서입니다.",
+      "vocabularyItems": [
+        {
+          "word": "invoice",
+          "meaningKo": "송장, 청구서",
+          "exampleSentence": "The supplier sent the updated invoice.",
+          "meaningJa": "請求書"
+        },
+        {
+          "word": "supplier",
+          "meaningKo": "공급업체",
+          "exampleSentence": "The supplier sent the invoice.",
+          "meaningJa": "供給業者"
+        },
+        {
+          "word": "updated invoice",
+          "meaningKo": "수정된 송장",
+          "exampleSentence": "The updated invoice was sent yesterday.",
+          "meaningJa": "更新された請求書"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "invoice",
+        "meaningKo": "송장, 청구서",
+        "exampleSentence": "The supplier sent the updated invoice.",
+        "meaningJa": "請求書"
+      },
+      "explanationJa": "正解は C. sent です。時制問題では、文中の時間表現を先に拾います。この文では「yesterday」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「The supplier _____ the updated invoice yesterday.」の中の過去・未来・継続の合図が得点源です。",
+      "exerciseNumber": 3
+    },
+    {
+      "id": "r5-004",
+      "part": "reading_part_5",
+      "skill": "word form",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The manager spoke _____ about the new safety policy.",
+      "options": [
+        "A. confident",
+        "B. confidence",
+        "C. confidently",
+        "D. confide"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The blank describes how the manager spoke, so an adverb is needed.",
+      "explanationKo": "빈칸은 manager가 어떻게 말했는지를 설명하므로 부사 'confidently'가 필요합니다.",
+      "koreanLearnerHint": "TOEIC Part 5에서는 품사 문제가 자주 나옵니다. 동사를 꾸미는 자리에는 보통 부사가 필요합니다.",
+      "vocabularyItems": [
+        {
+          "word": "policy",
+          "meaningKo": "정책, 방침",
+          "exampleSentence": "The manager explained the new safety policy.",
+          "meaningJa": "方針、規定"
+        },
+        {
+          "word": "safety policy",
+          "meaningKo": "안전 정책",
+          "exampleSentence": "The manager explained the safety policy.",
+          "meaningJa": "安全方針"
+        },
+        {
+          "word": "confidently",
+          "meaningKo": "자신 있게",
+          "exampleSentence": "She spoke confidently about the plan.",
+          "meaningJa": "自信を持って"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "policy",
+        "meaningKo": "정책, 방침",
+        "exampleSentence": "The manager explained the new safety policy.",
+        "meaningJa": "方針、規定"
+      },
+      "explanationJa": "正解は C. confidently です。空所が文の中で何を修飾しているかを確認します。「The manager spoke _____ about the new safety policy.」では confidently が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The manager spoke _____ about the new safety policy.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 4
+    },
+    {
+      "id": "r5-005",
+      "part": "reading_part_5",
+      "skill": "conjunctions",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "_____ the weather was severe, the delivery arrived on time.",
+      "options": [
+        "A. Despite",
+        "B. Although",
+        "C. Because",
+        "D. Therefore"
+      ],
+      "correctOption": "B",
+      "explanationEn": "'Although' introduces a full clause with a subject and verb.",
+      "explanationKo": "'Although' 뒤에는 주어와 동사가 있는 절이 올 수 있습니다.",
+      "koreanLearnerHint": "'Despite' 뒤에는 명사나 동명사가 오고, 'Although' 뒤에는 절이 옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "severe",
+          "meaningKo": "심한, 극심한",
+          "exampleSentence": "The weather was severe, but the delivery arrived.",
+          "meaningJa": "厳しい、深刻な"
+        },
+        {
+          "word": "severe weather",
+          "meaningKo": "악천후",
+          "exampleSentence": "The delivery arrived despite severe weather.",
+          "meaningJa": "悪天候"
+        },
+        {
+          "word": "on time",
+          "meaningKo": "제시간에",
+          "exampleSentence": "The delivery arrived on time.",
+          "meaningJa": "時間通りに"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "severe",
+        "meaningKo": "심한, 극심한",
+        "exampleSentence": "The weather was severe, but the delivery arrived.",
+        "meaningJa": "厳しい、深刻な"
+      },
+      "explanationJa": "正解は B. Although です。接続語は前後の意味関係で選びます。この文では「_____ the weather was severe, the delivery arrived on time.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。Although はその関係を自然に示します。",
+      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「_____ the weather was severe, the delivery arrived on time.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "exerciseNumber": 5
+    },
+    {
+      "id": "r5-006",
+      "part": "reading_part_5",
+      "skill": "word form",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The customer service team responded _____ to all complaints.",
+      "options": [
+        "A. prompt",
+        "B. promptly",
+        "C. promptness",
+        "D. prompting"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The blank describes how the team responded, so the adverb 'promptly' is needed.",
+      "explanationKo": "빈칸은 팀이 어떻게 응답했는지를 설명하므로 부사 'promptly'가 필요합니다.",
+      "koreanLearnerHint": "동사를 꾸미는 자리에는 형용사가 아니라 부사가 오는 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "promptly",
+          "meaningKo": "신속하게",
+          "exampleSentence": "The team responded promptly to the complaint.",
+          "meaningJa": "迅速に"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "promptly",
+        "meaningKo": "신속하게",
+        "exampleSentence": "The team responded promptly to the complaint.",
+        "meaningJa": "迅速に"
+      },
+      "explanationJa": "正解は B. promptly です。空所が文の中で何を修飾しているかを確認します。「The customer service team responded _____ to all complaints.」では promptly が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The customer service team responded _____ to all complaints.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 6
+    },
+    {
+      "id": "r5-007",
+      "part": "reading_part_5",
+      "skill": "prepositions",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The training session will begin _____ 9:30 A.M.",
+      "options": [
+        "A. at",
+        "B. on",
+        "C. in",
+        "D. by"
+      ],
+      "correctOption": "A",
+      "explanationEn": "Use 'at' with exact times such as 9:30 A.M.",
+      "explanationKo": "9:30 A.M.처럼 정확한 시간 앞에는 전치사 'at'을 사용합니다.",
+      "koreanLearnerHint": "영어에서는 시간 표현의 종류에 따라 at, on, in을 구분해야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "training session",
+          "meaningKo": "교육 세션",
+          "exampleSentence": "The training session begins at 9:30 A.M.",
+          "meaningJa": "研修セッション"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "training session",
+        "meaningKo": "교육 세션",
+        "exampleSentence": "The training session begins at 9:30 A.M.",
+        "meaningJa": "研修セッション"
+      },
+      "explanationJa": "正解は A. at です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「9:30」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The training session will begin _____ 9:30 A.M.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "exerciseNumber": 7
+    },
+    {
+      "id": "r5-008",
+      "part": "reading_part_5",
+      "skill": "articles",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The company opened _____ new branch near Busan Station.",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. no article"
+      ],
+      "correctOption": "A",
+      "explanationEn": "Use 'a' before a singular countable noun when introducing it for the first time.",
+      "explanationKo": "처음 언급하는 단수 가산명사 앞에는 부정관사 'a'를 사용합니다.",
+      "koreanLearnerHint": "한국어에는 관사가 없기 때문에 branch 같은 단수 가산명사 앞 관사를 놓치기 쉽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "branch",
+          "meaningKo": "지점",
+          "exampleSentence": "The company opened a new branch.",
+          "meaningJa": "支店"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "branch",
+        "meaningKo": "지점",
+        "exampleSentence": "The company opened a new branch.",
+        "meaningJa": "支店"
+      },
+      "explanationJa": "正解は A. a です。空所の後ろにある名詞句を見ます。この文では「The company opened _____ new branch near Busan Station.」の空所に a が入り、後ろの名詞の数や音に合います。日本語には冠詞がないため、意味だけでなく名詞が単数か、母音で始まる音か、初出か既出かを確認するのがポイントです。",
+      "japaneseLearnerHint": "空所の直後の名詞を見てください。「The company opened _____ new branch near Busan Station.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "exerciseNumber": 8
+    },
+    {
+      "id": "r5-009",
+      "part": "reading_part_5",
+      "skill": "verb tense",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The accounting department _____ the budget before the meeting starts.",
+      "options": [
+        "A. review",
+        "B. reviewed",
+        "C. will review",
+        "D. has reviewed"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The action is expected to happen before a future meeting, so 'will review' fits.",
+      "explanationKo": "회의가 시작되기 전에 일어날 미래의 일을 말하므로 'will review'가 자연스럽습니다.",
+      "koreanLearnerHint": "before가 있어도 문맥이 미래이면 미래 시제를 선택해야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "budget",
+          "meaningKo": "예산",
+          "exampleSentence": "The department will review the budget.",
+          "meaningJa": "予算"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "budget",
+        "meaningKo": "예산",
+        "exampleSentence": "The department will review the budget.",
+        "meaningJa": "予算"
+      },
+      "explanationJa": "正解は C. will review です。時制問題では、文中の時間表現を先に拾います。この文では「before」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「The accounting department _____ the budget before the meeting starts.」の中の過去・未来・継続の合図が得点源です。",
+      "exerciseNumber": 9
+    },
+    {
+      "id": "r5-010",
+      "part": "reading_part_5",
+      "skill": "conjunctions",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The shipment was delayed _____ the warehouse had already prepared the order.",
+      "options": [
+        "A. even though",
+        "B. because",
+        "C. therefore",
+        "D. unless"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Even though' shows contrast between the delay and the prepared order.",
+      "explanationKo": "배송 지연과 이미 준비된 주문 사이의 대조를 나타내므로 'even though'가 맞습니다.",
+      "koreanLearnerHint": "대조 관계인지 원인 관계인지 먼저 파악하면 접속사 문제를 풀기 쉽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "shipment",
+          "meaningKo": "배송, 선적",
+          "exampleSentence": "The shipment was delayed.",
+          "meaningJa": "配送、出荷"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "shipment",
+        "meaningKo": "배송, 선적",
+        "exampleSentence": "The shipment was delayed.",
+        "meaningJa": "配送、出荷"
+      },
+      "explanationJa": "正解は A. even though です。接続語は前後の意味関係で選びます。この文では「The shipment was delayed _____ the warehouse had already prepared the order.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。even though はその関係を自然に示します。",
+      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「The shipment was delayed _____ the warehouse had already prepared the order.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "exerciseNumber": 10
+    },
+    {
+      "id": "r5-011",
+      "part": "reading_part_5",
+      "skill": "vocabulary",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "Employees must _____ their identification badges while inside the building.",
+      "options": [
+        "A. wear",
+        "B. spend",
+        "C. attend",
+        "D. reserve"
+      ],
+      "correctOption": "A",
+      "explanationEn": "You 'wear' a badge. The other choices do not collocate with identification badges.",
+      "explanationKo": "배지는 'wear'한다고 표현합니다. 다른 선택지는 identification badges와 어울리지 않습니다.",
+      "koreanLearnerHint": "TOEIC에서는 단어 뜻뿐 아니라 함께 쓰이는 표현(collocation)이 중요합니다.",
+      "vocabularyItems": [
+        {
+          "word": "identification badge",
+          "meaningKo": "신분증 배지",
+          "exampleSentence": "Employees must wear identification badges.",
+          "meaningJa": "身分証バッジ"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "identification badge",
+        "meaningKo": "신분증 배지",
+        "exampleSentence": "Employees must wear identification badges.",
+        "meaningJa": "身分証バッジ"
+      },
+      "explanationJa": "正解は A. wear です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「Employees must _____ their identification badges while inside the building.」では wear が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Employees must _____ their identification badges while inside the building.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 11
+    },
+    {
+      "id": "r5-012",
+      "part": "reading_part_5",
+      "skill": "comparatives",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "This year's conference room is _____ than the one we used last year.",
+      "options": [
+        "A. spacious",
+        "B. more spacious",
+        "C. most spacious",
+        "D. spaciousness"
+      ],
+      "correctOption": "B",
+      "explanationEn": "'Than' signals a comparative form, so 'more spacious' is correct.",
+      "explanationKo": "'than'이 있으므로 비교급 'more spacious'가 필요합니다.",
+      "koreanLearnerHint": "than은 비교급을 찾으라는 강한 단서입니다.",
+      "vocabularyItems": [
+        {
+          "word": "spacious",
+          "meaningKo": "넓은",
+          "exampleSentence": "The conference room is more spacious.",
+          "meaningJa": "広々とした"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "spacious",
+        "meaningKo": "넓은",
+        "exampleSentence": "The conference room is more spacious.",
+        "meaningJa": "広々とした"
+      },
+      "explanationJa": "正解は B. more spacious です。比較問題では than や as ... as のような比較の合図を探します。「This year's conference room is _____ than the one we used last year.」では比較対象が示されているため、原級や最上級ではなく比較級が必要です。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「This year's conference room is _____ than the one we used last year.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 12
+    },
+    {
+      "id": "r5-013",
+      "part": "reading_part_5",
+      "skill": "pronouns",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "Each employee should submit _____ timesheet by Friday.",
+      "options": [
+        "A. their",
+        "B. its",
+        "C. his or her",
+        "D. them"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'Each employee' is singular, so a singular possessive phrase is needed.",
+      "explanationKo": "'Each employee'는 단수 취급하므로 단수 소유 표현이 필요합니다.",
+      "koreanLearnerHint": "each, every 뒤의 명사는 단수로 보고 동사와 대명사를 맞춰야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "timesheet",
+          "meaningKo": "근무 시간 기록표",
+          "exampleSentence": "Each employee should submit a timesheet.",
+          "meaningJa": "勤務時間表"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "timesheet",
+        "meaningKo": "근무 시간 기록표",
+        "exampleSentence": "Each employee should submit a timesheet.",
+        "meaningJa": "勤務時間表"
+      },
+      "explanationJa": "正解は C. his or her です。代名詞は、前に出た名詞の単数・複数や人称に合わせます。「Each employee should submit _____ timesheet by Friday.」では、代名詞が何を受けるのかを先に決める必要があります。",
+      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「Each employee should submit _____ timesheet by Friday.」では中心になる名詞を探してから選択肢を見ましょう。",
+      "exerciseNumber": 13
+    },
+    {
+      "id": "r5-014",
+      "part": "reading_part_5",
+      "skill": "modals",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "Visitors _____ sign in at the reception desk before entering.",
+      "options": [
+        "A. must",
+        "B. would",
+        "C. might",
+        "D. used to"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Must' expresses a requirement, which fits the visitor rule.",
+      "explanationKo": "방문객 규칙처럼 의무를 나타낼 때는 'must'가 적절합니다.",
+      "koreanLearnerHint": "규칙, 안내문, 사내 공지에서는 must, should, are required to가 자주 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "reception desk",
+          "meaningKo": "접수처",
+          "exampleSentence": "Visitors must sign in at the reception desk.",
+          "meaningJa": "受付"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "reception desk",
+        "meaningKo": "접수처",
+        "exampleSentence": "Visitors must sign in at the reception desk.",
+        "meaningJa": "受付"
+      },
+      "explanationJa": "正解は A. must です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「Visitors _____ sign in at the reception desk before entering.」では must の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Visitors _____ sign in at the reception desk before entering.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 14
+    },
+    {
+      "id": "r5-015",
+      "part": "reading_part_5",
+      "skill": "subject-verb agreement",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The list of available rooms _____ posted near the elevator.",
+      "options": [
+        "A. are",
+        "B. were",
+        "C. is",
+        "D. have been"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The subject is 'list', which is singular, so 'is' is correct.",
+      "explanationKo": "주어는 'rooms'가 아니라 단수명사 'list'이므로 'is'가 맞습니다.",
+      "koreanLearnerHint": "전치사구 of available rooms에 속지 말고 진짜 주어를 찾으세요.",
+      "vocabularyItems": [
+        {
+          "word": "available",
+          "meaningKo": "이용 가능한",
+          "exampleSentence": "The list of available rooms is posted.",
+          "meaningJa": "利用可能な"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "available",
+        "meaningKo": "이용 가능한",
+        "exampleSentence": "The list of available rooms is posted.",
+        "meaningJa": "利用可能な"
+      },
+      "explanationJa": "正解は C. is です。主語と動詞の一致では、動詞に対応する本当の主語を探します。「The list of available rooms _____ posted near the elevator.」では、途中の of 句や説明語に引っ張られず、中心名詞が単数か複数かを確認します。",
+      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「The list of available rooms _____ posted near the elevator.」では中心になる名詞を探してから選択肢を見ましょう。",
+      "exerciseNumber": 15
+    },
+    {
+      "id": "r5-016",
+      "part": "reading_part_5",
+      "skill": "infinitives",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The director asked the team _____ the proposal by Monday.",
+      "options": [
+        "A. revise",
+        "B. revising",
+        "C. to revise",
+        "D. revised"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The pattern is 'ask someone to do something'.",
+      "explanationKo": "'ask someone to do something' 구조이므로 'to revise'가 필요합니다.",
+      "koreanLearnerHint": "동사 패턴을 외우면 Part 5에서 빠르게 답을 고를 수 있습니다.",
+      "vocabularyItems": [
+        {
+          "word": "revise",
+          "meaningKo": "수정하다",
+          "exampleSentence": "The team needs to revise the proposal.",
+          "meaningJa": "修正する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "revise",
+        "meaningKo": "수정하다",
+        "exampleSentence": "The team needs to revise the proposal.",
+        "meaningJa": "修正する"
+      },
+      "explanationJa": "正解は C. to revise です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The director asked the team _____ the proposal by Monday.」では to revise の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The director asked the team _____ the proposal by Monday.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 16
+    },
+    {
+      "id": "r5-017",
+      "part": "reading_part_5",
+      "skill": "participles",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The _____ documents should be placed in the archive room.",
+      "options": [
+        "A. approve",
+        "B. approving",
+        "C. approved",
+        "D. approval"
+      ],
+      "correctOption": "C",
+      "explanationEn": "Documents that have received approval are 'approved documents'.",
+      "explanationKo": "승인된 문서를 의미하므로 과거분사 'approved'가 맞습니다.",
+      "koreanLearnerHint": "명사가 동작을 받는 관계이면 과거분사를 쓰는 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "archive room",
+          "meaningKo": "문서 보관실",
+          "exampleSentence": "The documents are in the archive room.",
+          "meaningJa": "文書保管室"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "archive room",
+        "meaningKo": "문서 보관실",
+        "exampleSentence": "The documents are in the archive room.",
+        "meaningJa": "文書保管室"
+      },
+      "explanationJa": "正解は C. approved です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The _____ documents should be placed in the archive room.」では approved の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The _____ documents should be placed in the archive room.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 17
+    },
+    {
+      "id": "r5-018",
+      "part": "reading_part_5",
+      "skill": "adverbs",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The new printer operates very _____.",
+      "options": [
+        "A. quiet",
+        "B. quietly",
+        "C. quietness",
+        "D. quieter"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The blank modifies the verb 'operates', so an adverb is required.",
+      "explanationKo": "빈칸은 동사 'operates'를 꾸미므로 부사 'quietly'가 필요합니다.",
+      "koreanLearnerHint": "동사 뒤에서 방식이나 정도를 설명하면 부사를 먼저 의심하세요.",
+      "vocabularyItems": [
+        {
+          "word": "operate",
+          "meaningKo": "작동하다",
+          "exampleSentence": "The printer operates quietly.",
+          "meaningJa": "作動する、運営する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "operate",
+        "meaningKo": "작동하다",
+        "exampleSentence": "The printer operates quietly.",
+        "meaningJa": "作動する、運営する"
+      },
+      "explanationJa": "正解は B. quietly です。空所が文の中で何を修飾しているかを確認します。「The new printer operates very _____.」では quietly が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The new printer operates very _____.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 18
+    },
+    {
+      "id": "r5-019",
+      "part": "reading_part_5",
+      "skill": "vocabulary",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The hotel offers a _____ shuttle service to the airport.",
+      "options": [
+        "A. complimentary",
+        "B. completed",
+        "C. complicated",
+        "D. comparable"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Complimentary' means free, which fits a hotel shuttle service.",
+      "explanationKo": "'complimentary'는 무료라는 뜻으로 호텔 셔틀 서비스와 잘 어울립니다.",
+      "koreanLearnerHint": "비슷하게 생긴 단어를 뜻으로 구분하는 문제는 TOEIC에서 자주 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "complimentary",
+          "meaningKo": "무료의",
+          "exampleSentence": "The hotel offers a complimentary shuttle.",
+          "meaningJa": "無料の"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "complimentary",
+        "meaningKo": "무료의",
+        "exampleSentence": "The hotel offers a complimentary shuttle.",
+        "meaningJa": "無料の"
+      },
+      "explanationJa": "正解は A. complimentary です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The hotel offers a _____ shuttle service to the airport.」では complimentary が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The hotel offers a _____ shuttle service to the airport.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 19
+    },
+    {
+      "id": "r5-020",
+      "part": "reading_part_5",
+      "skill": "conditionals",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "If the machine _____ again, please contact maintenance immediately.",
+      "options": [
+        "A. fail",
+        "B. fails",
+        "C. failed",
+        "D. failing"
+      ],
+      "correctOption": "B",
+      "explanationEn": "In a real future condition, use the present simple after 'if'.",
+      "explanationKo": "실현 가능한 미래 조건에서는 if절에 현재시제를 사용하므로 'fails'가 맞습니다.",
+      "koreanLearnerHint": "if절 안에 미래 의미가 있어도 보통 will을 쓰지 않고 현재시제를 씁니다.",
+      "vocabularyItems": [
+        {
+          "word": "maintenance",
+          "meaningKo": "정비, 유지 보수",
+          "exampleSentence": "Please contact maintenance immediately.",
+          "meaningJa": "保守、整備"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "maintenance",
+        "meaningKo": "정비, 유지 보수",
+        "exampleSentence": "Please contact maintenance immediately.",
+        "meaningJa": "保守、整備"
+      },
+      "explanationJa": "正解は B. fails です。「If the machine _____ again, please contact maintenance immediately.」で問われている文法機能を確認し、英語の語順・品詞・決まった表現に合う選択肢を選びます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「If the machine _____ again, please contact maintenance immediately.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 20
+    },
+    {
+      "id": "r5-021",
+      "part": "reading_part_5",
+      "skill": "prepositions",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The revised schedule will be posted _____ the employee bulletin board.",
+      "options": [
+        "A. on",
+        "B. at",
+        "C. by",
+        "D. to"
+      ],
+      "correctOption": "A",
+      "explanationEn": "Use 'on' when information is displayed on a board, wall, or screen.",
+      "explanationKo": "게시판이나 벽, 화면 위에 정보가 표시될 때는 전치사 'on'을 사용합니다.",
+      "koreanLearnerHint": "한국어의 '-에'는 여러 의미로 쓰이지만, 영어에서는 표면 위에 붙어 있거나 표시된 정보에는 보통 'on'을 씁니다.",
+      "vocabularyItems": [
+        {
+          "word": "revised schedule",
+          "meaningKo": "수정된 일정",
+          "exampleSentence": "The revised schedule will be posted today.",
+          "meaningJa": "修正された予定"
+        },
+        {
+          "word": "bulletin board",
+          "meaningKo": "게시판",
+          "exampleSentence": "Please check the bulletin board for updates.",
+          "meaningJa": "掲示板"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "revised schedule",
+        "meaningKo": "수정된 일정",
+        "exampleSentence": "The revised schedule will be posted today.",
+        "meaningJa": "修正された予定"
+      },
+      "explanationJa": "正解は A. on です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「The revised schedule will be posted _____ the employee bulletin board.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The revised schedule will be posted _____ the employee bulletin board.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "exerciseNumber": 21
+    },
+    {
+      "id": "r5-022",
+      "part": "reading_part_5",
+      "skill": "word form",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The receptionist greeted each visitor _____.",
+      "options": [
+        "A. courteous",
+        "B. courtesy",
+        "C. courteously",
+        "D. courteousness"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The blank describes how the receptionist greeted visitors, so an adverb is needed.",
+      "explanationKo": "빈칸은 접수 담당자가 방문객을 어떻게 맞이했는지를 설명하므로 부사 'courteously'가 필요합니다.",
+      "koreanLearnerHint": "동사를 꾸미는 자리에는 형용사가 아니라 부사가 오는 경우가 많습니다. Part 5에서는 품사 위치를 먼저 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "receptionist",
+          "meaningKo": "접수 담당자",
+          "exampleSentence": "The receptionist greeted each visitor.",
+          "meaningJa": "受付係"
+        },
+        {
+          "word": "courteously",
+          "meaningKo": "정중하게",
+          "exampleSentence": "The staff spoke courteously to customers.",
+          "meaningJa": "丁寧に"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "receptionist",
+        "meaningKo": "접수 담당자",
+        "exampleSentence": "The receptionist greeted each visitor.",
+        "meaningJa": "受付係"
+      },
+      "explanationJa": "正解は C. courteously です。空所が文の中で何を修飾しているかを確認します。「The receptionist greeted each visitor _____.」では courteously が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The receptionist greeted each visitor _____.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 22
+    },
+    {
+      "id": "r5-023",
+      "part": "reading_part_5",
+      "skill": "verb tense",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "By the time the conference begins, all name tags _____.",
+      "options": [
+        "A. prepare",
+        "B. prepared",
+        "C. will have been prepared",
+        "D. preparing"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'By the time' with a future reference often requires the future perfect for an action completed before that point.",
+      "explanationKo": "미래의 특정 시점 전에 완료될 일을 나타내므로 미래완료 수동형 'will have been prepared'가 알맞습니다.",
+      "koreanLearnerHint": "'by the time'은 완료 시점을 알려 주는 단서입니다. 이름표는 준비되는 대상이므로 수동형도 함께 필요합니다.",
+      "vocabularyItems": [
+        {
+          "word": "conference",
+          "meaningKo": "회의, 학회",
+          "exampleSentence": "The conference begins at nine.",
+          "meaningJa": "会議"
+        },
+        {
+          "word": "name tag",
+          "meaningKo": "이름표",
+          "exampleSentence": "All name tags will be prepared in advance.",
+          "meaningJa": "名札"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "conference",
+        "meaningKo": "회의, 학회",
+        "exampleSentence": "The conference begins at nine.",
+        "meaningJa": "会議"
+      },
+      "explanationJa": "正解は C. will have been prepared です。時制問題では、文中の時間表現を先に拾います。この文では「By the time the conference begins, all name tags _____.」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「By the time the conference begins, all name tags _____.」の中の過去・未来・継続の合図が得点源です。",
+      "exerciseNumber": 23
+    },
+    {
+      "id": "r5-024",
+      "part": "reading_part_5",
+      "skill": "conjunctions",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "Please contact the supervisor _____ you need additional safety equipment.",
+      "options": [
+        "A. if",
+        "B. so",
+        "C. until",
+        "D. yet"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'If' introduces a condition: contact the supervisor in the situation that equipment is needed.",
+      "explanationKo": "추가 안전 장비가 필요한 경우라는 조건을 나타내므로 'if'가 알맞습니다.",
+      "koreanLearnerHint": "조건을 나타내는 '-면'은 영어에서 보통 'if'로 연결합니다. 뒤에 주어와 동사가 있는 절이 올 수 있습니다.",
+      "vocabularyItems": [
+        {
+          "word": "supervisor",
+          "meaningKo": "관리자, 감독자",
+          "exampleSentence": "Please contact the supervisor.",
+          "meaningJa": "上司、監督者"
+        },
+        {
+          "word": "safety equipment",
+          "meaningKo": "안전 장비",
+          "exampleSentence": "Workers must wear safety equipment.",
+          "meaningJa": "安全装備"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "supervisor",
+        "meaningKo": "관리자, 감독자",
+        "exampleSentence": "Please contact the supervisor.",
+        "meaningJa": "上司、監督者"
+      },
+      "explanationJa": "正解は A. if です。接続語は前後の意味関係で選びます。この文では「Please contact the supervisor _____ you need additional safety equipment.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。if はその関係を自然に示します。",
+      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「Please contact the supervisor _____ you need additional safety equipment.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "exerciseNumber": 24
+    },
+    {
+      "id": "r5-025",
+      "part": "reading_part_5",
+      "skill": "articles",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "Our department is looking for _____ experienced technician.",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. no article"
+      ],
+      "correctOption": "B",
+      "explanationEn": "Use 'an' before a vowel sound. 'Experienced' begins with a vowel sound.",
+      "explanationKo": "'experienced'는 모음 소리로 시작하므로 부정관사 'an'을 사용합니다.",
+      "koreanLearnerHint": "관사는 철자가 아니라 발음으로 판단해야 합니다. 모음 소리 앞에는 'an'이 옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "experienced",
+          "meaningKo": "경험이 많은",
+          "exampleSentence": "They hired an experienced technician.",
+          "meaningJa": "経験豊富な"
+        },
+        {
+          "word": "technician",
+          "meaningKo": "기술자",
+          "exampleSentence": "The technician repaired the machine.",
+          "meaningJa": "技術者"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "experienced",
+        "meaningKo": "경험이 많은",
+        "exampleSentence": "They hired an experienced technician.",
+        "meaningJa": "経験豊富な"
+      },
+      "explanationJa": "正解は B. an です。空所の後ろにある名詞句を見ます。この文では「Our department is looking for _____ experienced technician.」の空所に an が入り、後ろの名詞の数や音に合います。日本語には冠詞がないため、意味だけでなく名詞が単数か、母音で始まる音か、初出か既出かを確認するのがポイントです。",
+      "japaneseLearnerHint": "空所の直後の名詞を見てください。「Our department is looking for _____ experienced technician.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "exerciseNumber": 25
+    },
+    {
+      "id": "r5-026",
+      "part": "reading_part_5",
+      "skill": "subject-verb agreement",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "Each of the applicants _____ required to submit two references.",
+      "options": [
+        "A. are",
+        "B. were",
+        "C. is",
+        "D. have been"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'Each' is singular, so the singular verb 'is' is required.",
+      "explanationKo": "'Each'는 단수 취급하므로 단수 동사 'is'가 필요합니다.",
+      "koreanLearnerHint": "'of the applicants'에 복수 명사가 있어도 문장의 핵심 주어는 'Each'입니다.",
+      "vocabularyItems": [
+        {
+          "word": "applicant",
+          "meaningKo": "지원자",
+          "exampleSentence": "Each applicant must submit references.",
+          "meaningJa": "応募者"
+        },
+        {
+          "word": "reference",
+          "meaningKo": "추천인, 참고 자료",
+          "exampleSentence": "Please submit two references.",
+          "meaningJa": "参照、推薦状"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "applicant",
+        "meaningKo": "지원자",
+        "exampleSentence": "Each applicant must submit references.",
+        "meaningJa": "応募者"
+      },
+      "explanationJa": "正解は C. is です。主語と動詞の一致では、動詞に対応する本当の主語を探します。「Each of the applicants _____ required to submit two references.」では、途中の of 句や説明語に引っ張られず、中心名詞が単数か複数かを確認します。",
+      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「Each of the applicants _____ required to submit two references.」では中心になる名詞を探してから選択肢を見ましょう。",
+      "exerciseNumber": 26
+    },
+    {
+      "id": "r5-027",
+      "part": "reading_part_5",
+      "skill": "vocabulary",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The factory will _____ production next week after the equipment inspection.",
+      "options": [
+        "A. resume",
+        "B. remind",
+        "C. replace",
+        "D. request"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Resume production' means to start production again after a pause.",
+      "explanationKo": "'resume production'은 중단되었던 생산을 다시 시작한다는 뜻입니다.",
+      "koreanLearnerHint": "'resume'은 명사로는 이력서라는 뜻도 있지만, 동사로는 '다시 시작하다'라는 뜻이 TOEIC에서 자주 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "resume production",
+          "meaningKo": "생산을 재개하다",
+          "exampleSentence": "The factory will resume production next week.",
+          "meaningJa": "生産を再開する"
+        },
+        {
+          "word": "equipment inspection",
+          "meaningKo": "장비 점검",
+          "exampleSentence": "The inspection will finish on Friday.",
+          "meaningJa": "設備点検"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "resume production",
+        "meaningKo": "생산을 재개하다",
+        "exampleSentence": "The factory will resume production next week.",
+        "meaningJa": "生産を再開する"
+      },
+      "explanationJa": "正解は A. resume です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The factory will _____ production next week after the equipment inspection.」では resume が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The factory will _____ production next week after the equipment inspection.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 27
+    },
+    {
+      "id": "r5-028",
+      "part": "reading_part_5",
+      "skill": "adverbs",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The online order was processed almost _____ after payment was confirmed.",
+      "options": [
+        "A. immediate",
+        "B. immediately",
+        "C. immediacy",
+        "D. more immediate"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The adverb 'immediately' describes how quickly the order was processed.",
+      "explanationKo": "주문이 처리된 방식을 설명하므로 부사 'immediately'가 필요합니다.",
+      "koreanLearnerHint": "'almost' 뒤에도 동작을 설명하는 부사가 올 수 있습니다. 선택지의 품사를 비교하세요.",
+      "vocabularyItems": [
+        {
+          "word": "process an order",
+          "meaningKo": "주문을 처리하다",
+          "exampleSentence": "The order was processed immediately.",
+          "meaningJa": "注文を処理する"
+        },
+        {
+          "word": "payment",
+          "meaningKo": "결제, 지불",
+          "exampleSentence": "Payment was confirmed this morning.",
+          "meaningJa": "支払い"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "process an order",
+        "meaningKo": "주문을 처리하다",
+        "exampleSentence": "The order was processed immediately.",
+        "meaningJa": "注文を処理する"
+      },
+      "explanationJa": "正解は B. immediately です。空所が文の中で何を修飾しているかを確認します。「The online order was processed almost _____ after payment was confirmed.」では immediately が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The online order was processed almost _____ after payment was confirmed.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 28
+    },
+    {
+      "id": "r5-029",
+      "part": "reading_part_5",
+      "skill": "pronouns",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The marketing team shared _____ final proposal with the client.",
+      "options": [
+        "A. they",
+        "B. them",
+        "C. their",
+        "D. themselves"
+      ],
+      "correctOption": "C",
+      "explanationEn": "A possessive adjective is needed before the noun phrase 'final proposal.'",
+      "explanationKo": "명사구 'final proposal' 앞에는 소유를 나타내는 형용사 'their'가 필요합니다.",
+      "koreanLearnerHint": "빈칸 뒤에 명사가 바로 오면 소유격 형용사인지 확인하세요. 'they'나 'them'은 명사를 직접 꾸미지 못합니다.",
+      "vocabularyItems": [
+        {
+          "word": "final proposal",
+          "meaningKo": "최종 제안서",
+          "exampleSentence": "The team shared their final proposal.",
+          "meaningJa": "最終提案書"
+        },
+        {
+          "word": "client",
+          "meaningKo": "고객, 의뢰인",
+          "exampleSentence": "The client reviewed the proposal.",
+          "meaningJa": "顧客"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "final proposal",
+        "meaningKo": "최종 제안서",
+        "exampleSentence": "The team shared their final proposal.",
+        "meaningJa": "最終提案書"
+      },
+      "explanationJa": "正解は C. their です。代名詞は、前に出た名詞の単数・複数や人称に合わせます。「The marketing team shared _____ final proposal with the client.」では、代名詞が何を受けるのかを先に決める必要があります。",
+      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「The marketing team shared _____ final proposal with the client.」では中心になる名詞を探してから選択肢を見ましょう。",
+      "exerciseNumber": 29
+    },
+    {
+      "id": "r5-030",
+      "part": "reading_part_5",
+      "skill": "comparatives",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "This printer is _____ than the model we purchased last year.",
+      "options": [
+        "A. efficient",
+        "B. more efficient",
+        "C. most efficient",
+        "D. efficiently"
+      ],
+      "correctOption": "B",
+      "explanationEn": "'Than' signals a comparison between two items, so the comparative form is needed.",
+      "explanationKo": "'than'이 두 대상을 비교하고 있으므로 비교급 'more efficient'가 필요합니다.",
+      "koreanLearnerHint": "긴 형용사는 보통 '-er' 대신 'more + 형용사'로 비교급을 만듭니다.",
+      "vocabularyItems": [
+        {
+          "word": "efficient",
+          "meaningKo": "효율적인",
+          "exampleSentence": "This printer is more efficient.",
+          "meaningJa": "効率的な"
+        },
+        {
+          "word": "model",
+          "meaningKo": "모델, 기종",
+          "exampleSentence": "The new model uses less electricity.",
+          "meaningJa": "モデル、型"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "efficient",
+        "meaningKo": "효율적인",
+        "exampleSentence": "This printer is more efficient.",
+        "meaningJa": "効率的な"
+      },
+      "explanationJa": "正解は B. more efficient です。比較問題では than や as ... as のような比較の合図を探します。「This printer is _____ than the model we purchased last year.」では比較対象が示されているため、原級や最上級ではなく比較級が必要です。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「This printer is _____ than the model we purchased last year.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 30
+    },
+    {
+      "id": "r5-031",
+      "part": "reading_part_5",
+      "skill": "infinitives",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The training video explains how _____ the new inventory system.",
+      "options": [
+        "A. use",
+        "B. using",
+        "C. to use",
+        "D. used"
+      ],
+      "correctOption": "C",
+      "explanationEn": "After 'how,' use the infinitive form 'to use' to explain a method.",
+      "explanationKo": "방법을 설명하는 'how' 뒤에는 부정사 'to use'를 사용할 수 있습니다.",
+      "koreanLearnerHint": "'how to + 동사원형'은 '~하는 방법'이라는 TOEIC 빈출 구조입니다.",
+      "vocabularyItems": [
+        {
+          "word": "inventory system",
+          "meaningKo": "재고 관리 시스템",
+          "exampleSentence": "The video explains how to use the system.",
+          "meaningJa": "在庫管理システム"
+        },
+        {
+          "word": "training video",
+          "meaningKo": "교육 영상",
+          "exampleSentence": "Please watch the training video.",
+          "meaningJa": "研修動画"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "inventory system",
+        "meaningKo": "재고 관리 시스템",
+        "exampleSentence": "The video explains how to use the system.",
+        "meaningJa": "在庫管理システム"
+      },
+      "explanationJa": "正解は C. to use です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The training video explains how _____ the new inventory system.」では to use の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The training video explains how _____ the new inventory system.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 31
+    },
+    {
+      "id": "r5-032",
+      "part": "reading_part_5",
+      "skill": "modals",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "Visitors _____ sign in at the front desk before entering the laboratory.",
+      "options": [
+        "A. must",
+        "B. might",
+        "C. would",
+        "D. used to"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Must' expresses a requirement, which fits the sign-in rule.",
+      "explanationKo": "방문객이 반드시 서명해야 한다는 규칙을 나타내므로 'must'가 알맞습니다.",
+      "koreanLearnerHint": "규칙이나 의무를 나타내는 문장에서는 'must' 또는 'have to'가 자주 정답이 됩니다.",
+      "vocabularyItems": [
+        {
+          "word": "sign in",
+          "meaningKo": "방문 기록을 하다, 서명하다",
+          "exampleSentence": "Visitors must sign in at the front desk.",
+          "meaningJa": "署名して入る、チェックインする"
+        },
+        {
+          "word": "laboratory",
+          "meaningKo": "실험실",
+          "exampleSentence": "Visitors cannot enter the laboratory alone.",
+          "meaningJa": "研究室"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "sign in",
+        "meaningKo": "방문 기록을 하다, 서명하다",
+        "exampleSentence": "Visitors must sign in at the front desk.",
+        "meaningJa": "署名して入る、チェックインする"
+      },
+      "explanationJa": "正解は A. must です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「Visitors _____ sign in at the front desk before entering the laboratory.」では must の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Visitors _____ sign in at the front desk before entering the laboratory.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 32
+    },
+    {
+      "id": "r5-033",
+      "part": "reading_part_5",
+      "skill": "participles",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The documents _____ in the blue folder are ready for review.",
+      "options": [
+        "A. place",
+        "B. placing",
+        "C. placed",
+        "D. places"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'Placed in the blue folder' is a reduced passive clause describing the documents.",
+      "explanationKo": "'placed in the blue folder'는 문서를 설명하는 축약된 수동 분사구입니다.",
+      "koreanLearnerHint": "문서가 폴더에 '놓여진' 상태이므로 현재분사보다 과거분사가 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "document",
+          "meaningKo": "문서",
+          "exampleSentence": "The documents are ready for review.",
+          "meaningJa": "文書"
+        },
+        {
+          "word": "ready for review",
+          "meaningKo": "검토할 준비가 된",
+          "exampleSentence": "The report is ready for review.",
+          "meaningJa": "確認できる状態の"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "document",
+        "meaningKo": "문서",
+        "exampleSentence": "The documents are ready for review.",
+        "meaningJa": "文書"
+      },
+      "explanationJa": "正解は C. placed です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The documents _____ in the blue folder are ready for review.」では placed の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The documents _____ in the blue folder are ready for review.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 33
+    },
+    {
+      "id": "r5-034",
+      "part": "reading_part_5",
+      "skill": "conditionals",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "If the shipment arrives before noon, the staff _____ the items today.",
+      "options": [
+        "A. distribute",
+        "B. distributed",
+        "C. will distribute",
+        "D. have distributed"
+      ],
+      "correctOption": "C",
+      "explanationEn": "In a real future condition, use present tense in the if-clause and 'will' in the main clause.",
+      "explanationKo": "실현 가능한 미래 조건문에서는 if절에 현재형을 쓰고, 주절에는 'will'을 사용합니다.",
+      "koreanLearnerHint": "영어 조건문에서는 if절에 미래 의미가 있어도 보통 'will'을 넣지 않습니다. 주절에서 미래를 표시합니다.",
+      "vocabularyItems": [
+        {
+          "word": "shipment",
+          "meaningKo": "배송품, 선적",
+          "exampleSentence": "The shipment arrives before noon.",
+          "meaningJa": "配送、出荷"
+        },
+        {
+          "word": "distribute",
+          "meaningKo": "배포하다, 나누어 주다",
+          "exampleSentence": "The staff will distribute the items.",
+          "meaningJa": "配布する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "shipment",
+        "meaningKo": "배송품, 선적",
+        "exampleSentence": "The shipment arrives before noon.",
+        "meaningJa": "配送、出荷"
+      },
+      "explanationJa": "正解は C. will distribute です。「If the shipment arrives before noon, the staff _____ the items today.」で問われている文法機能を確認し、英語の語順・品詞・決まった表現に合う選択肢を選びます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「If the shipment arrives before noon, the staff _____ the items today.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 34
+    },
+    {
+      "id": "r5-035",
+      "part": "reading_part_5",
+      "skill": "vocabulary",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The hotel offers a _____ shuttle service to the airport every hour.",
+      "options": [
+        "A. complimentary",
+        "B. complicated",
+        "C. comparative",
+        "D. considerable"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Complimentary' means free of charge, which fits a hotel shuttle service.",
+      "explanationKo": "'complimentary'는 무료 제공이라는 뜻으로 호텔 셔틀 서비스 문맥에 알맞습니다.",
+      "koreanLearnerHint": "'complimentary'는 '칭찬하는'이라는 뜻도 있지만, TOEIC 비즈니스 문맥에서는 '무료의'라는 뜻으로 자주 쓰입니다.",
+      "vocabularyItems": [
+        {
+          "word": "complimentary",
+          "meaningKo": "무료의",
+          "exampleSentence": "The hotel offers complimentary breakfast.",
+          "meaningJa": "無料の"
+        },
+        {
+          "word": "shuttle service",
+          "meaningKo": "셔틀 서비스",
+          "exampleSentence": "A shuttle service runs every hour.",
+          "meaningJa": "シャトルサービス"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "complimentary",
+        "meaningKo": "무료의",
+        "exampleSentence": "The hotel offers complimentary breakfast.",
+        "meaningJa": "無料の"
+      },
+      "explanationJa": "正解は A. complimentary です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The hotel offers a _____ shuttle service to the airport every hour.」では complimentary が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The hotel offers a _____ shuttle service to the airport every hour.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 35
+    },
+    {
+      "id": "r5-036",
+      "part": "reading_part_5",
+      "skill": "prepositions",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The finance director is responsible _____ approving travel expenses.",
+      "options": [
+        "A. for",
+        "B. to",
+        "C. with",
+        "D. about"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The expression is 'be responsible for' something or doing something.",
+      "explanationKo": "'~을 책임지다'는 영어로 'be responsible for'라고 표현합니다.",
+      "koreanLearnerHint": "형용사와 함께 쓰이는 전치사는 세트로 외우는 것이 좋습니다. 'responsible for'는 TOEIC에서 자주 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "be responsible for",
+          "meaningKo": "~을 책임지다",
+          "exampleSentence": "She is responsible for approving expenses.",
+          "meaningJa": "担当する、責任がある"
+        },
+        {
+          "word": "travel expenses",
+          "meaningKo": "출장비, 여행 경비",
+          "exampleSentence": "Travel expenses must be approved.",
+          "meaningJa": "旅費"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "be responsible for",
+        "meaningKo": "~을 책임지다",
+        "exampleSentence": "She is responsible for approving expenses.",
+        "meaningJa": "担当する、責任がある"
+      },
+      "explanationJa": "正解は A. for です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「The finance director is responsible _____ approving travel expenses.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The finance director is responsible _____ approving travel expenses.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "exerciseNumber": 36
+    },
+    {
+      "id": "r5-037",
+      "part": "reading_part_5",
+      "skill": "word form",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The consultant's recommendations were both practical and _____.",
+      "options": [
+        "A. afford",
+        "B. affordable",
+        "C. affordability",
+        "D. affordably"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The blank is parallel with the adjective 'practical,' so another adjective is needed.",
+      "explanationKo": "빈칸은 형용사 'practical'과 병렬 구조이므로 또 다른 형용사 'affordable'이 필요합니다.",
+      "koreanLearnerHint": "'both A and B' 구조에서는 A와 B의 품사가 같아야 합니다. 병렬 구조를 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "recommendation",
+          "meaningKo": "추천, 권고",
+          "exampleSentence": "The consultant made several recommendations.",
+          "meaningJa": "推薦、提案"
+        },
+        {
+          "word": "affordable",
+          "meaningKo": "가격이 알맞은",
+          "exampleSentence": "The plan is practical and affordable.",
+          "meaningJa": "手頃な価格の"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "recommendation",
+        "meaningKo": "추천, 권고",
+        "exampleSentence": "The consultant made several recommendations.",
+        "meaningJa": "推薦、提案"
+      },
+      "explanationJa": "正解は B. affordable です。空所が文の中で何を修飾しているかを確認します。「The consultant's recommendations were both practical and _____.」では affordable が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The consultant's recommendations were both practical and _____.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 37
+    },
+    {
+      "id": "r5-038",
+      "part": "reading_part_5",
+      "skill": "conjunctions",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The store will remain open late _____ the renovation work is completed.",
+      "options": [
+        "A. as soon as",
+        "B. even if",
+        "C. so that",
+        "D. due to"
+      ],
+      "correctOption": "B",
+      "explanationEn": "'Even if' means the store will remain open late regardless of whether the work is completed.",
+      "explanationKo": "공사가 완료되더라도 늦게까지 영업한다는 양보의 의미이므로 'even if'가 알맞습니다.",
+      "koreanLearnerHint": "'even if'는 실제 여부와 관계없이 조건을 인정하는 표현입니다. 단순한 시간 표현인 'as soon as'와 구분하세요.",
+      "vocabularyItems": [
+        {
+          "word": "remain open",
+          "meaningKo": "영업을 계속하다",
+          "exampleSentence": "The store will remain open late.",
+          "meaningJa": "営業を続ける"
+        },
+        {
+          "word": "renovation work",
+          "meaningKo": "개조 공사",
+          "exampleSentence": "The renovation work is almost complete.",
+          "meaningJa": "改装工事"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "remain open",
+        "meaningKo": "영업을 계속하다",
+        "exampleSentence": "The store will remain open late.",
+        "meaningJa": "営業を続ける"
+      },
+      "explanationJa": "正解は B. even if です。接続語は前後の意味関係で選びます。この文では「The store will remain open late _____ the renovation work is completed.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。even if はその関係を自然に示します。",
+      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「The store will remain open late _____ the renovation work is completed.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "exerciseNumber": 38
+    },
+    {
+      "id": "r5-039",
+      "part": "reading_part_5",
+      "skill": "adverbs",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The customer survey results were _____ positive.",
+      "options": [
+        "A. high",
+        "B. height",
+        "C. highly",
+        "D. higher"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'Highly' modifies the adjective 'positive.'",
+      "explanationKo": "'positive'라는 형용사를 꾸미는 부사 'highly'가 필요합니다.",
+      "koreanLearnerHint": "형용사를 꾸밀 때도 부사가 필요합니다. 'high positive'가 아니라 'highly positive'입니다.",
+      "vocabularyItems": [
+        {
+          "word": "survey result",
+          "meaningKo": "설문 조사 결과",
+          "exampleSentence": "The survey results were highly positive.",
+          "meaningJa": "調査結果"
+        },
+        {
+          "word": "positive",
+          "meaningKo": "긍정적인",
+          "exampleSentence": "The feedback was positive.",
+          "meaningJa": "肯定的な"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "survey result",
+        "meaningKo": "설문 조사 결과",
+        "exampleSentence": "The survey results were highly positive.",
+        "meaningJa": "調査結果"
+      },
+      "explanationJa": "正解は C. highly です。空所が文の中で何を修飾しているかを確認します。「The customer survey results were _____ positive.」では highly が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The customer survey results were _____ positive.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 39
+    },
+    {
+      "id": "r5-040",
+      "part": "reading_part_5",
+      "skill": "vocabulary",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "To reduce errors, the warehouse introduced a more _____ labeling process.",
+      "options": [
+        "A. accurate",
+        "B. accidental",
+        "C. anxious",
+        "D. available"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Accurate' means correct or exact, which fits a process designed to reduce errors.",
+      "explanationKo": "'accurate'는 정확한이라는 뜻으로 오류를 줄이기 위한 라벨링 절차 문맥에 알맞습니다.",
+      "koreanLearnerHint": "비슷하게 시작하는 형용사 선택지는 뜻을 정확히 구분해야 합니다. 오류를 줄이는 목적에는 'accurate'가 가장 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "reduce errors",
+          "meaningKo": "오류를 줄이다",
+          "exampleSentence": "The new process reduces errors.",
+          "meaningJa": "ミスを減らす"
+        },
+        {
+          "word": "labeling process",
+          "meaningKo": "라벨 부착 절차",
+          "exampleSentence": "The labeling process is more accurate now.",
+          "meaningJa": "ラベル貼り工程"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "reduce errors",
+        "meaningKo": "오류를 줄이다",
+        "exampleSentence": "The new process reduces errors.",
+        "meaningJa": "ミスを減らす"
+      },
+      "explanationJa": "正解は A. accurate です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「To reduce errors, the warehouse introduced a more _____ labeling process.」では accurate が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「To reduce errors, the warehouse introduced a more _____ labeling process.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 40
+    },
+    {
+      "id": "r5-041",
+      "part": "reading_part_5",
+      "skill": "word form",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The payroll department handles salary information _____.",
+      "options": [
+        "A. confidential",
+        "B. confidentiality",
+        "C. confidentially",
+        "D. confide"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The blank describes how the department handles information, so the adverb 'confidentially' is needed.",
+      "explanationKo": "빈칸은 부서가 급여 정보를 어떻게 다루는지를 설명하므로 부사 'confidentially'가 필요합니다.",
+      "koreanLearnerHint": "동사를 꾸미는 자리에는 부사가 옵니다. TOEIC Part 5에서는 품사 위치를 먼저 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "payroll department",
+          "meaningKo": "급여 담당 부서",
+          "exampleSentence": "The payroll department handles salary information.",
+          "meaningJa": "給与課"
+        },
+        {
+          "word": "confidentially",
+          "meaningKo": "기밀로, 비밀리에",
+          "exampleSentence": "Employee records must be handled confidentially.",
+          "meaningJa": "秘密裏に"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "payroll department",
+        "meaningKo": "급여 담당 부서",
+        "exampleSentence": "The payroll department handles salary information.",
+        "meaningJa": "給与課"
+      },
+      "explanationJa": "正解は C. confidentially です。空所が文の中で何を修飾しているかを確認します。「The payroll department handles salary information _____.」では confidentially が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The payroll department handles salary information _____.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 41
+    },
+    {
+      "id": "r5-042",
+      "part": "reading_part_5",
+      "skill": "prepositions",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The new employee orientation will take place _____ the auditorium.",
+      "options": [
+        "A. in",
+        "B. on",
+        "C. to",
+        "D. from"
+      ],
+      "correctOption": "A",
+      "explanationEn": "Use 'in' for an event located inside a room or building such as an auditorium.",
+      "explanationKo": "강당처럼 실내 공간 안에서 행사가 열릴 때는 전치사 'in'을 사용합니다.",
+      "koreanLearnerHint": "장소 전치사는 공간의 성격을 봐야 합니다. 실내 공간 안이면 보통 'in'이 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "orientation",
+          "meaningKo": "오리엔테이션",
+          "exampleSentence": "Orientation will take place in the auditorium.",
+          "meaningJa": "オリエンテーション"
+        },
+        {
+          "word": "auditorium",
+          "meaningKo": "강당",
+          "exampleSentence": "The auditorium is on the first floor.",
+          "meaningJa": "講堂"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "orientation",
+        "meaningKo": "오리엔테이션",
+        "exampleSentence": "Orientation will take place in the auditorium.",
+        "meaningJa": "オリエンテーション"
+      },
+      "explanationJa": "正解は A. in です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「The new employee orientation will take place _____ the auditorium.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The new employee orientation will take place _____ the auditorium.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "exerciseNumber": 42
+    },
+    {
+      "id": "r5-043",
+      "part": "reading_part_5",
+      "skill": "verb tense",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The legal team _____ the revised contract by the end of the week.",
+      "options": [
+        "A. reviews",
+        "B. reviewed",
+        "C. will have reviewed",
+        "D. reviewing"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'By the end of the week' points to completion before a future deadline, so the future perfect is appropriate.",
+      "explanationKo": "'by the end of the week'는 미래의 마감 시점 전 완료를 나타내므로 미래완료형이 적절합니다.",
+      "koreanLearnerHint": "'by + 미래 시점'은 완료 시제를 고르는 강한 단서가 될 수 있습니다.",
+      "vocabularyItems": [
+        {
+          "word": "legal team",
+          "meaningKo": "법무팀",
+          "exampleSentence": "The legal team reviewed the contract.",
+          "meaningJa": "法務チーム"
+        },
+        {
+          "word": "revised contract",
+          "meaningKo": "수정된 계약서",
+          "exampleSentence": "The revised contract is ready.",
+          "meaningJa": "修正された契約書"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "legal team",
+        "meaningKo": "법무팀",
+        "exampleSentence": "The legal team reviewed the contract.",
+        "meaningJa": "法務チーム"
+      },
+      "explanationJa": "正解は C. will have reviewed です。時制問題では、文中の時間表現を先に拾います。この文では「The legal team _____ the revised contract by the end of the week.」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「The legal team _____ the revised contract by the end of the week.」の中の過去・未来・継続の合図が得点源です。",
+      "exerciseNumber": 43
+    },
+    {
+      "id": "r5-044",
+      "part": "reading_part_5",
+      "skill": "articles",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "Mr. Patel gave _____ detailed explanation of the new billing system.",
+      "options": [
+        "A. a",
+        "B. an",
+        "C. the",
+        "D. no article"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Detailed explanation' is a singular countable noun phrase introduced for the first time, so 'a' is needed.",
+      "explanationKo": "'detailed explanation'은 처음 언급되는 단수 가산 명사구이므로 'a'가 필요합니다.",
+      "koreanLearnerHint": "형용사가 붙어도 핵심 명사가 단수 가산명사이면 관사가 필요합니다.",
+      "vocabularyItems": [
+        {
+          "word": "detailed explanation",
+          "meaningKo": "자세한 설명",
+          "exampleSentence": "He gave a detailed explanation.",
+          "meaningJa": "詳しい説明"
+        },
+        {
+          "word": "billing system",
+          "meaningKo": "청구 시스템",
+          "exampleSentence": "The billing system was updated.",
+          "meaningJa": "請求システム"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "detailed explanation",
+        "meaningKo": "자세한 설명",
+        "exampleSentence": "He gave a detailed explanation.",
+        "meaningJa": "詳しい説明"
+      },
+      "explanationJa": "正解は A. a です。空所の後ろにある名詞句を見ます。この文では「Mr. Patel gave _____ detailed explanation of the new billing system.」の空所に a が入り、後ろの名詞の数や音に合います。日本語には冠詞がないため、意味だけでなく名詞が単数か、母音で始まる音か、初出か既出かを確認するのがポイントです。",
+      "japaneseLearnerHint": "空所の直後の名詞を見てください。「Mr. Patel gave _____ detailed explanation of the new billing system.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "exerciseNumber": 44
+    },
+    {
+      "id": "r5-045",
+      "part": "reading_part_5",
+      "skill": "conjunctions",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The museum will extend its hours _____ visitor demand continues to increase.",
+      "options": [
+        "A. if",
+        "B. although",
+        "C. therefore",
+        "D. unless"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'If' introduces the condition under which the museum will extend its hours.",
+      "explanationKo": "방문객 수요가 계속 증가한다는 조건을 나타내므로 'if'가 알맞습니다.",
+      "koreanLearnerHint": "조건을 나타내는 절에는 'if'가 자주 쓰입니다. 결과는 주절에 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "extend hours",
+          "meaningKo": "운영 시간을 연장하다",
+          "exampleSentence": "The museum will extend its hours.",
+          "meaningJa": "営業時間を延長する"
+        },
+        {
+          "word": "visitor demand",
+          "meaningKo": "방문객 수요",
+          "exampleSentence": "Visitor demand has increased.",
+          "meaningJa": "来客需要"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "extend hours",
+        "meaningKo": "운영 시간을 연장하다",
+        "exampleSentence": "The museum will extend its hours.",
+        "meaningJa": "営業時間を延長する"
+      },
+      "explanationJa": "正解は A. if です。接続語は前後の意味関係で選びます。この文では「The museum will extend its hours _____ visitor demand continues to increase.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。if はその関係を自然に示します。",
+      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「The museum will extend its hours _____ visitor demand continues to increase.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "exerciseNumber": 45
+    },
+    {
+      "id": "r5-046",
+      "part": "reading_part_5",
+      "skill": "vocabulary",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "All workshop participants will receive a certificate of _____.",
+      "options": [
+        "A. completion",
+        "B. comparison",
+        "C. complaint",
+        "D. competition"
+      ],
+      "correctOption": "A",
+      "explanationEn": "A 'certificate of completion' is given after finishing a course or workshop.",
+      "explanationKo": "'certificate of completion'은 과정이나 워크숍을 마친 뒤 받는 수료증이라는 뜻입니다.",
+      "koreanLearnerHint": "TOEIC에서는 명사와 명사의 결합 표현이 자주 나옵니다. certificate of completion을 통째로 익히세요.",
+      "vocabularyItems": [
+        {
+          "word": "certificate of completion",
+          "meaningKo": "수료증",
+          "exampleSentence": "Participants receive a certificate of completion.",
+          "meaningJa": "修了証明書"
+        },
+        {
+          "word": "workshop participant",
+          "meaningKo": "워크숍 참가자",
+          "exampleSentence": "Workshop participants signed in at nine.",
+          "meaningJa": "ワークショップ参加者"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "certificate of completion",
+        "meaningKo": "수료증",
+        "exampleSentence": "Participants receive a certificate of completion.",
+        "meaningJa": "修了証明書"
+      },
+      "explanationJa": "正解は A. completion です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「All workshop participants will receive a certificate of _____.」では completion が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「All workshop participants will receive a certificate of _____.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 46
+    },
+    {
+      "id": "r5-047",
+      "part": "reading_part_5",
+      "skill": "subject-verb agreement",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "Neither the manager nor the assistants _____ available for the call.",
+      "options": [
+        "A. is",
+        "B. are",
+        "C. was",
+        "D. has been"
+      ],
+      "correctOption": "B",
+      "explanationEn": "With 'neither...nor,' the verb often agrees with the nearer subject. 'Assistants' is plural, so 'are' is correct.",
+      "explanationKo": "'neither...nor'에서는 가까운 주어에 동사를 맞추는 경우가 많습니다. 가까운 주어 'assistants'가 복수이므로 'are'가 맞습니다.",
+      "koreanLearnerHint": "상관접속사 문제에서는 동사와 가장 가까운 주어를 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "available for the call",
+          "meaningKo": "통화가 가능한",
+          "exampleSentence": "The assistants are available for the call.",
+          "meaningJa": "電話に出られる"
+        },
+        {
+          "word": "neither...nor",
+          "meaningKo": "~도 아니고 ~도 아닌",
+          "exampleSentence": "Neither the manager nor the assistants are available.",
+          "meaningJa": "〜でも〜でもない"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "available for the call",
+        "meaningKo": "통화가 가능한",
+        "exampleSentence": "The assistants are available for the call.",
+        "meaningJa": "電話に出られる"
+      },
+      "explanationJa": "正解は B. are です。主語と動詞の一致では、動詞に対応する本当の主語を探します。「Neither the manager nor the assistants _____ available for the call.」では、途中の of 句や説明語に引っ張られず、中心名詞が単数か複数かを確認します。",
+      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「Neither the manager nor the assistants _____ available for the call.」では中心になる名詞を探してから選択肢を見ましょう。",
+      "exerciseNumber": 47
+    },
+    {
+      "id": "r5-048",
+      "part": "reading_part_5",
+      "skill": "pronouns",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The safety manual is available online, and employees should read _____ before Friday.",
+      "options": [
+        "A. it",
+        "B. them",
+        "C. they",
+        "D. its"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'It' refers to the singular noun phrase 'the safety manual.'",
+      "explanationKo": "'it'은 단수 명사구 'the safety manual'을 가리킵니다.",
+      "koreanLearnerHint": "대명사 문제에서는 앞에 나온 명사의 단수/복수 여부를 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "safety manual",
+          "meaningKo": "안전 매뉴얼",
+          "exampleSentence": "Employees should read the safety manual.",
+          "meaningJa": "安全マニュアル"
+        },
+        {
+          "word": "available online",
+          "meaningKo": "온라인에서 이용 가능한",
+          "exampleSentence": "The manual is available online.",
+          "meaningJa": "オンラインで利用可能な"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "safety manual",
+        "meaningKo": "안전 매뉴얼",
+        "exampleSentence": "Employees should read the safety manual.",
+        "meaningJa": "安全マニュアル"
+      },
+      "explanationJa": "正解は A. it です。代名詞は、前に出た名詞の単数・複数や人称に合わせます。「The safety manual is available online, and employees should read _____ before Friday.」では、代名詞が何を受けるのかを先に決める必要があります。",
+      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「The safety manual is available online, and employees should read _____ before Friday.」では中心になる名詞を探してから選択肢を見ましょう。",
+      "exerciseNumber": 48
+    },
+    {
+      "id": "r5-049",
+      "part": "reading_part_5",
+      "skill": "modals",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "Employees _____ use personal devices to access confidential client files.",
+      "options": [
+        "A. must not",
+        "B. would",
+        "C. used to",
+        "D. might have"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Must not' expresses prohibition, which fits a rule about confidential files.",
+      "explanationKo": "기밀 고객 파일 접근에 대한 금지 규칙이므로 'must not'이 알맞습니다.",
+      "koreanLearnerHint": "규칙에서 금지를 나타낼 때는 'must not' 또는 'may not'이 자주 쓰입니다.",
+      "vocabularyItems": [
+        {
+          "word": "personal device",
+          "meaningKo": "개인 기기",
+          "exampleSentence": "Do not use personal devices for client files.",
+          "meaningJa": "個人端末"
+        },
+        {
+          "word": "confidential file",
+          "meaningKo": "기밀 파일",
+          "exampleSentence": "Confidential files require secure access.",
+          "meaningJa": "機密ファイル"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "personal device",
+        "meaningKo": "개인 기기",
+        "exampleSentence": "Do not use personal devices for client files.",
+        "meaningJa": "個人端末"
+      },
+      "explanationJa": "正解は A. must not です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「Employees _____ use personal devices to access confidential client files.」では must not の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Employees _____ use personal devices to access confidential client files.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 49
+    },
+    {
+      "id": "r5-050",
+      "part": "reading_part_5",
+      "skill": "comparatives",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The updated checkout process is significantly _____ than the previous version.",
+      "options": [
+        "A. fast",
+        "B. fastest",
+        "C. faster",
+        "D. fastness"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'Than' signals a comparison, so the comparative form 'faster' is required.",
+      "explanationKo": "'than'이 비교를 나타내므로 비교급 'faster'가 필요합니다.",
+      "koreanLearnerHint": "than이 보이면 비교급 형태를 먼저 의심하세요.",
+      "vocabularyItems": [
+        {
+          "word": "checkout process",
+          "meaningKo": "결제 절차",
+          "exampleSentence": "The checkout process is faster now.",
+          "meaningJa": "精算手続き"
+        },
+        {
+          "word": "previous version",
+          "meaningKo": "이전 버전",
+          "exampleSentence": "The previous version was slower.",
+          "meaningJa": "以前の版"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "checkout process",
+        "meaningKo": "결제 절차",
+        "exampleSentence": "The checkout process is faster now.",
+        "meaningJa": "精算手続き"
+      },
+      "explanationJa": "正解は C. faster です。比較問題では than や as ... as のような比較の合図を探します。「The updated checkout process is significantly _____ than the previous version.」では比較対象が示されているため、原級や最上級ではなく比較級が必要です。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The updated checkout process is significantly _____ than the previous version.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 50
+    },
+    {
+      "id": "r5-051",
+      "part": "reading_part_5",
+      "skill": "participles",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The proposal _____ by the planning committee includes several cost-saving measures.",
+      "options": [
+        "A. approve",
+        "B. approving",
+        "C. approved",
+        "D. approval"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'Approved by the planning committee' is a reduced passive clause describing the proposal.",
+      "explanationKo": "'approved by the planning committee'는 제안서를 설명하는 축약된 수동 분사구입니다.",
+      "koreanLearnerHint": "제안서가 승인하는 것이 아니라 승인된 대상이므로 과거분사가 필요합니다.",
+      "vocabularyItems": [
+        {
+          "word": "planning committee",
+          "meaningKo": "기획 위원회",
+          "exampleSentence": "The planning committee approved the proposal.",
+          "meaningJa": "企画委員会"
+        },
+        {
+          "word": "cost-saving measure",
+          "meaningKo": "비용 절감 방안",
+          "exampleSentence": "The proposal includes cost-saving measures.",
+          "meaningJa": "コスト削減策"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "planning committee",
+        "meaningKo": "기획 위원회",
+        "exampleSentence": "The planning committee approved the proposal.",
+        "meaningJa": "企画委員会"
+      },
+      "explanationJa": "正解は C. approved です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The proposal _____ by the planning committee includes several cost-saving measures.」では approved の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The proposal _____ by the planning committee includes several cost-saving measures.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 51
+    },
+    {
+      "id": "r5-052",
+      "part": "reading_part_5",
+      "skill": "infinitives",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The supervisor reminded the interns _____ their ID badges at all times.",
+      "options": [
+        "A. wear",
+        "B. wearing",
+        "C. to wear",
+        "D. worn"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The structure is 'remind someone to do something.'",
+      "explanationKo": "'remind someone to do something' 구조이므로 'to wear'가 알맞습니다.",
+      "koreanLearnerHint": "동사별로 뒤에 오는 형태가 정해져 있습니다. remind는 목적어 뒤에 to부정사를 자주 씁니다.",
+      "vocabularyItems": [
+        {
+          "word": "remind someone to",
+          "meaningKo": "~에게 ~하라고 상기시키다",
+          "exampleSentence": "She reminded interns to wear badges.",
+          "meaningJa": "人に〜するよう念を押す"
+        },
+        {
+          "word": "at all times",
+          "meaningKo": "항상",
+          "exampleSentence": "Wear your badge at all times.",
+          "meaningJa": "常に"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "remind someone to",
+        "meaningKo": "~에게 ~하라고 상기시키다",
+        "exampleSentence": "She reminded interns to wear badges.",
+        "meaningJa": "人に〜するよう念を押す"
+      },
+      "explanationJa": "正解は C. to wear です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The supervisor reminded the interns _____ their ID badges at all times.」では to wear の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The supervisor reminded the interns _____ their ID badges at all times.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 52
+    },
+    {
+      "id": "r5-053",
+      "part": "reading_part_5",
+      "skill": "adverbs",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "prompt": "The maintenance request was handled _____ after it was submitted.",
+      "options": [
+        "A. quick",
+        "B. quickly",
+        "C. quicker",
+        "D. quickest"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The blank modifies the verb phrase 'was handled,' so an adverb is needed.",
+      "explanationKo": "빈칸은 동사구 'was handled'를 꾸미므로 부사 'quickly'가 필요합니다.",
+      "koreanLearnerHint": "수동태 동사도 부사가 꾸밀 수 있습니다. 형용사 quick과 부사 quickly를 구분하세요.",
+      "vocabularyItems": [
+        {
+          "word": "maintenance request",
+          "meaningKo": "수리 요청",
+          "exampleSentence": "The maintenance request was handled quickly.",
+          "meaningJa": "保守依頼"
+        },
+        {
+          "word": "submit a request",
+          "meaningKo": "요청을 제출하다",
+          "exampleSentence": "Employees can submit a request online.",
+          "meaningJa": "依頼を提出する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "maintenance request",
+        "meaningKo": "수리 요청",
+        "exampleSentence": "The maintenance request was handled quickly.",
+        "meaningJa": "保守依頼"
+      },
+      "explanationJa": "正解は B. quickly です。空所が文の中で何を修飾しているかを確認します。「The maintenance request was handled _____ after it was submitted.」では quickly が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The maintenance request was handled _____ after it was submitted.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 53
+    },
+    {
+      "id": "r5-054",
+      "part": "reading_part_5",
+      "skill": "conditionals",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "Unless the client requests changes, the brochure _____ to the printer tomorrow.",
+      "options": [
+        "A. sends",
+        "B. was sent",
+        "C. will be sent",
+        "D. has sent"
+      ],
+      "correctOption": "C",
+      "explanationEn": "The brochure is the object being sent tomorrow, so a future passive form is needed.",
+      "explanationKo": "브로셔는 내일 보내지는 대상이므로 미래 수동형 'will be sent'가 필요합니다.",
+      "koreanLearnerHint": "unless절은 조건을 말하고, 주절에서는 미래의 동작을 나타냅니다. 대상이 보내지는 것이면 수동태를 씁니다.",
+      "vocabularyItems": [
+        {
+          "word": "request changes",
+          "meaningKo": "수정을 요청하다",
+          "exampleSentence": "The client may request changes.",
+          "meaningJa": "変更を依頼する"
+        },
+        {
+          "word": "send to the printer",
+          "meaningKo": "인쇄소로 보내다",
+          "exampleSentence": "The brochure will be sent to the printer.",
+          "meaningJa": "プリンターに送る"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "request changes",
+        "meaningKo": "수정을 요청하다",
+        "exampleSentence": "The client may request changes.",
+        "meaningJa": "変更を依頼する"
+      },
+      "explanationJa": "正解は C. will be sent です。「Unless the client requests changes, the brochure _____ to the printer tomorrow.」で問われている文法機能を確認し、英語の語順・品詞・決まった表現に合う選択肢を選びます。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Unless the client requests changes, the brochure _____ to the printer tomorrow.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 54
+    },
+    {
+      "id": "r5-055",
+      "part": "reading_part_5",
+      "skill": "vocabulary",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The airline will _____ passengers for meals if the delay lasts more than four hours.",
+      "options": [
+        "A. reimburse",
+        "B. renovate",
+        "C. relocate",
+        "D. reproduce"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Reimburse' means to pay someone back for expenses, which fits the context of meal costs.",
+      "explanationKo": "'reimburse'는 비용을 환급하다라는 뜻으로 식사 비용 문맥에 알맞습니다.",
+      "koreanLearnerHint": "비슷한 re- 단어가 나오면 뜻을 정확히 구분해야 합니다. 비용을 돌려주는 것은 reimburse입니다.",
+      "vocabularyItems": [
+        {
+          "word": "reimburse",
+          "meaningKo": "환급하다, 변제하다",
+          "exampleSentence": "The airline will reimburse passengers for meals.",
+          "meaningJa": "払い戻す、精算する"
+        },
+        {
+          "word": "delay lasts",
+          "meaningKo": "지연이 지속되다",
+          "exampleSentence": "The delay lasted more than four hours.",
+          "meaningJa": "遅延が続く"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "reimburse",
+        "meaningKo": "환급하다, 변제하다",
+        "exampleSentence": "The airline will reimburse passengers for meals.",
+        "meaningJa": "払い戻す、精算する"
+      },
+      "explanationJa": "正解は A. reimburse です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The airline will _____ passengers for meals if the delay lasts more than four hours.」では reimburse が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The airline will _____ passengers for meals if the delay lasts more than four hours.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 55
+    },
+    {
+      "id": "r5-056",
+      "part": "reading_part_5",
+      "skill": "prepositions",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The marketing director congratulated the team _____ completing the campaign early.",
+      "options": [
+        "A. for",
+        "B. to",
+        "C. at",
+        "D. about"
+      ],
+      "correctOption": "A",
+      "explanationEn": "The expression is 'congratulate someone for/on doing something.' Among the options, 'for' fits.",
+      "explanationKo": "'~한 것에 대해 축하하다'는 'congratulate someone for/on doing something'으로 표현합니다. 선택지 중 'for'가 알맞습니다.",
+      "koreanLearnerHint": "동사와 함께 쓰이는 전치사는 묶어서 익히세요. congratulate someone for doing something이 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "congratulate",
+          "meaningKo": "축하하다",
+          "exampleSentence": "The director congratulated the team.",
+          "meaningJa": "祝う"
+        },
+        {
+          "word": "complete a campaign",
+          "meaningKo": "캠페인을 완료하다",
+          "exampleSentence": "The team completed the campaign early.",
+          "meaningJa": "キャンペーンを完了する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "congratulate",
+        "meaningKo": "축하하다",
+        "exampleSentence": "The director congratulated the team.",
+        "meaningJa": "祝う"
+      },
+      "explanationJa": "正解は A. for です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「The marketing director congratulated the team _____ completing the campaign early.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The marketing director congratulated the team _____ completing the campaign early.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "exerciseNumber": 56
+    },
+    {
+      "id": "r5-057",
+      "part": "reading_part_5",
+      "skill": "word form",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The new packaging is more durable and _____ than the old design.",
+      "options": [
+        "A. attract",
+        "B. attractive",
+        "C. attraction",
+        "D. attractively"
+      ],
+      "correctOption": "B",
+      "explanationEn": "The blank is parallel with the adjective 'durable,' so another adjective is required.",
+      "explanationKo": "빈칸은 형용사 'durable'과 병렬 구조이므로 또 다른 형용사 'attractive'가 필요합니다.",
+      "koreanLearnerHint": "and로 연결된 병렬 구조에서는 앞뒤 품사가 같아야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "durable",
+          "meaningKo": "내구성이 있는",
+          "exampleSentence": "The packaging is durable.",
+          "meaningJa": "耐久性のある"
+        },
+        {
+          "word": "attractive",
+          "meaningKo": "매력적인",
+          "exampleSentence": "The new design is attractive.",
+          "meaningJa": "魅力的な"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "durable",
+        "meaningKo": "내구성이 있는",
+        "exampleSentence": "The packaging is durable.",
+        "meaningJa": "耐久性のある"
+      },
+      "explanationJa": "正解は B. attractive です。空所が文の中で何を修飾しているかを確認します。「The new packaging is more durable and _____ than the old design.」では attractive が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
+      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The new packaging is more durable and _____ than the old design.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "exerciseNumber": 57
+    },
+    {
+      "id": "r5-058",
+      "part": "reading_part_5",
+      "skill": "conjunctions",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "prompt": "The team postponed the launch _____ several important tests had not been completed.",
+      "options": [
+        "A. because",
+        "B. despite",
+        "C. therefore",
+        "D. unless"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Because' introduces the reason the launch was postponed.",
+      "explanationKo": "중요한 테스트가 완료되지 않았다는 이유를 나타내므로 'because'가 알맞습니다.",
+      "koreanLearnerHint": "뒤에 주어와 동사가 있는 완전한 절이 오고 이유를 나타내면 because가 자연스럽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "postpone the launch",
+          "meaningKo": "출시를 연기하다",
+          "exampleSentence": "The team postponed the launch.",
+          "meaningJa": "発売を延期する"
+        },
+        {
+          "word": "complete tests",
+          "meaningKo": "테스트를 완료하다",
+          "exampleSentence": "Several tests had not been completed.",
+          "meaningJa": "試験を完了する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "postpone the launch",
+        "meaningKo": "출시를 연기하다",
+        "exampleSentence": "The team postponed the launch.",
+        "meaningJa": "発売を延期する"
+      },
+      "explanationJa": "正解は A. because です。接続語は前後の意味関係で選びます。この文では「The team postponed the launch _____ several important tests had not been completed.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。because はその関係を自然に示します。",
+      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「The team postponed the launch _____ several important tests had not been completed.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "exerciseNumber": 58
+    },
+    {
+      "id": "r5-059",
+      "part": "reading_part_5",
+      "skill": "vocabulary",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "The hotel offers _____ parking for guests staying more than two nights.",
+      "options": [
+        "A. complimentary",
+        "B. compulsory",
+        "C. comparable",
+        "D. consecutive"
+      ],
+      "correctOption": "A",
+      "explanationEn": "'Complimentary' means free of charge, which fits guest parking.",
+      "explanationKo": "'complimentary'는 무료의라는 뜻으로 투숙객 주차 문맥에 알맞습니다.",
+      "koreanLearnerHint": "complimentary는 TOEIC에서 호텔, 서비스 문맥에서 '무료의'라는 뜻으로 자주 나옵니다.",
+      "vocabularyItems": [
+        {
+          "word": "complimentary parking",
+          "meaningKo": "무료 주차",
+          "exampleSentence": "The hotel offers complimentary parking.",
+          "meaningJa": "無料駐車場"
+        },
+        {
+          "word": "stay more than two nights",
+          "meaningKo": "2박 이상 머물다",
+          "exampleSentence": "Guests staying more than two nights receive parking.",
+          "meaningJa": "2泊を超えて滞在する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "complimentary parking",
+        "meaningKo": "무료 주차",
+        "exampleSentence": "The hotel offers complimentary parking.",
+        "meaningJa": "無料駐車場"
+      },
+      "explanationJa": "正解は A. complimentary です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The hotel offers _____ parking for guests staying more than two nights.」では complimentary が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
+      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The hotel offers _____ parking for guests staying more than two nights.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "exerciseNumber": 59
+    },
+    {
+      "id": "r5-060",
+      "part": "reading_part_5",
+      "skill": "verb tense",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "prompt": "Since the new policy was introduced, customer complaints _____.",
+      "options": [
+        "A. decrease",
+        "B. decreased",
+        "C. have decreased",
+        "D. decreasing"
+      ],
+      "correctOption": "C",
+      "explanationEn": "'Since' connects a past starting point to the present, so the present perfect is correct.",
+      "explanationKo": "'since'는 과거의 시작점부터 현재까지 이어지는 변화를 나타내므로 현재완료가 맞습니다.",
+      "koreanLearnerHint": "since가 시간 접속사로 쓰이면 현재완료와 함께 쓰이는 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "introduce a policy",
+          "meaningKo": "정책을 도입하다",
+          "exampleSentence": "The company introduced a new policy.",
+          "meaningJa": "方針を導入する"
+        },
+        {
+          "word": "customer complaint",
+          "meaningKo": "고객 불만",
+          "exampleSentence": "Customer complaints have decreased.",
+          "meaningJa": "顧客の苦情"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "introduce a policy",
+        "meaningKo": "정책을 도입하다",
+        "exampleSentence": "The company introduced a new policy.",
+        "meaningJa": "方針を導入する"
+      },
+      "explanationJa": "正解は C. have decreased です。時制問題では、文中の時間表現を先に拾います。この文では「since」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「Since the new policy was introduced, customer complaints _____.」の中の過去・未来・継続の合図が得点源です。",
+      "exerciseNumber": 60
+    }
+  ]
+}

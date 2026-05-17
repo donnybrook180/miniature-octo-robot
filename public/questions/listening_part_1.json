@@ -1,0 +1,979 @@
+{
+  "part": "listening_part_1",
+  "questions": [
+    {
+      "id": "l1-101",
+      "part": "listening_part_1",
+      "skill": "listening photo - action",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "imageFile": "boarding_plane.jpg",
+      "audioId": "boarding_plane",
+      "audioFile": "l1_ex1_answer_c.mp3",
+      "audioTitle": "Photograph: Boarding Plane",
+      "transcript": "A. Passengers are cooking meals\nB. Passengers are driving cars\nC. Passengers are boarding a plane\nD. Passengers are repairing luggage",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctOption": "C",
+      "explanationEn": "Choice C is the statement that best matches the photo of people boarding a plane.",
+      "explanationKo": "C가 비행기에 탑승하는 장면을 가장 잘 묘사합니다.",
+      "koreanLearnerHint": "Part 1에서는 사진의 중심 행동과 장소를 먼저 확인한 뒤 음성의 네 문장을 비교하세요.",
+      "vocabularyItems": [
+        {
+          "word": "board a plane",
+          "meaningKo": "비행기에 탑승하다",
+          "exampleSentence": "Passengers are boarding a plane.",
+          "meaningJa": "飛行機に搭乗する"
+        },
+        {
+          "word": "passenger",
+          "meaningKo": "승객",
+          "exampleSentence": "The passengers are waiting near the aircraft.",
+          "meaningJa": "乗客"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "board a plane",
+        "meaningKo": "비행기에 탑승하다",
+        "exampleSentence": "Passengers are boarding a plane.",
+        "meaningJa": "飛行機に搭乗する"
+      },
+      "explanationJa": "正解は C です。この写真問題では、正しい文「Passengers are boarding a plane」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Passengers are cooking meals / Passengers are driving cars）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「boarding_plane.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 1
+    },
+    {
+      "id": "l1-102",
+      "part": "listening_part_1",
+      "skill": "listening photo - action",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "imageFile": "reading_book.jpg",
+      "audioId": "reading_book",
+      "audioFile": "l1_ex2_answer_c.mp3",
+      "audioTitle": "Photograph: Reading Book",
+      "transcript": "A. She is driving a bus\nB. She is cooking dinner\nC. She is reading a book\nD. She is painting a house",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctOption": "C",
+      "explanationEn": "Choice C is the statement that best describes the person reading a book.",
+      "explanationKo": "C가 책을 읽고 있는 사람을 가장 잘 묘사합니다.",
+      "koreanLearnerHint": "사진 속 사람이 무엇을 하고 있는지 동작 동사를 중심으로 들으세요.",
+      "vocabularyItems": [
+        {
+          "word": "read a book",
+          "meaningKo": "책을 읽다",
+          "exampleSentence": "She is reading a book.",
+          "meaningJa": "本を読む"
+        },
+        {
+          "word": "be seated",
+          "meaningKo": "앉아 있다",
+          "exampleSentence": "The person is seated while reading.",
+          "meaningJa": "座っている"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "read a book",
+        "meaningKo": "책을 읽다",
+        "exampleSentence": "She is reading a book.",
+        "meaningJa": "本を読む"
+      },
+      "explanationJa": "正解は C です。この写真問題では、正しい文「She is reading a book」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（She is driving a bus / She is cooking dinner）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「reading_book.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 2
+    },
+    {
+      "id": "l1-103",
+      "part": "listening_part_1",
+      "skill": "listening photo - action",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "imageFile": "serving_food.jpg",
+      "audioId": "serving_food",
+      "audioFile": "l1_ex3_answer_b.mp3",
+      "audioTitle": "Photograph: Serving Food",
+      "transcript": "A. A customer is washing dishes\nB. A waiter is serving food\nC. A man is painting a wall\nD. People are leaving the building",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctOption": "B",
+      "explanationEn": "Choice B is the statement that best matches the food being served.",
+      "explanationKo": "B가 음식이 제공되는 장면을 가장 잘 묘사합니다.",
+      "koreanLearnerHint": "사람의 동작뿐 아니라 음식, 접시, 식당 같은 사물 단서도 함께 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "serve food",
+          "meaningKo": "음식을 제공하다",
+          "exampleSentence": "A server is serving food.",
+          "meaningJa": "料理を出す"
+        },
+        {
+          "word": "plate",
+          "meaningKo": "접시",
+          "exampleSentence": "The food is placed on a plate.",
+          "meaningJa": "皿"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "serve food",
+        "meaningKo": "음식을 제공하다",
+        "exampleSentence": "A server is serving food.",
+        "meaningJa": "料理を出す"
+      },
+      "explanationJa": "正解は B です。この写真問題では、正しい文「A waiter is serving food」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（A customer is washing dishes / A waiter is serving food）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「serving_food.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 3
+    },
+    {
+      "id": "l1-104",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "sitting_around_table.jpg",
+      "audioId": "sitting_around_table",
+      "audioFile": "l1_ex4_answer_c.mp3",
+      "audioTitle": "Photograph: Sitting Around Table",
+      "transcript": "A. The people are cooking food\nB. The people are running outside\nC. The people are sitting around a table\nD. The people are cleaning the room",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctOption": "C",
+      "explanationEn": "Choice C is the statement that best describes people sitting around a table.",
+      "explanationKo": "C가 사람들이 테이블 주위에 앉아 있는 장면을 가장 잘 묘사합니다.",
+      "koreanLearnerHint": "여러 사람이 있는 사진에서는 전체 배치와 공통 행동을 먼저 파악하세요.",
+      "vocabularyItems": [
+        {
+          "word": "sit around a table",
+          "meaningKo": "테이블 주위에 앉다",
+          "exampleSentence": "Several people are sitting around a table.",
+          "meaningJa": "テーブルを囲んで座る"
+        },
+        {
+          "word": "meeting",
+          "meaningKo": "회의",
+          "exampleSentence": "They may be having a meeting.",
+          "meaningJa": "会議"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "sit around a table",
+        "meaningKo": "테이블 주위에 앉다",
+        "exampleSentence": "Several people are sitting around a table.",
+        "meaningJa": "テーブルを囲んで座る"
+      },
+      "explanationJa": "正解は C です。この写真問題では、正しい文「The people are sitting around a table」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The people are cooking food / The people are running outside）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「sitting_around_table.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 4
+    },
+    {
+      "id": "l1-105",
+      "part": "listening_part_1",
+      "skill": "listening photo - action",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "imageFile": "typing_laptop.jpg",
+      "audioId": "typing_laptop",
+      "audioFile": "l1_ex5_answer_a.mp3",
+      "audioTitle": "Photograph: Typing Laptop",
+      "transcript": "A. He is typing on a laptop\nB. He is fixing a printer\nC. He is talking to a colleague\nD. He is opening a window",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctOption": "A",
+      "explanationEn": "Choice A is the statement that best describes someone typing on a laptop.",
+      "explanationKo": "A가 노트북으로 타이핑하는 장면을 가장 잘 묘사합니다.",
+      "koreanLearnerHint": "사진에서 노트북을 쓰는 동작과 키보드, 화면을 먼저 보세요. typing, laptop, keyboard 같은 단서가 들리면 정답 후보입니다.",
+      "vocabularyItems": [
+        {
+          "word": "type on a laptop",
+          "meaningKo": "노트북으로 타이핑하다",
+          "exampleSentence": "The person is typing on a laptop.",
+          "meaningJa": "ノートパソコンで入力する"
+        },
+        {
+          "word": "keyboard",
+          "meaningKo": "키보드",
+          "exampleSentence": "The person's hands are near the keyboard.",
+          "meaningJa": "キーボード"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "type on a laptop",
+        "meaningKo": "노트북으로 타이핑하다",
+        "exampleSentence": "The person is typing on a laptop.",
+        "meaningJa": "ノートパソコンで入力する"
+      },
+      "explanationJa": "正解は A です。この写真問題では、正しい文「He is typing on a laptop」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（He is typing on a laptop / He is fixing a printer）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「typing_laptop.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 5
+    },
+    {
+      "id": "l1-106",
+      "part": "listening_part_1",
+      "skill": "listening photo - person",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "worker_helmet.jpg",
+      "audioId": "worker_helmet",
+      "audioFile": "l1_ex6_answer_d.mp3",
+      "audioTitle": "Photograph: Worker Helmet",
+      "transcript": "A. The workers are shopping\nB. The workers are swimming\nC. The workers are sleeping\nD. The workers are wearing helmets",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctOption": "D",
+      "explanationEn": "Choice D is the statement that best matches the worker wearing a helmet.",
+      "explanationKo": "D가 헬멧을 쓴 작업자를 가장 잘 묘사합니다.",
+      "koreanLearnerHint": "복장이나 안전 장비는 직업과 상황을 알려 주는 중요한 단서입니다.",
+      "vocabularyItems": [
+        {
+          "word": "wear a helmet",
+          "meaningKo": "헬멧을 쓰다",
+          "exampleSentence": "The worker is wearing a helmet.",
+          "meaningJa": "ヘルメットをかぶる"
+        },
+        {
+          "word": "worker",
+          "meaningKo": "작업자",
+          "exampleSentence": "The worker is standing at the site.",
+          "meaningJa": "作業員"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "wear a helmet",
+        "meaningKo": "헬멧을 쓰다",
+        "exampleSentence": "The worker is wearing a helmet.",
+        "meaningJa": "ヘルメットをかぶる"
+      },
+      "explanationJa": "正解は D です。この写真問題では、正しい文「The workers are wearing helmets」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The workers are shopping / The workers are swimming）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「worker_helmet.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 6
+    },
+    {
+      "id": "l1-201",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "imageFile": "presentation.jpg",
+      "audioId": "presentation",
+      "audioFile": "l1_ex7_answer_c.mp3",
+      "audioTitle": "Photograph: Presentation",
+      "transcript": "A. Chairs are stacked against the wall.\nB. Employees are eating dinner.\nC. A presentation is being delivered.\nD. Computers are being repaired.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. Chairs are stacked against the wall.",
+        "B. Employees are eating dinner.",
+        "C. A presentation is being delivered.",
+        "D. Computers are being repaired."
+      ],
+      "correctOption": "C",
+      "explanationEn": "Choice C is correct because it best matches the photograph: C. A presentation is being delivered.",
+      "koreanLearnerHint": "사진 \"presentation.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "presentation",
+          "meaningKo": "presentation",
+          "exampleSentence": "A presentation is being delivered.",
+          "meaningJa": "発表"
+        },
+        {
+          "word": "delivered",
+          "meaningKo": "delivered",
+          "exampleSentence": "A presentation is being delivered.",
+          "meaningJa": "配達された"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "presentation",
+        "meaningKo": "presentation",
+        "exampleSentence": "A presentation is being delivered.",
+        "meaningJa": "発表"
+      },
+      "explanationKo": "C가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は C. A presentation is being delivered. です。この写真問題では、正しい文「A presentation is being delivered.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Chairs are stacked against the wall. / Employees are eating dinner.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「presentation.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 7
+    },
+    {
+      "id": "l1-202",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "imageFile": "office_supplies.jpg",
+      "audioId": "office_supplies",
+      "audioFile": "l1_ex8_answer_d.mp3",
+      "audioTitle": "Photograph: Office Supplies",
+      "transcript": "A. The lights are being removed.\nB. Papers are floating in the air.\nC. Workers are carrying tables.\nD. Office supplies are arranged on a desk.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. The lights are being removed.",
+        "B. Papers are floating in the air.",
+        "C. Workers are carrying tables.",
+        "D. Office supplies are arranged on a desk."
+      ],
+      "correctOption": "D",
+      "explanationEn": "Choice D is correct because it best matches the photograph: D. Office supplies are arranged on a desk.",
+      "koreanLearnerHint": "사진 \"office_supplies.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "office",
+          "meaningKo": "office",
+          "exampleSentence": "Office supplies are arranged on a desk.",
+          "meaningJa": "事務所"
+        },
+        {
+          "word": "supplies",
+          "meaningKo": "supplies",
+          "exampleSentence": "Office supplies are arranged on a desk.",
+          "meaningJa": "備品"
+        },
+        {
+          "word": "arranged",
+          "meaningKo": "arranged",
+          "exampleSentence": "Office supplies are arranged on a desk.",
+          "meaningJa": "並べられた"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "office",
+        "meaningKo": "office",
+        "exampleSentence": "Office supplies are arranged on a desk.",
+        "meaningJa": "事務所"
+      },
+      "explanationKo": "D가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は D. Office supplies are arranged on a desk. です。この写真問題では、正しい文「Office supplies are arranged on a desk.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The lights are being removed. / Papers are floating in the air.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「office_supplies.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 8
+    },
+    {
+      "id": "l1-203",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "imageFile": "food.jpg",
+      "audioId": "food",
+      "audioFile": "l1_ex9_answer_b.mp3",
+      "audioTitle": "Photograph: Food",
+      "transcript": "A. Dishes are stacked in boxes.\nB. Food is being prepared in a kitchen.\nC. Customers are paying the bill.\nD. The restaurant is empty.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. Dishes are stacked in boxes.",
+        "B. Food is being prepared in a kitchen.",
+        "C. Customers are paying the bill.",
+        "D. The restaurant is empty."
+      ],
+      "correctOption": "B",
+      "explanationEn": "Choice B is correct because it best matches the photograph: B. Food is being prepared in a kitchen.",
+      "koreanLearnerHint": "사진 \"food.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "food",
+          "meaningKo": "food",
+          "exampleSentence": "Food is being prepared in a kitchen.",
+          "meaningJa": "食べ物"
+        },
+        {
+          "word": "prepared",
+          "meaningKo": "prepared",
+          "exampleSentence": "Food is being prepared in a kitchen.",
+          "meaningJa": "準備された"
+        },
+        {
+          "word": "kitchen",
+          "meaningKo": "kitchen",
+          "exampleSentence": "Food is being prepared in a kitchen.",
+          "meaningJa": "台所"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "food",
+        "meaningKo": "food",
+        "exampleSentence": "Food is being prepared in a kitchen.",
+        "meaningJa": "食べ物"
+      },
+      "explanationKo": "B가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は B. Food is being prepared in a kitchen. です。この写真問題では、正しい文「Food is being prepared in a kitchen.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Dishes are stacked in boxes. / Customers are paying the bill.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「food.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 9
+    },
+    {
+      "id": "l1-204",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "imageFile": "workout.jpg",
+      "audioId": "workout",
+      "audioFile": "l1_ex10_answer_a.mp3",
+      "audioTitle": "Photograph: Workout",
+      "transcript": "A. People are working out indoors.\nB. Equipment is being delivered.\nC. The gym is closed for cleaning.\nD. Customers are shopping for clothes.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. People are working out indoors.",
+        "B. Equipment is being delivered.",
+        "C. The gym is closed for cleaning.",
+        "D. Customers are shopping for clothes."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Choice A is correct because it best matches the photograph: A. People are working out indoors.",
+      "koreanLearnerHint": "사진 \"workout.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "work out",
+          "meaningKo": "work out",
+          "exampleSentence": "People are working out indoors.",
+          "meaningJa": "運動する"
+        },
+        {
+          "word": "indoors",
+          "meaningKo": "indoors",
+          "exampleSentence": "People are working out indoors.",
+          "meaningJa": "屋内で"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "work out",
+        "meaningKo": "work out",
+        "exampleSentence": "People are working out indoors.",
+        "meaningJa": "運動する"
+      },
+      "explanationKo": "A가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は A. People are working out indoors. です。この写真問題では、正しい文「People are working out indoors.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Equipment is being delivered. / The gym is closed for cleaning.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「workout.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 10
+    },
+    {
+      "id": "l1-205",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "imageFile": "teacher.jpg",
+      "audioId": "teacher",
+      "audioFile": "l1_ex11_answer_c.mp3",
+      "audioTitle": "Photograph: Teacher",
+      "transcript": "A. Desks are being repaired.\nB. Students are leaving the building.\nC. A teacher is writing on the board.\nD. The classroom is empty.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. Desks are being repaired.",
+        "B. Students are leaving the building.",
+        "C. A teacher is writing on the board.",
+        "D. The classroom is empty."
+      ],
+      "correctOption": "C",
+      "explanationEn": "Choice C is correct because it best matches the photograph: C. A teacher is writing on the board.",
+      "koreanLearnerHint": "사진 \"teacher.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "teacher",
+          "meaningKo": "teacher",
+          "exampleSentence": "A teacher is writing on the board.",
+          "meaningJa": "教師"
+        },
+        {
+          "word": "writing",
+          "meaningKo": "writing",
+          "exampleSentence": "A teacher is writing on the board.",
+          "meaningJa": "書いている"
+        },
+        {
+          "word": "board",
+          "meaningKo": "board",
+          "exampleSentence": "A teacher is writing on the board.",
+          "meaningJa": "板、掲示板"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "teacher",
+        "meaningKo": "teacher",
+        "exampleSentence": "A teacher is writing on the board.",
+        "meaningJa": "教師"
+      },
+      "explanationKo": "C가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は C. A teacher is writing on the board. です。この写真問題では、正しい文「A teacher is writing on the board.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Desks are being repaired. / Students are leaving the building.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「teacher.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 11
+    },
+    {
+      "id": "l1-206",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "machines.jpg",
+      "audioId": "machines",
+      "audioFile": "l1_ex12_answer_d.mp3",
+      "audioTitle": "Photograph: Machines",
+      "transcript": "A. Workers are washing windows.\nB. Employees are attending a concert.\nC. The equipment is outdoors.\nD. Machines are being operated in a factory.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. Workers are washing windows.",
+        "B. Employees are attending a concert.",
+        "C. The equipment is outdoors.",
+        "D. Machines are being operated in a factory."
+      ],
+      "correctOption": "D",
+      "explanationEn": "Choice D is correct because it best matches the photograph: D. Machines are being operated in a factory.",
+      "koreanLearnerHint": "사진 \"machines.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "machines",
+          "meaningKo": "machines",
+          "exampleSentence": "Machines are being operated in a factory.",
+          "meaningJa": "機械"
+        },
+        {
+          "word": "operated",
+          "meaningKo": "operated",
+          "exampleSentence": "Machines are being operated in a factory.",
+          "meaningJa": "操作された"
+        },
+        {
+          "word": "factory",
+          "meaningKo": "factory",
+          "exampleSentence": "Machines are being operated in a factory.",
+          "meaningJa": "工場"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "machines",
+        "meaningKo": "machines",
+        "exampleSentence": "Machines are being operated in a factory.",
+        "meaningJa": "機械"
+      },
+      "explanationKo": "D가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は D. Machines are being operated in a factory. です。この写真問題では、正しい文「Machines are being operated in a factory.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Workers are washing windows. / Employees are attending a concert.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「machines.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 12
+    },
+    {
+      "id": "l1-207",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "produce.jpg",
+      "audioId": "produce",
+      "audioFile": "l1_ex13_answer_a.mp3",
+      "audioTitle": "Photograph: Produce",
+      "transcript": "A. Produce is being sold outdoors.\nB. Tables are being folded.\nC. The street is blocked by snow.\nD. Customers are entering a theater.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. Produce is being sold outdoors.",
+        "B. Tables are being folded.",
+        "C. The street is blocked by snow.",
+        "D. Customers are entering a theater."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Choice A is correct because it best matches the photograph: A. Produce is being sold outdoors.",
+      "koreanLearnerHint": "사진 \"produce.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "produce",
+          "meaningKo": "produce",
+          "exampleSentence": "Produce is being sold outdoors.",
+          "meaningJa": "生産する"
+        },
+        {
+          "word": "sold",
+          "meaningKo": "sold",
+          "exampleSentence": "Produce is being sold outdoors.",
+          "meaningJa": "販売された"
+        },
+        {
+          "word": "outdoors",
+          "meaningKo": "outdoors",
+          "exampleSentence": "Produce is being sold outdoors.",
+          "meaningJa": "屋外で"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "produce",
+        "meaningKo": "produce",
+        "exampleSentence": "Produce is being sold outdoors.",
+        "meaningJa": "生産する"
+      },
+      "explanationKo": "A가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は A. Produce is being sold outdoors. です。この写真問題では、正しい文「Produce is being sold outdoors.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Tables are being folded. / The street is blocked by snow.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「produce.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 13
+    },
+    {
+      "id": "l1-208",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "meeting.jpg",
+      "audioId": "meeting",
+      "audioFile": "l1_ex14_answer_c.mp3",
+      "audioTitle": "Photograph: Meeting",
+      "transcript": "A. Computers are being packed away.\nB. Workers are moving furniture.\nC. Employees are participating in a meeting.\nD. The office is empty.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. Computers are being packed away.",
+        "B. Workers are moving furniture.",
+        "C. Employees are participating in a meeting.",
+        "D. The office is empty."
+      ],
+      "correctOption": "C",
+      "explanationEn": "Choice C is correct because it best matches the photograph: C. Employees are participating in a meeting.",
+      "koreanLearnerHint": "사진 \"meeting.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "participating",
+          "meaningKo": "participating",
+          "exampleSentence": "Employees are participating in a meeting.",
+          "meaningJa": "参加している"
+        },
+        {
+          "word": "meeting",
+          "meaningKo": "meeting",
+          "exampleSentence": "Employees are participating in a meeting.",
+          "meaningJa": "会議"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "participating",
+        "meaningKo": "participating",
+        "exampleSentence": "Employees are participating in a meeting.",
+        "meaningJa": "参加している"
+      },
+      "explanationKo": "C가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は C. Employees are participating in a meeting. です。この写真問題では、正しい文「Employees are participating in a meeting.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Computers are being packed away. / Workers are moving furniture.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「meeting.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 14
+    },
+    {
+      "id": "l1-209",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "bicycles.jpg",
+      "audioId": "bicycles",
+      "audioFile": "l1_ex15_answer_b.mp3",
+      "audioTitle": "Photograph: Bicycles",
+      "transcript": "A. People are riding motorcycles.\nB. Bicycles are lined up beside each other.\nC. A road is under repair.\nD. Helmets are being sold.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. People are riding motorcycles.",
+        "B. Bicycles are lined up beside each other.",
+        "C. A road is under repair.",
+        "D. Helmets are being sold."
+      ],
+      "correctOption": "B",
+      "explanationEn": "Choice B is correct because it best matches the photograph: B. Bicycles are lined up beside each other.",
+      "koreanLearnerHint": "사진 \"bicycles.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "bicycles",
+          "meaningKo": "bicycles",
+          "exampleSentence": "Bicycles are lined up beside each other.",
+          "meaningJa": "自転車"
+        },
+        {
+          "word": "lined",
+          "meaningKo": "lined",
+          "exampleSentence": "Bicycles are lined up beside each other.",
+          "meaningJa": "並んだ"
+        },
+        {
+          "word": "beside",
+          "meaningKo": "beside",
+          "exampleSentence": "Bicycles are lined up beside each other.",
+          "meaningJa": "横に"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "bicycles",
+        "meaningKo": "bicycles",
+        "exampleSentence": "Bicycles are lined up beside each other.",
+        "meaningJa": "自転車"
+      },
+      "explanationKo": "B가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は B. Bicycles are lined up beside each other. です。この写真問題では、正しい文「Bicycles are lined up beside each other.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（People are riding motorcycles. / A road is under repair.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「bicycles.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 15
+    },
+    {
+      "id": "l1-210",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "checking_in.jpg",
+      "audioId": "checking_in",
+      "audioFile": "l1_ex16_answer_a.mp3",
+      "audioTitle": "Photograph: Check In",
+      "transcript": "A. Passengers are checking in for flights.\nB. Travelers are swimming.\nC. Tickets are falling on the floor.\nD. The terminal is closed.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. Passengers are checking in for flights.",
+        "B. Travelers are swimming.",
+        "C. Tickets are falling on the floor.",
+        "D. The terminal is closed."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Choice A is correct because it best matches the photograph: A. Passengers are checking in for flights.",
+      "koreanLearnerHint": "사진 \"checking_in.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "passengers",
+          "meaningKo": "passengers",
+          "exampleSentence": "Passengers are checking in for flights.",
+          "meaningJa": "乗客"
+        },
+        {
+          "word": "checking",
+          "meaningKo": "checking",
+          "exampleSentence": "Passengers are checking in for flights.",
+          "meaningJa": "確認している"
+        },
+        {
+          "word": "flights",
+          "meaningKo": "flights",
+          "exampleSentence": "Passengers are checking in for flights.",
+          "meaningJa": "航空便"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "passengers",
+        "meaningKo": "passengers",
+        "exampleSentence": "Passengers are checking in for flights.",
+        "meaningJa": "乗客"
+      },
+      "explanationKo": "A가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は A. Passengers are checking in for flights. です。この写真問題では、正しい文「Passengers are checking in for flights.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Travelers are swimming. / Tickets are falling on the floor.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「checking_in.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 16
+    },
+    {
+      "id": "l1-211",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "boxes.jpg",
+      "audioId": "boxes",
+      "audioFile": "l1_ex17_answer_d.mp3",
+      "audioTitle": "Photograph: Boxes",
+      "transcript": "A. The shelves are empty.\nB. Products are displayed in windows.\nC. Workers are planting trees.\nD. Boxes are being loaded.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. The shelves are empty.",
+        "B. Products are displayed in windows.",
+        "C. Workers are planting trees.",
+        "D. Boxes are being loaded."
+      ],
+      "correctOption": "D",
+      "explanationEn": "Choice D is correct because it best matches the photograph: D. Boxes are being loaded.",
+      "koreanLearnerHint": "사진 \"boxes.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "boxes",
+          "meaningKo": "boxes",
+          "exampleSentence": "Boxes are being loaded.",
+          "meaningJa": "箱"
+        },
+        {
+          "word": "loaded",
+          "meaningKo": "loaded",
+          "exampleSentence": "Boxes are being loaded.",
+          "meaningJa": "積み込まれた"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "boxes",
+        "meaningKo": "boxes",
+        "exampleSentence": "Boxes are being loaded.",
+        "meaningJa": "箱"
+      },
+      "explanationKo": "D가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は D. Boxes are being loaded. です。この写真問題では、正しい文「Boxes are being loaded.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The shelves are empty. / Products are displayed in windows.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「boxes.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 17
+    },
+    {
+      "id": "l1-212",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "parked.jpg",
+      "audioId": "parked",
+      "audioFile": "l1_ex18_answer_c.mp3",
+      "audioTitle": "Photograph: Parked",
+      "transcript": "A. The garage doors are closing.\nB. Drivers are racing cars.\nC. Vehicles are parked in rows.\nD. People are crossing a bridge.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. The garage doors are closing.",
+        "B. Drivers are racing cars.",
+        "C. Vehicles are parked in rows.",
+        "D. People are crossing a bridge."
+      ],
+      "correctOption": "C",
+      "explanationEn": "Choice C is correct because it best matches the photograph: C. Vehicles are parked in rows.",
+      "koreanLearnerHint": "사진 \"parked.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "vehicles",
+          "meaningKo": "vehicles",
+          "exampleSentence": "Vehicles are parked in rows.",
+          "meaningJa": "車両"
+        },
+        {
+          "word": "parked",
+          "meaningKo": "parked",
+          "exampleSentence": "Vehicles are parked in rows.",
+          "meaningJa": "駐車された"
+        },
+        {
+          "word": "rows",
+          "meaningKo": "rows",
+          "exampleSentence": "Vehicles are parked in rows.",
+          "meaningJa": "列"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "vehicles",
+        "meaningKo": "vehicles",
+        "exampleSentence": "Vehicles are parked in rows.",
+        "meaningJa": "車両"
+      },
+      "explanationKo": "C가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は C. Vehicles are parked in rows. です。この写真問題では、正しい文「Vehicles are parked in rows.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The garage doors are closing. / Drivers are racing cars.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「parked.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 18
+    },
+    {
+      "id": "l1-213",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "studying.jpg",
+      "audioId": "studying",
+      "audioFile": "l1_ex19_answer_b.mp3",
+      "audioTitle": "Photograph: Studying",
+      "transcript": "A. Books are being returned to shelves.\nB. Students are studying at tables.\nC. The lights are turned off.\nD. People are exercising.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. Books are being returned to shelves.",
+        "B. Students are studying at tables.",
+        "C. The lights are turned off.",
+        "D. People are exercising."
+      ],
+      "correctOption": "B",
+      "explanationEn": "Choice B is correct because it best matches the photograph: B. Students are studying at tables.",
+      "koreanLearnerHint": "사진 \"studying.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "studying",
+          "meaningKo": "studying",
+          "exampleSentence": "Students are studying at tables.",
+          "meaningJa": "勉強している"
+        },
+        {
+          "word": "tables",
+          "meaningKo": "tables",
+          "exampleSentence": "Students are studying at tables.",
+          "meaningJa": "テーブル"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "studying",
+        "meaningKo": "studying",
+        "exampleSentence": "Students are studying at tables.",
+        "meaningJa": "勉強している"
+      },
+      "explanationKo": "B가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は B. Students are studying at tables. です。この写真問題では、正しい文「Students are studying at tables.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Books are being returned to shelves. / The lights are turned off.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「studying.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 19
+    },
+    {
+      "id": "l1-214",
+      "part": "listening_part_1",
+      "skill": "listening photo - scene",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "imageFile": "shopping_cart.jpg",
+      "audioId": "shopping_cart",
+      "audioFile": "l1_ex20_answer_d.mp3",
+      "audioTitle": "Photograph: Shopping Cart",
+      "transcript": "A. People are sitting at tables.\nB. Vegetables are being cooked.\nC. Shelves are being removed.\nD. A customer is pushing a shopping cart.",
+      "prompt": "Select the statement that best describes the picture.",
+      "options": [
+        "A. People are sitting at tables.",
+        "B. Vegetables are being cooked.",
+        "C. Shelves are being removed.",
+        "D. A customer is pushing a shopping cart."
+      ],
+      "correctOption": "D",
+      "explanationEn": "Choice D is correct because it best matches the photograph: D. A customer is pushing a shopping cart.",
+      "koreanLearnerHint": "사진 \"shopping_cart.jpg\"을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "vocabularyItems": [
+        {
+          "word": "pushing",
+          "meaningKo": "pushing",
+          "exampleSentence": "A customer is pushing a shopping cart.",
+          "meaningJa": "押している"
+        },
+        {
+          "word": "shopping",
+          "meaningKo": "shopping",
+          "exampleSentence": "A customer is pushing a shopping cart.",
+          "meaningJa": "買い物"
+        },
+        {
+          "word": "cart",
+          "meaningKo": "cart",
+          "exampleSentence": "A customer is pushing a shopping cart.",
+          "meaningJa": "カート"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "pushing",
+        "meaningKo": "pushing",
+        "exampleSentence": "A customer is pushing a shopping cart.",
+        "meaningJa": "押している"
+      },
+      "explanationKo": "D가 사진을 가장 잘 묘사합니다.",
+      "explanationJa": "正解は D. A customer is pushing a shopping cart. です。この写真問題では、正しい文「A customer is pushing a shopping cart.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（People are sitting at tables. / Vegetables are being cooked.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
+      "japaneseLearnerHint": "写真「shopping_cart.jpg」を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "exerciseNumber": 20
+    }
+  ]
+}

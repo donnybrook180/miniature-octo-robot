@@ -1,0 +1,2117 @@
+{
+  "part": "reading_part_7",
+  "questions": [
+    {
+      "id": "r7-001",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r7-fitness-center-notice",
+      "passageTitle": "Notice: Fitness Center Closure",
+      "passageText": "Notice\n\nThe company fitness center will be closed this Saturday from 9 A.M. to 1 P.M. for equipment inspection. Employees may use the community gym across the street during this time by showing their company ID.",
+      "prompt": "Why will the fitness center be closed?",
+      "options": [
+        "A. For equipment inspection.",
+        "B. For staff training.",
+        "C. Because of a holiday.",
+        "D. Because the ID system is broken."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The notice says the fitness center will be closed for equipment inspection.",
+      "explanationKo": "공지에서 운동 시설이 장비 점검 때문에 문을 닫는다고 했습니다.",
+      "koreanLearnerHint": "Why 문제에서는 for, because of 뒤의 이유 표현을 찾으세요.",
+      "vocabularyItems": [
+        {
+          "word": "inspection",
+          "meaningKo": "점검",
+          "exampleSentence": "The equipment inspection will take four hours.",
+          "meaningJa": "点検"
+        },
+        {
+          "word": "company ID",
+          "meaningKo": "사원증",
+          "exampleSentence": "Employees must show their company ID.",
+          "meaningJa": "社員証"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "inspection",
+        "meaningKo": "점검",
+        "exampleSentence": "The equipment inspection will take four hours.",
+        "meaningJa": "点検"
+      },
+      "explanationJa": "正解は A. For equipment inspection. です。設問「Why will the fitness center be closed?」は、Notice: Fitness Center Closure の該当箇所を根拠に判断します。選択肢「For equipment inspection.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Why will the fitness center be closed?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 1
+    },
+    {
+      "id": "r7-002",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - purpose",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r7-dining-reservation-email",
+      "passageTitle": "E-mail: Private Dining Reservation",
+      "passageText": "E-mail\n\nTo: Ms. Carter\nFrom: Daniel Lee\n\nI am writing to confirm your reservation for a private dining room on June 14. The room can accommodate up to twelve guests. Please let us know by June 10 if you need to change the number of guests.",
+      "prompt": "What is the purpose of the e-mail?",
+      "options": [
+        "A. To confirm a reservation.",
+        "B. To cancel a meal.",
+        "C. To request a menu change.",
+        "D. To announce a new restaurant."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The sender says he is writing to confirm a reservation.",
+      "explanationKo": "보내는 사람이 예약을 확인하기 위해 이메일을 쓴다고 했습니다.",
+      "koreanLearnerHint": "I am writing to... 뒤에 메일의 목적이 직접 나오는 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "confirm",
+          "meaningKo": "확인하다",
+          "exampleSentence": "I am writing to confirm your reservation.",
+          "meaningJa": "確認する"
+        },
+        {
+          "word": "accommodate",
+          "meaningKo": "수용하다",
+          "exampleSentence": "The room can accommodate twelve guests.",
+          "meaningJa": "収容する、対応する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "confirm",
+        "meaningKo": "확인하다",
+        "exampleSentence": "I am writing to confirm your reservation.",
+        "meaningJa": "確認する"
+      },
+      "explanationJa": "正解は A. To confirm a reservation. です。設問「What is the purpose of the e-mail?」は、E-mail: Private Dining Reservation の該当箇所を根拠に判断します。選択肢「To confirm a reservation.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What is the purpose of the e-mail?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 2
+    },
+    {
+      "id": "r7-003",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - inference",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-printer-review",
+      "passageTitle": "Online Review: Office Printer",
+      "passageText": "Online Review\n\nI bought the VX200 printer for my small office last month. The print quality is excellent, and setup took less than ten minutes. However, the ink cartridges need to be replaced more often than expected, which makes the printer expensive to operate.",
+      "prompt": "What can be inferred about the printer?",
+      "options": [
+        "A. It has high operating costs.",
+        "B. It is difficult to set up.",
+        "C. It produces poor-quality prints.",
+        "D. It is used only at home."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The reviewer says the ink must be replaced often, making the printer expensive to operate.",
+      "explanationKo": "잉크를 자주 교체해야 해서 운영 비용이 높다고 추론할 수 있습니다.",
+      "koreanLearnerHint": "inference 문제는 문장을 그대로 복사한 답보다 내용을 따라 추론한 답이 정답인 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "cartridge",
+          "meaningKo": "카트리지, 잉크통",
+          "exampleSentence": "The ink cartridges need to be replaced.",
+          "meaningJa": "カートリッジ"
+        },
+        {
+          "word": "operate",
+          "meaningKo": "운영하다, 작동하다",
+          "exampleSentence": "The printer is expensive to operate.",
+          "meaningJa": "作動する、運営する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "cartridge",
+        "meaningKo": "카트리지, 잉크통",
+        "exampleSentence": "The ink cartridges need to be replaced.",
+        "meaningJa": "カートリッジ"
+      },
+      "explanationJa": "正解は A. It has high operating costs. です。設問「What can be inferred about the printer?」は、Online Review: Office Printer の該当箇所を根拠に判断します。選択肢「It has high operating costs.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What can be inferred about the printer?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 3
+    },
+    {
+      "id": "r7-004",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - schedule",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-training-schedule",
+      "passageTitle": "Schedule: Sales Training",
+      "passageText": "Training Schedule\n\n9:00-10:15 Customer Communication\n10:30-11:45 Handling Complaints\n12:00-1:00 Lunch\n1:15-2:30 Product Knowledge\n2:45-4:00 Sales Practice",
+      "prompt": "What session begins at 1:15?",
+      "options": [
+        "A. Product Knowledge.",
+        "B. Customer Communication.",
+        "C. Handling Complaints.",
+        "D. Sales Practice."
+      ],
+      "correctOption": "A",
+      "explanationEn": "According to the schedule, Product Knowledge begins at 1:15.",
+      "explanationKo": "일정표에 따르면 1시 15분에 Product Knowledge 세션이 시작됩니다.",
+      "koreanLearnerHint": "일정표 문제는 시간과 항목을 서두르지 말고 직접 대조하세요.",
+      "vocabularyItems": [
+        {
+          "word": "handle complaints",
+          "meaningKo": "불만을 처리하다",
+          "exampleSentence": "Employees learned how to handle complaints.",
+          "meaningJa": "苦情を処理する"
+        },
+        {
+          "word": "product knowledge",
+          "meaningKo": "제품 지식",
+          "exampleSentence": "Product knowledge is important for sales staff.",
+          "meaningJa": "製品知識"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "handle complaints",
+        "meaningKo": "불만을 처리하다",
+        "exampleSentence": "Employees learned how to handle complaints.",
+        "meaningJa": "苦情を処理する"
+      },
+      "explanationJa": "正解は A. Product Knowledge. です。設問「What session begins at 1:15?」は、Schedule: Sales Training の該当箇所を根拠に判断します。選択肢「Product Knowledge.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What session begins at 1:15?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 4
+    },
+    {
+      "id": "r7-005",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - double passage",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-office-supplies-email-thread",
+      "passageTitle": "E-mail Thread: Missing Copy Paper",
+      "passageText": "E-mail 1\n\nTo: Pacific Office Supplies\nFrom: Grace Kim\n\nWe received order #4582 this morning, but two boxes of copy paper were missing. Could you deliver the missing items by Friday?\n\nE-mail 2\n\nTo: Grace Kim\nFrom: Pacific Office Supplies\n\nWe apologize for the error. The missing boxes will be delivered tomorrow afternoon at no additional charge.",
+      "prompt": "What will Pacific Office Supplies do?",
+      "options": [
+        "A. Deliver the missing boxes tomorrow.",
+        "B. Cancel order #4582.",
+        "C. Charge an extra delivery fee.",
+        "D. Send a new invoice by Friday."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The second e-mail says the missing boxes will be delivered tomorrow afternoon at no extra charge.",
+      "explanationKo": "두 번째 이메일에서 누락된 박스를 내일 오후에 배달하겠다고 했습니다.",
+      "koreanLearnerHint": "double passage는 첫 번째 글의 문제점과 두 번째 글의 대응을 연결해야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "missing items",
+          "meaningKo": "누락된 품목",
+          "exampleSentence": "The missing items will be delivered tomorrow.",
+          "meaningJa": "不足品"
+        },
+        {
+          "word": "at no additional charge",
+          "meaningKo": "추가 비용 없이",
+          "exampleSentence": "The boxes will be delivered at no additional charge.",
+          "meaningJa": "追加料金なしで"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "missing items",
+        "meaningKo": "누락된 품목",
+        "exampleSentence": "The missing items will be delivered tomorrow.",
+        "meaningJa": "不足品"
+      },
+      "explanationJa": "正解は A. Deliver the missing boxes tomorrow. です。設問「What will Pacific Office Supplies do?」は、E-mail Thread: Missing Copy Paper の該当箇所を根拠に判断します。選択肢「Deliver the missing boxes tomorrow.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What will Pacific Office Supplies do?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 5
+    },
+    {
+      "id": "r7-006",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - email purpose",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-office-move-email",
+      "passageTitle": "E-mail: Temporary Office Move",
+      "passageText": "E-mail\n\nTo: All Marketing Department Employees\nFrom: Jenna Walsh, Office Services\nSubject: Temporary Office Move\n\nAs you know, renovation work on the fifth floor will begin on Monday, May 12. During the renovation, the marketing department will temporarily move to the training center on the second floor.\n\nPlease pack all personal items and important documents by 4 P.M. this Friday. Labeled boxes will be delivered to your desks tomorrow morning. Computers and desk phones will be moved by the technical support team over the weekend.\n\nThe temporary workspace will be available starting Monday at 8 A.M. If you need access to the fifth floor during the renovation, please contact Office Services at extension 442.",
+      "prompt": "Why was the e-mail sent?",
+      "options": [
+        "A. To explain a temporary office relocation.",
+        "B. To announce a new marketing campaign.",
+        "C. To request volunteers for a renovation project.",
+        "D. To invite employees to a training session."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The e-mail explains that the marketing department will temporarily move during fifth-floor renovation work.",
+      "explanationKo": "이 이메일은 5층 공사 동안 마케팅 부서가 임시로 이동한다는 내용을 안내하기 위해 보내졌습니다.",
+      "koreanLearnerHint": "purpose 문제는 제목과 첫 단락에서 글의 목적을 먼저 파악하세요.",
+      "vocabularyItems": [
+        {
+          "word": "temporary",
+          "meaningKo": "임시의",
+          "exampleSentence": "The department will move to a temporary workspace.",
+          "meaningJa": "一時的な"
+        },
+        {
+          "word": "relocation",
+          "meaningKo": "이전, 이동",
+          "exampleSentence": "The e-mail explains the office relocation.",
+          "meaningJa": "移転"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "temporary",
+        "meaningKo": "임시의",
+        "exampleSentence": "The department will move to a temporary workspace.",
+        "meaningJa": "一時的な"
+      },
+      "explanationJa": "正解は A. To explain a temporary office relocation. です。設問「Why was the e-mail sent?」は、E-mail: Temporary Office Move の該当箇所を根拠に判断します。選択肢「To explain a temporary office relocation.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Why was the e-mail sent?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 6
+    },
+    {
+      "id": "r7-007",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-office-move-email",
+      "passageTitle": "E-mail: Temporary Office Move",
+      "passageText": "E-mail\n\nTo: All Marketing Department Employees\nFrom: Jenna Walsh, Office Services\nSubject: Temporary Office Move\n\nAs you know, renovation work on the fifth floor will begin on Monday, May 12. During the renovation, the marketing department will temporarily move to the training center on the second floor.\n\nPlease pack all personal items and important documents by 4 P.M. this Friday. Labeled boxes will be delivered to your desks tomorrow morning. Computers and desk phones will be moved by the technical support team over the weekend.\n\nThe temporary workspace will be available starting Monday at 8 A.M. If you need access to the fifth floor during the renovation, please contact Office Services at extension 442.",
+      "prompt": "Where will the marketing department work during the renovation?",
+      "options": [
+        "A. In the training center on the second floor.",
+        "B. In the lobby conference room.",
+        "C. On the fifth floor near Office Services.",
+        "D. In employees' home offices."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The e-mail says the marketing department will move to the training center on the second floor.",
+      "explanationKo": "이메일에서 마케팅 부서가 2층 교육 센터로 이동한다고 했습니다.",
+      "koreanLearnerHint": "Where 문제에서는 on the second floor, in the training center 같은 장소 표현을 찾으세요.",
+      "vocabularyItems": [
+        {
+          "word": "training center",
+          "meaningKo": "교육 센터",
+          "exampleSentence": "The team will work in the training center.",
+          "meaningJa": "研修センター"
+        },
+        {
+          "word": "renovation",
+          "meaningKo": "개보수, 공사",
+          "exampleSentence": "Renovation work will begin on Monday.",
+          "meaningJa": "改装、改修"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "training center",
+        "meaningKo": "교육 센터",
+        "exampleSentence": "The team will work in the training center.",
+        "meaningJa": "研修センター"
+      },
+      "explanationJa": "正解は A. In the training center on the second floor. です。設問「Where will the marketing department work during the renovation?」は、E-mail: Temporary Office Move の該当箇所を根拠に判断します。選択肢「In the training center on the second floor.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Where will the marketing department work during the renovation?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 7
+    },
+    {
+      "id": "r7-008",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - deadline",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-office-move-email",
+      "passageTitle": "E-mail: Temporary Office Move",
+      "passageText": "E-mail\n\nTo: All Marketing Department Employees\nFrom: Jenna Walsh, Office Services\nSubject: Temporary Office Move\n\nAs you know, renovation work on the fifth floor will begin on Monday, May 12. During the renovation, the marketing department will temporarily move to the training center on the second floor.\n\nPlease pack all personal items and important documents by 4 P.M. this Friday. Labeled boxes will be delivered to your desks tomorrow morning. Computers and desk phones will be moved by the technical support team over the weekend.\n\nThe temporary workspace will be available starting Monday at 8 A.M. If you need access to the fifth floor during the renovation, please contact Office Services at extension 442.",
+      "prompt": "What should employees do by 4 P.M. this Friday?",
+      "options": [
+        "A. Pack personal items and important documents.",
+        "B. Move their computers to the second floor.",
+        "C. Call technical support.",
+        "D. Pick up labeled boxes from Office Services."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Employees are asked to pack personal items and important documents by 4 P.M. Friday.",
+      "explanationKo": "직원들은 금요일 오후 4시까지 개인 물품과 중요 문서를 정리해야 합니다.",
+      "koreanLearnerHint": "by 4 P.M. this Friday는 마감시간이므로, 그 시간까지 해야 하는 행동을 찾으세요.",
+      "vocabularyItems": [
+        {
+          "word": "personal items",
+          "meaningKo": "개인 물품",
+          "exampleSentence": "Please pack all personal items.",
+          "meaningJa": "私物"
+        },
+        {
+          "word": "important documents",
+          "meaningKo": "중요 문서",
+          "exampleSentence": "Important documents should be packed by Friday.",
+          "meaningJa": "重要書類"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "personal items",
+        "meaningKo": "개인 물품",
+        "exampleSentence": "Please pack all personal items.",
+        "meaningJa": "私物"
+      },
+      "explanationJa": "正解は A. Pack personal items and important documents. です。設問「What should employees do by 4 P.M. this Friday?」は、E-mail: Temporary Office Move の該当箇所を根拠に判断します。選択肢「Pack personal items and important documents.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What should employees do by 4 P.M. this Friday?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 8
+    },
+    {
+      "id": "r7-009",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - inference",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-office-move-email",
+      "passageTitle": "E-mail: Temporary Office Move",
+      "passageText": "E-mail\n\nTo: All Marketing Department Employees\nFrom: Jenna Walsh, Office Services\nSubject: Temporary Office Move\n\nAs you know, renovation work on the fifth floor will begin on Monday, May 12. During the renovation, the marketing department will temporarily move to the training center on the second floor.\n\nPlease pack all personal items and important documents by 4 P.M. this Friday. Labeled boxes will be delivered to your desks tomorrow morning. Computers and desk phones will be moved by the technical support team over the weekend.\n\nThe temporary workspace will be available starting Monday at 8 A.M. If you need access to the fifth floor during the renovation, please contact Office Services at extension 442.",
+      "prompt": "What can be inferred about the technical support team?",
+      "options": [
+        "A. They will move computer equipment over the weekend.",
+        "B. They will repair the fifth-floor elevators.",
+        "C. They will label boxes tomorrow morning.",
+        "D. They will manage access to Office Services."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The e-mail says computers and desk phones will be moved by the technical support team over the weekend.",
+      "explanationKo": "이메일에서 컴퓨터와 전화기는 주말 동안 기술 지원 팀이 이동한다고 했습니다.",
+      "koreanLearnerHint": "inference 문제지만 근거는 본문에 있습니다. technical support team과 over the weekend를 연결하세요.",
+      "vocabularyItems": [
+        {
+          "word": "technical support",
+          "meaningKo": "기술 지원",
+          "exampleSentence": "Technical support will move the computers.",
+          "meaningJa": "技術サポート"
+        },
+        {
+          "word": "desk phone",
+          "meaningKo": "사무실 전화기",
+          "exampleSentence": "Desk phones will be moved over the weekend.",
+          "meaningJa": "卓上電話"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "technical support",
+        "meaningKo": "기술 지원",
+        "exampleSentence": "Technical support will move the computers.",
+        "meaningJa": "技術サポート"
+      },
+      "explanationJa": "正解は A. They will move computer equipment over the weekend. です。設問「What can be inferred about the technical support team?」は、E-mail: Temporary Office Move の該当箇所を根拠に判断します。選択肢「They will move computer equipment over the weekend.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What can be inferred about the technical support team?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 9
+    },
+    {
+      "id": "r7-010",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - article main idea",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-harbor-news-article",
+      "passageTitle": "Article: New Support Center",
+      "passageText": "Article\n\nHarbor City Business Journal\n\nLocal technology firm NexaCore announced on Tuesday that it will open a customer support center in Harbor City this September. The new center is expected to create 85 full-time jobs, including positions in technical support, account management, and training.\n\nAccording to CEO Elena Morris, Harbor City was selected because of its strong public transportation network and its growing pool of bilingual workers. The company plans to renovate a vacant building on Mason Street and begin hiring in June.\n\nNexaCore currently provides software services to small and midsize retailers in five countries. The company said the new center will allow it to offer longer support hours for clients in different time zones.",
+      "prompt": "What is the article mainly about?",
+      "options": [
+        "A. A company opening a new support center.",
+        "B. A retailer closing stores in five countries.",
+        "C. A city reducing public transportation service.",
+        "D. A training program for software engineers."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The article announces that NexaCore will open a customer support center in Harbor City.",
+      "explanationKo": "기사에서는 NexaCore가 Harbor City에 고객 지원 센터를 열 예정이라고 발표합니다.",
+      "koreanLearnerHint": "주제 문제는 보통 제목과 첫 단락의 핵심 내용을 함께 보면 풀기 쉽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "customer support center",
+          "meaningKo": "고객 지원 센터",
+          "exampleSentence": "The company will open a customer support center.",
+          "meaningJa": "顧客サポートセンター"
+        },
+        {
+          "word": "full-time job",
+          "meaningKo": "정규직 일자리",
+          "exampleSentence": "The center will create full-time jobs.",
+          "meaningJa": "正社員の仕事"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "customer support center",
+        "meaningKo": "고객 지원 센터",
+        "exampleSentence": "The company will open a customer support center.",
+        "meaningJa": "顧客サポートセンター"
+      },
+      "explanationJa": "正解は A. A company opening a new support center. です。設問「What is the article mainly about?」は、Article: New Support Center の該当箇所を根拠に判断します。選択肢「A company opening a new support center.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "空所の直後の名詞を見てください。「What is the article mainly about?」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "exerciseNumber": 10
+    },
+    {
+      "id": "r7-011",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-harbor-news-article",
+      "passageTitle": "Article: New Support Center",
+      "passageText": "Article\n\nHarbor City Business Journal\n\nLocal technology firm NexaCore announced on Tuesday that it will open a customer support center in Harbor City this September. The new center is expected to create 85 full-time jobs, including positions in technical support, account management, and training.\n\nAccording to CEO Elena Morris, Harbor City was selected because of its strong public transportation network and its growing pool of bilingual workers. The company plans to renovate a vacant building on Mason Street and begin hiring in June.\n\nNexaCore currently provides software services to small and midsize retailers in five countries. The company said the new center will allow it to offer longer support hours for clients in different time zones.",
+      "prompt": "When does NexaCore plan to begin hiring?",
+      "options": [
+        "A. In June.",
+        "B. In July.",
+        "C. In September.",
+        "D. On Tuesday."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The article says the company plans to begin hiring in June.",
+      "explanationKo": "기사에서는 회사가 6월에 채용을 시작할 계획이라고 말합니다.",
+      "koreanLearnerHint": "날짜가 여러 개 나오면 역할을 구분하세요. 9월은 개소 시기이고, 6월은 채용 시작 시기입니다.",
+      "vocabularyItems": [
+        {
+          "word": "begin hiring",
+          "meaningKo": "채용을 시작하다",
+          "exampleSentence": "The company plans to begin hiring in June.",
+          "meaningJa": "採用を開始する"
+        },
+        {
+          "word": "renovate",
+          "meaningKo": "개조하다, 보수하다",
+          "exampleSentence": "They will renovate a vacant building.",
+          "meaningJa": "改装する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "begin hiring",
+        "meaningKo": "채용을 시작하다",
+        "exampleSentence": "The company plans to begin hiring in June.",
+        "meaningJa": "採用を開始する"
+      },
+      "explanationJa": "正解は A. In June. です。設問「When does NexaCore plan to begin hiring?」は、Article: New Support Center の該当箇所を根拠に判断します。選択肢「In June.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「When does NexaCore plan to begin hiring?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 11
+    },
+    {
+      "id": "r7-012",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - inference",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-harbor-news-article",
+      "passageTitle": "Article: New Support Center",
+      "passageText": "Article\n\nHarbor City Business Journal\n\nLocal technology firm NexaCore announced on Tuesday that it will open a customer support center in Harbor City this September. The new center is expected to create 85 full-time jobs, including positions in technical support, account management, and training.\n\nAccording to CEO Elena Morris, Harbor City was selected because of its strong public transportation network and its growing pool of bilingual workers. The company plans to renovate a vacant building on Mason Street and begin hiring in June.\n\nNexaCore currently provides software services to small and midsize retailers in five countries. The company said the new center will allow it to offer longer support hours for clients in different time zones.",
+      "prompt": "Why was Harbor City selected?",
+      "options": [
+        "A. It has good transportation and bilingual workers.",
+        "B. It has the lowest office rents in the country.",
+        "C. It is where NexaCore was founded.",
+        "D. It already has many NexaCore retail stores."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The CEO mentions the transportation network and bilingual workers as reasons for choosing the city.",
+      "explanationKo": "CEO는 이 도시를 선택한 이유로 교통망과 이중언어 구사 인력을 언급합니다.",
+      "koreanLearnerHint": "why/inference 문제에서는 본문에서 인용된 사람이 말한 이유를 정확히 연결하세요.",
+      "vocabularyItems": [
+        {
+          "word": "bilingual",
+          "meaningKo": "이중언어를 구사하는",
+          "exampleSentence": "The city has many bilingual workers.",
+          "meaningJa": "二言語対応の"
+        },
+        {
+          "word": "time zone",
+          "meaningKo": "시간대",
+          "exampleSentence": "Clients are in different time zones.",
+          "meaningJa": "時間帯"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "bilingual",
+        "meaningKo": "이중언어를 구사하는",
+        "exampleSentence": "The city has many bilingual workers.",
+        "meaningJa": "二言語対応の"
+      },
+      "explanationJa": "正解は A. It has good transportation and bilingual workers. です。設問「Why was Harbor City selected?」は、Article: New Support Center の該当箇所を根拠に判断します。選択肢「It has good transportation and bilingual workers.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Why was Harbor City selected?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 12
+    },
+    {
+      "id": "r7-013",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - notice purpose",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r7-hotel-notice",
+      "passageTitle": "Notice: Rooftop Lounge Closure",
+      "passageText": "Notice\n\nTo: Guests of the Bellview Hotel\n\nThe rooftop lounge will be closed from April 3 through April 6 while new outdoor lighting is installed. Breakfast service will continue as usual in the first-floor dining room.\n\nGuests who reserved the rooftop lounge for private events during this period have been contacted by the events team. These events will be moved to the Garden Room unless another arrangement has been requested.\n\nWe apologize for the inconvenience and appreciate your understanding.",
+      "prompt": "Why will the rooftop lounge be closed?",
+      "options": [
+        "A. New outdoor lighting will be installed.",
+        "B. The dining room is being repaired.",
+        "C. The hotel is hosting a private event.",
+        "D. Breakfast service has been canceled."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The notice says the lounge will close while new outdoor lighting is installed.",
+      "explanationKo": "공지에서는 새 야외 조명을 설치하는 동안 라운지가 닫힌다고 말합니다.",
+      "koreanLearnerHint": "'while new outdoor lighting is installed'라는 표현이 폐쇄 이유를 알려 줍니다.",
+      "vocabularyItems": [
+        {
+          "word": "rooftop lounge",
+          "meaningKo": "옥상 라운지",
+          "exampleSentence": "The rooftop lounge will be closed.",
+          "meaningJa": "屋上ラウンジ"
+        },
+        {
+          "word": "install lighting",
+          "meaningKo": "조명을 설치하다",
+          "exampleSentence": "Workers will install new lighting.",
+          "meaningJa": "照明を設置する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "rooftop lounge",
+        "meaningKo": "옥상 라운지",
+        "exampleSentence": "The rooftop lounge will be closed.",
+        "meaningJa": "屋上ラウンジ"
+      },
+      "explanationJa": "正解は A. New outdoor lighting will be installed. です。設問「Why will the rooftop lounge be closed?」は、Notice: Rooftop Lounge Closure の該当箇所を根拠に判断します。選択肢「New outdoor lighting will be installed.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Why will the rooftop lounge be closed?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 13
+    },
+    {
+      "id": "r7-014",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r7-hotel-notice",
+      "passageTitle": "Notice: Rooftop Lounge Closure",
+      "passageText": "Notice\n\nTo: Guests of the Bellview Hotel\n\nThe rooftop lounge will be closed from April 3 through April 6 while new outdoor lighting is installed. Breakfast service will continue as usual in the first-floor dining room.\n\nGuests who reserved the rooftop lounge for private events during this period have been contacted by the events team. These events will be moved to the Garden Room unless another arrangement has been requested.\n\nWe apologize for the inconvenience and appreciate your understanding.",
+      "prompt": "Where will breakfast be served during the closure?",
+      "options": [
+        "A. In the first-floor dining room.",
+        "B. In the Garden Room.",
+        "C. On the rooftop lounge.",
+        "D. At the events desk."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Breakfast service will continue in the first-floor dining room.",
+      "explanationKo": "아침 식사 서비스는 1층 식당에서 계속 제공됩니다.",
+      "koreanLearnerHint": "행사 장소와 아침 식사 장소를 혼동하지 마세요.",
+      "vocabularyItems": [
+        {
+          "word": "as usual",
+          "meaningKo": "평소처럼",
+          "exampleSentence": "Breakfast will continue as usual.",
+          "meaningJa": "通常通り"
+        },
+        {
+          "word": "dining room",
+          "meaningKo": "식당",
+          "exampleSentence": "Breakfast is served in the dining room.",
+          "meaningJa": "食堂、個室"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "as usual",
+        "meaningKo": "평소처럼",
+        "exampleSentence": "Breakfast will continue as usual.",
+        "meaningJa": "通常通り"
+      },
+      "explanationJa": "正解は A. In the first-floor dining room. です。設問「Where will breakfast be served during the closure?」は、Notice: Rooftop Lounge Closure の該当箇所を根拠に判断します。選択肢「In the first-floor dining room.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Where will breakfast be served during the closure?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 14
+    },
+    {
+      "id": "r7-015",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - implication",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-hotel-notice",
+      "passageTitle": "Notice: Rooftop Lounge Closure",
+      "passageText": "Notice\n\nTo: Guests of the Bellview Hotel\n\nThe rooftop lounge will be closed from April 3 through April 6 while new outdoor lighting is installed. Breakfast service will continue as usual in the first-floor dining room.\n\nGuests who reserved the rooftop lounge for private events during this period have been contacted by the events team. These events will be moved to the Garden Room unless another arrangement has been requested.\n\nWe apologize for the inconvenience and appreciate your understanding.",
+      "prompt": "What will happen to most private events scheduled in the rooftop lounge during this period?",
+      "options": [
+        "A. They will be moved to the Garden Room.",
+        "B. They will be canceled automatically.",
+        "C. They will be held in the dining room.",
+        "D. They will be delayed until April 6."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The notice says these events will be moved to the Garden Room unless another arrangement was requested.",
+      "explanationKo": "공지에서는 다른 조정 요청이 없는 경우 해당 행사들이 Garden Room으로 옮겨진다고 말합니다.",
+      "koreanLearnerHint": "'Unless'는 예외를 나타냅니다. 여기서는 일반적인 조치가 정답입니다.",
+      "vocabularyItems": [
+        {
+          "word": "arrangement",
+          "meaningKo": "조정, 준비",
+          "exampleSentence": "Another arrangement can be requested.",
+          "meaningJa": "手配、配置"
+        },
+        {
+          "word": "private event",
+          "meaningKo": "비공개 행사",
+          "exampleSentence": "Private events will be moved.",
+          "meaningJa": "非公開イベント"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "arrangement",
+        "meaningKo": "조정, 준비",
+        "exampleSentence": "Another arrangement can be requested.",
+        "meaningJa": "手配、配置"
+      },
+      "explanationJa": "正解は A. They will be moved to the Garden Room. です。設問「What will happen to most private events scheduled in the rooftop lounge during this period?」は、Notice: Rooftop Lounge Closure の該当箇所を根拠に判断します。選択肢「They will be moved to the Garden Room.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What will happen to most private events scheduled in the rooftop lounge during this period?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 15
+    },
+    {
+      "id": "r7-016",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - web page detail",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r7-software-web-page",
+      "passageTitle": "Web Page: TaskPilot Software",
+      "passageText": "Web Page\n\nTaskPilot Project Management Software\n\nTaskPilot helps small teams plan projects, assign tasks, and track deadlines. The software includes shared calendars, automatic deadline reminders, and weekly progress reports.\n\nMonthly Plan: $18 per user\nAnnual Plan: $180 per user\n\nNew customers who register before July 31 will receive a free 30-minute online training session. To schedule the session, customers should click the Training Request button after creating an account.",
+      "prompt": "What is TaskPilot used for?",
+      "options": [
+        "A. Managing projects and deadlines.",
+        "B. Editing product photographs.",
+        "C. Booking business trips.",
+        "D. Processing customer refunds."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The web page says TaskPilot helps teams plan projects, assign tasks, and track deadlines.",
+      "explanationKo": "웹페이지에서는 TaskPilot이 팀의 프로젝트 계획, 업무 배정, 마감 추적을 돕는다고 말합니다.",
+      "koreanLearnerHint": "웹페이지의 첫 문장은 제품의 주요 기능을 설명하는 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "assign tasks",
+          "meaningKo": "업무를 배정하다",
+          "exampleSentence": "Managers can assign tasks to team members.",
+          "meaningJa": "業務を割り当てる"
+        },
+        {
+          "word": "track deadlines",
+          "meaningKo": "마감일을 추적하다",
+          "exampleSentence": "The software tracks deadlines.",
+          "meaningJa": "締め切りを管理する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "assign tasks",
+        "meaningKo": "업무를 배정하다",
+        "exampleSentence": "Managers can assign tasks to team members.",
+        "meaningJa": "業務を割り当てる"
+      },
+      "explanationJa": "正解は A. Managing projects and deadlines. です。設問「What is TaskPilot used for?」は、Web Page: TaskPilot Software の該当箇所を根拠に判断します。選択肢「Managing projects and deadlines.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What is TaskPilot used for?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 16
+    },
+    {
+      "id": "r7-017",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - price comparison",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-software-web-page",
+      "passageTitle": "Web Page: TaskPilot Software",
+      "passageText": "Web Page\n\nTaskPilot Project Management Software\n\nTaskPilot helps small teams plan projects, assign tasks, and track deadlines. The software includes shared calendars, automatic deadline reminders, and weekly progress reports.\n\nMonthly Plan: $18 per user\nAnnual Plan: $180 per user\n\nNew customers who register before July 31 will receive a free 30-minute online training session. To schedule the session, customers should click the Training Request button after creating an account.",
+      "prompt": "How much does the annual plan cost per user?",
+      "options": [
+        "A. $18.",
+        "B. $30.",
+        "C. $180.",
+        "D. $216."
+      ],
+      "correctOption": "C",
+      "explanationEn": "The annual plan is listed as $180 per user.",
+      "explanationKo": "연간 요금제는 사용자당 180달러로 표시되어 있습니다.",
+      "koreanLearnerHint": "TOEIC 가격 문제에서는 월간/연간 요금이 함께 나오므로 정확한 요금제를 맞춰 보세요.",
+      "vocabularyItems": [
+        {
+          "word": "annual plan",
+          "meaningKo": "연간 요금제",
+          "exampleSentence": "The annual plan costs $180 per user.",
+          "meaningJa": "年間プラン"
+        },
+        {
+          "word": "per user",
+          "meaningKo": "사용자당",
+          "exampleSentence": "The price is $18 per user.",
+          "meaningJa": "利用者1人あたり"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "annual plan",
+        "meaningKo": "연간 요금제",
+        "exampleSentence": "The annual plan costs $180 per user.",
+        "meaningJa": "年間プラン"
+      },
+      "explanationJa": "正解は C. $180. です。設問「How much does the annual plan cost per user?」は、Web Page: TaskPilot Software の該当箇所を根拠に判断します。選択肢「$180.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「How much does the annual plan cost per user?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 17
+    },
+    {
+      "id": "r7-018",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - condition",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-software-web-page",
+      "passageTitle": "Web Page: TaskPilot Software",
+      "passageText": "Web Page\n\nTaskPilot Project Management Software\n\nTaskPilot helps small teams plan projects, assign tasks, and track deadlines. The software includes shared calendars, automatic deadline reminders, and weekly progress reports.\n\nMonthly Plan: $18 per user\nAnnual Plan: $180 per user\n\nNew customers who register before July 31 will receive a free 30-minute online training session. To schedule the session, customers should click the Training Request button after creating an account.",
+      "prompt": "What must new customers do to receive a free training session?",
+      "options": [
+        "A. Register before July 31.",
+        "B. Buy ten user accounts.",
+        "C. Submit a weekly progress report.",
+        "D. Choose the monthly plan."
+      ],
+      "correctOption": "A",
+      "explanationEn": "New customers who register before July 31 receive a free training session.",
+      "explanationKo": "7월 31일 전에 등록하는 신규 고객은 무료 교육 세션을 받습니다.",
+      "koreanLearnerHint": "'Before July 31'가 무료 세션을 받기 위한 조건입니다.",
+      "vocabularyItems": [
+        {
+          "word": "register",
+          "meaningKo": "등록하다",
+          "exampleSentence": "Customers must register before July 31.",
+          "meaningJa": "登録する"
+        },
+        {
+          "word": "training session",
+          "meaningKo": "교육 세션",
+          "exampleSentence": "They receive a free training session.",
+          "meaningJa": "研修セッション"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "register",
+        "meaningKo": "등록하다",
+        "exampleSentence": "Customers must register before July 31.",
+        "meaningJa": "登録する"
+      },
+      "explanationJa": "正解は A. Register before July 31. です。設問「What must new customers do to receive a free training session?」は、Web Page: TaskPilot Software の該当箇所を根拠に判断します。選択肢「Register before July 31.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What must new customers do to receive a free training session?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 18
+    },
+    {
+      "id": "r7-019",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - double passage detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-camera-email-thread",
+      "passageTitle": "E-mail Thread: Incorrect Shipment",
+      "passageText": "E-mail 1\n\nTo: Customer Service, Vista Camera\nFrom: Paul Nguyen\nSubject: Order VC-7821\n\nI ordered a VistaPro camera case last week, but I received a lens cleaning kit instead. I need the case before my business trip on Thursday. Could you send the correct item by express delivery?\n\nE-mail 2\n\nTo: Paul Nguyen\nFrom: Customer Service, Vista Camera\n\nWe are sorry for the shipping mistake. The correct camera case has been sent by express delivery and should arrive Wednesday morning. You may keep the lens cleaning kit at no charge.",
+      "prompt": "What problem does Mr. Nguyen report?",
+      "options": [
+        "A. He received the wrong item.",
+        "B. His camera was damaged during shipping.",
+        "C. His business trip was canceled.",
+        "D. He was charged twice for one order."
+      ],
+      "correctOption": "A",
+      "explanationEn": "He ordered a camera case but received a lens cleaning kit instead.",
+      "explanationKo": "그는 카메라 케이스를 주문했지만 대신 렌즈 청소 키트를 받았습니다.",
+      "koreanLearnerHint": "이중 지문에서는 첫 번째 글의 문제와 두 번째 글의 해결책을 연결하세요.",
+      "vocabularyItems": [
+        {
+          "word": "instead",
+          "meaningKo": "대신에",
+          "exampleSentence": "He received a cleaning kit instead.",
+          "meaningJa": "代わりに"
+        },
+        {
+          "word": "business trip",
+          "meaningKo": "출장",
+          "exampleSentence": "He needs the case before his business trip.",
+          "meaningJa": "出張"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "instead",
+        "meaningKo": "대신에",
+        "exampleSentence": "He received a cleaning kit instead.",
+        "meaningJa": "代わりに"
+      },
+      "explanationJa": "正解は A. He received the wrong item. です。設問「What problem does Mr. Nguyen report?」は、E-mail Thread: Incorrect Shipment の該当箇所を根拠に判断します。選択肢「He received the wrong item.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What problem does Mr. Nguyen report?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 19
+    },
+    {
+      "id": "r7-020",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - double passage detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-camera-email-thread",
+      "passageTitle": "E-mail Thread: Incorrect Shipment",
+      "passageText": "E-mail 1\n\nTo: Customer Service, Vista Camera\nFrom: Paul Nguyen\nSubject: Order VC-7821\n\nI ordered a VistaPro camera case last week, but I received a lens cleaning kit instead. I need the case before my business trip on Thursday. Could you send the correct item by express delivery?\n\nE-mail 2\n\nTo: Paul Nguyen\nFrom: Customer Service, Vista Camera\n\nWe are sorry for the shipping mistake. The correct camera case has been sent by express delivery and should arrive Wednesday morning. You may keep the lens cleaning kit at no charge.",
+      "prompt": "When should the correct camera case arrive?",
+      "options": [
+        "A. Wednesday morning.",
+        "B. Thursday afternoon.",
+        "C. Last week.",
+        "D. Next Monday."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Customer service says the case should arrive Wednesday morning.",
+      "explanationKo": "고객 서비스 담당자는 케이스가 수요일 아침에 도착할 것이라고 말합니다.",
+      "koreanLearnerHint": "첫 번째 이메일은 필요한 시점을 말하고, 두 번째 이메일은 실제 도착 예정 시점을 말합니다.",
+      "vocabularyItems": [
+        {
+          "word": "express delivery",
+          "meaningKo": "특급 배송",
+          "exampleSentence": "The item was sent by express delivery.",
+          "meaningJa": "速達配送"
+        },
+        {
+          "word": "arrive",
+          "meaningKo": "도착하다",
+          "exampleSentence": "The case should arrive Wednesday morning.",
+          "meaningJa": "到着する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "express delivery",
+        "meaningKo": "특급 배송",
+        "exampleSentence": "The item was sent by express delivery.",
+        "meaningJa": "速達配送"
+      },
+      "explanationJa": "正解は A. Wednesday morning. です。設問「When should the correct camera case arrive?」は、E-mail Thread: Incorrect Shipment の該当箇所を根拠に判断します。選択肢「Wednesday morning.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「When should the correct camera case arrive?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 20
+    },
+    {
+      "id": "r7-021",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - double passage inference",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-camera-email-thread",
+      "passageTitle": "E-mail Thread: Incorrect Shipment",
+      "passageText": "E-mail 1\n\nTo: Customer Service, Vista Camera\nFrom: Paul Nguyen\nSubject: Order VC-7821\n\nI ordered a VistaPro camera case last week, but I received a lens cleaning kit instead. I need the case before my business trip on Thursday. Could you send the correct item by express delivery?\n\nE-mail 2\n\nTo: Paul Nguyen\nFrom: Customer Service, Vista Camera\n\nWe are sorry for the shipping mistake. The correct camera case has been sent by express delivery and should arrive Wednesday morning. You may keep the lens cleaning kit at no charge.",
+      "prompt": "What is Mr. Nguyen allowed to do?",
+      "options": [
+        "A. Keep the lens cleaning kit for free.",
+        "B. Return the camera case after his trip.",
+        "C. Cancel the express delivery fee.",
+        "D. Exchange his camera for a new model."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Customer service says he may keep the lens cleaning kit at no charge.",
+      "explanationKo": "고객 서비스 담당자는 렌즈 청소 키트를 무료로 보관해도 된다고 말합니다.",
+      "koreanLearnerHint": "'At no charge'는 비용을 지불할 필요가 없다는 뜻입니다.",
+      "vocabularyItems": [
+        {
+          "word": "at no charge",
+          "meaningKo": "무료로",
+          "exampleSentence": "He may keep the kit at no charge.",
+          "meaningJa": "無料で"
+        },
+        {
+          "word": "shipping mistake",
+          "meaningKo": "배송 실수",
+          "exampleSentence": "The company apologized for the shipping mistake.",
+          "meaningJa": "配送ミス"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "at no charge",
+        "meaningKo": "무료로",
+        "exampleSentence": "He may keep the kit at no charge.",
+        "meaningJa": "無料で"
+      },
+      "explanationJa": "正解は A. Keep the lens cleaning kit for free. です。設問「What is Mr. Nguyen allowed to do?」は、E-mail Thread: Incorrect Shipment の該当箇所を根拠に判断します。選択肢「Keep the lens cleaning kit for free.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What is Mr. Nguyen allowed to do?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 21
+    },
+    {
+      "id": "r7-022",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - notice purpose",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-warehouse-pickup-notice",
+      "passageTitle": "Notice: Updated Pickup Procedure",
+      "passageText": "Notice\n\nHarborwide Logistics\nUpdated Pickup Procedure\n\nStarting Monday, all drivers picking up packages from Dock 3 must check in at the security office before entering the loading area. Drivers will receive a numbered pickup card and should show it to the dock coordinator.\n\nPackages scheduled for same-day pickup will be held until 5:30 P.M. Any package not collected by that time will be moved to overnight storage and must be requested again the following business day.\n\nTo avoid delays, customers should include a mobile phone number when arranging pickup service. The warehouse team will send a text message when packages are ready.",
+      "prompt": "What is the notice mainly about?",
+      "options": [
+        "A. A new procedure for package pickup.",
+        "B. A change in warehouse hiring policy.",
+        "C. A discount for overnight storage.",
+        "D. A schedule for driver training."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The notice explains that drivers must check in and follow a new pickup procedure at Dock 3.",
+      "explanationKo": "이 공지는 Dock 3에서 운전자가 체크인하고 새로운 픽업 절차를 따라야 한다는 내용을 설명합니다.",
+      "koreanLearnerHint": "공지의 제목과 첫 단락은 보통 전체 목적을 알려 줍니다. 'Updated Pickup Procedure'가 핵심 단서입니다.",
+      "vocabularyItems": [
+        {
+          "word": "pickup procedure",
+          "meaningKo": "픽업 절차",
+          "exampleSentence": "The pickup procedure starts on Monday.",
+          "meaningJa": "受け取り手順"
+        },
+        {
+          "word": "loading area",
+          "meaningKo": "하역 구역",
+          "exampleSentence": "Drivers must check in before entering the loading area.",
+          "meaningJa": "荷積み場所"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "pickup procedure",
+        "meaningKo": "픽업 절차",
+        "exampleSentence": "The pickup procedure starts on Monday.",
+        "meaningJa": "受け取り手順"
+      },
+      "explanationJa": "正解は A. A new procedure for package pickup. です。設問「What is the notice mainly about?」は、Notice: Updated Pickup Procedure の該当箇所を根拠に判断します。選択肢「A new procedure for package pickup.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What is the notice mainly about?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 22
+    },
+    {
+      "id": "r7-023",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r7-warehouse-pickup-notice",
+      "passageTitle": "Notice: Updated Pickup Procedure",
+      "passageText": "Notice\n\nHarborwide Logistics\nUpdated Pickup Procedure\n\nStarting Monday, all drivers picking up packages from Dock 3 must check in at the security office before entering the loading area. Drivers will receive a numbered pickup card and should show it to the dock coordinator.\n\nPackages scheduled for same-day pickup will be held until 5:30 P.M. Any package not collected by that time will be moved to overnight storage and must be requested again the following business day.\n\nTo avoid delays, customers should include a mobile phone number when arranging pickup service. The warehouse team will send a text message when packages are ready.",
+      "prompt": "What must drivers do before entering the loading area?",
+      "options": [
+        "A. Check in at the security office.",
+        "B. Call the customer directly.",
+        "C. Pay an overnight storage fee.",
+        "D. Send a text message to the warehouse team."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The notice says drivers must check in at the security office before entering the loading area.",
+      "explanationKo": "공지에는 운전자가 하역 구역에 들어가기 전에 보안 사무실에서 체크인해야 한다고 되어 있습니다.",
+      "koreanLearnerHint": "'before entering' 뒤에 요구되는 행동을 찾으면 정답을 고를 수 있습니다.",
+      "vocabularyItems": [
+        {
+          "word": "check in",
+          "meaningKo": "체크인하다, 접수하다",
+          "exampleSentence": "Drivers must check in first.",
+          "meaningJa": "チェックインする"
+        },
+        {
+          "word": "security office",
+          "meaningKo": "보안 사무실",
+          "exampleSentence": "The security office gives drivers a pickup card.",
+          "meaningJa": "警備室"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "check in",
+        "meaningKo": "체크인하다, 접수하다",
+        "exampleSentence": "Drivers must check in first.",
+        "meaningJa": "チェックインする"
+      },
+      "explanationJa": "正解は A. Check in at the security office. です。設問「What must drivers do before entering the loading area?」は、Notice: Updated Pickup Procedure の該当箇所を根拠に判断します。選択肢「Check in at the security office.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What must drivers do before entering the loading area?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 23
+    },
+    {
+      "id": "r7-024",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - inference",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-warehouse-pickup-notice",
+      "passageTitle": "Notice: Updated Pickup Procedure",
+      "passageText": "Notice\n\nHarborwide Logistics\nUpdated Pickup Procedure\n\nStarting Monday, all drivers picking up packages from Dock 3 must check in at the security office before entering the loading area. Drivers will receive a numbered pickup card and should show it to the dock coordinator.\n\nPackages scheduled for same-day pickup will be held until 5:30 P.M. Any package not collected by that time will be moved to overnight storage and must be requested again the following business day.\n\nTo avoid delays, customers should include a mobile phone number when arranging pickup service. The warehouse team will send a text message when packages are ready.",
+      "prompt": "What will probably happen if a same-day package is not picked up by 5:30 P.M.?",
+      "options": [
+        "A. It will be moved to overnight storage.",
+        "B. It will be delivered to the customer automatically.",
+        "C. The driver will receive a new pickup card.",
+        "D. The warehouse team will cancel the order."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The notice states that packages not collected by 5:30 P.M. will be moved to overnight storage.",
+      "explanationKo": "공지에는 오후 5시 30분까지 수거되지 않은 물품은 야간 보관 장소로 옮겨진다고 되어 있습니다.",
+      "koreanLearnerHint": "시간 조건이 있는 문제에서는 해당 시간 뒤에 어떤 조치가 이어지는지 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "same-day pickup",
+          "meaningKo": "당일 픽업",
+          "exampleSentence": "Same-day pickup ends at 5:30 P.M.",
+          "meaningJa": "当日受け取り"
+        },
+        {
+          "word": "overnight storage",
+          "meaningKo": "야간 보관",
+          "exampleSentence": "The package was moved to overnight storage.",
+          "meaningJa": "一晩の保管"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "same-day pickup",
+        "meaningKo": "당일 픽업",
+        "exampleSentence": "Same-day pickup ends at 5:30 P.M.",
+        "meaningJa": "当日受け取り"
+      },
+      "explanationJa": "正解は A. It will be moved to overnight storage. です。設問「What will probably happen if a same-day package is not picked up by 5:30 P.M.?」は、Notice: Updated Pickup Procedure の該当箇所を根拠に判断します。選択肢「It will be moved to overnight storage.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What will probably happen if a same-day package is not picked up by 5:30 P.M.?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 24
+    },
+    {
+      "id": "r7-025",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - schedule detail",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r7-green-office-forum",
+      "passageTitle": "Schedule: Green Office Solutions Forum",
+      "passageText": "Conference Program\n\nGreen Office Solutions Forum\nFriday, June 20\n\n9:00 A.M. - Registration and Coffee - Main Lobby\n9:45 A.M. - Opening Remarks - Hall A\n10:30 A.M. - Reducing Energy Use in Small Offices - Hall B\n12:00 P.M. - Lunch - Garden Terrace\n1:15 P.M. - Choosing Sustainable Office Supplies - Hall B\n2:45 P.M. - Panel Discussion: Managing Shared Workspaces - Hall A\n4:00 P.M. - Closing Reception - Main Lobby\n\nParticipants who reserved a printed workbook may pick it up at the registration desk before 10 A.M. Digital copies will be sent by e-mail after the forum.",
+      "prompt": "Where will the opening remarks take place?",
+      "options": [
+        "A. Hall A.",
+        "B. Hall B.",
+        "C. Garden Terrace.",
+        "D. Main Lobby."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The schedule lists Opening Remarks at 9:45 A.M. in Hall A.",
+      "explanationKo": "일정표에는 오전 9시 45분 Opening Remarks가 Hall A에서 열린다고 되어 있습니다.",
+      "koreanLearnerHint": "일정표 문제는 행사명, 시간, 장소를 한 줄에서 정확히 맞춰 읽어야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "opening remarks",
+          "meaningKo": "개회사",
+          "exampleSentence": "Opening remarks begin at 9:45 A.M.",
+          "meaningJa": "開会の挨拶"
+        },
+        {
+          "word": "take place",
+          "meaningKo": "열리다",
+          "exampleSentence": "The session takes place in Hall A.",
+          "meaningJa": "行われる"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "opening remarks",
+        "meaningKo": "개회사",
+        "exampleSentence": "Opening remarks begin at 9:45 A.M.",
+        "meaningJa": "開会の挨拶"
+      },
+      "explanationJa": "正解は A. Hall A. です。設問「Where will the opening remarks take place?」は、Schedule: Green Office Solutions Forum の該当箇所を根拠に判断します。選択肢「Hall A.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Where will the opening remarks take place?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 25
+    },
+    {
+      "id": "r7-026",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - schedule detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-green-office-forum",
+      "passageTitle": "Schedule: Green Office Solutions Forum",
+      "passageText": "Conference Program\n\nGreen Office Solutions Forum\nFriday, June 20\n\n9:00 A.M. - Registration and Coffee - Main Lobby\n9:45 A.M. - Opening Remarks - Hall A\n10:30 A.M. - Reducing Energy Use in Small Offices - Hall B\n12:00 P.M. - Lunch - Garden Terrace\n1:15 P.M. - Choosing Sustainable Office Supplies - Hall B\n2:45 P.M. - Panel Discussion: Managing Shared Workspaces - Hall A\n4:00 P.M. - Closing Reception - Main Lobby\n\nParticipants who reserved a printed workbook may pick it up at the registration desk before 10 A.M. Digital copies will be sent by e-mail after the forum.",
+      "prompt": "What is scheduled for 1:15 P.M.?",
+      "options": [
+        "A. Choosing Sustainable Office Supplies.",
+        "B. Reducing Energy Use in Small Offices.",
+        "C. Managing Shared Workspaces.",
+        "D. Registration and Coffee."
+      ],
+      "correctOption": "A",
+      "explanationEn": "At 1:15 P.M., the schedule lists 'Choosing Sustainable Office Supplies.'",
+      "explanationKo": "오후 1시 15분에는 'Choosing Sustainable Office Supplies' 세션이 예정되어 있습니다.",
+      "koreanLearnerHint": "비슷한 세션 제목이 여러 개 있으므로 시간과 제목을 함께 확인해야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "sustainable",
+          "meaningKo": "지속 가능한",
+          "exampleSentence": "The session is about sustainable office supplies.",
+          "meaningJa": "持続可能な"
+        },
+        {
+          "word": "office supplies",
+          "meaningKo": "사무용품",
+          "exampleSentence": "The company buys office supplies every month.",
+          "meaningJa": "事務用品"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "sustainable",
+        "meaningKo": "지속 가능한",
+        "exampleSentence": "The session is about sustainable office supplies.",
+        "meaningJa": "持続可能な"
+      },
+      "explanationJa": "正解は A. Choosing Sustainable Office Supplies. です。設問「What is scheduled for 1:15 P.M.?」は、Schedule: Green Office Solutions Forum の該当箇所を根拠に判断します。選択肢「Choosing Sustainable Office Supplies.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What is scheduled for 1:15 P.M.?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 26
+    },
+    {
+      "id": "r7-027",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-green-office-forum",
+      "passageTitle": "Schedule: Green Office Solutions Forum",
+      "passageText": "Conference Program\n\nGreen Office Solutions Forum\nFriday, June 20\n\n9:00 A.M. - Registration and Coffee - Main Lobby\n9:45 A.M. - Opening Remarks - Hall A\n10:30 A.M. - Reducing Energy Use in Small Offices - Hall B\n12:00 P.M. - Lunch - Garden Terrace\n1:15 P.M. - Choosing Sustainable Office Supplies - Hall B\n2:45 P.M. - Panel Discussion: Managing Shared Workspaces - Hall A\n4:00 P.M. - Closing Reception - Main Lobby\n\nParticipants who reserved a printed workbook may pick it up at the registration desk before 10 A.M. Digital copies will be sent by e-mail after the forum.",
+      "prompt": "What is mentioned about digital copies of the workbook?",
+      "options": [
+        "A. They will be sent by e-mail after the forum.",
+        "B. They must be picked up before 10 A.M.",
+        "C. They are available only at the Garden Terrace.",
+        "D. They cost extra for participants."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The schedule says digital copies will be sent by e-mail after the forum.",
+      "explanationKo": "일정표에는 디지털 사본이 포럼 후에 이메일로 발송된다고 되어 있습니다.",
+      "koreanLearnerHint": "printed workbook과 digital copies의 처리 방식이 다릅니다. 두 정보를 구분하세요.",
+      "vocabularyItems": [
+        {
+          "word": "digital copy",
+          "meaningKo": "디지털 사본",
+          "exampleSentence": "Digital copies will be sent by e-mail.",
+          "meaningJa": "電子版"
+        },
+        {
+          "word": "registration desk",
+          "meaningKo": "등록 데스크",
+          "exampleSentence": "Pick up the workbook at the registration desk.",
+          "meaningJa": "受付デスク"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "digital copy",
+        "meaningKo": "디지털 사본",
+        "exampleSentence": "Digital copies will be sent by e-mail.",
+        "meaningJa": "電子版"
+      },
+      "explanationJa": "正解は A. They will be sent by e-mail after the forum. です。設問「What is mentioned about digital copies of the workbook?」は、Schedule: Green Office Solutions Forum の該当箇所を根拠に判断します。選択肢「They will be sent by e-mail after the forum.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What is mentioned about digital copies of the workbook?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 27
+    },
+    {
+      "id": "r7-028",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - double passage detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-return-policy-email",
+      "passageTitle": "Web Page and E-mail: Software Exchange",
+      "passageText": "Web Page\n\nNorthstar Electronics Return Policy\n\nMost items may be returned within 30 days of purchase. Products must be in their original packaging and include all accessories. Refunds are issued to the original payment method within five business days after the returned item is inspected.\n\nOpened software cannot be returned, but it may be exchanged if the activation code does not work. Customers should contact support before mailing any software product.\n\nE-mail\n\nTo: Support, Northstar Electronics\nFrom: Elena Martin\nSubject: Exchange Request\n\nI purchased the StudioEdit software package on March 3, but the activation code printed inside the box is not accepted by the program. The box has been opened, but all materials are still included. Could you let me know whether I should mail it back or bring it to the downtown store?",
+      "prompt": "What problem does Ms. Martin report?",
+      "options": [
+        "A. The activation code is not accepted.",
+        "B. A package was delivered to the wrong store.",
+        "C. She was charged twice for software.",
+        "D. Some accessories were missing from a device."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Ms. Martin says the activation code printed inside the box is not accepted by the program.",
+      "explanationKo": "Martin 씨는 상자 안에 인쇄된 활성화 코드가 프로그램에서 받아들여지지 않는다고 말합니다.",
+      "koreanLearnerHint": "이중 지문에서는 이메일의 구체적인 문제를 먼저 찾고, 웹페이지의 규칙과 연결합니다.",
+      "vocabularyItems": [
+        {
+          "word": "activation code",
+          "meaningKo": "활성화 코드",
+          "exampleSentence": "The activation code does not work.",
+          "meaningJa": "有効化コード"
+        },
+        {
+          "word": "exchange request",
+          "meaningKo": "교환 요청",
+          "exampleSentence": "She sent an exchange request to support.",
+          "meaningJa": "交換依頼"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "activation code",
+        "meaningKo": "활성화 코드",
+        "exampleSentence": "The activation code does not work.",
+        "meaningJa": "有効化コード"
+      },
+      "explanationJa": "正解は A. The activation code is not accepted. です。設問「What problem does Ms. Martin report?」は、Web Page and E-mail: Software Exchange の該当箇所を根拠に判断します。選択肢「The activation code is not accepted.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What problem does Ms. Martin report?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 28
+    },
+    {
+      "id": "r7-029",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - double passage inference",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-return-policy-email",
+      "passageTitle": "Web Page and E-mail: Software Exchange",
+      "passageText": "Web Page\n\nNorthstar Electronics Return Policy\n\nMost items may be returned within 30 days of purchase. Products must be in their original packaging and include all accessories. Refunds are issued to the original payment method within five business days after the returned item is inspected.\n\nOpened software cannot be returned, but it may be exchanged if the activation code does not work. Customers should contact support before mailing any software product.\n\nE-mail\n\nTo: Support, Northstar Electronics\nFrom: Elena Martin\nSubject: Exchange Request\n\nI purchased the StudioEdit software package on March 3, but the activation code printed inside the box is not accepted by the program. The box has been opened, but all materials are still included. Could you let me know whether I should mail it back or bring it to the downtown store?",
+      "prompt": "According to the policy, what is Ms. Martin most likely eligible for?",
+      "options": [
+        "A. An exchange of the opened software.",
+        "B. An automatic cash refund.",
+        "C. A refund without inspection.",
+        "D. A replacement for missing accessories."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Opened software cannot be returned, but it may be exchanged if the activation code does not work.",
+      "explanationKo": "개봉한 소프트웨어는 반품할 수 없지만, 활성화 코드가 작동하지 않으면 교환할 수 있습니다.",
+      "koreanLearnerHint": "정책의 예외 조건과 이메일의 문제를 연결해야 합니다. 'activation code does not work'가 핵심입니다.",
+      "vocabularyItems": [
+        {
+          "word": "be eligible for",
+          "meaningKo": "~을 받을 자격이 있다",
+          "exampleSentence": "She is eligible for an exchange.",
+          "meaningJa": "〜の対象である"
+        },
+        {
+          "word": "opened software",
+          "meaningKo": "개봉한 소프트웨어",
+          "exampleSentence": "Opened software cannot be returned.",
+          "meaningJa": "開封済みソフトウェア"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "be eligible for",
+        "meaningKo": "~을 받을 자격이 있다",
+        "exampleSentence": "She is eligible for an exchange.",
+        "meaningJa": "〜の対象である"
+      },
+      "explanationJa": "正解は A. An exchange of the opened software. です。設問「According to the policy, what is Ms. Martin most likely eligible for?」は、Web Page and E-mail: Software Exchange の該当箇所を根拠に判断します。選択肢「An exchange of the opened software.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「According to the policy, what is Ms. Martin most likely eligible for?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 29
+    },
+    {
+      "id": "r7-030",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - double passage detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-return-policy-email",
+      "passageTitle": "Web Page and E-mail: Software Exchange",
+      "passageText": "Web Page\n\nNorthstar Electronics Return Policy\n\nMost items may be returned within 30 days of purchase. Products must be in their original packaging and include all accessories. Refunds are issued to the original payment method within five business days after the returned item is inspected.\n\nOpened software cannot be returned, but it may be exchanged if the activation code does not work. Customers should contact support before mailing any software product.\n\nE-mail\n\nTo: Support, Northstar Electronics\nFrom: Elena Martin\nSubject: Exchange Request\n\nI purchased the StudioEdit software package on March 3, but the activation code printed inside the box is not accepted by the program. The box has been opened, but all materials are still included. Could you let me know whether I should mail it back or bring it to the downtown store?",
+      "prompt": "What does the policy advise customers to do before mailing software products?",
+      "options": [
+        "A. Contact support.",
+        "B. Remove all accessories.",
+        "C. Wait five business days.",
+        "D. Visit the downtown store."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The policy says customers should contact support before mailing any software product.",
+      "explanationKo": "정책에는 소프트웨어 제품을 우편으로 보내기 전에 고객지원팀에 연락하라고 되어 있습니다.",
+      "koreanLearnerHint": "'before mailing'이라는 시간 표현 뒤의 요구 사항을 정확히 찾으세요.",
+      "vocabularyItems": [
+        {
+          "word": "mail a product",
+          "meaningKo": "제품을 우편으로 보내다",
+          "exampleSentence": "Contact support before mailing the product.",
+          "meaningJa": "商品を郵送する"
+        },
+        {
+          "word": "customer support",
+          "meaningKo": "고객지원",
+          "exampleSentence": "Customers should contact support first.",
+          "meaningJa": "顧客サポート"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "mail a product",
+        "meaningKo": "제품을 우편으로 보내다",
+        "exampleSentence": "Contact support before mailing the product.",
+        "meaningJa": "商品を郵送する"
+      },
+      "explanationJa": "正解は A. Contact support. です。設問「What does the policy advise customers to do before mailing software products?」は、Web Page and E-mail: Software Exchange の該当箇所を根拠に判断します。選択肢「Contact support.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What does the policy advise customers to do before mailing software products?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 30
+    },
+    {
+      "id": "r7-031",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - memo detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-travel-expense-memo",
+      "passageTitle": "Memo: Travel Expense Reports",
+      "passageText": "Memo\n\nTo: All Department Managers\nFrom: Finance Office\nSubject: Travel Expense Reports\n\nBeginning next month, travel expense reports must be submitted within seven days of the employee's return. Reports submitted after that period may not be processed until the following pay cycle.\n\nMeal receipts should list the names of all employees who attended the meal. Taxi receipts must show the starting point and destination. If a receipt is missing, managers should attach a short explanation before approving the report.\n\nThe Finance Office will hold a 20-minute online briefing on Friday at 3 P.M. to explain the updated form. A recording will be posted on the company intranet later that afternoon.",
+      "prompt": "When must travel expense reports be submitted beginning next month?",
+      "options": [
+        "A. Within seven days of the employee's return.",
+        "B. Before the employee leaves for a trip.",
+        "C. By Friday at 3 P.M.",
+        "D. At the end of each quarter."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The memo says reports must be submitted within seven days of the employee's return.",
+      "explanationKo": "메모에는 직원이 돌아온 후 7일 이내에 출장비 보고서를 제출해야 한다고 되어 있습니다.",
+      "koreanLearnerHint": "기한 문제에서는 'within seven days'와 그 기준점인 'return'을 함께 읽어야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "expense report",
+          "meaningKo": "경비 보고서",
+          "exampleSentence": "Expense reports must be submitted within seven days.",
+          "meaningJa": "経費報告書"
+        },
+        {
+          "word": "pay cycle",
+          "meaningKo": "급여 지급 주기",
+          "exampleSentence": "Late reports may wait until the next pay cycle.",
+          "meaningJa": "給与支払周期"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "expense report",
+        "meaningKo": "경비 보고서",
+        "exampleSentence": "Expense reports must be submitted within seven days.",
+        "meaningJa": "経費報告書"
+      },
+      "explanationJa": "正解は A. Within seven days of the employee's return. です。設問「When must travel expense reports be submitted beginning next month?」は、Memo: Travel Expense Reports の該当箇所を根拠に判断します。選択肢「Within seven days of the employee's return.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「When must travel expense reports be submitted beginning next month?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 31
+    },
+    {
+      "id": "r7-032",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-travel-expense-memo",
+      "passageTitle": "Memo: Travel Expense Reports",
+      "passageText": "Memo\n\nTo: All Department Managers\nFrom: Finance Office\nSubject: Travel Expense Reports\n\nBeginning next month, travel expense reports must be submitted within seven days of the employee's return. Reports submitted after that period may not be processed until the following pay cycle.\n\nMeal receipts should list the names of all employees who attended the meal. Taxi receipts must show the starting point and destination. If a receipt is missing, managers should attach a short explanation before approving the report.\n\nThe Finance Office will hold a 20-minute online briefing on Friday at 3 P.M. to explain the updated form. A recording will be posted on the company intranet later that afternoon.",
+      "prompt": "What information should taxi receipts show?",
+      "options": [
+        "A. The starting point and destination.",
+        "B. The names of all employees at the meal.",
+        "C. The manager's approval code.",
+        "D. The employee's pay cycle."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The memo states that taxi receipts must show the starting point and destination.",
+      "explanationKo": "메모에는 택시 영수증에 출발지와 목적지가 표시되어야 한다고 되어 있습니다.",
+      "koreanLearnerHint": "meal receipts와 taxi receipts의 요구 사항이 다릅니다. 어떤 영수증을 묻는지 먼저 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "taxi receipt",
+          "meaningKo": "택시 영수증",
+          "exampleSentence": "Taxi receipts must show the destination.",
+          "meaningJa": "タクシー領収書"
+        },
+        {
+          "word": "destination",
+          "meaningKo": "목적지",
+          "exampleSentence": "Write the starting point and destination.",
+          "meaningJa": "目的地"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "taxi receipt",
+        "meaningKo": "택시 영수증",
+        "exampleSentence": "Taxi receipts must show the destination.",
+        "meaningJa": "タクシー領収書"
+      },
+      "explanationJa": "正解は A. The starting point and destination. です。設問「What information should taxi receipts show?」は、Memo: Travel Expense Reports の該当箇所を根拠に判断します。選択肢「The starting point and destination.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What information should taxi receipts show?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 32
+    },
+    {
+      "id": "r7-033",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - inference",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-travel-expense-memo",
+      "passageTitle": "Memo: Travel Expense Reports",
+      "passageText": "Memo\n\nTo: All Department Managers\nFrom: Finance Office\nSubject: Travel Expense Reports\n\nBeginning next month, travel expense reports must be submitted within seven days of the employee's return. Reports submitted after that period may not be processed until the following pay cycle.\n\nMeal receipts should list the names of all employees who attended the meal. Taxi receipts must show the starting point and destination. If a receipt is missing, managers should attach a short explanation before approving the report.\n\nThe Finance Office will hold a 20-minute online briefing on Friday at 3 P.M. to explain the updated form. A recording will be posted on the company intranet later that afternoon.",
+      "prompt": "What can be inferred about the online briefing?",
+      "options": [
+        "A. Employees who cannot attend live can watch it later.",
+        "B. It will replace the updated expense form.",
+        "C. It is required only for new employees.",
+        "D. Managers must submit reports during the briefing."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The memo says a recording will be posted on the intranet later that afternoon, so people can watch it after the live briefing.",
+      "explanationKo": "메모에는 녹화본이 그날 오후 회사 인트라넷에 게시된다고 되어 있으므로 실시간으로 참석하지 못한 사람도 나중에 볼 수 있습니다.",
+      "koreanLearnerHint": "inference 문제는 직접 말한 내용에서 자연스럽게 따라오는 결론을 고르는 문제입니다.",
+      "vocabularyItems": [
+        {
+          "word": "online briefing",
+          "meaningKo": "온라인 설명회",
+          "exampleSentence": "The briefing explains the updated form.",
+          "meaningJa": "オンライン説明会"
+        },
+        {
+          "word": "intranet",
+          "meaningKo": "회사 내부망",
+          "exampleSentence": "A recording will be posted on the intranet.",
+          "meaningJa": "社内ネットワーク"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "online briefing",
+        "meaningKo": "온라인 설명회",
+        "exampleSentence": "The briefing explains the updated form.",
+        "meaningJa": "オンライン説明会"
+      },
+      "explanationJa": "正解は A. Employees who cannot attend live can watch it later. です。設問「What can be inferred about the online briefing?」は、Memo: Travel Expense Reports の該当箇所を根拠に判断します。選択肢「Employees who cannot attend live can watch it later.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What can be inferred about the online briefing?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 33
+    },
+    {
+      "id": "r7-034",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - advertisement purpose",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r7-office-furniture-ad",
+      "passageTitle": "Advertisement: Office Furniture",
+      "passageText": "Advertisement\n\nBrightSpace Office Furniture\n\nCreate a more comfortable workplace with BrightSpace's adjustable desks, ergonomic chairs, and modular storage units. This month only, customers who purchase five or more adjustable desks will receive free assembly service.\n\nOur showroom is open Monday through Saturday from 10 A.M. to 6 P.M. Business customers may also request an on-site consultation. A design specialist will visit your office, measure the available space, and recommend furniture that matches your budget.\n\nOrders placed before May 31 qualify for delivery within ten business days.",
+      "prompt": "What is being advertised?",
+      "options": [
+        "A. Office furniture.",
+        "B. Building repair services.",
+        "C. Accounting software.",
+        "D. Conference registration."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The advertisement promotes adjustable desks, ergonomic chairs, and storage units.",
+      "explanationKo": "광고는 조절식 책상, 인체공학 의자, 수납 장치를 홍보하고 있습니다.",
+      "koreanLearnerHint": "광고문에서는 첫 줄과 제품 목록이 핵심입니다. 어떤 상품이나 서비스를 파는지 먼저 파악하세요.",
+      "vocabularyItems": [
+        {
+          "word": "adjustable desk",
+          "meaningKo": "조절식 책상",
+          "exampleSentence": "The company sells adjustable desks.",
+          "meaningJa": "調整可能な机"
+        },
+        {
+          "word": "ergonomic chair",
+          "meaningKo": "인체공학 의자",
+          "exampleSentence": "Ergonomic chairs can make work more comfortable.",
+          "meaningJa": "人間工学に基づいた椅子"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "adjustable desk",
+        "meaningKo": "조절식 책상",
+        "exampleSentence": "The company sells adjustable desks.",
+        "meaningJa": "調整可能な机"
+      },
+      "explanationJa": "正解は A. Office furniture. です。設問「What is being advertised?」は、Advertisement: Office Furniture の該当箇所を根拠に判断します。選択肢「Office furniture.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What is being advertised?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 34
+    },
+    {
+      "id": "r7-035",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - condition",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-office-furniture-ad",
+      "passageTitle": "Advertisement: Office Furniture",
+      "passageText": "Advertisement\n\nBrightSpace Office Furniture\n\nCreate a more comfortable workplace with BrightSpace's adjustable desks, ergonomic chairs, and modular storage units. This month only, customers who purchase five or more adjustable desks will receive free assembly service.\n\nOur showroom is open Monday through Saturday from 10 A.M. to 6 P.M. Business customers may also request an on-site consultation. A design specialist will visit your office, measure the available space, and recommend furniture that matches your budget.\n\nOrders placed before May 31 qualify for delivery within ten business days.",
+      "prompt": "How can customers receive free assembly service?",
+      "options": [
+        "A. By purchasing five or more adjustable desks.",
+        "B. By visiting the showroom on Saturday.",
+        "C. By ordering modular storage units only.",
+        "D. By requesting delivery after May 31."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Customers who purchase five or more adjustable desks receive free assembly service.",
+      "explanationKo": "조절식 책상을 다섯 개 이상 구매하는 고객은 무료 조립 서비스를 받습니다.",
+      "koreanLearnerHint": "조건 문제에서는 who/if/when 뒤의 조건과 혜택을 정확히 연결해야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "assembly service",
+          "meaningKo": "조립 서비스",
+          "exampleSentence": "Free assembly service is included.",
+          "meaningJa": "組み立てサービス"
+        },
+        {
+          "word": "purchase",
+          "meaningKo": "구매하다",
+          "exampleSentence": "Customers must purchase five desks.",
+          "meaningJa": "購入"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "assembly service",
+        "meaningKo": "조립 서비스",
+        "exampleSentence": "Free assembly service is included.",
+        "meaningJa": "組み立てサービス"
+      },
+      "explanationJa": "正解は A. By purchasing five or more adjustable desks. です。設問「How can customers receive free assembly service?」は、Advertisement: Office Furniture の該当箇所を根拠に判断します。選択肢「By purchasing five or more adjustable desks.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「How can customers receive free assembly service?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 35
+    },
+    {
+      "id": "r7-036",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-office-furniture-ad",
+      "passageTitle": "Advertisement: Office Furniture",
+      "passageText": "Advertisement\n\nBrightSpace Office Furniture\n\nCreate a more comfortable workplace with BrightSpace's adjustable desks, ergonomic chairs, and modular storage units. This month only, customers who purchase five or more adjustable desks will receive free assembly service.\n\nOur showroom is open Monday through Saturday from 10 A.M. to 6 P.M. Business customers may also request an on-site consultation. A design specialist will visit your office, measure the available space, and recommend furniture that matches your budget.\n\nOrders placed before May 31 qualify for delivery within ten business days.",
+      "prompt": "What will a design specialist do during an on-site consultation?",
+      "options": [
+        "A. Measure the available office space.",
+        "B. Deliver furniture within ten days.",
+        "C. Repair damaged storage units.",
+        "D. Open the showroom earlier."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The advertisement says a design specialist will visit the office and measure the available space.",
+      "explanationKo": "광고에는 디자인 전문가가 사무실을 방문해 사용 가능한 공간을 측정한다고 되어 있습니다.",
+      "koreanLearnerHint": "on-site consultation 뒤의 설명을 읽으면 전문가가 하는 일을 찾을 수 있습니다.",
+      "vocabularyItems": [
+        {
+          "word": "on-site consultation",
+          "meaningKo": "현장 상담",
+          "exampleSentence": "Business customers may request an on-site consultation.",
+          "meaningJa": "現地相談"
+        },
+        {
+          "word": "measure space",
+          "meaningKo": "공간을 측정하다",
+          "exampleSentence": "The specialist will measure the space.",
+          "meaningJa": "場所の寸法を測る"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "on-site consultation",
+        "meaningKo": "현장 상담",
+        "exampleSentence": "Business customers may request an on-site consultation.",
+        "meaningJa": "現地相談"
+      },
+      "explanationJa": "正解は A. Measure the available office space. です。設問「What will a design specialist do during an on-site consultation?」は、Advertisement: Office Furniture の該当箇所を根拠に判断します。選択肢「Measure the available office space.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What will a design specialist do during an on-site consultation?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 36
+    },
+    {
+      "id": "r7-037",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - message thread detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-product-demo-message-thread",
+      "passageTitle": "Message Thread: Product Demonstration",
+      "passageText": "Message Thread\n\nLena: Has anyone received the printed brochures for tomorrow's product demonstration?\nMarco: Not yet. The courier called at 10:15 and said the delivery truck had a flat tire.\nLena: That's a problem. The demonstration starts at 2 P.M.\nMarco: I contacted the print shop. They can send a digital file now, and we can print 40 copies in the office.\nLena: Good. Please print the copies by noon and place them in the east conference room.\nMarco: Done. I will also bring the sample products from storage.",
+      "prompt": "Why have the brochures not arrived yet?",
+      "options": [
+        "A. The delivery truck had a flat tire.",
+        "B. The product demonstration was canceled.",
+        "C. The print shop sent the wrong file.",
+        "D. The conference room was unavailable."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Marco says the courier reported that the delivery truck had a flat tire.",
+      "explanationKo": "Marco는 배송 기사가 배달 트럭에 타이어 펑크가 났다고 말했다고 합니다.",
+      "koreanLearnerHint": "메시지 스레드에서는 각 사람이 말한 정보를 연결해야 합니다. courier가 말한 이유를 찾으세요.",
+      "vocabularyItems": [
+        {
+          "word": "brochure",
+          "meaningKo": "안내 책자",
+          "exampleSentence": "The brochures are needed for the demonstration.",
+          "meaningJa": "案内冊子"
+        },
+        {
+          "word": "flat tire",
+          "meaningKo": "타이어 펑크",
+          "exampleSentence": "The truck had a flat tire.",
+          "meaningJa": "タイヤのパンク"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "brochure",
+        "meaningKo": "안내 책자",
+        "exampleSentence": "The brochures are needed for the demonstration.",
+        "meaningJa": "案内冊子"
+      },
+      "explanationJa": "正解は A. The delivery truck had a flat tire. です。設問「Why have the brochures not arrived yet?」は、Message Thread: Product Demonstration の該当箇所を根拠に判断します。選択肢「The delivery truck had a flat tire.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Why have the brochures not arrived yet?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 37
+    },
+    {
+      "id": "r7-038",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "easy",
+      "scoreBand": "600",
+      "passageId": "p-r7-product-demo-message-thread",
+      "passageTitle": "Message Thread: Product Demonstration",
+      "passageText": "Message Thread\n\nLena: Has anyone received the printed brochures for tomorrow's product demonstration?\nMarco: Not yet. The courier called at 10:15 and said the delivery truck had a flat tire.\nLena: That's a problem. The demonstration starts at 2 P.M.\nMarco: I contacted the print shop. They can send a digital file now, and we can print 40 copies in the office.\nLena: Good. Please print the copies by noon and place them in the east conference room.\nMarco: Done. I will also bring the sample products from storage.",
+      "prompt": "Where should Marco place the printed copies?",
+      "options": [
+        "A. In the east conference room.",
+        "B. At the print shop.",
+        "C. In the storage area.",
+        "D. On the delivery truck."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Lena asks Marco to place the printed copies in the east conference room.",
+      "explanationKo": "Lena는 Marco에게 인쇄본을 동쪽 회의실에 두라고 요청합니다.",
+      "koreanLearnerHint": "Where 문제는 장소 표현을 빠르게 찾되, 누가 무엇을 어디에 두는지까지 확인해야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "printed copy",
+          "meaningKo": "인쇄본",
+          "exampleSentence": "Place the printed copies in the conference room.",
+          "meaningJa": "印刷物"
+        },
+        {
+          "word": "conference room",
+          "meaningKo": "회의실",
+          "exampleSentence": "The demonstration will use the east conference room.",
+          "meaningJa": "会議室"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "printed copy",
+        "meaningKo": "인쇄본",
+        "exampleSentence": "Place the printed copies in the conference room.",
+        "meaningJa": "印刷物"
+      },
+      "explanationJa": "正解は A. In the east conference room. です。設問「Where should Marco place the printed copies?」は、Message Thread: Product Demonstration の該当箇所を根拠に判断します。選択肢「In the east conference room.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Where should Marco place the printed copies?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 38
+    },
+    {
+      "id": "r7-039",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - inference",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-product-demo-message-thread",
+      "passageTitle": "Message Thread: Product Demonstration",
+      "passageText": "Message Thread\n\nLena: Has anyone received the printed brochures for tomorrow's product demonstration?\nMarco: Not yet. The courier called at 10:15 and said the delivery truck had a flat tire.\nLena: That's a problem. The demonstration starts at 2 P.M.\nMarco: I contacted the print shop. They can send a digital file now, and we can print 40 copies in the office.\nLena: Good. Please print the copies by noon and place them in the east conference room.\nMarco: Done. I will also bring the sample products from storage.",
+      "prompt": "What will Marco probably do before the demonstration?",
+      "options": [
+        "A. Bring sample products from storage.",
+        "B. Cancel the digital brochure file.",
+        "C. Call a different courier company.",
+        "D. Move the demonstration to noon."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Marco says he will bring the sample products from storage.",
+      "explanationKo": "Marco는 보관실에서 샘플 제품을 가져오겠다고 말합니다.",
+      "koreanLearnerHint": "probably do 문제는 마지막 메시지의 예정 행동을 묻는 경우가 많습니다.",
+      "vocabularyItems": [
+        {
+          "word": "sample product",
+          "meaningKo": "샘플 제품",
+          "exampleSentence": "Marco will bring the sample products.",
+          "meaningJa": "サンプル品"
+        },
+        {
+          "word": "storage",
+          "meaningKo": "보관실",
+          "exampleSentence": "The sample products are in storage.",
+          "meaningJa": "保管、倉庫"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "sample product",
+        "meaningKo": "샘플 제품",
+        "exampleSentence": "Marco will bring the sample products.",
+        "meaningJa": "サンプル品"
+      },
+      "explanationJa": "正解は A. Bring sample products from storage. です。設問「What will Marco probably do before the demonstration?」は、Message Thread: Product Demonstration の該当箇所を根拠に判断します。選択肢「Bring sample products from storage.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What will Marco probably do before the demonstration?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 39
+    },
+    {
+      "id": "r7-040",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - article main idea",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-restaurant-lunch-article",
+      "passageTitle": "Article: Faster Lunch Service",
+      "passageText": "Article\n\nLocal Restaurant Expands Lunch Service\n\nMaple Table, a restaurant near the central business district, will begin offering a faster lunch service next week. The restaurant's owner, Priya Shah, said the new service is intended for office workers who have limited time during their lunch breaks.\n\nCustomers will be able to order from a shorter menu of salads, sandwiches, and rice bowls. Orders placed through the restaurant's mobile app before 11:30 A.M. will be ready for pickup between noon and 1 P.M.\n\nTo prepare for the change, Maple Table hired two additional kitchen assistants and installed a separate pickup counter near the entrance.",
+      "prompt": "What is the article mainly about?",
+      "options": [
+        "A. A restaurant introducing a faster lunch service.",
+        "B. A business district opening a new office building.",
+        "C. A mobile app being removed from a restaurant.",
+        "D. A health inspection at a local restaurant."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The article says Maple Table will begin offering a faster lunch service next week.",
+      "explanationKo": "기사에는 Maple Table이 다음 주부터 더 빠른 점심 서비스를 시작한다고 되어 있습니다.",
+      "koreanLearnerHint": "mainly about 문제는 제목과 첫 단락의 중심 내용을 연결하면 풀기 쉽습니다.",
+      "vocabularyItems": [
+        {
+          "word": "expand service",
+          "meaningKo": "서비스를 확대하다",
+          "exampleSentence": "The restaurant expanded lunch service.",
+          "meaningJa": "サービスを拡大する"
+        },
+        {
+          "word": "business district",
+          "meaningKo": "상업 지구",
+          "exampleSentence": "The restaurant is near the business district.",
+          "meaningJa": "商業地区"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "expand service",
+        "meaningKo": "서비스를 확대하다",
+        "exampleSentence": "The restaurant expanded lunch service.",
+        "meaningJa": "サービスを拡大する"
+      },
+      "explanationJa": "正解は A. A restaurant introducing a faster lunch service. です。設問「What is the article mainly about?」は、Article: Faster Lunch Service の該当箇所を根拠に判断します。選択肢「A restaurant introducing a faster lunch service.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "空所の直後の名詞を見てください。「What is the article mainly about?」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "exerciseNumber": 40
+    },
+    {
+      "id": "r7-041",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-restaurant-lunch-article",
+      "passageTitle": "Article: Faster Lunch Service",
+      "passageText": "Article\n\nLocal Restaurant Expands Lunch Service\n\nMaple Table, a restaurant near the central business district, will begin offering a faster lunch service next week. The restaurant's owner, Priya Shah, said the new service is intended for office workers who have limited time during their lunch breaks.\n\nCustomers will be able to order from a shorter menu of salads, sandwiches, and rice bowls. Orders placed through the restaurant's mobile app before 11:30 A.M. will be ready for pickup between noon and 1 P.M.\n\nTo prepare for the change, Maple Table hired two additional kitchen assistants and installed a separate pickup counter near the entrance.",
+      "prompt": "Who is the new lunch service intended for?",
+      "options": [
+        "A. Office workers with limited lunch time.",
+        "B. Tourists visiting the central museum.",
+        "C. Restaurant owners hiring assistants.",
+        "D. Customers ordering dinner after work."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The owner says the service is intended for office workers who have limited time during lunch breaks.",
+      "explanationKo": "식당 주인은 이 서비스가 점심시간이 제한된 직장인을 위한 것이라고 말합니다.",
+      "koreanLearnerHint": "'intended for'는 대상 고객을 알려 주는 표현입니다.",
+      "vocabularyItems": [
+        {
+          "word": "be intended for",
+          "meaningKo": "~을 대상으로 하다",
+          "exampleSentence": "The service is intended for office workers.",
+          "meaningJa": "〜を対象としている"
+        },
+        {
+          "word": "lunch break",
+          "meaningKo": "점심시간",
+          "exampleSentence": "Workers have limited time during lunch breaks.",
+          "meaningJa": "昼休み"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "be intended for",
+        "meaningKo": "~을 대상으로 하다",
+        "exampleSentence": "The service is intended for office workers.",
+        "meaningJa": "〜を対象としている"
+      },
+      "explanationJa": "正解は A. Office workers with limited lunch time. です。設問「Who is the new lunch service intended for?」は、Article: Faster Lunch Service の該当箇所を根拠に判断します。選択肢「Office workers with limited lunch time.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Who is the new lunch service intended for?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 41
+    },
+    {
+      "id": "r7-042",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - condition",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-restaurant-lunch-article",
+      "passageTitle": "Article: Faster Lunch Service",
+      "passageText": "Article\n\nLocal Restaurant Expands Lunch Service\n\nMaple Table, a restaurant near the central business district, will begin offering a faster lunch service next week. The restaurant's owner, Priya Shah, said the new service is intended for office workers who have limited time during their lunch breaks.\n\nCustomers will be able to order from a shorter menu of salads, sandwiches, and rice bowls. Orders placed through the restaurant's mobile app before 11:30 A.M. will be ready for pickup between noon and 1 P.M.\n\nTo prepare for the change, Maple Table hired two additional kitchen assistants and installed a separate pickup counter near the entrance.",
+      "prompt": "What must customers do to pick up lunch between noon and 1 P.M.?",
+      "options": [
+        "A. Order through the mobile app before 11:30 A.M.",
+        "B. Hire two kitchen assistants.",
+        "C. Visit the pickup counter before 10 A.M.",
+        "D. Choose from the dinner menu."
+      ],
+      "correctOption": "A",
+      "explanationEn": "Orders placed through the mobile app before 11:30 A.M. will be ready for pickup between noon and 1 P.M.",
+      "explanationKo": "오전 11시 30분 전에 모바일 앱으로 주문하면 정오부터 오후 1시 사이에 픽업할 수 있습니다.",
+      "koreanLearnerHint": "조건과 결과를 함께 읽으세요. 주문 방식, 시간 제한, 픽업 시간이 모두 단서입니다.",
+      "vocabularyItems": [
+        {
+          "word": "place an order",
+          "meaningKo": "주문하다",
+          "exampleSentence": "Customers place orders through the app.",
+          "meaningJa": "注文する"
+        },
+        {
+          "word": "pickup counter",
+          "meaningKo": "픽업 카운터",
+          "exampleSentence": "The pickup counter is near the entrance.",
+          "meaningJa": "受け取りカウンター"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "place an order",
+        "meaningKo": "주문하다",
+        "exampleSentence": "Customers place orders through the app.",
+        "meaningJa": "注文する"
+      },
+      "explanationJa": "正解は A. Order through the mobile app before 11:30 A.M. です。設問「What must customers do to pick up lunch between noon and 1 P.M.?」は、Article: Faster Lunch Service の該当箇所を根拠に判断します。選択肢「Order through the mobile app before 11:30 A.M.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What must customers do to pick up lunch between noon and 1 P.M.?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 42
+    },
+    {
+      "id": "r7-043",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - double passage detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-printing-invoice-email",
+      "passageTitle": "Invoice and E-mail: Missing Brochures",
+      "passageText": "Invoice\n\nSilverline Printing\nInvoice No. SP-6048\nCustomer: East Park Medical Clinic\n\n500 appointment cards - $85\n200 information brochures - $120\nRush processing fee - $25\nTotal Due - $230\nPayment due by April 18\n\nE-mail\n\nTo: Silverline Printing\nFrom: East Park Medical Clinic\nSubject: Invoice SP-6048\n\nWe received the appointment cards this morning, but the information brochures were not included in the shipment. Because the brochures are needed for a health fair on Friday, please confirm whether they can be delivered by Thursday afternoon.",
+      "prompt": "Which item was not included in the shipment?",
+      "options": [
+        "A. Information brochures.",
+        "B. Appointment cards.",
+        "C. A payment receipt.",
+        "D. A rush processing form."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The e-mail says the appointment cards arrived, but the information brochures were not included.",
+      "explanationKo": "이메일에는 예약 카드가 도착했지만 안내 책자가 배송에 포함되지 않았다고 되어 있습니다.",
+      "koreanLearnerHint": "invoice와 email을 비교해야 합니다. 이메일에서 실제로 누락된 항목을 확인하세요.",
+      "vocabularyItems": [
+        {
+          "word": "information brochure",
+          "meaningKo": "안내 책자",
+          "exampleSentence": "The brochures were not included.",
+          "meaningJa": "案内パンフレット"
+        },
+        {
+          "word": "shipment",
+          "meaningKo": "배송품",
+          "exampleSentence": "The item was missing from the shipment.",
+          "meaningJa": "配送、出荷"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "information brochure",
+        "meaningKo": "안내 책자",
+        "exampleSentence": "The brochures were not included.",
+        "meaningJa": "案内パンフレット"
+      },
+      "explanationJa": "正解は A. Information brochures. です。設問「Which item was not included in the shipment?」は、Invoice and E-mail: Missing Brochures の該当箇所を根拠に判断します。選択肢「Information brochures.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Which item was not included in the shipment?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 43
+    },
+    {
+      "id": "r7-044",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - price detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-printing-invoice-email",
+      "passageTitle": "Invoice and E-mail: Missing Brochures",
+      "passageText": "Invoice\n\nSilverline Printing\nInvoice No. SP-6048\nCustomer: East Park Medical Clinic\n\n500 appointment cards - $85\n200 information brochures - $120\nRush processing fee - $25\nTotal Due - $230\nPayment due by April 18\n\nE-mail\n\nTo: Silverline Printing\nFrom: East Park Medical Clinic\nSubject: Invoice SP-6048\n\nWe received the appointment cards this morning, but the information brochures were not included in the shipment. Because the brochures are needed for a health fair on Friday, please confirm whether they can be delivered by Thursday afternoon.",
+      "prompt": "How much is the rush processing fee?",
+      "options": [
+        "A. $25.",
+        "B. $85.",
+        "C. $120.",
+        "D. $230."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The invoice lists the rush processing fee as $25.",
+      "explanationKo": "송장에는 긴급 처리 수수료가 25달러로 표시되어 있습니다.",
+      "koreanLearnerHint": "가격 문제는 항목명과 금액을 정확히 맞춰 읽어야 합니다.",
+      "vocabularyItems": [
+        {
+          "word": "rush processing fee",
+          "meaningKo": "긴급 처리 수수료",
+          "exampleSentence": "The rush processing fee is $25.",
+          "meaningJa": "急ぎ処理手数料"
+        },
+        {
+          "word": "total due",
+          "meaningKo": "총 결제 금액",
+          "exampleSentence": "The total due is $230.",
+          "meaningJa": "請求合計額"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "rush processing fee",
+        "meaningKo": "긴급 처리 수수료",
+        "exampleSentence": "The rush processing fee is $25.",
+        "meaningJa": "急ぎ処理手数料"
+      },
+      "explanationJa": "正解は A. $25. です。設問「How much is the rush processing fee?」は、Invoice and E-mail: Missing Brochures の該当箇所を根拠に判断します。選択肢「$25.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「How much is the rush processing fee?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 44
+    },
+    {
+      "id": "r7-045",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - double passage inference",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-printing-invoice-email",
+      "passageTitle": "Invoice and E-mail: Missing Brochures",
+      "passageText": "Invoice\n\nSilverline Printing\nInvoice No. SP-6048\nCustomer: East Park Medical Clinic\n\n500 appointment cards - $85\n200 information brochures - $120\nRush processing fee - $25\nTotal Due - $230\nPayment due by April 18\n\nE-mail\n\nTo: Silverline Printing\nFrom: East Park Medical Clinic\nSubject: Invoice SP-6048\n\nWe received the appointment cards this morning, but the information brochures were not included in the shipment. Because the brochures are needed for a health fair on Friday, please confirm whether they can be delivered by Thursday afternoon.",
+      "prompt": "Why does the clinic need the brochures by Thursday afternoon?",
+      "options": [
+        "A. They are needed for a health fair on Friday.",
+        "B. Payment is due on Thursday.",
+        "C. The appointment cards were printed incorrectly.",
+        "D. Silverline Printing closes on Friday."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The clinic says the brochures are needed for a health fair on Friday.",
+      "explanationKo": "병원은 금요일 건강 박람회에 안내 책자가 필요하다고 말합니다.",
+      "koreanLearnerHint": "why 문제에서는 요청의 이유가 뒤에 나오는 경우가 많습니다. 'because'가 없어도 문맥상 이유를 찾으세요.",
+      "vocabularyItems": [
+        {
+          "word": "health fair",
+          "meaningKo": "건강 박람회",
+          "exampleSentence": "The brochures are needed for a health fair.",
+          "meaningJa": "健康フェア"
+        },
+        {
+          "word": "confirm delivery",
+          "meaningKo": "배송 가능 여부를 확인하다",
+          "exampleSentence": "Please confirm whether they can be delivered.",
+          "meaningJa": "配送可否を確認する"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "health fair",
+        "meaningKo": "건강 박람회",
+        "exampleSentence": "The brochures are needed for a health fair.",
+        "meaningJa": "健康フェア"
+      },
+      "explanationJa": "正解は A. They are needed for a health fair on Friday. です。設問「Why does the clinic need the brochures by Thursday afternoon?」は、Invoice and E-mail: Missing Brochures の該当箇所を根拠に判断します。選択肢「They are needed for a health fair on Friday.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「Why does the clinic need the brochures by Thursday afternoon?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 45
+    },
+    {
+      "id": "r7-046",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - multi passage detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-sales-visit-itinerary-message",
+      "passageTitle": "Itinerary and Message: Sales Visit",
+      "passageText": "Travel Itinerary\n\nMira Chen - Regional Sales Visit\n\nTuesday, August 5\n8:30 A.M. Flight to Denver\n11:10 A.M. Arrive in Denver\n1:00 P.M. Meeting with Hillcrest Retail Group\n4:30 P.M. Check in at Northgate Hotel\n\nWednesday, August 6\n9:30 A.M. Product training at Hillcrest warehouse\n2:00 P.M. Return flight\n\nMessage\n\nMira, Hillcrest just moved Wednesday's product training from 9:30 A.M. to 10:30 A.M. The warehouse manager said the session will still finish before noon, so your return flight should not be affected.",
+      "prompt": "When will Ms. Chen meet with Hillcrest Retail Group?",
+      "options": [
+        "A. Tuesday at 1:00 P.M.",
+        "B. Tuesday at 4:30 P.M.",
+        "C. Wednesday at 9:30 A.M.",
+        "D. Wednesday at 2:00 P.M."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The itinerary lists the meeting with Hillcrest Retail Group at 1:00 P.M. on Tuesday.",
+      "explanationKo": "일정표에는 Hillcrest Retail Group과의 회의가 화요일 오후 1시에 예정되어 있습니다.",
+      "koreanLearnerHint": "일정표에서는 날짜와 시간을 함께 확인하세요. training과 meeting을 혼동하지 마세요.",
+      "vocabularyItems": [
+        {
+          "word": "sales visit",
+          "meaningKo": "영업 방문",
+          "exampleSentence": "The itinerary is for a sales visit.",
+          "meaningJa": "営業訪問"
+        },
+        {
+          "word": "itinerary",
+          "meaningKo": "여행 일정표",
+          "exampleSentence": "The itinerary lists the meeting time.",
+          "meaningJa": "旅程"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "sales visit",
+        "meaningKo": "영업 방문",
+        "exampleSentence": "The itinerary is for a sales visit.",
+        "meaningJa": "営業訪問"
+      },
+      "explanationJa": "正解は A. Tuesday at 1:00 P.M. です。設問「When will Ms. Chen meet with Hillcrest Retail Group?」は、Itinerary and Message: Sales Visit の該当箇所を根拠に判断します。選択肢「Tuesday at 1:00 P.M.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「When will Ms. Chen meet with Hillcrest Retail Group?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 46
+    },
+    {
+      "id": "r7-047",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - multi passage detail",
+      "difficulty": "medium",
+      "scoreBand": "700",
+      "passageId": "p-r7-sales-visit-itinerary-message",
+      "passageTitle": "Itinerary and Message: Sales Visit",
+      "passageText": "Travel Itinerary\n\nMira Chen - Regional Sales Visit\n\nTuesday, August 5\n8:30 A.M. Flight to Denver\n11:10 A.M. Arrive in Denver\n1:00 P.M. Meeting with Hillcrest Retail Group\n4:30 P.M. Check in at Northgate Hotel\n\nWednesday, August 6\n9:30 A.M. Product training at Hillcrest warehouse\n2:00 P.M. Return flight\n\nMessage\n\nMira, Hillcrest just moved Wednesday's product training from 9:30 A.M. to 10:30 A.M. The warehouse manager said the session will still finish before noon, so your return flight should not be affected.",
+      "prompt": "What change is mentioned in the message?",
+      "options": [
+        "A. Product training will start one hour later.",
+        "B. The return flight has been canceled.",
+        "C. The hotel check-in time has changed.",
+        "D. The meeting was moved to the warehouse."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The message says Wednesday's product training was moved from 9:30 A.M. to 10:30 A.M.",
+      "explanationKo": "메시지에는 수요일 제품 교육이 오전 9시 30분에서 10시 30분으로 변경되었다고 되어 있습니다.",
+      "koreanLearnerHint": "변경 문제에서는 원래 시간과 바뀐 시간을 비교하세요.",
+      "vocabularyItems": [
+        {
+          "word": "move from A to B",
+          "meaningKo": "A에서 B로 변경하다",
+          "exampleSentence": "The training moved from 9:30 to 10:30.",
+          "meaningJa": "AからBへ移動する"
+        },
+        {
+          "word": "warehouse manager",
+          "meaningKo": "창고 관리자",
+          "exampleSentence": "The warehouse manager changed the time.",
+          "meaningJa": "倉庫責任者"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "move from A to B",
+        "meaningKo": "A에서 B로 변경하다",
+        "exampleSentence": "The training moved from 9:30 to 10:30.",
+        "meaningJa": "AからBへ移動する"
+      },
+      "explanationJa": "正解は A. Product training will start one hour later. です。設問「What change is mentioned in the message?」は、Itinerary and Message: Sales Visit の該当箇所を根拠に判断します。選択肢「Product training will start one hour later.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What change is mentioned in the message?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 47
+    },
+    {
+      "id": "r7-048",
+      "part": "reading_part_7",
+      "skill": "reading comprehension - multi passage inference",
+      "difficulty": "hard",
+      "scoreBand": "800",
+      "passageId": "p-r7-sales-visit-itinerary-message",
+      "passageTitle": "Itinerary and Message: Sales Visit",
+      "passageText": "Travel Itinerary\n\nMira Chen - Regional Sales Visit\n\nTuesday, August 5\n8:30 A.M. Flight to Denver\n11:10 A.M. Arrive in Denver\n1:00 P.M. Meeting with Hillcrest Retail Group\n4:30 P.M. Check in at Northgate Hotel\n\nWednesday, August 6\n9:30 A.M. Product training at Hillcrest warehouse\n2:00 P.M. Return flight\n\nMessage\n\nMira, Hillcrest just moved Wednesday's product training from 9:30 A.M. to 10:30 A.M. The warehouse manager said the session will still finish before noon, so your return flight should not be affected.",
+      "prompt": "What can be inferred about Ms. Chen's return flight?",
+      "options": [
+        "A. She should still be able to take it as planned.",
+        "B. It was moved to Tuesday morning.",
+        "C. It leaves before the training session ends.",
+        "D. It must be rebooked by Hillcrest."
+      ],
+      "correctOption": "A",
+      "explanationEn": "The message says the session will still finish before noon, so the 2:00 P.M. return flight should not be affected.",
+      "explanationKo": "메시지에는 교육이 여전히 정오 전에 끝난다고 되어 있으므로 오후 2시 귀국 항공편에는 영향이 없을 것입니다.",
+      "koreanLearnerHint": "두 지문을 연결해야 합니다. 메시지의 종료 시간과 일정표의 비행 시간을 비교하세요.",
+      "vocabularyItems": [
+        {
+          "word": "return flight",
+          "meaningKo": "귀국 항공편, 돌아오는 비행기",
+          "exampleSentence": "The return flight is at 2:00 P.M.",
+          "meaningJa": "帰りの便"
+        },
+        {
+          "word": "be affected",
+          "meaningKo": "영향을 받다",
+          "exampleSentence": "The flight should not be affected.",
+          "meaningJa": "影響を受ける"
+        }
+      ],
+      "vocabularyItem": {
+        "word": "return flight",
+        "meaningKo": "귀국 항공편, 돌아오는 비행기",
+        "exampleSentence": "The return flight is at 2:00 P.M.",
+        "meaningJa": "帰りの便"
+      },
+      "explanationJa": "正解は A. She should still be able to take it as planned. です。設問「What can be inferred about Ms. Chen's return flight?」は、Itinerary and Message: Sales Visit の該当箇所を根拠に判断します。選択肢「She should still be able to take it as planned.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
+      "japaneseLearnerHint": "本文を全文訳せず、設問「What can be inferred about Ms. Chen's return flight?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "exerciseNumber": 48
+    }
+  ]
+}
