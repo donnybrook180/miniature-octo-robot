@@ -301,20 +301,20 @@
       "vocabularyItems": [
         {
           "word": "presentation",
-          "meaningKo": "presentation",
+          "meaningKo": "발표",
           "exampleSentence": "A presentation is being delivered.",
           "meaningJa": "発表"
         },
         {
           "word": "delivered",
-          "meaningKo": "delivered",
+          "meaningKo": "전달된, 진행된",
           "exampleSentence": "A presentation is being delivered.",
           "meaningJa": "配達された"
         }
       ],
       "vocabularyItem": {
         "word": "presentation",
-        "meaningKo": "presentation",
+        "meaningKo": "발표",
         "exampleSentence": "A presentation is being delivered.",
         "meaningJa": "発表"
       },
@@ -347,26 +347,26 @@
       "vocabularyItems": [
         {
           "word": "office",
-          "meaningKo": "office",
+          "meaningKo": "사무실",
           "exampleSentence": "Office supplies are arranged on a desk.",
           "meaningJa": "事務所"
         },
         {
           "word": "supplies",
-          "meaningKo": "supplies",
+          "meaningKo": "용품",
           "exampleSentence": "Office supplies are arranged on a desk.",
           "meaningJa": "備品"
         },
         {
           "word": "arranged",
-          "meaningKo": "arranged",
+          "meaningKo": "정리된, 배치된",
           "exampleSentence": "Office supplies are arranged on a desk.",
           "meaningJa": "並べられた"
         }
       ],
       "vocabularyItem": {
         "word": "office",
-        "meaningKo": "office",
+        "meaningKo": "사무실",
         "exampleSentence": "Office supplies are arranged on a desk.",
         "meaningJa": "事務所"
       },
@@ -399,26 +399,26 @@
       "vocabularyItems": [
         {
           "word": "food",
-          "meaningKo": "food",
+          "meaningKo": "음식",
           "exampleSentence": "Food is being prepared in a kitchen.",
           "meaningJa": "食べ物"
         },
         {
           "word": "prepared",
-          "meaningKo": "prepared",
+          "meaningKo": "준비된",
           "exampleSentence": "Food is being prepared in a kitchen.",
           "meaningJa": "準備された"
         },
         {
           "word": "kitchen",
-          "meaningKo": "kitchen",
+          "meaningKo": "주방",
           "exampleSentence": "Food is being prepared in a kitchen.",
           "meaningJa": "台所"
         }
       ],
       "vocabularyItem": {
         "word": "food",
-        "meaningKo": "food",
+        "meaningKo": "음식",
         "exampleSentence": "Food is being prepared in a kitchen.",
         "meaningJa": "食べ物"
       },
@@ -451,20 +451,20 @@
       "vocabularyItems": [
         {
           "word": "work out",
-          "meaningKo": "work out",
+          "meaningKo": "운동하다",
           "exampleSentence": "People are working out indoors.",
           "meaningJa": "運動する"
         },
         {
           "word": "indoors",
-          "meaningKo": "indoors",
+          "meaningKo": "실내에서",
           "exampleSentence": "People are working out indoors.",
           "meaningJa": "屋内で"
         }
       ],
       "vocabularyItem": {
         "word": "work out",
-        "meaningKo": "work out",
+        "meaningKo": "운동하다",
         "exampleSentence": "People are working out indoors.",
         "meaningJa": "運動する"
       },
@@ -497,26 +497,26 @@
       "vocabularyItems": [
         {
           "word": "teacher",
-          "meaningKo": "teacher",
+          "meaningKo": "교사",
           "exampleSentence": "A teacher is writing on the board.",
           "meaningJa": "教師"
         },
         {
           "word": "writing",
-          "meaningKo": "writing",
+          "meaningKo": "쓰고 있는",
           "exampleSentence": "A teacher is writing on the board.",
           "meaningJa": "書いている"
         },
         {
           "word": "board",
-          "meaningKo": "board",
+          "meaningKo": "칠판, 게시판",
           "exampleSentence": "A teacher is writing on the board.",
           "meaningJa": "板、掲示板"
         }
       ],
       "vocabularyItem": {
         "word": "teacher",
-        "meaningKo": "teacher",
+        "meaningKo": "교사",
         "exampleSentence": "A teacher is writing on the board.",
         "meaningJa": "教師"
       },
@@ -549,26 +549,26 @@
       "vocabularyItems": [
         {
           "word": "machines",
-          "meaningKo": "machines",
+          "meaningKo": "기계",
           "exampleSentence": "Machines are being operated in a factory.",
           "meaningJa": "機械"
         },
         {
           "word": "operated",
-          "meaningKo": "operated",
+          "meaningKo": "작동되는",
           "exampleSentence": "Machines are being operated in a factory.",
           "meaningJa": "操作された"
         },
         {
           "word": "factory",
-          "meaningKo": "factory",
+          "meaningKo": "공장",
           "exampleSentence": "Machines are being operated in a factory.",
           "meaningJa": "工場"
         }
       ],
       "vocabularyItem": {
         "word": "machines",
-        "meaningKo": "machines",
+        "meaningKo": "기계",
         "exampleSentence": "Machines are being operated in a factory.",
         "meaningJa": "機械"
       },
@@ -601,26 +601,26 @@
       "vocabularyItems": [
         {
           "word": "produce",
-          "meaningKo": "produce",
+          "meaningKo": "농산물",
           "exampleSentence": "Produce is being sold outdoors.",
           "meaningJa": "生産する"
         },
         {
           "word": "sold",
-          "meaningKo": "sold",
+          "meaningKo": "판매되는",
           "exampleSentence": "Produce is being sold outdoors.",
           "meaningJa": "販売された"
         },
         {
           "word": "outdoors",
-          "meaningKo": "outdoors",
+          "meaningKo": "야외에서",
           "exampleSentence": "Produce is being sold outdoors.",
           "meaningJa": "屋外で"
         }
       ],
       "vocabularyItem": {
         "word": "produce",
-        "meaningKo": "produce",
+        "meaningKo": "농산물",
         "exampleSentence": "Produce is being sold outdoors.",
         "meaningJa": "生産する"
       },
@@ -653,20 +653,20 @@
       "vocabularyItems": [
         {
           "word": "participating",
-          "meaningKo": "participating",
+          "meaningKo": "참여하는",
           "exampleSentence": "Employees are participating in a meeting.",
           "meaningJa": "参加している"
         },
         {
           "word": "meeting",
-          "meaningKo": "meeting",
+          "meaningKo": "회의",
           "exampleSentence": "Employees are participating in a meeting.",
           "meaningJa": "会議"
         }
       ],
       "vocabularyItem": {
         "word": "participating",
-        "meaningKo": "participating",
+        "meaningKo": "참여하는",
         "exampleSentence": "Employees are participating in a meeting.",
         "meaningJa": "参加している"
       },
@@ -699,26 +699,26 @@
       "vocabularyItems": [
         {
           "word": "bicycles",
-          "meaningKo": "bicycles",
+          "meaningKo": "자전거",
           "exampleSentence": "Bicycles are lined up beside each other.",
           "meaningJa": "自転車"
         },
         {
           "word": "lined",
-          "meaningKo": "lined",
+          "meaningKo": "줄지어 있는",
           "exampleSentence": "Bicycles are lined up beside each other.",
           "meaningJa": "並んだ"
         },
         {
           "word": "beside",
-          "meaningKo": "beside",
+          "meaningKo": "옆에",
           "exampleSentence": "Bicycles are lined up beside each other.",
           "meaningJa": "横に"
         }
       ],
       "vocabularyItem": {
         "word": "bicycles",
-        "meaningKo": "bicycles",
+        "meaningKo": "자전거",
         "exampleSentence": "Bicycles are lined up beside each other.",
         "meaningJa": "自転車"
       },
@@ -751,26 +751,26 @@
       "vocabularyItems": [
         {
           "word": "passengers",
-          "meaningKo": "passengers",
+          "meaningKo": "승객",
           "exampleSentence": "Passengers are checking in for flights.",
           "meaningJa": "乗客"
         },
         {
           "word": "checking",
-          "meaningKo": "checking",
+          "meaningKo": "체크인하는",
           "exampleSentence": "Passengers are checking in for flights.",
           "meaningJa": "確認している"
         },
         {
           "word": "flights",
-          "meaningKo": "flights",
+          "meaningKo": "항공편",
           "exampleSentence": "Passengers are checking in for flights.",
           "meaningJa": "航空便"
         }
       ],
       "vocabularyItem": {
         "word": "passengers",
-        "meaningKo": "passengers",
+        "meaningKo": "승객",
         "exampleSentence": "Passengers are checking in for flights.",
         "meaningJa": "乗客"
       },
@@ -803,20 +803,20 @@
       "vocabularyItems": [
         {
           "word": "boxes",
-          "meaningKo": "boxes",
+          "meaningKo": "상자",
           "exampleSentence": "Boxes are being loaded.",
           "meaningJa": "箱"
         },
         {
           "word": "loaded",
-          "meaningKo": "loaded",
+          "meaningKo": "실린, 적재된",
           "exampleSentence": "Boxes are being loaded.",
           "meaningJa": "積み込まれた"
         }
       ],
       "vocabularyItem": {
         "word": "boxes",
-        "meaningKo": "boxes",
+        "meaningKo": "상자",
         "exampleSentence": "Boxes are being loaded.",
         "meaningJa": "箱"
       },
@@ -849,26 +849,26 @@
       "vocabularyItems": [
         {
           "word": "vehicles",
-          "meaningKo": "vehicles",
+          "meaningKo": "차량",
           "exampleSentence": "Vehicles are parked in rows.",
           "meaningJa": "車両"
         },
         {
           "word": "parked",
-          "meaningKo": "parked",
+          "meaningKo": "주차된",
           "exampleSentence": "Vehicles are parked in rows.",
           "meaningJa": "駐車された"
         },
         {
           "word": "rows",
-          "meaningKo": "rows",
+          "meaningKo": "줄",
           "exampleSentence": "Vehicles are parked in rows.",
           "meaningJa": "列"
         }
       ],
       "vocabularyItem": {
         "word": "vehicles",
-        "meaningKo": "vehicles",
+        "meaningKo": "차량",
         "exampleSentence": "Vehicles are parked in rows.",
         "meaningJa": "車両"
       },
@@ -901,20 +901,20 @@
       "vocabularyItems": [
         {
           "word": "studying",
-          "meaningKo": "studying",
+          "meaningKo": "공부하는",
           "exampleSentence": "Students are studying at tables.",
           "meaningJa": "勉強している"
         },
         {
           "word": "tables",
-          "meaningKo": "tables",
+          "meaningKo": "테이블",
           "exampleSentence": "Students are studying at tables.",
           "meaningJa": "テーブル"
         }
       ],
       "vocabularyItem": {
         "word": "studying",
-        "meaningKo": "studying",
+        "meaningKo": "공부하는",
         "exampleSentence": "Students are studying at tables.",
         "meaningJa": "勉強している"
       },
@@ -947,26 +947,26 @@
       "vocabularyItems": [
         {
           "word": "pushing",
-          "meaningKo": "pushing",
+          "meaningKo": "밀고 있는",
           "exampleSentence": "A customer is pushing a shopping cart.",
           "meaningJa": "押している"
         },
         {
           "word": "shopping",
-          "meaningKo": "shopping",
+          "meaningKo": "쇼핑",
           "exampleSentence": "A customer is pushing a shopping cart.",
           "meaningJa": "買い物"
         },
         {
           "word": "cart",
-          "meaningKo": "cart",
+          "meaningKo": "카트",
           "exampleSentence": "A customer is pushing a shopping cart.",
           "meaningJa": "カート"
         }
       ],
       "vocabularyItem": {
         "word": "pushing",
-        "meaningKo": "pushing",
+        "meaningKo": "밀고 있는",
         "exampleSentence": "A customer is pushing a shopping cart.",
         "meaningJa": "押している"
       },
