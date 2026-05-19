@@ -48,7 +48,7 @@
         "meaningJa": "開かれる"
       },
       "explanationJa": "正解は C です。質問は「Where is the meeting being held?」で、場所を求めています。正しい応答「In the main conference room.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Where is the meeting being held?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Where」を特に強く聞きます。「Where is the meeting being held?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 1
     },
     {
@@ -98,7 +98,7 @@
         "meaningJa": "報告書を仕上げる"
       },
       "explanationJa": "正解は A です。質問は「Have you finished the report yet?」で、Yes/No または間接的な確認を求めています。正しい応答「Yes, I sent it this morning.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Have you finished the report yet?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Have」を特に強く聞きます。「Have you finished the report yet?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 2
     },
     {
@@ -148,7 +148,7 @@
         "meaningJa": "伝言を受ける"
       },
       "explanationJa": "正解は A です。質問は「Could you take a message for me?」で、依頼への応答を求めています。正しい応答「Sure, what should I write down?」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Could you take a message for me?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Could you」を特に強く聞きます。「Could you take a message for me?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 3
     },
     {
@@ -198,7 +198,7 @@
         "meaningJa": "中止される"
       },
       "explanationJa": "正解は C です。質問は「Why was the meeting canceled?」で、理由を求めています。正しい応答「Because the manager was sick.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Why was the meeting canceled?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Why」を特に強く聞きます。「Why was the meeting canceled?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 4
     },
     {
@@ -248,7 +248,7 @@
         "meaningJa": "クレジットカードを受け付ける"
       },
       "explanationJa": "正解は B です。質問は「Do you accept credit cards?」で、Yes/No または間接的な確認を求めています。正しい応答「Yes, we do.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Do you accept credit cards?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Do」を特に強く聞きます。「Do you accept credit cards?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 5
     },
     {
@@ -298,7 +298,7 @@
         "meaningJa": "担当している"
       },
       "explanationJa": "正解は C です。質問は「Who is in charge of this project?」で、人を求めています。正しい応答「Ms. Williams is.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Who is in charge of this project?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Who」を特に強く聞きます。「Who is in charge of this project?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 6
     },
     {
@@ -348,7 +348,7 @@
         "meaningJa": "延期する"
       },
       "explanationJa": "正解は B です。質問は「Should we postpone the presentation?」で、提案への反応を求めています。正しい応答「That might be a good idea.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Should we postpone the presentation?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Should we」を特に強く聞きます。「Should we postpone the presentation?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 7
     },
     {
@@ -398,7 +398,7 @@
         "meaningJa": "コンピューターの問題"
       },
       "explanationJa": "正解は A です。質問は「What seems to be the problem with the computer?」で、質問の機能を求めています。正しい応答「It keeps shutting down.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「What seems to be the problem with the computer?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「What」を特に強く聞きます。「What seems to be the problem with the computer?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 8
     },
     {
@@ -448,7 +448,7 @@
         "meaningJa": "パスポート"
       },
       "explanationJa": "正解は B です。質問は「Where did you put my passport?」で、場所を求めています。正しい応答「In your bag.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Where did you put my passport?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Where」を特に強く聞きます。「Where did you put my passport?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 9
     },
     {
@@ -498,7 +498,7 @@
         "meaningJa": "私のメールを受け取る"
       },
       "explanationJa": "正解は C です。質問は「Did you receive my email?」で、Yes/No または間接的な確認を求めています。正しい応答「Yes, I replied this morning.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Did you receive my email?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Did」を特に強く聞きます。「Did you receive my email?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 10
     },
     {
@@ -548,7 +548,7 @@
         "meaningJa": "会計をもらう"
       },
       "explanationJa": "正解は A です。質問は「Can I get the bill, please?」で、質問の機能を求めています。正しい応答「Of course, I'll bring it right away.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Can I get the bill, please?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Can」を特に強く聞きます。「Can I get the bill, please?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 11
     },
     {
@@ -598,7 +598,7 @@
         "meaningJa": "列車"
       },
       "explanationJa": "正解は B です。質問は「When does the train arrive?」で、時間を求めています。正しい応答「In about ten minutes.」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「When does the train arrive?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「When」を特に強く聞きます。「When does the train arrive?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 12
     },
     {
@@ -619,7 +619,7 @@
       ],
       "correctOption": "B",
       "explanationEn": "Choice B is the best response in the audio.",
-      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Who approved the budget proposal?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "koreanLearnerHint": "질문 시작 표현 \"Who\"를 특히 강하게 들어야 합니다. \"Who approved the budget proposal?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
           "word": "budget proposal",
@@ -642,7 +642,7 @@
       },
       "explanationKo": "정답은 B입니다. 질문은 \"Who approved the budget proposal?\"이고, 사람을 요구합니다. 정답 응답 \"The finance manager did\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は B です。質問は「Who approved the budget proposal?」で、人を求めています。正しい応答「The finance manager did」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Who approved the budget proposal?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Who」を特に強く聞きます。「Who approved the budget proposal?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 13
     },
     {
@@ -663,7 +663,7 @@
       ],
       "correctOption": "C",
       "explanationEn": "Choice C is the best response in the audio.",
-      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Should we order more office supplies?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "koreanLearnerHint": "질문 시작 표현 \"Should we\"를 특히 강하게 들어야 합니다. \"Should we order more office supplies?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
           "word": "office supplies",
@@ -686,7 +686,7 @@
       },
       "explanationKo": "정답은 C입니다. 질문은 \"Should we order more office supplies?\"이고, 제안에 대한 반응을 요구합니다. 정답 응답 \"Yes, we're running low\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は C です。質問は「Should we order more office supplies?」で、提案への反応を求めています。正しい応答「Yes, we're running low」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Should we order more office supplies?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Should we」を特に強く聞きます。「Should we order more office supplies?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 14
     },
     {
@@ -707,7 +707,7 @@
       ],
       "correctOption": "B",
       "explanationEn": "Choice B is the best response in the audio.",
-      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Where should I park my car?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "koreanLearnerHint": "질문 시작 표현 \"Where should\"를 특히 강하게 들어야 합니다. \"Where should I park my car?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
           "word": "park my car",
@@ -728,9 +728,9 @@
         "meaningJa": "車を駐車する",
         "exampleSentence": "Where should I park my car?"
       },
-      "explanationKo": "정답은 B입니다. 질문은 \"Where should I park my car?\"이고, 장소을 요구합니다. 정답 응답 \"In the underground garage\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationKo": "정답은 B입니다. 질문은 \"Where should I park my car?\"이고, 장소를 요구합니다. 정답 응답 \"In the underground garage\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は B です。質問は「Where should I park my car?」で、場所を求めています。正しい応答「In the underground garage」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Where should I park my car?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Where should」を特に強く聞きます。「Where should I park my car?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 15
     },
     {
@@ -751,7 +751,7 @@
       ],
       "correctOption": "A",
       "explanationEn": "Choice A is the best response in the audio.",
-      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Why is the printer making noise?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "koreanLearnerHint": "질문 시작 표현 \"Why\"를 특히 강하게 들어야 합니다. \"Why is the printer making noise?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
           "word": "printer",
@@ -772,9 +772,9 @@
         "meaningJa": "プリンター",
         "exampleSentence": "The printer is making noise."
       },
-      "explanationKo": "정답은 A입니다. 질문은 \"Why is the printer making noise?\"이고, 이유을 요구합니다. 정답 응답 \"It probably needs more paper\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationKo": "정답은 A입니다. 질문은 \"Why is the printer making noise?\"이고, 이유를 요구합니다. 정답 응답 \"It probably needs more paper\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は A です。質問は「Why is the printer making noise?」で、理由を求めています。正しい応答「It probably needs more paper」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Why is the printer making noise?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Why」を特に強く聞きます。「Why is the printer making noise?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 16
     },
     {
@@ -795,7 +795,7 @@
       ],
       "correctOption": "B",
       "explanationEn": "Choice B is the best response in the audio.",
-      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Who is responsible for customer support?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "koreanLearnerHint": "질문 시작 표현 \"Who\"를 특히 강하게 들어야 합니다. \"Who is responsible for customer support?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
           "word": "customer support",
@@ -818,7 +818,7 @@
       },
       "explanationKo": "정답은 B입니다. 질문은 \"Who is responsible for customer support?\"이고, 사람을 요구합니다. 정답 응답 \"Janet handles that department\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は B です。質問は「Who is responsible for customer support?」で、人を求めています。正しい応答「Janet handles that department」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Who is responsible for customer support?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Who」を特に強く聞きます。「Who is responsible for customer support?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 17
     },
     {
@@ -839,7 +839,7 @@
       ],
       "correctOption": "C",
       "explanationEn": "Choice C is the best response in the audio.",
-      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Didn't you attend the training session?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "koreanLearnerHint": "질문 시작 표현 \"Didn't you\"를 특히 강하게 들어야 합니다. \"Didn't you attend the training session?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
           "word": "training session",
@@ -862,7 +862,7 @@
       },
       "explanationKo": "정답은 C입니다. 질문은 \"Didn't you attend the training session?\"이고, 질문의 기능을 요구합니다. 정답 응답 \"No, I was out sick\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は C です。質問は「Didn't you attend the training session?」で、質問の機能を求めています。正しい応答「No, I was out sick」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Didn't you attend the training session?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Didn't you」を特に強く聞きます。「Didn't you attend the training session?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 18
     },
     {
@@ -883,7 +883,7 @@
       ],
       "correctOption": "A",
       "explanationEn": "Choice A is the best response in the audio.",
-      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"How often do you update the website?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "koreanLearnerHint": "질문 시작 표현 \"How often\"를 특히 강하게 들어야 합니다. \"How often do you update the website?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
           "word": "update the website",
@@ -904,9 +904,9 @@
         "meaningJa": "ウェブサイトを更新する",
         "exampleSentence": "How often do you update the website?"
       },
-      "explanationKo": "정답은 A입니다. 질문은 \"How often do you update the website?\"이고, 방법이나 상태을 요구합니다. 정답 응답 \"Nearly every week\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
-      "explanationJa": "正解は A です。質問は「How often do you update the website?」で、方法や状態を求めています。正しい応答「Nearly every week」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「How often do you update the website?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "explanationKo": "정답은 A입니다. 질문은 \"How often do you update the website?\"이고, 빈도를 요구합니다. 정답 응답 \"Nearly every week\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
+      "explanationJa": "正解は A です。質問は「How often do you update the website?」で、頻度を求めています。正しい応答「Nearly every week」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
+      "japaneseLearnerHint": "質問の出だし「How often」を特に強く聞きます。「How often do you update the website?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 19
     },
     {
@@ -927,7 +927,7 @@
       ],
       "correctOption": "A",
       "explanationEn": "Choice A is the best response in the audio.",
-      "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Can you send me the updated schedule?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
+      "koreanLearnerHint": "질문 시작 표현 \"Can you\"를 특히 강하게 들어야 합니다. \"Can you send me the updated schedule?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
           "word": "updated schedule",
@@ -950,7 +950,7 @@
       },
       "explanationKo": "정답은 A입니다. 질문은 \"Can you send me the updated schedule?\"이고, 요청에 대한 응답을 요구합니다. 정답 응답 \"I sent it earlier today\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は A です。質問は「Can you send me the updated schedule?」で、依頼への応答を求めています。正しい応答「I sent it earlier today」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
-      "japaneseLearnerHint": "最初の語句を特に強く聞きます。「Can you send me the updated schedule?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
+      "japaneseLearnerHint": "質問の出だし「Can you」を特に強く聞きます。「Can you send me the updated schedule?」では、質問が何を求めているかを決めてから応答を選ぶと、似た単語のひっかけに流されにくくなります。",
       "exerciseNumber": 20
     }
   ]
