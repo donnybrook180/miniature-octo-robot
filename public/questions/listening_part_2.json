@@ -622,23 +622,23 @@
       "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Who approved the budget proposal?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
-          "word": "The finance manager did",
-          "meaningKo": "재무 관리자가 했습니다",
-          "meaningJa": "財務部長が行った",
-          "exampleSentence": "The finance manager did"
+          "word": "budget proposal",
+          "meaningKo": "예산안",
+          "meaningJa": "予算案",
+          "exampleSentence": "The finance manager approved the budget proposal."
         },
         {
-          "word": "Who approved the budget proposal",
-          "meaningKo": "누가 예산안을 승인했나요",
-          "meaningJa": "誰が予算案を承認したか",
-          "exampleSentence": "Who approved the budget proposal"
+          "word": "finance manager",
+          "meaningKo": "재무 관리자",
+          "meaningJa": "財務マネージャー",
+          "exampleSentence": "The finance manager did."
         }
       ],
       "vocabularyItem": {
-        "word": "The finance manager did",
-        "meaningKo": "재무 관리자가 했습니다",
-        "meaningJa": "財務部長が行った",
-        "exampleSentence": "The finance manager did"
+        "word": "budget proposal",
+        "meaningKo": "예산안",
+        "meaningJa": "予算案",
+        "exampleSentence": "The finance manager approved the budget proposal."
       },
       "explanationKo": "정답은 B입니다. 질문은 \"Who approved the budget proposal?\"이고, 사람을 요구합니다. 정답 응답 \"The finance manager did\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は B です。質問は「Who approved the budget proposal?」で、人を求めています。正しい応答「The finance manager did」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
@@ -666,23 +666,23 @@
       "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Should we order more office supplies?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
-          "word": "Yes, we're running low",
-          "meaningKo": "네, 재고가 부족해지고 있습니다",
-          "meaningJa": "はい、残りが少なくなっています",
-          "exampleSentence": "Yes, we're running low"
+          "word": "office supplies",
+          "meaningKo": "사무용품",
+          "meaningJa": "事務用品",
+          "exampleSentence": "Should we order more office supplies?"
         },
         {
-          "word": "Should we order more office supplies",
-          "meaningKo": "사무용품을 더 주문해야 할까요",
-          "meaningJa": "もっと事務用品を注文すべきですか",
-          "exampleSentence": "Should we order more office supplies"
+          "word": "run low",
+          "meaningKo": "부족해지다",
+          "meaningJa": "残り少なくなる",
+          "exampleSentence": "We're running low."
         }
       ],
       "vocabularyItem": {
-        "word": "Yes, we're running low",
-        "meaningKo": "네, 재고가 부족해지고 있습니다",
-        "meaningJa": "はい、残りが少なくなっています",
-        "exampleSentence": "Yes, we're running low"
+        "word": "office supplies",
+        "meaningKo": "사무용품",
+        "meaningJa": "事務用品",
+        "exampleSentence": "Should we order more office supplies?"
       },
       "explanationKo": "정답은 C입니다. 질문은 \"Should we order more office supplies?\"이고, 제안에 대한 반응을 요구합니다. 정답 응답 \"Yes, we're running low\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は C です。質問は「Should we order more office supplies?」で、提案への反応を求めています。正しい応答「Yes, we're running low」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
@@ -710,23 +710,23 @@
       "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Where should I park my car?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
-          "word": "In the underground garage",
-          "meaningKo": "지하 주차장에서",
-          "meaningJa": "地下駐車場で",
-          "exampleSentence": "In the underground garage"
+          "word": "park my car",
+          "meaningKo": "차를 주차하다",
+          "meaningJa": "車を駐車する",
+          "exampleSentence": "Where should I park my car?"
         },
         {
-          "word": "Where should I park my car",
-          "meaningKo": "차를 어디에 주차해야 하나요",
-          "meaningJa": "どこに車を駐車すればよいですか",
-          "exampleSentence": "Where should I park my car"
+          "word": "underground garage",
+          "meaningKo": "지하 주차장",
+          "meaningJa": "地下駐車場",
+          "exampleSentence": "Park in the underground garage."
         }
       ],
       "vocabularyItem": {
-        "word": "In the underground garage",
-        "meaningKo": "지하 주차장에서",
-        "meaningJa": "地下駐車場で",
-        "exampleSentence": "In the underground garage"
+        "word": "park my car",
+        "meaningKo": "차를 주차하다",
+        "meaningJa": "車を駐車する",
+        "exampleSentence": "Where should I park my car?"
       },
       "explanationKo": "정답은 B입니다. 질문은 \"Where should I park my car?\"이고, 장소을 요구합니다. 정답 응답 \"In the underground garage\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は B です。質問は「Where should I park my car?」で、場所を求めています。正しい応答「In the underground garage」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
@@ -754,23 +754,23 @@
       "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Why is the printer making noise?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
-          "word": "It probably needs more paper",
-          "meaningKo": "아마 종이가 더 필요할 것입니다",
-          "meaningJa": "おそらく用紙がもっと必要です",
-          "exampleSentence": "It probably needs more paper"
+          "word": "printer",
+          "meaningKo": "프린터",
+          "meaningJa": "プリンター",
+          "exampleSentence": "The printer is making noise."
         },
         {
-          "word": "Why is the printer making noise",
-          "meaningKo": "프린터가 왜 소리를 내나요",
-          "meaningJa": "なぜプリンターが音を立てているのか",
-          "exampleSentence": "Why is the printer making noise"
+          "word": "need more paper",
+          "meaningKo": "종이가 더 필요하다",
+          "meaningJa": "もっと紙が必要である",
+          "exampleSentence": "It probably needs more paper."
         }
       ],
       "vocabularyItem": {
-        "word": "It probably needs more paper",
-        "meaningKo": "아마 종이가 더 필요할 것입니다",
-        "meaningJa": "おそらく用紙がもっと必要です",
-        "exampleSentence": "It probably needs more paper"
+        "word": "printer",
+        "meaningKo": "프린터",
+        "meaningJa": "プリンター",
+        "exampleSentence": "The printer is making noise."
       },
       "explanationKo": "정답은 A입니다. 질문은 \"Why is the printer making noise?\"이고, 이유을 요구합니다. 정답 응답 \"It probably needs more paper\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は A です。質問は「Why is the printer making noise?」で、理由を求めています。正しい応答「It probably needs more paper」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
@@ -798,23 +798,23 @@
       "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Who is responsible for customer support?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
-          "word": "Janet handles that department",
-          "meaningKo": "Janet이 그 부서를 담당합니다",
-          "meaningJa": "ジャネットがその部署を担当しています",
-          "exampleSentence": "Janet handles that department"
+          "word": "customer support",
+          "meaningKo": "고객 지원",
+          "meaningJa": "顧客サポート",
+          "exampleSentence": "Who is responsible for customer support?"
         },
         {
-          "word": "Who is responsible for customer support",
-          "meaningKo": "누가 고객 지원을 담당하나요",
-          "meaningJa": "顧客サポートの担当者は誰ですか",
-          "exampleSentence": "Who is responsible for customer support"
+          "word": "handle that department",
+          "meaningKo": "그 부서를 담당하다",
+          "meaningJa": "その部署を担当する",
+          "exampleSentence": "Janet handles that department."
         }
       ],
       "vocabularyItem": {
-        "word": "Janet handles that department",
-        "meaningKo": "Janet이 그 부서를 담당합니다",
-        "meaningJa": "ジャネットがその部署を担当しています",
-        "exampleSentence": "Janet handles that department"
+        "word": "customer support",
+        "meaningKo": "고객 지원",
+        "meaningJa": "顧客サポート",
+        "exampleSentence": "Who is responsible for customer support?"
       },
       "explanationKo": "정답은 B입니다. 질문은 \"Who is responsible for customer support?\"이고, 사람을 요구합니다. 정답 응답 \"Janet handles that department\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は B です。質問は「Who is responsible for customer support?」で、人を求めています。正しい応答「Janet handles that department」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
@@ -842,23 +842,23 @@
       "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Didn't you attend the training session?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
-          "word": "No, I was out sick",
-          "meaningKo": "아니요, 아파서 결근했습니다",
-          "meaningJa": "いいえ、病欠していました",
-          "exampleSentence": "No, I was out sick"
+          "word": "training session",
+          "meaningKo": "교육 세션",
+          "meaningJa": "研修セッション",
+          "exampleSentence": "Did you attend the training session?"
         },
         {
-          "word": "Didn't you attend the training session",
-          "meaningKo": "교육 세션에 참석하지 않았나요",
-          "meaningJa": "研修に出席しなかったのですか",
-          "exampleSentence": "Didn't you attend the training session"
+          "word": "be out sick",
+          "meaningKo": "아파서 결근하다",
+          "meaningJa": "病欠する",
+          "exampleSentence": "I was out sick."
         }
       ],
       "vocabularyItem": {
-        "word": "No, I was out sick",
-        "meaningKo": "아니요, 아파서 결근했습니다",
-        "meaningJa": "いいえ、病欠していました",
-        "exampleSentence": "No, I was out sick"
+        "word": "training session",
+        "meaningKo": "교육 세션",
+        "meaningJa": "研修セッション",
+        "exampleSentence": "Did you attend the training session?"
       },
       "explanationKo": "정답은 C입니다. 질문은 \"Didn't you attend the training session?\"이고, 질문의 기능을 요구합니다. 정답 응답 \"No, I was out sick\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は C です。質問は「Didn't you attend the training session?」で、質問の機能を求めています。正しい応答「No, I was out sick」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
@@ -886,23 +886,23 @@
       "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"How often do you update the website?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
-          "word": "Nearly every week",
-          "meaningKo": "거의 매주",
-          "meaningJa": "ほぼ毎週",
-          "exampleSentence": "Nearly every week"
+          "word": "update the website",
+          "meaningKo": "웹사이트를 업데이트하다",
+          "meaningJa": "ウェブサイトを更新する",
+          "exampleSentence": "How often do you update the website?"
         },
         {
-          "word": "How often do you update the website",
-          "meaningKo": "웹사이트를 얼마나 자주 업데이트하나요",
-          "meaningJa": "どのくらいの頻度でウェブサイトを更新しますか",
-          "exampleSentence": "How often do you update the website"
+          "word": "nearly every week",
+          "meaningKo": "거의 매주",
+          "meaningJa": "ほぼ毎週",
+          "exampleSentence": "We update it nearly every week."
         }
       ],
       "vocabularyItem": {
-        "word": "Nearly every week",
-        "meaningKo": "거의 매주",
-        "meaningJa": "ほぼ毎週",
-        "exampleSentence": "Nearly every week"
+        "word": "update the website",
+        "meaningKo": "웹사이트를 업데이트하다",
+        "meaningJa": "ウェブサイトを更新する",
+        "exampleSentence": "How often do you update the website?"
       },
       "explanationKo": "정답은 A입니다. 질문은 \"How often do you update the website?\"이고, 방법이나 상태을 요구합니다. 정답 응답 \"Nearly every week\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は A です。質問は「How often do you update the website?」で、方法や状態を求めています。正しい応答「Nearly every week」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
@@ -930,23 +930,23 @@
       "koreanLearnerHint": "첫 단어를 특히 강하게 들어야 합니다. \"Can you send me the updated schedule?\"에서는 질문이 무엇을 요구하는지 정한 뒤 응답을 고르면 비슷한 단어 함정에 덜 흔들립니다.",
       "vocabularyItems": [
         {
-          "word": "I sent it earlier today",
-          "meaningKo": "오늘 일찍 보냈습니다",
-          "meaningJa": "今日の早い時間に送りました",
-          "exampleSentence": "I sent it earlier today"
+          "word": "updated schedule",
+          "meaningKo": "수정된 일정",
+          "meaningJa": "更新された予定",
+          "exampleSentence": "Can you send me the updated schedule?"
         },
         {
-          "word": "Can you send me the updated schedule",
-          "meaningKo": "업데이트된 일정을 보내 주실 수 있나요",
-          "meaningJa": "更新された予定を送ってもらえますか",
-          "exampleSentence": "Can you send me the updated schedule"
+          "word": "earlier today",
+          "meaningKo": "오늘 이른 시간에",
+          "meaningJa": "今日の早い時間に",
+          "exampleSentence": "I sent it earlier today."
         }
       ],
       "vocabularyItem": {
-        "word": "I sent it earlier today",
-        "meaningKo": "오늘 일찍 보냈습니다",
-        "meaningJa": "今日の早い時間に送りました",
-        "exampleSentence": "I sent it earlier today"
+        "word": "updated schedule",
+        "meaningKo": "수정된 일정",
+        "meaningJa": "更新された予定",
+        "exampleSentence": "Can you send me the updated schedule?"
       },
       "explanationKo": "정답은 A입니다. 질문은 \"Can you send me the updated schedule?\"이고, 요청에 대한 응답을 요구합니다. 정답 응답 \"I sent it earlier today\"은 그 기능에 직접 답합니다. Part 2에서는 비슷한 단어가 들리는지보다 질문이 장소, 시간, 요청, 제안, 이유 중 무엇을 묻는지 먼저 판단하는 것이 중요합니다.",
       "explanationJa": "正解は A です。質問は「Can you send me the updated schedule?」で、依頼への応答を求めています。正しい応答「I sent it earlier today」はその機能に直接答えています。Part 2では単語の一致より、質問が場所・時間・依頼・提案・理由のどれを求めているかを先に判断します。",
