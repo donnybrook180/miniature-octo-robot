@@ -547,20 +547,20 @@
       "skill": "listening talk - main idea",
       "difficulty": "easy",
       "scoreBand": "600",
-      "audioId": "train_to_busan",
-      "audioFile": "train_to_busan.mp3",
-      "audioTitle": "Announcement: Train to Busan",
-      "transcript": "Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats should board cars one through five. Food service will not be available on this train, so passengers may purchase snacks before boarding.",
+      "audioId": "train_to_boston",
+      "audioFile": "train_to_boston.mp3",
+      "audioTitle": "Announcement: Train to Boston",
+      "transcript": "Attention passengers. The express train to Boston will depart from platform 6 at 3:20 P.M. Passengers with reserved seats should board cars one through five. Food service will not be available on this train, so passengers may purchase snacks before boarding.",
       "prompt": "What is the announcement mainly about?",
       "options": [
-        "A. Boarding information for a train to Busan.",
-        "B. A delayed flight to Busan.",
+        "A. Boarding information for a train to Boston.",
+        "B. A delayed flight to Boston.",
         "C. A new restaurant at the station.",
         "D. A lost passenger ticket."
       ],
       "correctOption": "A",
-      "explanationEn": "The announcement gives departure, platform, boarding, and food-service information for a train to Busan.",
-      "explanationKo": "안내 방송은 부산행 열차의 출발, 플랫폼, 탑승, 음식 서비스 정보를 제공합니다.",
+      "explanationEn": "The announcement gives departure, platform, boarding, and food-service information for a train to Boston.",
+      "explanationKo": "안내 방송은 보스턴행 열차의 출발, 플랫폼, 탑승, 음식 서비스 정보를 제공합니다.",
       "koreanLearnerHint": "station announcement에서는 destination, platform, depart를 함께 잡으세요. 이 문제는 열차 탑승 정보 전체를 묻습니다.",
       "vocabularyItems": [
         {
@@ -582,7 +582,7 @@
         "exampleSentence": "The train will depart from platform 6.",
         "meaningJa": "出発する"
       },
-      "explanationJa": "正解は A. Boarding information for a train to Busan. です。音声では「Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats」が手がかりです。選択肢「Boarding information for a train to Busan.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "explanationJa": "正解は A. Boarding information for a train to Boston. です。音声では「Attention passengers. The express train to Boston will depart from platform 6 at 3:20 P.M. Passengers with reserved seat」が手がかりです。選択肢「Boarding information for a train to Boston.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
       "japaneseLearnerHint": "駅の案内では destination, platform, depart をまとめて聞きます。この問題は列車の搭乗情報全体を聞いています。",
       "exerciseNumber": 13
     },
@@ -592,10 +592,10 @@
       "skill": "listening talk - detail",
       "difficulty": "medium",
       "scoreBand": "700",
-      "audioId": "train_to_busan",
-      "audioFile": "train_to_busan.mp3",
-      "audioTitle": "Announcement: Train to Busan",
-      "transcript": "Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats should board cars one through five. Food service will not be available on this train, so passengers may purchase snacks before boarding.",
+      "audioId": "train_to_boston",
+      "audioFile": "train_to_boston.mp3",
+      "audioTitle": "Announcement: Train to Boston",
+      "transcript": "Attention passengers. The express train to Boston will depart from platform 6 at 3:20 P.M. Passengers with reserved seats should board cars one through five. Food service will not be available on this train, so passengers may purchase snacks before boarding.",
       "prompt": "What time will the train depart?",
       "options": [
         "A. 3:20 P.M.",
@@ -627,7 +627,7 @@
         "exampleSentence": "The express train leaves at 3:20.",
         "meaningJa": "急行列車"
       },
-      "explanationJa": "正解は A. 3:20 P.M. です。音声では「Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats」が手がかりです。選択肢「3:20 P.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "explanationJa": "正解は A. 3:20 P.M. です。音声では「Attention passengers. The express train to Boston will depart from platform 6 at 3:20 P.M. Passengers with reserved seat」が手がかりです。選択肢「3:20 P.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
       "japaneseLearnerHint": "What time 問題では、depart の前後にある時刻を聞きます。3:20 P.M. が出発時刻です。",
       "exerciseNumber": 14
     },
@@ -637,10 +637,10 @@
       "skill": "listening talk - detail",
       "difficulty": "medium",
       "scoreBand": "700",
-      "audioId": "train_to_busan",
-      "audioFile": "train_to_busan.mp3",
-      "audioTitle": "Announcement: Train to Busan",
-      "transcript": "Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats should board cars one through five. Food service will not be available on this train, so passengers may purchase snacks before boarding.",
+      "audioId": "train_to_boston",
+      "audioFile": "train_to_boston.mp3",
+      "audioTitle": "Announcement: Train to Boston",
+      "transcript": "Attention passengers. The express train to Boston will depart from platform 6 at 3:20 P.M. Passengers with reserved seats should board cars one through five. Food service will not be available on this train, so passengers may purchase snacks before boarding.",
       "prompt": "What should passengers know about food service?",
       "options": [
         "A. It will not be available on the train.",
@@ -672,7 +672,7 @@
         "exampleSentence": "Food service is not available.",
         "meaningJa": "飲食サービス"
       },
-      "explanationJa": "正解は A. It will not be available on the train. です。音声では「Attention passengers. The express train to Busan will depart from platform 6 at 3:20 P.M. Passengers with reserved seats」が手がかりです。選択肢「It will not be available on the train.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "explanationJa": "正解は A. It will not be available on the train. です。音声では「Attention passengers. The express train to Boston will depart from platform 6 at 3:20 P.M. Passengers with reserved seat」が手がかりです。選択肢「It will not be available on the train.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
       "japaneseLearnerHint": "food service では available の前の否定を聞き落とさないでください。will not be available が核心です。",
       "exerciseNumber": 15
     },
