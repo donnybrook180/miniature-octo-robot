@@ -280,7 +280,7 @@
       "audioId": "brightstar_closed",
       "audioFile": "brightstar_closed.mp3",
       "audioTitle": "Announcement: Brightstar Closure",
-      "transcript": "Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.",
+      "transcript": "Thank you for calling Brightstar Electronics. Our office is currently closed for a national holiday. We will be open tomorrow at 9 A.M. If you would like to leave a message for the customer service department, please press one.",
       "prompt": "What is the announcement mainly about?",
       "options": [
         "A. A temporary store closure.",
@@ -290,13 +290,13 @@
       ],
       "correctOption": "A",
       "explanationEn": "The announcement says Brightstar Electronics is closed because of a national holiday.",
-      "explanationKo": "안내문은 Brightstar Electronics가 재고 작업 때문에 이번 토요일에 임시 휴점한다고 말합니다.",
-      "koreanLearnerHint": "mainly about 문제에서는 첫 문장의 closed this Saturday를 먼저 잡으세요. 전체 내용은 임시 휴점 안내입니다.",
+      "explanationKo": "안내문은 Brightstar Electronics 사무실이 공휴일 때문에 현재 문을 닫았다고 말합니다.",
+      "koreanLearnerHint": "mainly about 문제에서는 첫 문장의 currently closed를 먼저 잡으세요. 전체 내용은 공휴일로 인한 임시 휴점 안내입니다.",
       "vocabularyItems": [
         {
           "word": "be closed",
           "meaningKo": "문을 닫다, 휴점하다",
-          "exampleSentence": "The store will be closed this Saturday.",
+          "exampleSentence": "Our office is currently closed for a national holiday.",
           "meaningJa": "閉まっている"
         },
         {
@@ -309,11 +309,11 @@
       "vocabularyItem": {
         "word": "be closed",
         "meaningKo": "문을 닫다, 휴점하다",
-        "exampleSentence": "The store will be closed this Saturday.",
+        "exampleSentence": "Our office is currently closed for a national holiday.",
         "meaningJa": "閉まっている"
       },
-      "explanationJa": "正解は A. A temporary store closure. です。音声では「Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.」が手がかりです。選択肢「A temporary store closure.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
-      "japaneseLearnerHint": "mainly about 問題では、最初の closed this Saturday を先に聞き取ります。全体の内容は一時休業のお知らせです。",
+      "explanationJa": "正解は A. A temporary store closure. です。音声では「Thank you for calling Brightstar Electronics. Our office is currently closed for a national holiday. We will be open tom」が手がかりです。選択肢「A temporary store closure.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "japaneseLearnerHint": "mainly about 問題では、最初の currently closed を先に聞き取ります。全体の内容は祝日による一時休業のお知らせです。",
       "exerciseNumber": 7
     },
     {
@@ -325,7 +325,7 @@
       "audioId": "brightstar_closed",
       "audioFile": "brightstar_closed.mp3",
       "audioTitle": "Announcement: Brightstar Closure",
-      "transcript": "Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.",
+      "transcript": "Thank you for calling Brightstar Electronics. Our office is currently closed for a national holiday. We will be open tomorrow at 9 A.M. If you would like to leave a message for the customer service department, please press one.",
       "prompt": "Why will Brightstar Electronics be closed?",
       "options": [
         "A. Because of a national holiday.",
@@ -335,7 +335,7 @@
       ],
       "correctOption": "A",
       "explanationEn": "The announcement gives a national holiday as the reason for the closure.",
-      "explanationKo": "안내문은 토요일 휴점 이유로 재고 작업을 제시합니다.",
+      "explanationKo": "안내문은 현재 문을 닫은 이유로 공휴일을 제시합니다.",
       "koreanLearnerHint": "Why 문제에서는 because나 due to 같은 이유 표현을 찾으세요. 이 방송에서는 national holiday가 휴점 이유입니다.",
       "vocabularyItems": [
         {
@@ -357,7 +357,7 @@
         "exampleSentence": "The store announced a temporary closure.",
         "meaningJa": "一時休業"
       },
-      "explanationJa": "正解は A. Because of a national holiday. です。音声では「Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.」が手がかりです。選択肢「Because of a national holiday.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "explanationJa": "正解は A. Because of a national holiday. です。音声では「Thank you for calling Brightstar Electronics. Our office is currently closed for a national holiday. We will be open tom」が手がかりです。選択肢「Because of a national holiday.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
       "japaneseLearnerHint": "Why 問題では because や due to などの理由表現を探します。この放送では national holiday が休業の理由です。",
       "exerciseNumber": 8
     },
@@ -370,7 +370,7 @@
       "audioId": "brightstar_closed",
       "audioFile": "brightstar_closed.mp3",
       "audioTitle": "Announcement: Brightstar Closure",
-      "transcript": "Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.",
+      "transcript": "Thank you for calling Brightstar Electronics. Our office is currently closed for a national holiday. We will be open tomorrow at 9 A.M. If you would like to leave a message for the customer service department, please press one.",
       "prompt": "When will the store reopen?",
       "options": [
         "A. Tomorrow at 9 A.M.",
@@ -380,7 +380,7 @@
       ],
       "correctOption": "A",
       "explanationEn": "The announcement says the store will open tomorrow at 9 A.M.",
-      "explanationKo": "안내문은 매장이 월요일 오전 10시에 다시 문을 연다고 말합니다.",
+      "explanationKo": "안내문은 내일 오전 9시에 다시 문을 연다고 말합니다.",
       "koreanLearnerHint": "When will the store reopen? 문제에서는 reopen과 함께 나오는 시간을 들으세요. tomorrow at 9 A.M.가 다시 여는 시간입니다.",
       "vocabularyItems": [
         {
@@ -402,7 +402,7 @@
         "exampleSentence": "The store will reopen on Monday.",
         "meaningJa": "再開する"
       },
-      "explanationJa": "正解は A. Tomorrow at 9 A.M. です。音声では「Brightstar Electronics is closed today because of a national holiday. The store will open tomorrow at 9 A.M.」が手がかりです。選択肢「Tomorrow at 9 A.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "explanationJa": "正解は A. Tomorrow at 9 A.M. です。音声では「Thank you for calling Brightstar Electronics. Our office is currently closed for a national holiday. We will be open tom」が手がかりです。選択肢「Tomorrow at 9 A.M.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
       "japaneseLearnerHint": "When will the store reopen? では、reopen と一緒に出る時間を聞きます。tomorrow at 9 A.M. が再開時間です。",
       "exerciseNumber": 9
     },
