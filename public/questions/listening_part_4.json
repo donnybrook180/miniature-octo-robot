@@ -10,7 +10,7 @@
       "audioId": "part4_airport_announcement",
       "audioFile": "part4_airport_announcement.mp3",
       "audioTitle": "Announcement: Airport Boarding",
-      "transcript": "Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minutes. Please have your boarding passes and identification ready before entering the boarding area. Passengers requiring special assistance may board first. Thank you for your cooperation.",
+      "transcript": "Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minutes. Please have your boarding passes and identification ready before entering the boarding area. Passengers requiring special assistance may board first. Thank you for your cooperation.",
       "prompt": "What is the announcement mainly about?",
       "options": [
         "A. A delayed flight",
@@ -41,8 +41,8 @@
         "meaningJa": "搭乗手続き",
         "exampleSentence": "A boarding procedure"
       },
-      "explanationKo": "정답은 B. A boarding procedure입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut\" 부분이 단서입니다. 선택지 \"A boarding procedure\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
-      "explanationJa": "正解は B. A boarding procedure です。音声では「Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut」が手がかりです。選択肢「A boarding procedure」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "explanationKo": "정답은 B. A boarding procedure입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minut\" 부분이 단서입니다. 선택지 \"A boarding procedure\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は B. A boarding procedure です。音声では「Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minut」が手がかりです。選択肢「A boarding procedure」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
       "japaneseLearnerHint": "「Announcement: Airport Boarding」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
       "exerciseNumber": 1
     },
@@ -55,7 +55,7 @@
       "audioId": "part4_airport_announcement",
       "audioFile": "part4_airport_announcement.mp3",
       "audioTitle": "Announcement: Airport Boarding",
-      "transcript": "Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minutes. Please have your boarding passes and identification ready before entering the boarding area. Passengers requiring special assistance may board first. Thank you for your cooperation.",
+      "transcript": "Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minutes. Please have your boarding passes and identification ready before entering the boarding area. Passengers requiring special assistance may board first. Thank you for your cooperation.",
       "prompt": "What should passengers prepare?",
       "options": [
         "A. Their luggage receipts",
@@ -86,8 +86,8 @@
         "meaningJa": "搭乗券と身分証明書",
         "exampleSentence": "Their boarding passes and identification"
       },
-      "explanationKo": "정답은 C. Their boarding passes and identification입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut\" 부분이 단서입니다. 선택지 \"Their boarding passes and identification\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
-      "explanationJa": "正解は C. Their boarding passes and identification です。音声では「Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut」が手がかりです。選択肢「Their boarding passes and identification」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "explanationKo": "정답은 C. Their boarding passes and identification입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minut\" 부분이 단서입니다. 선택지 \"Their boarding passes and identification\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は C. Their boarding passes and identification です。音声では「Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minut」が手がかりです。選択肢「Their boarding passes and identification」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
       "japaneseLearnerHint": "「Announcement: Airport Boarding」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
       "exerciseNumber": 2
     },
@@ -100,7 +100,7 @@
       "audioId": "part4_airport_announcement",
       "audioFile": "part4_airport_announcement.mp3",
       "audioTitle": "Announcement: Airport Boarding",
-      "transcript": "Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minutes. Please have your boarding passes and identification ready before entering the boarding area. Passengers requiring special assistance may board first. Thank you for your cooperation.",
+      "transcript": "Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minutes. Please have your boarding passes and identification ready before entering the boarding area. Passengers requiring special assistance may board first. Thank you for your cooperation.",
       "prompt": "Who may board first?",
       "options": [
         "A. Business-class passengers",
@@ -131,8 +131,8 @@
         "meaningJa": "支援が必要な乗客",
         "exampleSentence": "Passengers needing assistance"
       },
-      "explanationKo": "정답은 D. Passengers needing assistance입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut\" 부분이 단서입니다. 선택지 \"Passengers needing assistance\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
-      "explanationJa": "正解は D. Passengers needing assistance です。音声では「Attention passengers traveling on Flight 452 to Singapore. Boarding will begin at Gate 12 in approximately fifteen minut」が手がかりです。選択肢「Passengers needing assistance」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
+      "explanationKo": "정답은 D. Passengers needing assistance입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minut\" 부분이 단서입니다. 선택지 \"Passengers needing assistance\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
+      "explanationJa": "正解は D. Passengers needing assistance です。音声では「Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minut」が手がかりです。選択肢「Passengers needing assistance」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
       "japaneseLearnerHint": "「Announcement: Airport Boarding」では、日本語に置き換えてから考えると遅れやすいので、設問の種類に合わせて数字・場所・依頼表現・次の行動を英語のまま拾いましょう。",
       "exerciseNumber": 3
     },
