@@ -23,23 +23,23 @@
       "koreanLearnerHint": "안내 방송의 첫 문장에서 대상과 상황을 먼저 잡으세요. \"Boarding will begin\"이 들리면 지연이나 게이트 변경이 아니라 탑승 절차 안내입니다.",
       "vocabularyItems": [
         {
-          "word": "A boarding procedure",
+          "word": "boarding procedure",
           "meaningKo": "탑승 절차",
           "meaningJa": "搭乗手続き",
-          "exampleSentence": "A boarding procedure"
+          "exampleSentence": "The announcement explains the boarding procedure."
         },
         {
-          "word": "What is the announcement mainly about",
-          "meaningKo": "안내 방송은 주로 무엇에 관한 것인가요",
-          "meaningJa": "アナウンスは主に何についてですか",
-          "exampleSentence": "What is the announcement mainly about"
+          "word": "Gate 12",
+          "meaningKo": "12번 게이트",
+          "meaningJa": "12番ゲート",
+          "exampleSentence": "Boarding will begin at Gate 12."
         }
       ],
       "vocabularyItem": {
-        "word": "A boarding procedure",
+        "word": "boarding procedure",
         "meaningKo": "탑승 절차",
         "meaningJa": "搭乗手続き",
-        "exampleSentence": "A boarding procedure"
+        "exampleSentence": "The announcement explains the boarding procedure."
       },
       "explanationKo": "정답은 B. A boarding procedure입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minute\" 부분이 단서입니다. 선택지 \"A boarding procedure\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は B. A boarding procedure です。音声では「Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minute」が手がかりです。選択肢「A boarding procedure」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -68,23 +68,23 @@
       "koreanLearnerHint": "What should passengers prepare? 문제에서는 prepare 또는 have ... ready 뒤에 나오는 물건 목록을 들으세요. 여기서는 boarding passes and identification이 핵심입니다.",
       "vocabularyItems": [
         {
-          "word": "Their boarding passes and identification",
-          "meaningKo": "탑승권과 신분증",
-          "meaningJa": "搭乗券と身分証明書",
-          "exampleSentence": "Their boarding passes and identification"
+          "word": "boarding pass",
+          "meaningKo": "탑승권",
+          "meaningJa": "搭乗券",
+          "exampleSentence": "Please have your boarding pass ready."
         },
         {
-          "word": "What should passengers prepare",
-          "meaningKo": "승객들은 무엇을 준비해야 하나요",
-          "meaningJa": "乗客は何を準備すべきですか",
-          "exampleSentence": "What should passengers prepare"
+          "word": "identification",
+          "meaningKo": "신분증",
+          "meaningJa": "身分証明書",
+          "exampleSentence": "Please have your identification ready."
         }
       ],
       "vocabularyItem": {
-        "word": "Their boarding passes and identification",
-        "meaningKo": "탑승권과 신분증",
-        "meaningJa": "搭乗券と身分証明書",
-        "exampleSentence": "Their boarding passes and identification"
+        "word": "boarding pass",
+        "meaningKo": "탑승권",
+        "meaningJa": "搭乗券",
+        "exampleSentence": "Please have your boarding pass ready."
       },
       "explanationKo": "정답은 C. Their boarding passes and identification입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minute\" 부분이 단서입니다. 선택지 \"Their boarding passes and identification\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は C. Their boarding passes and identification です。音声では「Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minute」が手がかりです。選択肢「Their boarding passes and identification」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -113,23 +113,23 @@
       "koreanLearnerHint": "Who may board first? 문제에서는 may board first 앞에 나오는 대상을 잡으세요. passengers requiring special assistance가 먼저 탑승할 수 있습니다.",
       "vocabularyItems": [
         {
-          "word": "Passengers needing assistance",
-          "meaningKo": "도움이 필요한 승객",
-          "meaningJa": "支援が必要な乗客",
-          "exampleSentence": "Passengers needing assistance"
+          "word": "special assistance",
+          "meaningKo": "특별 지원",
+          "meaningJa": "特別な支援",
+          "exampleSentence": "Passengers requiring special assistance may board first."
         },
         {
-          "word": "Who may board first",
-          "meaningKo": "누가 먼저 탑승할 수 있나요",
-          "meaningJa": "誰が先に搭乗できますか",
-          "exampleSentence": "Who may board first"
+          "word": "board first",
+          "meaningKo": "먼저 탑승하다",
+          "meaningJa": "先に搭乗する",
+          "exampleSentence": "Some passengers may board first."
         }
       ],
       "vocabularyItem": {
-        "word": "Passengers needing assistance",
-        "meaningKo": "도움이 필요한 승객",
-        "meaningJa": "支援が必要な乗客",
-        "exampleSentence": "Passengers needing assistance"
+        "word": "special assistance",
+        "meaningKo": "특별 지원",
+        "meaningJa": "特別な支援",
+        "exampleSentence": "Passengers requiring special assistance may board first."
       },
       "explanationKo": "정답은 D. Passengers needing assistance입니다. 음성에서는 \"Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minute\" 부분이 단서입니다. 선택지 \"Passengers needing assistance\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は D. Passengers needing assistance です。音声では「Attention passengers traveling on Flight 452 to New York. Boarding will begin at Gate 12 in approximately fifteen minute」が手がかりです。選択肢「Passengers needing assistance」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -158,23 +158,23 @@
       "koreanLearnerHint": "Why is Emily calling? 문제에서는 전화를 건 목적을 찾으세요. \"I'm calling to let you know\" 뒤에 수리가 끝났다는 핵심 이유가 나옵니다.",
       "vocabularyItems": [
         {
-          "word": "To announce that repairs are complete",
-          "meaningKo": "수리가 완료되었음을 알리기 위해",
-          "meaningJa": "修理完了を知らせるため",
-          "exampleSentence": "To announce that repairs are complete"
+          "word": "ready for pickup",
+          "meaningKo": "찾아갈 준비가 된",
+          "meaningJa": "受け取り可能な",
+          "exampleSentence": "Your vehicle is ready for pickup."
         },
         {
-          "word": "Why is Emily calling",
-          "meaningKo": "Emily는 왜 전화했나요",
-          "meaningJa": "エミリーはなぜ電話していますか",
-          "exampleSentence": "Why is Emily calling"
+          "word": "repaired",
+          "meaningKo": "수리된",
+          "meaningJa": "修理された",
+          "exampleSentence": "The vehicle has been repaired."
         }
       ],
       "vocabularyItem": {
-        "word": "To announce that repairs are complete",
-        "meaningKo": "수리가 완료되었음을 알리기 위해",
-        "meaningJa": "修理完了を知らせるため",
-        "exampleSentence": "To announce that repairs are complete"
+        "word": "ready for pickup",
+        "meaningKo": "찾아갈 준비가 된",
+        "meaningJa": "受け取り可能な",
+        "exampleSentence": "Your vehicle is ready for pickup."
       },
       "explanationKo": "정답은 C. To announce that repairs are complete입니다. 음성에서는 \"Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair\" 부분이 단서입니다. 선택지 \"To announce that repairs are complete\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は C. To announce that repairs are complete です。音声では「Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair」が手がかりです。選択肢「To announce that repairs are complete」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -203,23 +203,23 @@
       "koreanLearnerHint": "What service was completed? 문제에서는 completed, replaced 같은 동사 뒤의 수리 내용을 들으세요. front brake pads가 정답 단서입니다.",
       "vocabularyItems": [
         {
-          "word": "Brake repair",
-          "meaningKo": "브레이크 수리",
-          "meaningJa": "ブレーキ修理",
-          "exampleSentence": "Brake repair"
+          "word": "brake pads",
+          "meaningKo": "브레이크 패드",
+          "meaningJa": "ブレーキパッド",
+          "exampleSentence": "We replaced the front brake pads."
         },
         {
-          "word": "What service was completed",
-          "meaningKo": "어떤 서비스가 완료되었나요",
-          "meaningJa": "どのサービスが完了しましたか",
-          "exampleSentence": "What service was completed"
+          "word": "oil change",
+          "meaningKo": "오일 교환",
+          "meaningJa": "オイル交換",
+          "exampleSentence": "We completed the oil change."
         }
       ],
       "vocabularyItem": {
-        "word": "Brake repair",
-        "meaningKo": "브레이크 수리",
-        "meaningJa": "ブレーキ修理",
-        "exampleSentence": "Brake repair"
+        "word": "brake pads",
+        "meaningKo": "브레이크 패드",
+        "meaningJa": "ブレーキパッド",
+        "exampleSentence": "We replaced the front brake pads."
       },
       "explanationKo": "정답은 B. Brake repair입니다. 음성에서는 \"Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair\" 부분이 단서입니다. 선택지 \"Brake repair\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は B. Brake repair です。音声では「Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair」が手がかりです。選択肢「Brake repair」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -248,23 +248,23 @@
       "koreanLearnerHint": "When 문제에서는 tomorrow와 after 8 a.m.를 함께 잡아야 합니다. 오늘 6 p.m. 마감 시간과 내일 픽업 시간을 섞지 마세요.",
       "vocabularyItems": [
         {
-          "word": "After 8 a.m",
+          "word": "after 8 a.m.",
           "meaningKo": "오전 8시 이후",
           "meaningJa": "午前8時以降",
-          "exampleSentence": "After 8 a.m"
+          "exampleSentence": "You may pick up the car after 8 a.m."
         },
         {
-          "word": "When can the customer pick up the vehicle tomorrow",
-          "meaningKo": "고객은 내일 언제 차량을 찾을 수 있나요",
-          "meaningJa": "顧客は明日いつ車を受け取れますか",
-          "exampleSentence": "When can the customer pick up the vehicle tomorrow"
+          "word": "tomorrow morning",
+          "meaningKo": "내일 아침",
+          "meaningJa": "明日の朝",
+          "exampleSentence": "You may pick up the car tomorrow morning."
         }
       ],
       "vocabularyItem": {
-        "word": "After 8 a.m",
+        "word": "after 8 a.m.",
         "meaningKo": "오전 8시 이후",
         "meaningJa": "午前8時以降",
-        "exampleSentence": "After 8 a.m"
+        "exampleSentence": "You may pick up the car after 8 a.m."
       },
       "explanationKo": "정답은 C. After 8 a.m.입니다. 음성에서는 \"Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair\" 부분이 단서입니다. 선택지 \"After 8 a.m.\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は C. After 8 a.m. です。音声では「Hello Mr. Carter, this is Emily from Westside Auto Repair. I'm calling to let you know that your vehicle has been repair」が手がかりです。選択肢「After 8 a.m.」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -428,23 +428,23 @@
       "koreanLearnerHint": "What product is on sale? 문제에서는 할인 표현 바로 앞의 상품명을 들으세요. all winter jackets가 할인 대상입니다.",
       "vocabularyItems": [
         {
-          "word": "Winter jackets",
+          "word": "winter jackets",
           "meaningKo": "겨울 재킷",
           "meaningJa": "冬用ジャケット",
-          "exampleSentence": "Winter jackets"
+          "exampleSentence": "All winter jackets are on sale."
         },
         {
-          "word": "What product is on sale",
-          "meaningKo": "어떤 상품이 할인 중인가요",
-          "meaningJa": "どの商品がセール対象ですか",
-          "exampleSentence": "What product is on sale"
+          "word": "discount",
+          "meaningKo": "할인",
+          "meaningJa": "割引",
+          "exampleSentence": "The jackets have a twenty percent discount."
         }
       ],
       "vocabularyItem": {
-        "word": "Winter jackets",
+        "word": "winter jackets",
         "meaningKo": "겨울 재킷",
         "meaningJa": "冬用ジャケット",
-        "exampleSentence": "Winter jackets"
+        "exampleSentence": "All winter jackets are on sale."
       },
       "explanationKo": "정답은 C. Winter jackets입니다. 음성에서는 \"Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. \" 부분이 단서입니다. 선택지 \"Winter jackets\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は C. Winter jackets です。音声では「Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. 」が手がかりです。選択肢「Winter jackets」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -473,23 +473,23 @@
       "koreanLearnerHint": "Where 문제에서는 상품명 뒤의 장소 표현을 연결하세요. winter jackets on the second floor에서 위치가 나옵니다.",
       "vocabularyItems": [
         {
-          "word": "On the second floor",
-          "meaningKo": "2층에",
-          "meaningJa": "2階で",
-          "exampleSentence": "On the second floor"
+          "word": "second floor",
+          "meaningKo": "2층",
+          "meaningJa": "2階",
+          "exampleSentence": "The sale items are on the second floor."
         },
         {
-          "word": "Where are the sale items located",
-          "meaningKo": "할인 상품은 어디에 있나요",
-          "meaningJa": "セール品はどこにありますか",
-          "exampleSentence": "Where are the sale items located"
+          "word": "sale items",
+          "meaningKo": "할인 상품",
+          "meaningJa": "セール品",
+          "exampleSentence": "The sale items are located upstairs."
         }
       ],
       "vocabularyItem": {
-        "word": "On the second floor",
-        "meaningKo": "2층에",
-        "meaningJa": "2階で",
-        "exampleSentence": "On the second floor"
+        "word": "second floor",
+        "meaningKo": "2층",
+        "meaningJa": "2階",
+        "exampleSentence": "The sale items are on the second floor."
       },
       "explanationKo": "정답은 B. On the second floor입니다. 음성에서는 \"Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. \" 부분이 단서입니다. 선택지 \"On the second floor\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は B. On the second floor です。音声では「Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. 」が手がかりです。選択肢「On the second floor」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -518,23 +518,23 @@
       "koreanLearnerHint": "What will customers receive? 문제에서는 spend over $100 뒤의 혜택을 들으세요. free gift card가 받을 물건입니다.",
       "vocabularyItems": [
         {
-          "word": "A gift card",
+          "word": "gift card",
           "meaningKo": "기프트 카드",
           "meaningJa": "ギフトカード",
-          "exampleSentence": "A gift card"
+          "exampleSentence": "Customers will receive a gift card."
         },
         {
-          "word": "What will customers receive after spending over $100",
-          "meaningKo": "100달러 이상 구매하면 고객은 무엇을 받나요",
-          "meaningJa": "100ドルを超えて使うと顧客は何を受け取りますか",
-          "exampleSentence": "What will customers receive after spending over $100"
+          "word": "future purchases",
+          "meaningKo": "향후 구매",
+          "meaningJa": "今後の購入",
+          "exampleSentence": "The gift card is for future purchases."
         }
       ],
       "vocabularyItem": {
-        "word": "A gift card",
+        "word": "gift card",
         "meaningKo": "기프트 카드",
         "meaningJa": "ギフトカード",
-        "exampleSentence": "A gift card"
+        "exampleSentence": "Customers will receive a gift card."
       },
       "explanationKo": "정답은 D. A gift card입니다. 음성에서는 \"Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. \" 부분이 단서입니다. 선택지 \"A gift card\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は D. A gift card です。音声では「Good afternoon shoppers. Today only, all winter jackets on the second floor are available at a twenty percent discount. 」が手がかりです。選択肢「A gift card」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
