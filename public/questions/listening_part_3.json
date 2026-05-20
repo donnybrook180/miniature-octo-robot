@@ -145,7 +145,7 @@
       "audioId": "part3_restaurant_reservation",
       "audioFile": "part3_restaurant_reservation.mp3",
       "audioTitle": "Conversation: Restaurant Reservation",
-      "transcript": "Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow night.\nWoman: Certainly. Would you prefer indoor or outdoor seating?\nMan: Outdoor seating, please, if available.\nWoman: No problem. Your reservation is confirmed for 7:30 p.m.",
+      "transcript": "Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow night, 7:30 p.m.\nWoman: Certainly. Would you prefer indoor or outdoor seating?\nMan: Outdoor seating, please, if available.\nWoman: No problem. Your reservation is confirmed for 7:30 p.m.",
       "prompt": "Where does the conversation most likely take place?",
       "options": [
         "A. At a hotel",
@@ -190,7 +190,7 @@
       "audioId": "part3_restaurant_reservation",
       "audioFile": "part3_restaurant_reservation.mp3",
       "audioTitle": "Conversation: Restaurant Reservation",
-      "transcript": "Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow night.\nWoman: Certainly. Would you prefer indoor or outdoor seating?\nMan: Outdoor seating, please, if available.\nWoman: No problem. Your reservation is confirmed for 7:30 p.m.",
+      "transcript": "Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow night, 7:30 p.m.\nWoman: Certainly. Would you prefer indoor or outdoor seating?\nMan: Outdoor seating, please, if available.\nWoman: No problem. Your reservation is confirmed for 7:30 p.m.",
       "prompt": "How many people will attend?",
       "options": [
         "A. Two",
@@ -235,7 +235,7 @@
       "audioId": "part3_restaurant_reservation",
       "audioFile": "part3_restaurant_reservation.mp3",
       "audioTitle": "Conversation: Restaurant Reservation",
-      "transcript": "Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow night.\nWoman: Certainly. Would you prefer indoor or outdoor seating?\nMan: Outdoor seating, please, if available.\nWoman: No problem. Your reservation is confirmed for 7:30 p.m.",
+      "transcript": "Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow night, 7:30 p.m.\nWoman: Certainly. Would you prefer indoor or outdoor seating?\nMan: Outdoor seating, please, if available.\nWoman: No problem. Your reservation is confirmed for 7:30 p.m.",
       "prompt": "What does the man request?",
       "options": [
         "A. A private room",
