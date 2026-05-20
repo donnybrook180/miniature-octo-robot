@@ -23,23 +23,23 @@
       "koreanLearnerHint": "\"Conversation: Office Equipment / What are the speakers mainly discussing?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "Office equipment",
+          "word": "office equipment",
           "meaningKo": "사무 장비",
           "meaningJa": "オフィス機器",
-          "exampleSentence": "Office equipment"
+          "exampleSentence": "They are discussing office equipment."
         },
         {
-          "word": "What are the speakers mainly discussing",
-          "meaningKo": "화자들은 주로 무엇에 대해 이야기하고 있나요",
-          "meaningJa": "話者たちは主に何について話していますか",
-          "exampleSentence": "What are the speakers mainly discussing"
+          "word": "projector",
+          "meaningKo": "프로젝터",
+          "meaningJa": "プロジェクター",
+          "exampleSentence": "The projector was repaired."
         }
       ],
       "vocabularyItem": {
-        "word": "Office equipment",
+        "word": "office equipment",
         "meaningKo": "사무 장비",
         "meaningJa": "オフィス機器",
-        "exampleSentence": "Office equipment"
+        "exampleSentence": "They are discussing office equipment."
       },
       "explanationKo": "정답은 B. Office equipment입니다. 음성에서는 \"Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai\" 부분이 단서입니다. 선택지 \"Office equipment\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は B. Office equipment です。音声では「Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai」が手がかりです。選択肢「Office equipment」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -68,23 +68,23 @@
       "koreanLearnerHint": "\"Conversation: Office Equipment / When were the chairs delivered?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "This morning",
-          "meaningKo": "오늘 아침",
-          "meaningJa": "今朝",
-          "exampleSentence": "This morning"
+          "word": "delivered",
+          "meaningKo": "배달된",
+          "meaningJa": "配達された",
+          "exampleSentence": "The chairs were delivered this morning."
         },
         {
-          "word": "When were the chairs delivered",
-          "meaningKo": "의자는 언제 배송되었나요",
-          "meaningJa": "椅子はいつ配達されましたか",
-          "exampleSentence": "When were the chairs delivered"
+          "word": "about an hour ago",
+          "meaningKo": "약 한 시간 전에",
+          "meaningJa": "約1時間前に",
+          "exampleSentence": "They were delivered about an hour ago."
         }
       ],
       "vocabularyItem": {
-        "word": "This morning",
-        "meaningKo": "오늘 아침",
-        "meaningJa": "今朝",
-        "exampleSentence": "This morning"
+        "word": "delivered",
+        "meaningKo": "배달된",
+        "meaningJa": "配達された",
+        "exampleSentence": "The chairs were delivered this morning."
       },
       "explanationKo": "정답은 B. This morning입니다. 음성에서는 \"Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai\" 부분이 단서입니다. 선택지 \"This morning\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は B. This morning です。音声では「Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai」が手がかりです。選択肢「This morning」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -113,23 +113,23 @@
       "koreanLearnerHint": "\"Conversation: Office Equipment / What will the woman do later?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "Contact a technician",
+          "word": "contact a technician",
           "meaningKo": "기술자에게 연락하다",
           "meaningJa": "技術者に連絡する",
-          "exampleSentence": "Contact a technician"
+          "exampleSentence": "She will contact a technician after lunch."
         },
         {
-          "word": "What will the woman do later",
-          "meaningKo": "여자는 나중에 무엇을 할 예정인가요",
-          "meaningJa": "女性は後で何をしますか",
-          "exampleSentence": "What will the woman do later"
+          "word": "after lunch",
+          "meaningKo": "점심 식사 후에",
+          "meaningJa": "昼食後に",
+          "exampleSentence": "She will call after lunch."
         }
       ],
       "vocabularyItem": {
-        "word": "Contact a technician",
+        "word": "contact a technician",
         "meaningKo": "기술자에게 연락하다",
         "meaningJa": "技術者に連絡する",
-        "exampleSentence": "Contact a technician"
+        "exampleSentence": "She will contact a technician after lunch."
       },
       "explanationKo": "정답은 C. Contact a technician입니다. 음성에서는 \"Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai\" 부분이 단서입니다. 선택지 \"Contact a technician\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は C. Contact a technician です。音声では「Man: Hi Sarah, did the new office chairs arrive this morning?\nWoman: Yes, they were delivered about an hour ago. The mai」が手がかりです。選択肢「Contact a technician」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -158,23 +158,23 @@
       "koreanLearnerHint": "\"Conversation: Restaurant Reservation / Where does the conversation most likely take place?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "At a restaurant",
-          "meaningKo": "식당에서",
-          "meaningJa": "レストランで",
-          "exampleSentence": "At a restaurant"
+          "word": "restaurant",
+          "meaningKo": "식당",
+          "meaningJa": "レストラン",
+          "exampleSentence": "The conversation takes place at a restaurant."
         },
         {
-          "word": "Where does the conversation most likely take place",
-          "meaningKo": "대화는 어디에서 이루어지는 것 같나요",
-          "meaningJa": "会話はおそらくどこで行われていますか",
-          "exampleSentence": "Where does the conversation most likely take place"
+          "word": "reserve a table",
+          "meaningKo": "테이블을 예약하다",
+          "meaningJa": "席を予約する",
+          "exampleSentence": "He wants to reserve a table."
         }
       ],
       "vocabularyItem": {
-        "word": "At a restaurant",
-        "meaningKo": "식당에서",
-        "meaningJa": "レストランで",
-        "exampleSentence": "At a restaurant"
+        "word": "restaurant",
+        "meaningKo": "식당",
+        "meaningJa": "レストラン",
+        "exampleSentence": "The conversation takes place at a restaurant."
       },
       "explanationKo": "정답은 B. At a restaurant입니다. 음성에서는 \"Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni\" 부분이 단서입니다. 선택지 \"At a restaurant\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は B. At a restaurant です。音声では「Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni」が手がかりです。選択肢「At a restaurant」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -203,23 +203,23 @@
       "koreanLearnerHint": "\"Conversation: Restaurant Reservation / How many people will attend?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "Four",
-          "meaningKo": "4명",
-          "meaningJa": "4",
-          "exampleSentence": "Four"
+          "word": "table for four",
+          "meaningKo": "4인용 테이블",
+          "meaningJa": "4人用の席",
+          "exampleSentence": "He reserved a table for four."
         },
         {
-          "word": "How many people will attend",
-          "meaningKo": "몇 명이 참석하나요",
-          "meaningJa": "何人が出席しますか",
-          "exampleSentence": "How many people will attend"
+          "word": "tomorrow night",
+          "meaningKo": "내일 밤",
+          "meaningJa": "明日の夜",
+          "exampleSentence": "The reservation is for tomorrow night."
         }
       ],
       "vocabularyItem": {
-        "word": "Four",
-        "meaningKo": "4명",
-        "meaningJa": "4",
-        "exampleSentence": "Four"
+        "word": "table for four",
+        "meaningKo": "4인용 테이블",
+        "meaningJa": "4人用の席",
+        "exampleSentence": "He reserved a table for four."
       },
       "explanationKo": "정답은 C. Four입니다. 음성에서는 \"Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni\" 부분이 단서입니다. 선택지 \"Four\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は C. Four です。音声では「Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni」が手がかりです。選択肢「Four」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -248,23 +248,23 @@
       "koreanLearnerHint": "\"Conversation: Restaurant Reservation / What does the man request?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "Outdoor seating",
+          "word": "outdoor seating",
           "meaningKo": "야외 좌석",
           "meaningJa": "屋外席",
-          "exampleSentence": "Outdoor seating"
+          "exampleSentence": "He requests outdoor seating."
         },
         {
-          "word": "What does the man request",
-          "meaningKo": "남자는 무엇을 요청하나요",
-          "meaningJa": "男性は何を依頼していますか",
-          "exampleSentence": "What does the man request"
+          "word": "if available",
+          "meaningKo": "가능하다면",
+          "meaningJa": "利用可能なら",
+          "exampleSentence": "Outdoor seating is fine if available."
         }
       ],
       "vocabularyItem": {
-        "word": "Outdoor seating",
+        "word": "outdoor seating",
         "meaningKo": "야외 좌석",
         "meaningJa": "屋外席",
-        "exampleSentence": "Outdoor seating"
+        "exampleSentence": "He requests outdoor seating."
       },
       "explanationKo": "정답은 C. Outdoor seating입니다. 음성에서는 \"Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni\" 부분이 단서입니다. 선택지 \"Outdoor seating\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は C. Outdoor seating です。音声では「Woman: Good evening, Riverside Restaurant. How may I help you?\nMan: Hi, I'd like to reserve a table for four tomorrow ni」が手がかりです。選択肢「Outdoor seating」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -293,23 +293,23 @@
       "koreanLearnerHint": "\"Conversation: Package Delivery / Where most likely are the speakers?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "At a shipping center",
-          "meaningKo": "배송 센터에서",
-          "meaningJa": "配送センターで",
-          "exampleSentence": "At a shipping center"
+          "word": "shipping center",
+          "meaningKo": "배송 센터",
+          "meaningJa": "配送センター",
+          "exampleSentence": "They are at a shipping center."
         },
         {
-          "word": "Where most likely are the speakers",
-          "meaningKo": "화자들은 어디에 있는 것 같나요",
-          "meaningJa": "話者たちはおそらくどこにいますか",
-          "exampleSentence": "Where most likely are the speakers"
+          "word": "pick up a package",
+          "meaningKo": "소포를 찾다",
+          "meaningJa": "荷物を受け取る",
+          "exampleSentence": "He is here to pick up a package."
         }
       ],
       "vocabularyItem": {
-        "word": "At a shipping center",
-        "meaningKo": "배송 센터에서",
-        "meaningJa": "配送センターで",
-        "exampleSentence": "At a shipping center"
+        "word": "shipping center",
+        "meaningKo": "배송 센터",
+        "meaningJa": "配送センター",
+        "exampleSentence": "They are at a shipping center."
       },
       "explanationKo": "정답은 A. At a shipping center입니다. 음성에서는 \"Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S\" 부분이 단서입니다. 선택지 \"At a shipping center\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は A. At a shipping center です。音声では「Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S」が手がかりです。選択肢「At a shipping center」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -338,23 +338,23 @@
       "koreanLearnerHint": "\"Conversation: Package Delivery / What does the woman ask for?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "Identification",
+          "word": "identification",
           "meaningKo": "신분증",
           "meaningJa": "身分証明書",
-          "exampleSentence": "Identification"
+          "exampleSentence": "May I see your identification?"
         },
         {
-          "word": "What does the woman ask for",
-          "meaningKo": "여자는 무엇을 요구하나요",
-          "meaningJa": "女性は何を求めていますか",
-          "exampleSentence": "What does the woman ask for"
+          "word": "employee card",
+          "meaningKo": "직원증",
+          "meaningJa": "社員証",
+          "exampleSentence": "He shows his employee card."
         }
       ],
       "vocabularyItem": {
-        "word": "Identification",
+        "word": "identification",
         "meaningKo": "신분증",
         "meaningJa": "身分証明書",
-        "exampleSentence": "Identification"
+        "exampleSentence": "May I see your identification?"
       },
       "explanationKo": "정답은 B. Identification입니다. 음성에서는 \"Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S\" 부분이 단서입니다. 선택지 \"Identification\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は B. Identification です。音声では「Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S」が手がかりです。選択肢「Identification」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -383,23 +383,23 @@
       "koreanLearnerHint": "\"Conversation: Package Delivery / What must the man do before leaving?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "Sign a document",
+          "word": "sign a document",
           "meaningKo": "서류에 서명하다",
           "meaningJa": "書類に署名する",
-          "exampleSentence": "Sign a document"
+          "exampleSentence": "He must sign a document."
         },
         {
-          "word": "What must the man do before leaving",
-          "meaningKo": "남자는 떠나기 전에 무엇을 해야 하나요",
-          "meaningJa": "男性は出発前に何をしなければなりませんか",
-          "exampleSentence": "What must the man do before leaving"
+          "word": "before leaving",
+          "meaningKo": "떠나기 전에",
+          "meaningJa": "出発する前に",
+          "exampleSentence": "He must sign before leaving."
         }
       ],
       "vocabularyItem": {
-        "word": "Sign a document",
+        "word": "sign a document",
         "meaningKo": "서류에 서명하다",
         "meaningJa": "書類に署名する",
-        "exampleSentence": "Sign a document"
+        "exampleSentence": "He must sign a document."
       },
       "explanationKo": "정답은 C. Sign a document입니다. 음성에서는 \"Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S\" 부분이 단서입니다. 선택지 \"Sign a document\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は C. Sign a document です。音声では「Man: Hello, I'm here to pick up a package for GreenTech Industries.\nWoman: May I see your identification, please?\nMan: S」が手がかりです。選択肢「Sign a document」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -563,23 +563,23 @@
       "koreanLearnerHint": "\"Conversation: Delayed Delivery / What problem is discussed?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "A delayed shipment",
+          "word": "delayed shipment",
           "meaningKo": "지연된 배송",
           "meaningJa": "遅れた配送",
-          "exampleSentence": "A delayed shipment"
+          "exampleSentence": "The problem is a delayed shipment."
         },
         {
-          "word": "What problem is discussed",
-          "meaningKo": "어떤 문제가 논의되나요",
-          "meaningJa": "どんな問題が話し合われていますか",
-          "exampleSentence": "What problem is discussed"
+          "word": "office supplies",
+          "meaningKo": "사무용품",
+          "meaningJa": "事務用品",
+          "exampleSentence": "The office supplies were delayed."
         }
       ],
       "vocabularyItem": {
-        "word": "A delayed shipment",
+        "word": "delayed shipment",
         "meaningKo": "지연된 배송",
         "meaningJa": "遅れた配送",
-        "exampleSentence": "A delayed shipment"
+        "exampleSentence": "The problem is a delayed shipment."
       },
       "explanationKo": "정답은 B. A delayed shipment입니다. 음성에서는 \"Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let \" 부분이 단서입니다. 선택지 \"A delayed shipment\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は B. A delayed shipment です。音声では「Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let 」が手がかりです。選択肢「A delayed shipment」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -608,23 +608,23 @@
       "koreanLearnerHint": "\"Conversation: Delayed Delivery / Why was the shipment delayed?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "Bad weather",
+          "word": "bad weather",
           "meaningKo": "악천후",
           "meaningJa": "悪天候",
-          "exampleSentence": "Bad weather"
+          "exampleSentence": "The shipment was delayed because of bad weather."
         },
         {
-          "word": "Why was the shipment delayed",
-          "meaningKo": "배송이 왜 지연되었나요",
-          "meaningJa": "配送はなぜ遅れましたか",
-          "exampleSentence": "Why was the shipment delayed"
+          "word": "tracking information",
+          "meaningKo": "배송 추적 정보",
+          "meaningJa": "追跡情報",
+          "exampleSentence": "He checks the tracking information."
         }
       ],
       "vocabularyItem": {
-        "word": "Bad weather",
+        "word": "bad weather",
         "meaningKo": "악천후",
         "meaningJa": "悪天候",
-        "exampleSentence": "Bad weather"
+        "exampleSentence": "The shipment was delayed because of bad weather."
       },
       "explanationKo": "정답은 C. Bad weather입니다. 음성에서는 \"Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let \" 부분이 단서입니다. 선택지 \"Bad weather\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は C. Bad weather です。音声では「Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let 」が手がかりです。選択肢「Bad weather」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
@@ -653,23 +653,23 @@
       "koreanLearnerHint": "\"Conversation: Delayed Delivery / When will the order probably arrive?\"에서는 한국어로 바꿔 생각하면 늦어질 수 있습니다. 문제 유형에 맞춰 숫자, 장소, 요청 표현, 다음 행동을 영어 그대로 잡으세요.",
       "vocabularyItems": [
         {
-          "word": "Tomorrow morning",
+          "word": "tomorrow morning",
           "meaningKo": "내일 아침",
-          "meaningJa": "明日の午前",
-          "exampleSentence": "Tomorrow morning"
+          "meaningJa": "明日の朝",
+          "exampleSentence": "The order should arrive tomorrow morning."
         },
         {
-          "word": "When will the order probably arrive",
-          "meaningKo": "주문은 아마 언제 도착하나요",
-          "meaningJa": "注文品はおそらくいつ届きますか",
-          "exampleSentence": "When will the order probably arrive"
+          "word": "before 10 a.m.",
+          "meaningKo": "오전 10시 전에",
+          "meaningJa": "午前10時前に",
+          "exampleSentence": "It should arrive before 10 a.m."
         }
       ],
       "vocabularyItem": {
-        "word": "Tomorrow morning",
+        "word": "tomorrow morning",
         "meaningKo": "내일 아침",
-        "meaningJa": "明日の午前",
-        "exampleSentence": "Tomorrow morning"
+        "meaningJa": "明日の朝",
+        "exampleSentence": "The order should arrive tomorrow morning."
       },
       "explanationKo": "정답은 B. Tomorrow morning입니다. 음성에서는 \"Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let \" 부분이 단서입니다. 선택지 \"Tomorrow morning\"이 설문에서 요구한 정보와 가장 잘 맞습니다. 대화나 안내문에서는 숫자, 장소, 요청, 다음 행동처럼 문제 유형에 맞는 정보만 집중해서 들어야 합니다.",
       "explanationJa": "正解は B. Tomorrow morning です。音声では「Woman: Hi, I'm calling about the office supplies we ordered last week. They were supposed to arrive yesterday.\nMan: Let 」が手がかりです。選択肢「Tomorrow morning」は、設問で求められている情報と一致します。会話や説明文では、数字・場所・依頼・次の行動など、設問の種類に合う情報だけを狙って聞くのが有効です。",
