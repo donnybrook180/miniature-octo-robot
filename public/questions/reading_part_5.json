@@ -206,6 +206,7 @@
       "explanationEn": "'Although' introduces a full clause with a subject and verb.",
       "explanationKo": "'Although' 뒤에는 주어와 동사가 있는 절이 올 수 있습니다.",
       "koreanLearnerHint": "앞부분에는 나쁜 날씨가 나오지만, 뒷부분에는 배송이 제시간에 도착했다는 반대 결과가 나옵니다. 뒤에 주어와 동사가 있는 절(the weather was severe)이 오므로 Although가 맞습니다.",
+      "japaneseLearnerHint": "前半では悪天候、後半では配送が時間通りに到着したという反対の結果が出ています。後ろに主語と動詞を含む節(the weather was severe)が続くので、Although が適切です。",
       "vocabularyItems": [
         {
           "word": "severe",
@@ -233,7 +234,6 @@
         "meaningJa": "厳しい、深刻な"
       },
       "explanationJa": "正解は B. Although です。接続語は前後の意味関係で選びます。この文では「_____ the weather was severe, the delivery arrived on time.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。Although はその関係を自然に示します。",
-      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「_____ the weather was severe, the delivery arrived on time.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
       "exerciseNumber": 5
     },
     {
