@@ -64,7 +64,7 @@
       "correctOption": "B",
       "explanationEn": "Use 'an' before a vowel sound. 'Interview' starts with a vowel sound.",
       "explanationKo": "'interview'는 모음 소리로 시작하므로 부정관사 'an'을 사용합니다.",
-      "koreanLearnerHint": "한국어에는 관사가 없기 때문에 영어의 'a/an/the'를 자주 놓칠 수 있습니다.",
+      "koreanLearnerHint": "interview는 모음 소리로 시작하는 단수 가산명사입니다. 처음 말하는 한 번의 면접이므로 a가 아니라 an을 씁니다.",
       "vocabularyItems": [
         {
           "word": "applicant",
@@ -111,7 +111,7 @@
       "correctOption": "C",
       "explanationEn": "'Yesterday' refers to a finished past time, so the simple past 'sent' is correct.",
       "explanationKo": "'yesterday'는 끝난 과거 시점을 나타내므로 단순과거 'sent'가 맞습니다.",
-      "koreanLearnerHint": "한국어는 시제가 문맥으로 표현되는 경우가 많지만, 영어 TOEIC에서는 시간 표현이 동사 시제를 결정하는 핵심 단서입니다.",
+      "koreanLearnerHint": "yesterday는 이미 끝난 과거 시간을 나타냅니다. 그래서 현재완료가 아니라 단순과거 sent가 자연스럽습니다.",
       "vocabularyItems": [
         {
           "word": "invoice",
@@ -427,7 +427,7 @@
       "correctOption": "A",
       "explanationEn": "You 'wear' a badge. The other choices do not collocate with identification badges.",
       "explanationKo": "배지는 'wear'한다고 표현합니다. 다른 선택지는 identification badges와 어울리지 않습니다.",
-      "koreanLearnerHint": "TOEIC에서는 단어 뜻뿐 아니라 함께 쓰이는 표현(collocation)이 중요합니다.",
+      "koreanLearnerHint": "identification badges와 자연스럽게 함께 쓰이는 동사는 wear입니다. 한국어식으로 '가지다'라고 생각하지 말고 영어의 collocation을 보세요.",
       "vocabularyItems": [
         {
           "word": "identification badge",
@@ -443,7 +443,7 @@
         "meaningJa": "身分証バッジ"
       },
       "explanationJa": "正解は A. wear です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「Employees must _____ their identification badges while inside the building.」では wear が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Employees must _____ their identification badges while inside the building.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「Employees must _____ their identification badges while inside the building.」では wear が文脈に合います。",
       "exerciseNumber": 11
     },
     {
@@ -478,7 +478,7 @@
         "meaningJa": "広々とした"
       },
       "explanationJa": "正解は B. more spacious です。比較問題では than や as ... as のような比較の合図を探します。「This year's conference room is _____ than the one we used last year.」では比較対象が示されているため、原級や最上級ではなく比較級が必要です。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「This year's conference room is _____ than the one we used last year.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "than が見えたら比較級を疑います。「This year's conference room is _____ than the one we used last year.」では、何と何を比べているかを先に確認しましょう。",
       "exerciseNumber": 12
     },
     {
@@ -548,7 +548,7 @@
         "meaningJa": "受付"
       },
       "explanationJa": "正解は A. must です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「Visitors _____ sign in at the reception desk before entering.」では must の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Visitors _____ sign in at the reception desk before entering.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "規則や義務を表す文では must、have to、may not などがよく使われます。「Visitors _____ sign in at the reception desk before entering.」が許可・義務・禁止のどれかを見ます。",
       "exerciseNumber": 14
     },
     {
@@ -602,7 +602,7 @@
       "correctOption": "C",
       "explanationEn": "The pattern is 'ask someone to do something'.",
       "explanationKo": "'ask someone to do something' 구조이므로 'to revise'가 필요합니다.",
-      "koreanLearnerHint": "동사 패턴을 외우면 Part 5에서 빠르게 답을 고를 수 있습니다.",
+      "koreanLearnerHint": "ask는 목적어 뒤에 to부정사를 자주 씁니다. ask the team to review처럼 '누구에게 무엇을 하라고 요청하다'의 구조입니다.",
       "vocabularyItems": [
         {
           "word": "revise",
@@ -618,7 +618,7 @@
         "meaningJa": "修正する"
       },
       "explanationJa": "正解は C. to revise です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The director asked the team _____ the proposal by Monday.」では to revise の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The director asked the team _____ the proposal by Monday.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "動詞ごとの型を見ます。「The director asked the team _____ the proposal by Monday.」では、ask/remind + 人 + to do のように、目的語の後に to 不定詞が続く型が手がかりです。",
       "exerciseNumber": 16
     },
     {
@@ -653,7 +653,7 @@
         "meaningJa": "文書保管室"
       },
       "explanationJa": "正解は C. approved です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The _____ documents should be placed in the archive room.」では approved の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The _____ documents should be placed in the archive room.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "名詞が動作をする側か、動作を受ける側かを見ます。「The _____ documents should be placed in the archive room.」では現在分詞か過去分詞かを意味の関係で判断します。",
       "exerciseNumber": 17
     },
     {
@@ -723,7 +723,7 @@
         "meaningJa": "無料の"
       },
       "explanationJa": "正解は A. complimentary です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The hotel offers a _____ shuttle service to the airport.」では complimentary が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The hotel offers a _____ shuttle service to the airport.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The hotel offers a _____ shuttle service to the airport.」では complimentary が文脈に合います。",
       "exerciseNumber": 19
     },
     {
@@ -758,7 +758,7 @@
         "meaningJa": "保守、整備"
       },
       "explanationJa": "正解は B. fails です。「If the machine _____ again, please contact maintenance immediately.」で問われている文法機能を確認し、英語の語順・品詞・決まった表現に合う選択肢を選びます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「If the machine _____ again, please contact maintenance immediately.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "条件文では if や unless の節と主節の関係を見ます。「If the machine _____ again, please contact maintenance immediately.」では、条件の中に未来の意味があっても形は現在になることが多いです。",
       "exerciseNumber": 20
     },
     {
@@ -1045,7 +1045,7 @@
         "meaningJa": "生産を再開する"
       },
       "explanationJa": "正解は A. resume です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The factory will _____ production next week after the equipment inspection.」では resume が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The factory will _____ production next week after the equipment inspection.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The factory will _____ production next week after the equipment inspection.」では resume が文脈に合います。",
       "exerciseNumber": 27
     },
     {
@@ -1168,7 +1168,7 @@
         "meaningJa": "効率的な"
       },
       "explanationJa": "正解は B. more efficient です。比較問題では than や as ... as のような比較の合図を探します。「This printer is _____ than the model we purchased last year.」では比較対象が示されているため、原級や最上級ではなく比較級が必要です。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「This printer is _____ than the model we purchased last year.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "than が見えたら比較級を疑います。「This printer is _____ than the model we purchased last year.」では、何と何を比べているかを先に確認しましょう。",
       "exerciseNumber": 30
     },
     {
@@ -1209,7 +1209,7 @@
         "meaningJa": "在庫管理システム"
       },
       "explanationJa": "正解は C. to use です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The training video explains how _____ the new inventory system.」では to use の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The training video explains how _____ the new inventory system.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "動詞ごとの型を見ます。「The training video explains how _____ the new inventory system.」では、ask/remind + 人 + to do のように、目的語の後に to 不定詞が続く型が手がかりです。",
       "exerciseNumber": 31
     },
     {
@@ -1250,7 +1250,7 @@
         "meaningJa": "署名して入る、チェックインする"
       },
       "explanationJa": "正解は A. must です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「Visitors _____ sign in at the front desk before entering the laboratory.」では must の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Visitors _____ sign in at the front desk before entering the laboratory.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "規則や義務を表す文では must、have to、may not などがよく使われます。「Visitors _____ sign in at the front desk before entering the laboratory.」が許可・義務・禁止のどれかを見ます。",
       "exerciseNumber": 32
     },
     {
@@ -1291,7 +1291,7 @@
         "meaningJa": "文書"
       },
       "explanationJa": "正解は C. placed です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The documents _____ in the blue folder are ready for review.」では placed の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The documents _____ in the blue folder are ready for review.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "名詞が動作をする側か、動作を受ける側かを見ます。「The documents _____ in the blue folder are ready for review.」では現在分詞か過去分詞かを意味の関係で判断します。",
       "exerciseNumber": 33
     },
     {
@@ -1332,7 +1332,7 @@
         "meaningJa": "配送、出荷"
       },
       "explanationJa": "正解は C. will distribute です。「If the shipment arrives before noon, the staff _____ the items today.」で問われている文法機能を確認し、英語の語順・品詞・決まった表現に合う選択肢を選びます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「If the shipment arrives before noon, the staff _____ the items today.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "条件文では if や unless の節と主節の関係を見ます。「If the shipment arrives before noon, the staff _____ the items today.」では、条件の中に未来の意味があっても形は現在になることが多いです。",
       "exerciseNumber": 34
     },
     {
@@ -1373,7 +1373,7 @@
         "meaningJa": "無料の"
       },
       "explanationJa": "正解は A. complimentary です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The hotel offers a _____ shuttle service to the airport every hour.」では complimentary が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The hotel offers a _____ shuttle service to the airport every hour.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The hotel offers a _____ shuttle service to the airport every hour.」では complimentary が文脈に合います。",
       "exerciseNumber": 35
     },
     {
@@ -1578,7 +1578,7 @@
         "meaningJa": "ミスを減らす"
       },
       "explanationJa": "正解は A. accurate です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「To reduce errors, the warehouse introduced a more _____ labeling process.」では accurate が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「To reduce errors, the warehouse introduced a more _____ labeling process.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「To reduce errors, the warehouse introduced a more _____ labeling process.」では accurate が文脈に合います。",
       "exerciseNumber": 40
     },
     {
@@ -1824,7 +1824,7 @@
         "meaningJa": "修了証明書"
       },
       "explanationJa": "正解は A. completion です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「All workshop participants will receive a certificate of _____.」では completion が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「All workshop participants will receive a certificate of _____.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「All workshop participants will receive a certificate of _____.」では completion が文脈に合います。",
       "exerciseNumber": 46
     },
     {
@@ -1947,7 +1947,7 @@
         "meaningJa": "個人端末"
       },
       "explanationJa": "正解は A. must not です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「Employees _____ use personal devices to access confidential client files.」では must not の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Employees _____ use personal devices to access confidential client files.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "規則や義務を表す文では must、have to、may not などがよく使われます。「Employees _____ use personal devices to access confidential client files.」が許可・義務・禁止のどれかを見ます。",
       "exerciseNumber": 49
     },
     {
@@ -1988,7 +1988,7 @@
         "meaningJa": "精算手続き"
       },
       "explanationJa": "正解は C. faster です。比較問題では than や as ... as のような比較の合図を探します。「The updated checkout process is significantly _____ than the previous version.」では比較対象が示されているため、原級や最上級ではなく比較級が必要です。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The updated checkout process is significantly _____ than the previous version.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "than が見えたら比較級を疑います。「The updated checkout process is significantly _____ than the previous version.」では、何と何を比べているかを先に確認しましょう。",
       "exerciseNumber": 50
     },
     {
@@ -2029,7 +2029,7 @@
         "meaningJa": "企画委員会"
       },
       "explanationJa": "正解は C. approved です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The proposal _____ by the planning committee includes several cost-saving measures.」では approved の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The proposal _____ by the planning committee includes several cost-saving measures.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "名詞が動作をする側か、動作を受ける側かを見ます。「The proposal _____ by the planning committee includes several cost-saving measures.」では現在分詞か過去分詞かを意味の関係で判断します。",
       "exerciseNumber": 51
     },
     {
@@ -2070,7 +2070,7 @@
         "meaningJa": "人に〜するよう念を押す"
       },
       "explanationJa": "正解は C. to wear です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The supervisor reminded the interns _____ their ID badges at all times.」では to wear の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The supervisor reminded the interns _____ their ID badges at all times.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "動詞ごとの型を見ます。「The supervisor reminded the interns _____ their ID badges at all times.」では、ask/remind + 人 + to do のように、目的語の後に to 不定詞が続く型が手がかりです。",
       "exerciseNumber": 52
     },
     {
@@ -2152,7 +2152,7 @@
         "meaningJa": "変更を依頼する"
       },
       "explanationJa": "正解は C. will be sent です。「Unless the client requests changes, the brochure _____ to the printer tomorrow.」で問われている文法機能を確認し、英語の語順・品詞・決まった表現に合う選択肢を選びます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Unless the client requests changes, the brochure _____ to the printer tomorrow.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "条件文では if や unless の節と主節の関係を見ます。「Unless the client requests changes, the brochure _____ to the printer tomorrow.」では、条件の中に未来の意味があっても形は現在になることが多いです。",
       "exerciseNumber": 54
     },
     {
@@ -2193,7 +2193,7 @@
         "meaningJa": "払い戻す、精算する"
       },
       "explanationJa": "正解は A. reimburse です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The airline will _____ passengers for meals if the delay lasts more than four hours.」では reimburse が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The airline will _____ passengers for meals if the delay lasts more than four hours.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The airline will _____ passengers for meals if the delay lasts more than four hours.」では reimburse が文脈に合います。",
       "exerciseNumber": 55
     },
     {
@@ -2357,7 +2357,7 @@
         "meaningJa": "無料駐車場"
       },
       "explanationJa": "正解は A. complimentary です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The hotel offers _____ parking for guests staying more than two nights.」では complimentary が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「The hotel offers _____ parking for guests staying more than two nights.」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The hotel offers _____ parking for guests staying more than two nights.」では complimentary が文脈に合います。",
       "exerciseNumber": 59
     },
     {

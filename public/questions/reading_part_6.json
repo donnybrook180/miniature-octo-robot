@@ -43,7 +43,7 @@
         "meaningJa": "緊急依頼"
       },
       "explanationJa": "正解は A. Friday evening です。設問「Choose the best answer for blank (1).」は、Notice: Weekend System Update の該当箇所を根拠に判断します。選択肢「Friday evening」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the best answer for blank (1).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "前の文で受付開始の時点を確認し、その後に続く時間表現と自然につながる選択肢を選びます。",
       "exerciseNumber": 1
     },
     {
@@ -88,7 +88,7 @@
         "meaningJa": "記録する"
       },
       "explanationJa": "正解は C. the employee です。設問「Choose the best answer for blank (2).」は、Notice: Weekend System Update の該当箇所を根拠に判断します。選択肢「the employee」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「Choose the best answer for blank (2).」では中心になる名詞を探してから選択肢を見ましょう。",
+      "japaneseLearnerHint": "空所の前後で、誰が何を受け取るのかを確認します。文全体の流れに合う語を選びましょう。",
       "exerciseNumber": 2
     },
     {
@@ -133,7 +133,7 @@
         "meaningJa": "その後"
       },
       "explanationJa": "正解は B. Afterward です。設問「Choose the best answer for blank (3).」は、Notice: Weekend System Update の該当箇所を根拠に判断します。選択肢「Afterward」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「Choose the best answer for blank (3).」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "japaneseLearnerHint": "文の主語と動詞の関係を見ます。直前の名詞だけでなく、文全体で必要な形を判断します。",
       "exerciseNumber": 3
     },
     {
@@ -178,7 +178,7 @@
         "meaningJa": "返答を待つ"
       },
       "explanationJa": "正解は B. customers may be waiting for a response です。設問「Choose the phrase that best completes blank (4).」は、Notice: Weekend System Update の該当箇所を根拠に判断します。選択肢「customers may be waiting for a response」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the phrase that best completes blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "直前の行動がなぜ重要なのかを説明する文が必要です。話題が急に変わる選択肢は避けます。",
       "exerciseNumber": 4
     },
     {
@@ -223,7 +223,7 @@
         "meaningJa": "説明書"
       },
       "explanationJa": "正解は C. to improve です。設問「Choose the best answer for blank (1).」は、E-mail: Packaging Review の該当箇所を根拠に判断します。選択肢「to improve」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「Choose the best answer for blank (1).」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "japaneseLearnerHint": "メールの目的を先に押さえます。締め切りを知らせる文脈なら、時間や期限を示す語が自然です。",
       "exerciseNumber": 5
     },
     {
@@ -268,7 +268,7 @@
         "meaningJa": "最終版"
       },
       "explanationJa": "正解は B. The client will review the updated package at that time. です。設問「Choose the sentence that best fits blank (2).」は、E-mail: Packaging Review の該当箇所を根拠に判断します。選択肢「The client will review the updated package at that time.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (2).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "空所後の that deadline が何を指すかを確認します。直前に期限をはっきり示す文が必要です。",
       "exerciseNumber": 6
     },
     {
@@ -313,7 +313,7 @@
         "meaningJa": "写真家"
       },
       "explanationJa": "正解は C. will take です。設問「Choose the best answer for blank (3).」は、E-mail: Packaging Review の該当箇所を根拠に判断します。選択肢「will take」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「Choose the best answer for blank (3).」の中の過去・未来・継続の合図が得点源です。",
+      "japaneseLearnerHint": "前後の文が同じ話題を続けているかを見ます。細部ではなく、段落の中心に合う語を選びます。",
       "exerciseNumber": 7
     },
     {
@@ -358,7 +358,7 @@
         "meaningJa": "短い、簡潔な"
       },
       "explanationJa": "正解は A. Long explanations will make the review process slower. です。設問「Choose the sentence that best fits blank (4).」は、E-mail: Packaging Review の該当箇所を根拠に判断します。選択肢「Long explanations will make the review process slower.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "brief and specific の説明と意味がつながる選択肢を探します。抽象的すぎる文は弱くなります。",
       "exerciseNumber": 8
     },
     {
@@ -403,7 +403,7 @@
         "meaningJa": "事前に"
       },
       "explanationJa": "正解は A. in advance です。設問「Choose the best answer for blank (1).」は、Announcement: Extended Evening Hours の該当箇所を根拠に判断します。選択肢「in advance」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「Choose the best answer for blank (1).」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "お知らせ文では、変更内容とその理由がつながるかを確認します。空所だけで判断しないでください。",
       "exerciseNumber": 9
     },
     {
@@ -448,7 +448,7 @@
         "meaningJa": "調査ワークショップ"
       },
       "explanationJa": "正解は A. These sessions are designed for members who need help with school or work projects. です。設問「Choose the sentence that best fits blank (2).」は、Announcement: Extended Evening Hours の該当箇所を根拠に判断します。選択肢「These sessions are designed for members who need help with school or work projects.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (2).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "文挿入では、空所前の話題と空所後の具体例を橋渡しする文を選びます。",
       "exerciseNumber": 10
     },
     {
@@ -493,7 +493,7 @@
         "meaningJa": "借用したノートパソコン"
       },
       "explanationJa": "正解は A. This rule helps staff check that all equipment is available for the next day. です。設問「Choose the sentence that best fits blank (3).」は、Announcement: Extended Evening Hours の該当箇所を根拠に判断します。選択肢「This rule helps staff check that all equipment is available for the next day.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「Choose the sentence that best fits blank (3).」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "japaneseLearnerHint": "代名詞や指示語が何を指すかを確認します。前の文の名詞と一致する選択肢が自然です。",
       "exerciseNumber": 11
     },
     {
@@ -538,7 +538,7 @@
         "meaningJa": "延長営業時間"
       },
       "explanationJa": "正解は A. Feedback about the extended hours may be sent through the library website. です。設問「Choose the sentence that best completes blank (4).」は、Announcement: Extended Evening Hours の該当箇所を根拠に判断します。選択肢「Feedback about the extended hours may be sent through the library website.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best completes blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "最後の空所では、全体の目的に合う締めの案内や次の行動を選びます。",
       "exerciseNumber": 12
     },
     {
@@ -583,7 +583,7 @@
         "meaningJa": "一時的に利用できない"
       },
       "explanationJa": "正解は A. late this week です。設問「Choose the best answer for blank (1).」は、E-mail: Delivery Schedule の該当箇所を根拠に判断します。選択肢「late this week」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the best answer for blank (1).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "後ろの文にある配送可能日と矛盾しない時間表現を選びます。",
       "exerciseNumber": 13
     },
     {
@@ -628,7 +628,7 @@
         "meaningJa": "代用する"
       },
       "explanationJa": "正解は A. This change would allow us to ship the order immediately. です。設問「Choose the sentence that best fits blank (2).」は、E-mail: Delivery Schedule の該当箇所を根拠に判断します。選択肢「This change would allow us to ship the order immediately.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (2).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "Another option の後では、その別の選択肢を選んだ場合の結果を説明する文が自然です。",
       "exerciseNumber": 14
     },
     {
@@ -673,7 +673,7 @@
         "meaningJa": "利用可能な品物"
       },
       "explanationJa": "正解は A. we will ship the available items first です。設問「Choose the sentence that best fits blank (3).」は、E-mail: Delivery Schedule の該当箇所を根拠に判断します。選択肢「we will ship the available items first」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (3).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "This が指す前の行動を確認します。後ろの文はその結果を説明しています。",
       "exerciseNumber": 15
     },
     {
@@ -718,7 +718,7 @@
         "meaningJa": "選択肢"
       },
       "explanationJa": "正解は A. Please contact me if you have any questions about these options. です。設問「Choose the sentence that best completes blank (4).」は、E-mail: Delivery Schedule の該当箇所を根拠に判断します。選択肢「Please contact me if you have any questions about these options.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best completes blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "ビジネスメールの最後では、問い合わせ先や次にする行動を示す文が自然です。",
       "exerciseNumber": 16
     },
     {
@@ -763,7 +763,7 @@
         "meaningJa": "フォローアップ用チケット"
       },
       "explanationJa": "正解は A. before ending the chat です。設問「Choose the best answer for blank (1).」は、Memo: Chat Response Guidelines の該当箇所を根拠に判断します。選択肢「before ending the chat」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the best answer for blank (1).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "手順説明では順序が大切です。顧客とのチャットが終わる前か後かを文脈で判断します。",
       "exerciseNumber": 17
     },
     {
@@ -808,7 +808,7 @@
         "meaningJa": "専門用語"
       },
       "explanationJa": "正解は A. Instead, they should use simple language and provide examples when possible. です。設問「Choose the sentence that best fits blank (2).」は、Memo: Chat Response Guidelines の該当箇所を根拠に判断します。選択肢「Instead, they should use simple language and provide examples when possible.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (2).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "Instead は前の内容と対比して別案を出す合図です。反対の流れになる選択肢を選びます。",
       "exerciseNumber": 18
     },
     {
@@ -853,7 +853,7 @@
         "meaningJa": "チャット記録を確認する"
       },
       "explanationJa": "正解は A. The results of these reviews will be shared privately with each agent. です。設問「Choose the sentence that best fits blank (3).」は、Memo: Chat Response Guidelines の該当箇所を根拠に判断します。選択肢「The results of these reviews will be shared privately with each agent.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best fits blank (3).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "前の review と後ろの coaching を自然につなぐ中間の行動を探します。",
       "exerciseNumber": 19
     },
     {
@@ -898,7 +898,7 @@
         "meaningJa": "回答例"
       },
       "explanationJa": "正解は A. They show how to apply the new guidelines in common situations. です。設問「Choose the sentence that best completes blank (4).」は、Memo: Chat Response Guidelines の該当箇所を根拠に判断します。選択肢「They show how to apply the new guidelines in common situations.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "日本語の自然な言い方に引っ張られず、「Choose the sentence that best completes blank (4).」の英語の語順・品詞・よく使う組み合わせを根拠に選びましょう。",
+      "japaneseLearnerHint": "They が直前の sample responses を指しているか確認します。指示語の対応が決め手です。",
       "exerciseNumber": 20
     }
   ]

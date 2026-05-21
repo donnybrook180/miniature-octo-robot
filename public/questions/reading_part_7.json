@@ -42,7 +42,7 @@
         "meaningJa": "点検"
       },
       "explanationJa": "正解は A. For equipment inspection. です。設問「Why will the fitness center be closed?」は、Notice: Fitness Center Closure の該当箇所を根拠に判断します。選択肢「For equipment inspection.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Why will the fitness center be closed?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "Why 問題では、for や because of の後にある理由表現を探します。",
       "exerciseNumber": 1
     },
     {
@@ -86,7 +86,7 @@
         "meaningJa": "確認する"
       },
       "explanationJa": "正解は A. To confirm a reservation. です。設問「What is the purpose of the e-mail?」は、E-mail: Private Dining Reservation の該当箇所を根拠に判断します。選択肢「To confirm a reservation.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What is the purpose of the e-mail?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "メールの目的は I am writing to... の後に直接出ることが多いです。",
       "exerciseNumber": 2
     },
     {
@@ -130,7 +130,7 @@
         "meaningJa": "カートリッジ"
       },
       "explanationJa": "正解は A. It has high operating costs. です。設問「What can be inferred about the printer?」は、Online Review: Office Printer の該当箇所を根拠に判断します。選択肢「It has high operating costs.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What can be inferred about the printer?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "推論問題でも根拠は本文にあります。printer について直接言われた情報から自然に言えることを選びます。",
       "exerciseNumber": 3
     },
     {
@@ -174,7 +174,7 @@
         "meaningJa": "苦情を処理する"
       },
       "explanationJa": "正解は A. Product Knowledge. です。設問「What session begins at 1:15?」は、Schedule: Sales Training の該当箇所を根拠に判断します。選択肢「Product Knowledge.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What session begins at 1:15?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "スケジュール問題では、時刻と項目を一行ずつ照合します。似た時間に注意してください。",
       "exerciseNumber": 4
     },
     {
@@ -218,7 +218,7 @@
         "meaningJa": "不足品"
       },
       "explanationJa": "正解は A. Deliver the missing boxes tomorrow. です。設問「What will Pacific Office Supplies do?」は、E-mail Thread: Missing Copy Paper の該当箇所を根拠に判断します。選択肢「Deliver the missing boxes tomorrow.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What will Pacific Office Supplies do?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "ダブルパッセージでは、1つ目の問題点と2つ目の対応をつなげて読みます。",
       "exerciseNumber": 5
     },
     {
@@ -262,7 +262,7 @@
         "meaningJa": "一時的な"
       },
       "explanationJa": "正解は A. To explain a temporary office relocation. です。設問「Why was the e-mail sent?」は、E-mail: Temporary Office Move の該当箇所を根拠に判断します。選択肢「To explain a temporary office relocation.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Why was the e-mail sent?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "purpose 問題では、件名と最初の段落でメールの目的を先に押さえます。",
       "exerciseNumber": 6
     },
     {
@@ -306,7 +306,7 @@
         "meaningJa": "研修センター"
       },
       "explanationJa": "正解は A. In the training center on the second floor. です。設問「Where will the marketing department work during the renovation?」は、E-mail: Temporary Office Move の該当箇所を根拠に判断します。選択肢「In the training center on the second floor.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Where will the marketing department work during the renovation?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "Where 問題では場所表現を探し、その場所で誰が働くのかまで確認します。",
       "exerciseNumber": 7
     },
     {
@@ -350,7 +350,7 @@
         "meaningJa": "私物"
       },
       "explanationJa": "正解は A. Pack personal items and important documents. です。設問「What should employees do by 4 P.M. this Friday?」は、E-mail: Temporary Office Move の該当箇所を根拠に判断します。選択肢「Pack personal items and important documents.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What should employees do by 4 P.M. this Friday?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "by 4 P.M. this Friday は締め切りです。その時刻までにする行動を探します。",
       "exerciseNumber": 8
     },
     {
@@ -394,7 +394,7 @@
         "meaningJa": "技術サポート"
       },
       "explanationJa": "正解は A. They will move computer equipment over the weekend. です。設問「What can be inferred about the technical support team?」は、E-mail: Temporary Office Move の該当箇所を根拠に判断します。選択肢「They will move computer equipment over the weekend.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What can be inferred about the technical support team?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "推論問題ですが、technical support team と over the weekend を結びつけるのが手がかりです。",
       "exerciseNumber": 9
     },
     {
@@ -438,7 +438,7 @@
         "meaningJa": "顧客サポートセンター"
       },
       "explanationJa": "正解は A. A company opening a new support center. です。設問「What is the article mainly about?」は、Article: New Support Center の該当箇所を根拠に判断します。選択肢「A company opening a new support center.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "空所の直後の名詞を見てください。「What is the article mainly about?」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "japaneseLearnerHint": "mainly about 問題では、タイトルと最初の段落の中心内容を合わせて見ます。細部だけで選ばないでください。",
       "exerciseNumber": 10
     },
     {
@@ -482,7 +482,7 @@
         "meaningJa": "採用を開始する"
       },
       "explanationJa": "正解は A. In June. です。設問「When does NexaCore plan to begin hiring?」は、Article: New Support Center の該当箇所を根拠に判断します。選択肢「In June.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「When does NexaCore plan to begin hiring?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "日付が複数ある場合は役割を分けます。September は開設時期、June は採用開始時期です。",
       "exerciseNumber": 11
     },
     {
@@ -526,7 +526,7 @@
         "meaningJa": "二言語対応の"
       },
       "explanationJa": "正解は A. It has good transportation and bilingual workers. です。設問「Why was Harbor City selected?」は、Article: New Support Center の該当箇所を根拠に判断します。選択肢「It has good transportation and bilingual workers.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Why was Harbor City selected?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "Why 問題では、引用された人物が述べた理由を本文から正確に拾います。",
       "exerciseNumber": 12
     },
     {
@@ -570,7 +570,7 @@
         "meaningJa": "屋上ラウンジ"
       },
       "explanationJa": "正解は A. New outdoor lighting will be installed. です。設問「Why will the rooftop lounge be closed?」は、Notice: Rooftop Lounge Closure の該当箇所を根拠に判断します。選択肢「New outdoor lighting will be installed.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Why will the rooftop lounge be closed?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "while new outdoor lighting is installed が閉鎖の理由を示しています。",
       "exerciseNumber": 13
     },
     {
@@ -614,7 +614,7 @@
         "meaningJa": "通常通り"
       },
       "explanationJa": "正解は A. In the first-floor dining room. です。設問「Where will breakfast be served during the closure?」は、Notice: Rooftop Lounge Closure の該当箇所を根拠に判断します。選択肢「In the first-floor dining room.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Where will breakfast be served during the closure?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "イベントの場所と朝食の場所を混同しないでください。設問が breakfast を聞いています。",
       "exerciseNumber": 14
     },
     {
@@ -658,7 +658,7 @@
         "meaningJa": "手配、配置"
       },
       "explanationJa": "正解は A. They will be moved to the Garden Room. です。設問「What will happen to most private events scheduled in the rooftop lounge during this period?」は、Notice: Rooftop Lounge Closure の該当箇所を根拠に判断します。選択肢「They will be moved to the Garden Room.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What will happen to most private events scheduled in the rooftop lounge during this period?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "Unless は例外を表します。ここでは例外ではなく、ほとんどのイベントに起きることを選びます。",
       "exerciseNumber": 15
     },
     {
@@ -702,7 +702,7 @@
         "meaningJa": "業務を割り当てる"
       },
       "explanationJa": "正解は A. Managing projects and deadlines. です。設問「What is TaskPilot used for?」は、Web Page: TaskPilot Software の該当箇所を根拠に判断します。選択肢「Managing projects and deadlines.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What is TaskPilot used for?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "ウェブページでは最初の文が製品の主な用途を説明していることが多いです。",
       "exerciseNumber": 16
     },
     {
@@ -746,7 +746,7 @@
         "meaningJa": "年間プラン"
       },
       "explanationJa": "正解は C. $180. です。設問「How much does the annual plan cost per user?」は、Web Page: TaskPilot Software の該当箇所を根拠に判断します。選択肢「$180.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「How much does the annual plan cost per user?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "価格問題では monthly と annual を混同しないよう、聞かれているプラン名を確認します。",
       "exerciseNumber": 17
     },
     {
@@ -790,7 +790,7 @@
         "meaningJa": "登録する"
       },
       "explanationJa": "正解は A. Register before July 31. です。設問「What must new customers do to receive a free training session?」は、Web Page: TaskPilot Software の該当箇所を根拠に判断します。選択肢「Register before July 31.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What must new customers do to receive a free training session?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "Before July 31 が無料セッションを受けるための条件です。",
       "exerciseNumber": 18
     },
     {
@@ -834,7 +834,7 @@
         "meaningJa": "代わりに"
       },
       "explanationJa": "正解は A. He received the wrong item. です。設問「What problem does Mr. Nguyen report?」は、E-mail Thread: Incorrect Shipment の該当箇所を根拠に判断します。選択肢「He received the wrong item.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What problem does Mr. Nguyen report?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "ダブルパッセージでは、最初のメールで報告された問題をまず確認します。",
       "exerciseNumber": 19
     },
     {
@@ -878,7 +878,7 @@
         "meaningJa": "速達配送"
       },
       "explanationJa": "正解は A. Wednesday morning. です。設問「When should the correct camera case arrive?」は、E-mail Thread: Incorrect Shipment の該当箇所を根拠に判断します。選択肢「Wednesday morning.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「When should the correct camera case arrive?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "1通目は必要な時期、2通目は実際の到着予定を述べています。二つを分けて読んでください。",
       "exerciseNumber": 20
     },
     {
@@ -922,7 +922,7 @@
         "meaningJa": "無料で"
       },
       "explanationJa": "正解は A. Keep the lens cleaning kit for free. です。設問「What is Mr. Nguyen allowed to do?」は、E-mail Thread: Incorrect Shipment の該当箇所を根拠に判断します。選択肢「Keep the lens cleaning kit for free.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What is Mr. Nguyen allowed to do?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "At no charge は費用を払う必要がないという意味です。",
       "exerciseNumber": 21
     },
     {
@@ -966,7 +966,7 @@
         "meaningJa": "受け取り手順"
       },
       "explanationJa": "正解は A. A new procedure for package pickup. です。設問「What is the notice mainly about?」は、Notice: Updated Pickup Procedure の該当箇所を根拠に判断します。選択肢「A new procedure for package pickup.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What is the notice mainly about?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "notice の主題はタイトルと最初の段落に出やすいです。Updated Pickup Procedure が中心です。",
       "exerciseNumber": 22
     },
     {
@@ -1010,7 +1010,7 @@
         "meaningJa": "チェックインする"
       },
       "explanationJa": "正解は A. Check in at the security office. です。設問「What must drivers do before entering the loading area?」は、Notice: Updated Pickup Procedure の該当箇所を根拠に判断します。選択肢「Check in at the security office.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What must drivers do before entering the loading area?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "before entering の後に求められる行動を探すと答えが見つかります。",
       "exerciseNumber": 23
     },
     {
@@ -1054,7 +1054,7 @@
         "meaningJa": "当日受け取り"
       },
       "explanationJa": "正解は A. It will be moved to overnight storage. です。設問「What will probably happen if a same-day package is not picked up by 5:30 P.M.?」は、Notice: Updated Pickup Procedure の該当箇所を根拠に判断します。選択肢「It will be moved to overnight storage.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What will probably happen if a same-day package is not picked up by 5:30 P.M.?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "時間条件がある問題では、その時刻を過ぎた後に何が起きるかを確認します。",
       "exerciseNumber": 24
     },
     {
@@ -1098,7 +1098,7 @@
         "meaningJa": "開会の挨拶"
       },
       "explanationJa": "正解は A. Hall A. です。設問「Where will the opening remarks take place?」は、Schedule: Green Office Solutions Forum の該当箇所を根拠に判断します。選択肢「Hall A.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Where will the opening remarks take place?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "スケジュールでは、イベント名、時刻、場所を同じ行で正確に合わせます。",
       "exerciseNumber": 25
     },
     {
@@ -1142,7 +1142,7 @@
         "meaningJa": "持続可能な"
       },
       "explanationJa": "正解は A. Choosing Sustainable Office Supplies. です。設問「What is scheduled for 1:15 P.M.?」は、Schedule: Green Office Solutions Forum の該当箇所を根拠に判断します。選択肢「Choosing Sustainable Office Supplies.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What is scheduled for 1:15 P.M.?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "似たセッション名が複数あるので、時刻とタイトルをセットで確認します。",
       "exerciseNumber": 26
     },
     {
@@ -1186,7 +1186,7 @@
         "meaningJa": "電子版"
       },
       "explanationJa": "正解は A. They will be sent by e-mail after the forum. です。設問「What is mentioned about digital copies of the workbook?」は、Schedule: Green Office Solutions Forum の該当箇所を根拠に判断します。選択肢「They will be sent by e-mail after the forum.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What is mentioned about digital copies of the workbook?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "printed workbook と digital copies は扱いが違います。digital copies についての文だけを見ます。",
       "exerciseNumber": 27
     },
     {
@@ -1230,7 +1230,7 @@
         "meaningJa": "有効化コード"
       },
       "explanationJa": "正解は A. The activation code is not accepted. です。設問「What problem does Ms. Martin report?」は、Web Page and E-mail: Software Exchange の該当箇所を根拠に判断します。選択肢「The activation code is not accepted.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What problem does Ms. Martin report?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "ダブルパッセージでは、メールの具体的な問題を先に見つけてからポリシーとつなげます。",
       "exerciseNumber": 28
     },
     {
@@ -1274,7 +1274,7 @@
         "meaningJa": "〜の対象である"
       },
       "explanationJa": "正解は A. An exchange of the opened software. です。設問「According to the policy, what is Ms. Martin most likely eligible for?」は、Web Page and E-mail: Software Exchange の該当箇所を根拠に判断します。選択肢「An exchange of the opened software.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「According to the policy, what is Ms. Martin most likely eligible for?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "ポリシーの例外条件とメールの問題を結びつけます。activation code does not work が核心です。",
       "exerciseNumber": 29
     },
     {
@@ -1318,7 +1318,7 @@
         "meaningJa": "商品を郵送する"
       },
       "explanationJa": "正解は A. Contact support. です。設問「What does the policy advise customers to do before mailing software products?」は、Web Page and E-mail: Software Exchange の該当箇所を根拠に判断します。選択肢「Contact support.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What does the policy advise customers to do before mailing software products?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "before mailing の後にある要求事項を正確に確認します。",
       "exerciseNumber": 30
     },
     {
@@ -1362,7 +1362,7 @@
         "meaningJa": "経費報告書"
       },
       "explanationJa": "正解は A. Within seven days of the employee's return. です。設問「When must travel expense reports be submitted beginning next month?」は、Memo: Travel Expense Reports の該当箇所を根拠に判断します。選択肢「Within seven days of the employee's return.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「When must travel expense reports be submitted beginning next month?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "within seven days と、その基準点である return をセットで読みます。",
       "exerciseNumber": 31
     },
     {
@@ -1406,7 +1406,7 @@
         "meaningJa": "タクシー領収書"
       },
       "explanationJa": "正解は A. The starting point and destination. です。設問「What information should taxi receipts show?」は、Memo: Travel Expense Reports の該当箇所を根拠に判断します。選択肢「The starting point and destination.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What information should taxi receipts show?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "meal receipts と taxi receipts の条件は違います。どちらの領収書を聞いているか先に確認します。",
       "exerciseNumber": 32
     },
     {
@@ -1450,7 +1450,7 @@
         "meaningJa": "オンライン説明会"
       },
       "explanationJa": "正解は A. Employees who cannot attend live can watch it later. です。設問「What can be inferred about the online briefing?」は、Memo: Travel Expense Reports の該当箇所を根拠に判断します。選択肢「Employees who cannot attend live can watch it later.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What can be inferred about the online briefing?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "推論問題では、本文に直接書かれた事実から自然に導ける結論を選びます。",
       "exerciseNumber": 33
     },
     {
@@ -1494,7 +1494,7 @@
         "meaningJa": "調整可能な机"
       },
       "explanationJa": "正解は A. Office furniture. です。設問「What is being advertised?」は、Advertisement: Office Furniture の該当箇所を根拠に判断します。選択肢「Office furniture.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What is being advertised?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "広告では最初の行と商品リストが重要です。何を宣伝しているかを先に押さえます。",
       "exerciseNumber": 34
     },
     {
@@ -1538,7 +1538,7 @@
         "meaningJa": "組み立てサービス"
       },
       "explanationJa": "正解は A. By purchasing five or more adjustable desks. です。設問「How can customers receive free assembly service?」は、Advertisement: Office Furniture の該当箇所を根拠に判断します。選択肢「By purchasing five or more adjustable desks.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「How can customers receive free assembly service?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "条件問題では、who/if/when の条件と特典を正確につなげます。",
       "exerciseNumber": 35
     },
     {
@@ -1582,7 +1582,7 @@
         "meaningJa": "現地相談"
       },
       "explanationJa": "正解は A. Measure the available office space. です。設問「What will a design specialist do during an on-site consultation?」は、Advertisement: Office Furniture の該当箇所を根拠に判断します。選択肢「Measure the available office space.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What will a design specialist do during an on-site consultation?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "on-site consultation の後の説明を読むと、専門家が何をするかが分かります。",
       "exerciseNumber": 36
     },
     {
@@ -1626,7 +1626,7 @@
         "meaningJa": "案内冊子"
       },
       "explanationJa": "正解は A. The delivery truck had a flat tire. です。設問「Why have the brochures not arrived yet?」は、Message Thread: Product Demonstration の該当箇所を根拠に判断します。選択肢「The delivery truck had a flat tire.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Why have the brochures not arrived yet?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "メッセージスレッドでは、各人物の発言をつなげます。courier が述べた理由を探します。",
       "exerciseNumber": 37
     },
     {
@@ -1670,7 +1670,7 @@
         "meaningJa": "印刷物"
       },
       "explanationJa": "正解は A. In the east conference room. です。設問「Where should Marco place the printed copies?」は、Message Thread: Product Demonstration の該当箇所を根拠に判断します。選択肢「In the east conference room.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Where should Marco place the printed copies?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "Where 問題では場所表現だけでなく、誰が何をどこに置くのかまで確認します。",
       "exerciseNumber": 38
     },
     {
@@ -1714,7 +1714,7 @@
         "meaningJa": "サンプル品"
       },
       "explanationJa": "正解は A. Bring sample products from storage. です。設問「What will Marco probably do before the demonstration?」は、Message Thread: Product Demonstration の該当箇所を根拠に判断します。選択肢「Bring sample products from storage.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What will Marco probably do before the demonstration?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "probably do 問題では、最後のメッセージで予定されている行動を確認します。",
       "exerciseNumber": 39
     },
     {
@@ -1758,7 +1758,7 @@
         "meaningJa": "サービスを拡大する"
       },
       "explanationJa": "正解は A. A restaurant introducing a faster lunch service. です。設問「What is the article mainly about?」は、Article: Faster Lunch Service の該当箇所を根拠に判断します。選択肢「A restaurant introducing a faster lunch service.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "空所の直後の名詞を見てください。「What is the article mainly about?」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "japaneseLearnerHint": "mainly about 問題では、タイトルと最初の段落の中心内容を結びつけます。文法問題のように空所を見る必要はありません。",
       "exerciseNumber": 40
     },
     {
@@ -1802,7 +1802,7 @@
         "meaningJa": "〜を対象としている"
       },
       "explanationJa": "正解は A. Office workers with limited lunch time. です。設問「Who is the new lunch service intended for?」は、Article: Faster Lunch Service の該当箇所を根拠に判断します。選択肢「Office workers with limited lunch time.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Who is the new lunch service intended for?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "intended for は対象となる利用者を示す表現です。",
       "exerciseNumber": 41
     },
     {
@@ -1846,7 +1846,7 @@
         "meaningJa": "注文する"
       },
       "explanationJa": "正解は A. Order through the mobile app before 11:30 A.M. です。設問「What must customers do to pick up lunch between noon and 1 P.M.?」は、Article: Faster Lunch Service の該当箇所を根拠に判断します。選択肢「Order through the mobile app before 11:30 A.M.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What must customers do to pick up lunch between noon and 1 P.M.?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "条件と結果を一緒に読みます。注文方法、時間制限、受け取り時間が手がかりです。",
       "exerciseNumber": 42
     },
     {
@@ -1890,7 +1890,7 @@
         "meaningJa": "案内パンフレット"
       },
       "explanationJa": "正解は A. Information brochures. です。設問「Which item was not included in the shipment?」は、Invoice and E-mail: Missing Brochures の該当箇所を根拠に判断します。選択肢「Information brochures.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Which item was not included in the shipment?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "invoice と email を比較します。メールで実際に不足している品目を確認してください。",
       "exerciseNumber": 43
     },
     {
@@ -1934,7 +1934,7 @@
         "meaningJa": "急ぎ処理手数料"
       },
       "explanationJa": "正解は A. $25. です。設問「How much is the rush processing fee?」は、Invoice and E-mail: Missing Brochures の該当箇所を根拠に判断します。選択肢「$25.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「How much is the rush processing fee?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "価格問題では、項目名と金額を正確に対応させます。",
       "exerciseNumber": 44
     },
     {
@@ -1978,7 +1978,7 @@
         "meaningJa": "健康フェア"
       },
       "explanationJa": "正解は A. They are needed for a health fair on Friday. です。設問「Why does the clinic need the brochures by Thursday afternoon?」は、Invoice and E-mail: Missing Brochures の該当箇所を根拠に判断します。選択肢「They are needed for a health fair on Friday.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「Why does the clinic need the brochures by Thursday afternoon?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "Why 問題では、依頼の理由が後ろに出ることがあります。because がなくても文脈上の理由を探します。",
       "exerciseNumber": 45
     },
     {
@@ -2022,7 +2022,7 @@
         "meaningJa": "営業訪問"
       },
       "explanationJa": "正解は A. Tuesday at 1:00 P.M. です。設問「When will Ms. Chen meet with Hillcrest Retail Group?」は、Itinerary and Message: Sales Visit の該当箇所を根拠に判断します。選択肢「Tuesday at 1:00 P.M.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「When will Ms. Chen meet with Hillcrest Retail Group?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "予定表では日付と時刻を一緒に確認します。training と meeting を混同しないでください。",
       "exerciseNumber": 46
     },
     {
@@ -2066,7 +2066,7 @@
         "meaningJa": "AからBへ移動する"
       },
       "explanationJa": "正解は A. Product training will start one hour later. です。設問「What change is mentioned in the message?」は、Itinerary and Message: Sales Visit の該当箇所を根拠に判断します。選択肢「Product training will start one hour later.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What change is mentioned in the message?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "変更問題では、元の時刻と変更後の時刻を比較します。",
       "exerciseNumber": 47
     },
     {
@@ -2110,7 +2110,7 @@
         "meaningJa": "帰りの便"
       },
       "explanationJa": "正解は A. She should still be able to take it as planned. です。設問「What can be inferred about Ms. Chen's return flight?」は、Itinerary and Message: Sales Visit の該当箇所を根拠に判断します。選択肢「She should still be able to take it as planned.」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "本文を全文訳せず、設問「What can be inferred about Ms. Chen's return flight?」の名詞・数字・日付を手がかりに該当箇所へ戻るのがTOEICでは効率的です。",
+      "japaneseLearnerHint": "複数文書をつなげます。メッセージの終了時刻と予定表の帰りの便を比較してください。",
       "exerciseNumber": 48
     }
   ]
