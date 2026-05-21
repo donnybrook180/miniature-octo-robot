@@ -22,7 +22,7 @@
       "correctOption": "C",
       "explanationEn": "Choice C is the statement that best matches the photo of people boarding a plane.",
       "explanationKo": "C가 비행기에 탑승하는 장면을 가장 잘 묘사합니다.",
-      "koreanLearnerHint": "Part 1에서는 사진의 중심 행동과 장소를 먼저 확인한 뒤 음성의 네 문장을 비교하세요.",
+      "koreanLearnerHint": "탑승구 상황에서는 줄 서 있는 사람, 안내 표지, 탑승 동작을 먼저 확인하세요. 비행기 안 장면인지 공항 대기 공간인지 구분하는 것이 중요합니다.",
       "vocabularyItems": [
         {
           "word": "board a plane",
@@ -44,7 +44,7 @@
         "meaningJa": "飛行機に搭乗する"
       },
       "explanationJa": "正解は C です。この写真問題では、正しい文「Passengers are boarding a plane」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Passengers are cooking meals / Passengers are driving cars）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "搭乗口の場面では、並んでいる人、案内表示、搭乗の動作を先に確認します。機内なのか空港の待合場所なのかを区別しましょう。",
       "exerciseNumber": 1
     },
     {
@@ -68,7 +68,7 @@
       "correctOption": "C",
       "explanationEn": "Choice C is the statement that best describes the person reading a book.",
       "explanationKo": "C가 책을 읽고 있는 사람을 가장 잘 묘사합니다.",
-      "koreanLearnerHint": "사진 속 사람이 무엇을 하고 있는지 동작 동사를 중심으로 들으세요.",
+      "koreanLearnerHint": "사람이 책을 읽고 있는지, 글을 쓰고 있는지, 컴퓨터를 쓰는지 동작 동사를 먼저 예상하세요.",
       "vocabularyItems": [
         {
           "word": "read a book",
@@ -90,7 +90,7 @@
         "meaningJa": "本を読む"
       },
       "explanationJa": "正解は C です。この写真問題では、正しい文「She is reading a book」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（She is driving a bus / She is cooking dinner）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "人物が本を読んでいるのか、書いているのか、コンピューターを使っているのか、動作動詞を先に予測します。",
       "exerciseNumber": 2
     },
     {
@@ -114,7 +114,7 @@
       "correctOption": "B",
       "explanationEn": "Choice B is the statement that best matches the food being served.",
       "explanationKo": "B가 음식이 제공되는 장면을 가장 잘 묘사합니다.",
-      "koreanLearnerHint": "사람의 동작뿐 아니라 음식, 접시, 식당 같은 사물 단서도 함께 확인하세요.",
+      "koreanLearnerHint": "음식이 제공되는 장면에서는 serve, plate, table 같은 단어를 중심으로 듣고, 사진에 없는 행동은 제외하세요.",
       "vocabularyItems": [
         {
           "word": "serve food",
@@ -136,7 +136,7 @@
         "meaningJa": "料理を出す"
       },
       "explanationJa": "正解は B です。この写真問題では、正しい文「A waiter is serving food」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（A customer is washing dishes / A waiter is serving food）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "食べ物が出ている場面では serve, plate, table などを中心に聞きます。写真にない動作が出た選択肢は外します。",
       "exerciseNumber": 3
     },
     {
@@ -160,7 +160,7 @@
       "correctOption": "C",
       "explanationEn": "Choice C is the statement that best describes people sitting around a table.",
       "explanationKo": "C가 사람들이 테이블 주위에 앉아 있는 장면을 가장 잘 묘사합니다.",
-      "koreanLearnerHint": "여러 사람이 있는 사진에서는 전체 배치와 공통 행동을 먼저 파악하세요.",
+      "koreanLearnerHint": "여러 사람이 테이블 주변에 있을 때는 한 사람의 작은 동작보다 전체 배치와 공통 상황을 먼저 보세요.",
       "vocabularyItems": [
         {
           "word": "sit around a table",
@@ -182,7 +182,7 @@
         "meaningJa": "テーブルを囲んで座る"
       },
       "explanationJa": "正解は C です。この写真問題では、正しい文「The people are sitting around a table」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The people are cooking food / The people are running outside）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "複数の人がテーブルの周りにいる時は、一人の細かい動作より全体の配置と共通の状況を見ます。",
       "exerciseNumber": 4
     },
     {
@@ -206,7 +206,7 @@
       "correctOption": "A",
       "explanationEn": "Choice A is the statement that best describes someone typing on a laptop.",
       "explanationKo": "A가 노트북으로 타이핑하는 장면을 가장 잘 묘사합니다.",
-      "koreanLearnerHint": "사진에서 노트북을 쓰는 동작과 키보드, 화면을 먼저 보세요. typing, laptop, keyboard 같은 단서가 들리면 정답 후보입니다.",
+      "koreanLearnerHint": "노트북을 사용하는 동작과 키보드, 화면을 함께 보세요. typing, laptop, keyboard 같은 단서가 정답 후보입니다.",
       "vocabularyItems": [
         {
           "word": "type on a laptop",
@@ -228,7 +228,7 @@
         "meaningJa": "ノートパソコンで入力する"
       },
       "explanationJa": "正解は A です。この写真問題では、正しい文「He is typing on a laptop」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（He is typing on a laptop / He is fixing a printer）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "ノートパソコンを使う動作と、キーボードや画面を一緒に見ます。typing, laptop, keyboard が手がかりです。",
       "exerciseNumber": 5
     },
     {
@@ -252,7 +252,7 @@
       "correctOption": "D",
       "explanationEn": "Choice D is the statement that best matches the worker wearing a helmet.",
       "explanationKo": "D가 헬멧을 쓴 작업자를 가장 잘 묘사합니다.",
-      "koreanLearnerHint": "복장이나 안전 장비는 직업과 상황을 알려 주는 중요한 단서입니다.",
+      "koreanLearnerHint": "헬멧이나 작업복 같은 안전 장비는 직업과 장소를 알려 줍니다. 사람의 복장과 작업 환경을 함께 확인하세요.",
       "vocabularyItems": [
         {
           "word": "wear a helmet",
@@ -274,7 +274,7 @@
         "meaningJa": "ヘルメットをかぶる"
       },
       "explanationJa": "正解は D です。この写真問題では、正しい文「The workers are wearing helmets」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The workers are shopping / The workers are swimming）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "ヘルメットや作業着などの安全装備は、職業や場所を示します。服装と作業環境をセットで確認しましょう。",
       "exerciseNumber": 6
     },
     {
@@ -297,7 +297,7 @@
       ],
       "correctOption": "C",
       "explanationEn": "Choice C is correct because it describes what is shown in the photo: C. A presentation is being delivered.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "발표 장면에서는 앞에 선 사람, 화면이나 자료, 듣고 있는 사람들을 함께 보세요. 단순히 앉아 있는 장면으로만 판단하지 마세요.",
       "vocabularyItems": [
         {
           "word": "presentation",
@@ -320,7 +320,7 @@
       },
       "explanationKo": "C가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は C. A presentation is being delivered. です。この写真問題では、正しい文「A presentation is being delivered.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Chairs are stacked against the wall. / Employees are eating dinner.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "発表の場面では、前に立つ人、画面や資料、聞いている人を合わせて見ます。単に座っている場面として判断しないでください。",
       "exerciseNumber": 7
     },
     {
@@ -343,7 +343,7 @@
       ],
       "correctOption": "D",
       "explanationEn": "Choice D is correct because it describes what is shown in the photo: D. Office supplies are arranged on a desk.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "사무용품 사진에서는 물건의 종류와 정리된 상태를 확인하세요. 사람이 사용 중인지, 물건만 놓여 있는지도 구분해야 합니다.",
       "vocabularyItems": [
         {
           "word": "office",
@@ -372,7 +372,7 @@
       },
       "explanationKo": "D가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は D. Office supplies are arranged on a desk. です。この写真問題では、正しい文「Office supplies are arranged on a desk.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The lights are being removed. / Papers are floating in the air.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "事務用品の写真では、物の種類と整理された状態を確認します。人が使っているのか、物だけが置かれているのかを区別します。",
       "exerciseNumber": 8
     },
     {
@@ -395,7 +395,7 @@
       ],
       "correctOption": "B",
       "explanationEn": "Choice B is correct because it describes what is shown in the photo: B. Food is being prepared in a kitchen.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "음식 사진에서는 준비된 상태인지, 누군가 먹거나 서빙하는 중인지가 중요합니다. 동작이 없는 선택지는 상태 표현을 들어야 합니다.",
       "vocabularyItems": [
         {
           "word": "food",
@@ -424,7 +424,7 @@
       },
       "explanationKo": "B가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は B. Food is being prepared in a kitchen. です。この写真問題では、正しい文「Food is being prepared in a kitchen.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Dishes are stacked in boxes. / Customers are paying the bill.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "食べ物の写真では、準備された状態なのか、誰かが食べたり運んだりしている途中なのかを見ます。",
       "exerciseNumber": 9
     },
     {
@@ -447,7 +447,7 @@
       ],
       "correctOption": "A",
       "explanationEn": "Choice A is correct because it describes what is shown in the photo: A. People are working out indoors.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "운동 장면에서는 사람이 실내에서 운동하고 있는지, 장비를 사용하고 있는지 먼저 확인하세요.",
       "vocabularyItems": [
         {
           "word": "work out",
@@ -470,7 +470,7 @@
       },
       "explanationKo": "A가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は A. People are working out indoors. です。この写真問題では、正しい文「People are working out indoors.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Equipment is being delivered. / The gym is closed for cleaning.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "運動の場面では、人物が屋内で運動しているか、器具を使っているかを先に確認します。",
       "exerciseNumber": 10
     },
     {
@@ -493,7 +493,7 @@
       ],
       "correctOption": "C",
       "explanationEn": "Choice C is correct because it describes what is shown in the photo: C. A teacher is writing on the board.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "교실 장면에서는 선생님, 칠판, 글을 쓰는 동작 같은 단서를 연결해서 들으세요.",
       "vocabularyItems": [
         {
           "word": "teacher",
@@ -522,7 +522,7 @@
       },
       "explanationKo": "C가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は C. A teacher is writing on the board. です。この写真問題では、正しい文「A teacher is writing on the board.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Desks are being repaired. / Students are leaving the building.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "教室の場面では、先生、黒板、書く動作などの手がかりをつなげて聞きます。",
       "exerciseNumber": 11
     },
     {
@@ -545,7 +545,7 @@
       ],
       "correctOption": "D",
       "explanationEn": "Choice D is correct because it describes what is shown in the photo: D. Machines are being operated in a factory.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "기계가 있는 사진에서는 사람이 조작하는지, 기계만 놓여 있는지 구분하세요. operated, machine, factory 같은 단서가 중요합니다.",
       "vocabularyItems": [
         {
           "word": "machines",
@@ -574,7 +574,7 @@
       },
       "explanationKo": "D가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は D. Machines are being operated in a factory. です。この写真問題では、正しい文「Machines are being operated in a factory.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Workers are washing windows. / Employees are attending a concert.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "機械が写っている場合は、人が操作しているのか、機械だけが置かれているのかを区別します。operated, machine, factory が重要です。",
       "exerciseNumber": 12
     },
     {
@@ -597,7 +597,7 @@
       ],
       "correctOption": "A",
       "explanationEn": "Choice A is correct because it describes what is shown in the photo: A. Produce is being sold outdoors.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "상품이나 농산물이 보이면 진열, 판매, 준비 상태를 먼저 확인하세요. 사람이 들고 있는지 놓여 있는지도 단서입니다.",
       "vocabularyItems": [
         {
           "word": "produce",
@@ -626,7 +626,7 @@
       },
       "explanationKo": "A가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は A. Produce is being sold outdoors. です。この写真問題では、正しい文「Produce is being sold outdoors.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Tables are being folded. / The street is blocked by snow.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "商品や農産物が見える時は、陳列、販売、準備された状態を先に確認します。人が持っているか置かれているかも手がかりです。",
       "exerciseNumber": 13
     },
     {
@@ -649,7 +649,7 @@
       ],
       "correctOption": "C",
       "explanationEn": "Choice C is correct because it describes what is shown in the photo: C. Employees are participating in a meeting.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "회의 장면에서는 사람들이 테이블 주변에 앉아 있는지, 발표를 듣는지, 문서를 보는지 전체 행동을 보세요.",
       "vocabularyItems": [
         {
           "word": "participating",
@@ -672,7 +672,7 @@
       },
       "explanationKo": "C가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は C. Employees are participating in a meeting. です。この写真問題では、正しい文「Employees are participating in a meeting.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Computers are being packed away. / Workers are moving furniture.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "会議の場面では、人々がテーブルの周りに座っているか、発表を聞いているか、書類を見ているかを全体で見ます。",
       "exerciseNumber": 14
     },
     {
@@ -695,7 +695,7 @@
       ],
       "correctOption": "B",
       "explanationEn": "Choice B is correct because it describes what is shown in the photo: B. Bicycles are lined up beside each other.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "자전거 사진에서는 자전거들이 줄지어 있는지, 누군가 타고 있는지 구분하세요. 위치와 배열 표현을 특히 들어야 합니다.",
       "vocabularyItems": [
         {
           "word": "bicycles",
@@ -724,7 +724,7 @@
       },
       "explanationKo": "B가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は B. Bicycles are lined up beside each other. です。この写真問題では、正しい文「Bicycles are lined up beside each other.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（People are riding motorcycles. / A road is under repair.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "自転車の写真では、自転車が並んでいるのか、誰かが乗っているのかを区別します。位置や並びを表す表現を特に聞きます。",
       "exerciseNumber": 15
     },
     {
@@ -747,7 +747,7 @@
       ],
       "correctOption": "A",
       "explanationEn": "Choice A is correct because it describes what is shown in the photo: A. Passengers are checking in for flights.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "체크인 장면에서는 승객, 카운터, 서류나 화면을 확인하는 행동을 연결해서 들으세요.",
       "vocabularyItems": [
         {
           "word": "passengers",
@@ -776,7 +776,7 @@
       },
       "explanationKo": "A가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は A. Passengers are checking in for flights. です。この写真問題では、正しい文「Passengers are checking in for flights.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Travelers are swimming. / Tickets are falling on the floor.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "チェックインの場面では、乗客、カウンター、書類や画面を確認する動作をつなげて聞きます。",
       "exerciseNumber": 16
     },
     {
@@ -799,7 +799,7 @@
       ],
       "correctOption": "D",
       "explanationEn": "Choice D is correct because it describes what is shown in the photo: D. Boxes are being loaded.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "상자 사진에서는 상자가 쌓여 있는지, 옮겨지고 있는지, 차량에 실렸는지 상태와 위치를 구분하세요.",
       "vocabularyItems": [
         {
           "word": "boxes",
@@ -822,7 +822,7 @@
       },
       "explanationKo": "D가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は D. Boxes are being loaded. です。この写真問題では、正しい文「Boxes are being loaded.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The shelves are empty. / Products are displayed in windows.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "箱の写真では、箱が積まれているのか、運ばれているのか、車に積まれているのか、状態と位置を区別します。",
       "exerciseNumber": 17
     },
     {
@@ -845,7 +845,7 @@
       ],
       "correctOption": "C",
       "explanationEn": "Choice C is correct because it describes what is shown in the photo: C. Vehicles are parked in rows.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "차량 사진에서는 차들이 주차되어 있는지, 움직이고 있는지 먼저 확인하세요. parked, row, vehicle 같은 단서가 중요합니다.",
       "vocabularyItems": [
         {
           "word": "vehicles",
@@ -874,7 +874,7 @@
       },
       "explanationKo": "C가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は C. Vehicles are parked in rows. です。この写真問題では、正しい文「Vehicles are parked in rows.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（The garage doors are closing. / Drivers are racing cars.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "車両の写真では、車が駐車されているのか動いているのかを先に確認します。parked, row, vehicle が手がかりです。",
       "exerciseNumber": 18
     },
     {
@@ -897,7 +897,7 @@
       ],
       "correctOption": "B",
       "explanationEn": "Choice B is correct because it describes what is shown in the photo: B. Students are studying at tables.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "공부하는 장면에서는 책상, 책, 앉아 있는 자세를 함께 보세요. 글쓰기와 읽기, 대화 중인 장면을 구분해야 합니다.",
       "vocabularyItems": [
         {
           "word": "studying",
@@ -920,7 +920,7 @@
       },
       "explanationKo": "B가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は B. Students are studying at tables. です。この写真問題では、正しい文「Students are studying at tables.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（Books are being returned to shelves. / The lights are turned off.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "勉強している場面では、机、本、座っている姿勢を一緒に見ます。書く、読む、話す場面を区別しましょう。",
       "exerciseNumber": 19
     },
     {
@@ -943,7 +943,7 @@
       ],
       "correctOption": "D",
       "explanationEn": "Choice D is correct because it describes what is shown in the photo: D. A customer is pushing a shopping cart.",
-      "koreanLearnerHint": "사진을 보면 인물의 동작, 사물의 위치, 장소를 먼저 영어로 예상하세요. 음성에서 사진에 없는 명사나 동작이 나오면 바로 제거하는 것이 좋습니다.",
+      "koreanLearnerHint": "쇼핑카트 장면에서는 사람이 카트를 밀고 있는지, 물건이 담겨 있는지, 매장 안인지 확인하세요.",
       "vocabularyItems": [
         {
           "word": "pushing",
@@ -972,7 +972,7 @@
       },
       "explanationKo": "D가 사진을 가장 잘 묘사합니다.",
       "explanationJa": "正解は D. A customer is pushing a shopping cart. です。この写真問題では、正しい文「A customer is pushing a shopping cart.」が写真の中心動作・人物・物の状態を最も直接表しています。ほかの選択肢（People are sitting at tables. / Vegetables are being cooked.）は、写真にない動作や物を含むため弱くなります。写真全体を訳そうとせず、まず主語、動作、場所の三点を音声と照合します。",
-      "japaneseLearnerHint": "写真を見たら、人物の動作、物の位置、場所の三つを先に英語で予測します。音声では写真にない名詞や動作が出た選択肢をすぐ消しましょう。",
+      "japaneseLearnerHint": "ショッピングカートの場面では、人がカートを押しているか、物が入っているか、店内なのかを確認します。",
       "exerciseNumber": 20
     }
   ]
