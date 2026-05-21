@@ -44,7 +44,7 @@
         "exampleSentence": "Please submit the report by Friday.",
         "meaningJa": "提出する"
       },
-      "explanationJa": "正解は B. by です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「Friday」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "explanationJa": "正解は B. by です。前置詞は後ろの語との組み合わせで判断します。この文では「Friday」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
       "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The marketing report must be submitted _____ Friday afternoon.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
       "exerciseNumber": 1
     },
@@ -91,7 +91,7 @@
         "exampleSentence": "The applicant arrived early for the interview.",
         "meaningJa": "応募者"
       },
-      "explanationJa": "正解は B. an です。空所の後ろにある名詞句を見ます。この文では「Ms. Kim has scheduled _____ interview with the new applicant.」の空所に an が入り、後ろの名詞の数や音に合います。日本語には冠詞がないため、意味だけでなく名詞が単数か、母音で始まる音か、初出か既出かを確認するのがポイントです。",
+      "explanationJa": "正解は B. an です。空所の後ろにある名詞句を見ます。この文では「Ms. Kim has scheduled _____ interview with the new applicant.」の空所に an が入り、後ろの名詞の数や音に合います。",
       "japaneseLearnerHint": "空所の直後の名詞を見てください。「Ms. Kim has scheduled _____ interview with the new applicant.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
       "exerciseNumber": 2
     },
@@ -138,7 +138,7 @@
         "exampleSentence": "The supplier sent the updated invoice.",
         "meaningJa": "請求書"
       },
-      "explanationJa": "正解は C. sent です。時制問題では、文中の時間表現を先に拾います。この文では「yesterday」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "explanationJa": "正解は C. sent です。時制問題では、文中の時間表現を先に拾います。この文では「yesterday」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
       "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「The supplier _____ the updated invoice yesterday.」の中の過去・未来・継続の合図が得点源です。",
       "exerciseNumber": 3
     },
@@ -302,7 +302,7 @@
         "exampleSentence": "The training session begins at 9:30 A.M.",
         "meaningJa": "研修セッション"
       },
-      "explanationJa": "正解は A. at です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「9:30」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "explanationJa": "正解は A. at です。前置詞は後ろの語との組み合わせで判断します。この文では「9:30」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
       "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The training session will begin _____ 9:30 A.M.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
       "exerciseNumber": 7
     },
@@ -337,7 +337,7 @@
         "exampleSentence": "The company opened a new branch.",
         "meaningJa": "支店"
       },
-      "explanationJa": "正解は A. a です。空所の後ろにある名詞句を見ます。この文では「The company opened _____ new branch near Busan Station.」の空所に a が入り、後ろの名詞の数や音に合います。日本語には冠詞がないため、意味だけでなく名詞が単数か、母音で始まる音か、初出か既出かを確認するのがポイントです。",
+      "explanationJa": "正解は A. a です。空所の後ろにある名詞句を見ます。この文では「The company opened _____ new branch near Busan Station.」の空所に a が入り、後ろの名詞の数や音に合います。",
       "japaneseLearnerHint": "空所の直後の名詞を見てください。「The company opened _____ new branch near Busan Station.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
       "exerciseNumber": 8
     },
@@ -372,7 +372,7 @@
         "exampleSentence": "The department will review the budget.",
         "meaningJa": "予算"
       },
-      "explanationJa": "正解は C. will review です。時制問題では、文中の時間表現を先に拾います。この文では「before」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "explanationJa": "正解は C. will review です。時制問題では、文中の時間表現を先に拾います。この文では「before」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
       "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「The accounting department _____ the budget before the meeting starts.」の中の過去・未来・継続の合図が得点源です。",
       "exerciseNumber": 9
     },
@@ -798,7 +798,7 @@
         "exampleSentence": "The revised schedule will be posted today.",
         "meaningJa": "修正された予定"
       },
-      "explanationJa": "正解は A. on です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「The revised schedule will be posted _____ the employee bulletin board.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "explanationJa": "正解は A. on です。前置詞は後ろの語との組み合わせで判断します。この文では「The revised schedule will be posted _____ the employee bulletin board.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
       "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The revised schedule will be posted _____ the employee bulletin board.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
       "exerciseNumber": 21
     },
@@ -880,7 +880,7 @@
         "exampleSentence": "The conference begins at nine.",
         "meaningJa": "会議"
       },
-      "explanationJa": "正解は C. will have been prepared です。時制問題では、文中の時間表現を先に拾います。この文では「By the time the conference begins, all name tags _____.」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "explanationJa": "正解は C. will have been prepared です。時制問題では、文中の時間表現を先に拾います。この文では「By the time the conference begins, all name tags _____.」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
       "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「By the time the conference begins, all name tags _____.」の中の過去・未来・継続の合図が得点源です。",
       "exerciseNumber": 23
     },
@@ -962,7 +962,7 @@
         "exampleSentence": "They hired an experienced technician.",
         "meaningJa": "経験豊富な"
       },
-      "explanationJa": "正解は B. an です。空所の後ろにある名詞句を見ます。この文では「Our department is looking for _____ experienced technician.」の空所に an が入り、後ろの名詞の数や音に合います。日本語には冠詞がないため、意味だけでなく名詞が単数か、母音で始まる音か、初出か既出かを確認するのがポイントです。",
+      "explanationJa": "正解は B. an です。空所の後ろにある名詞句を見ます。この文では「Our department is looking for _____ experienced technician.」の空所に an が入り、後ろの名詞の数や音に合います。",
       "japaneseLearnerHint": "空所の直後の名詞を見てください。「Our department is looking for _____ experienced technician.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
       "exerciseNumber": 25
     },
@@ -1413,7 +1413,7 @@
         "exampleSentence": "She is responsible for approving expenses.",
         "meaningJa": "担当する、責任がある"
       },
-      "explanationJa": "正解は A. for です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「The finance director is responsible _____ approving travel expenses.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "explanationJa": "正解は A. for です。前置詞は後ろの語との組み合わせで判断します。この文では「The finance director is responsible _____ approving travel expenses.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
       "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The finance director is responsible _____ approving travel expenses.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
       "exerciseNumber": 36
     },
@@ -1659,7 +1659,7 @@
         "exampleSentence": "Orientation will take place in the auditorium.",
         "meaningJa": "オリエンテーション"
       },
-      "explanationJa": "正解は A. in です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「The new employee orientation will take place _____ the auditorium.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "explanationJa": "正解は A. in です。前置詞は後ろの語との組み合わせで判断します。この文では「The new employee orientation will take place _____ the auditorium.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
       "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The new employee orientation will take place _____ the auditorium.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
       "exerciseNumber": 42
     },
@@ -1700,7 +1700,7 @@
         "exampleSentence": "The legal team reviewed the contract.",
         "meaningJa": "法務チーム"
       },
-      "explanationJa": "正解は C. will have reviewed です。時制問題では、文中の時間表現を先に拾います。この文では「The legal team _____ the revised contract by the end of the week.」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "explanationJa": "正解は C. will have reviewed です。時制問題では、文中の時間表現を先に拾います。この文では「The legal team _____ the revised contract by the end of the week.」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
       "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「The legal team _____ the revised contract by the end of the week.」の中の過去・未来・継続の合図が得点源です。",
       "exerciseNumber": 43
     },
@@ -1741,7 +1741,7 @@
         "exampleSentence": "He gave a detailed explanation.",
         "meaningJa": "詳しい説明"
       },
-      "explanationJa": "正解は A. a です。空所の後ろにある名詞句を見ます。この文では「Mr. Patel gave _____ detailed explanation of the new billing system.」の空所に a が入り、後ろの名詞の数や音に合います。日本語には冠詞がないため、意味だけでなく名詞が単数か、母音で始まる音か、初出か既出かを確認するのがポイントです。",
+      "explanationJa": "正解は A. a です。空所の後ろにある名詞句を見ます。この文では「Mr. Patel gave _____ detailed explanation of the new billing system.」の空所に a が入り、後ろの名詞の数や音に合います。",
       "japaneseLearnerHint": "空所の直後の名詞を見てください。「Mr. Patel gave _____ detailed explanation of the new billing system.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
       "exerciseNumber": 44
     },
@@ -2233,7 +2233,7 @@
         "exampleSentence": "The director congratulated the team.",
         "meaningJa": "祝う"
       },
-      "explanationJa": "正解は A. for です。前置詞は日本語の助詞に直訳せず、後ろの語との組み合わせで判断します。この文では「The marketing director congratulated the team _____ completing the campaign early.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、英語側の決まった使い方で選びます。",
+      "explanationJa": "正解は A. for です。前置詞は後ろの語との組み合わせで判断します。この文では「The marketing director congratulated the team _____ completing the campaign early.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
       "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The marketing director congratulated the team _____ completing the campaign early.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
       "exerciseNumber": 56
     },
@@ -2397,7 +2397,7 @@
         "exampleSentence": "The company introduced a new policy.",
         "meaningJa": "方針を導入する"
       },
-      "explanationJa": "正解は C. have decreased です。時制問題では、文中の時間表現を先に拾います。この文では「since」が動詞形を決める手がかりです。日本語では時制を文脈で補えますが、英語では過去・未来・現在完了などを動詞の形で明示する必要があります。",
+      "explanationJa": "正解は C. have decreased です。時制問題では、文中の時間表現を先に拾います。この文では「since」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
       "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「Since the new policy was introduced, customer complaints _____.」の中の過去・未来・継続の合図が得点源です。",
       "exerciseNumber": 60
     }
