@@ -495,9 +495,11 @@
         "D. them"
       ],
       "correctOption": "C",
-      "explanationEn": "'Each employee' is singular, so a singular possessive phrase is needed.",
-      "explanationKo": "'Each employee'는 단수 취급하므로 단수 소유 표현이 필요합니다.",
-      "koreanLearnerHint": "each, every 뒤의 명사는 단수로 보고 동사와 대명사를 맞춰야 합니다.",
+      "explanationEn": "'Each employee' refers to one employee at a time, so the possessive phrase must be singular: 'his or her.'",
+      "explanationKo": "'Each employee'는 직원 한 명씩을 가리키므로 단수 소유 표현인 'his or her'가 필요합니다.",
+      "koreanLearnerHint": "each/every 뒤에 복수 의미가 느껴져도 영어에서는 한 명씩 보는 단수 구조입니다. 'their'나 'them'처럼 복수 형태에 끌리지 마세요.",
+      "explanationJa": "Each employee は従業員を一人ずつ見る表現なので、単数扱いです。そのため複数の their/them ではなく、単数の所有表現 his or her が合います。",
+      "japaneseLearnerHint": "each/every は日本語では「全員」のように複数に感じても、英語では一人ずつ見る単数扱いです。後ろの代名詞も単数に合わせます。",
       "vocabularyItems": [
         {
           "word": "timesheet",
@@ -512,8 +514,6 @@
         "exampleSentence": "Each employee should submit a timesheet.",
         "meaningJa": "勤務時間表"
       },
-      "explanationJa": "正解は C. his or her です。代名詞は、前に出た名詞の単数・複数や人称に合わせます。「Each employee should submit _____ timesheet by Friday.」では、代名詞が何を受けるのかを先に決める必要があります。",
-      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「Each employee should submit _____ timesheet by Friday.」では中心になる名詞を探してから選択肢を見ましょう。",
       "exerciseNumber": 13
     },
     {
@@ -565,9 +565,11 @@
         "D. have been"
       ],
       "correctOption": "C",
-      "explanationEn": "The subject is 'list', which is singular, so 'is' is correct.",
-      "explanationKo": "주어는 'rooms'가 아니라 단수명사 'list'이므로 'is'가 맞습니다.",
-      "koreanLearnerHint": "전치사구 of available rooms에 속지 말고 진짜 주어를 찾으세요.",
+      "explanationEn": "The subject is 'list,' not 'rooms.' Because 'list' is singular, the singular verb 'is' is correct.",
+      "explanationKo": "주어는 복수명사 'rooms'가 아니라 단수명사 'list'이므로 단수 동사 'is'가 맞습니다.",
+      "koreanLearnerHint": "'of available rooms' 안의 rooms에 끌리지 마세요. of 앞의 중심 명사 list가 동사 형태를 결정합니다.",
+      "explanationJa": "主語は rooms ではなく list です。list は単数なので、複数形 are ではなく単数形 is が正解です。",
+      "japaneseLearnerHint": "of available rooms の中に複数名詞 rooms があっても、動詞に合わせるのは of の前の中心名詞 list です。",
       "vocabularyItems": [
         {
           "word": "available",
@@ -582,8 +584,6 @@
         "exampleSentence": "The list of available rooms is posted.",
         "meaningJa": "利用可能な"
       },
-      "explanationJa": "正解は C. is です。主語と動詞の一致では、動詞に対応する本当の主語を探します。「The list of available rooms _____ posted near the elevator.」では、途中の of 句や説明語に引っ張られず、中心名詞が単数か複数かを確認します。",
-      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「The list of available rooms _____ posted near the elevator.」では中心になる名詞を探してから選択肢を見ましょう。",
       "exerciseNumber": 15
     },
     {
@@ -980,9 +980,11 @@
         "D. have been"
       ],
       "correctOption": "C",
-      "explanationEn": "'Each' is singular, so the singular verb 'is' is required.",
-      "explanationKo": "'Each'는 단수 취급하므로 단수 동사 'is'가 필요합니다.",
-      "koreanLearnerHint": "'of the applicants'에 복수 명사가 있어도 문장의 핵심 주어는 'Each'입니다.",
+      "explanationEn": "'Each' is singular, even when it is followed by 'of the applicants.' Therefore the singular verb 'is' is required.",
+      "explanationKo": "'Each'는 'of the applicants'처럼 복수 명사가 뒤에 와도 단수 취급하므로 단수 동사 'is'가 필요합니다.",
+      "koreanLearnerHint": "'of the applicants'의 applicants에 끌리지 마세요. 문장의 핵심 주어는 Each이고, each는 단수 동사를 씁니다.",
+      "explanationJa": "Each は of the applicants のように複数名詞が続いても単数扱いです。そのため複数形 are ではなく単数形 is が必要です。",
+      "japaneseLearnerHint": "of the applicants の applicants に引っ張られないでください。文の中心は Each で、each は一人ずつ見る単数扱いです。",
       "vocabularyItems": [
         {
           "word": "applicant",
@@ -1003,8 +1005,6 @@
         "exampleSentence": "Each applicant must submit references.",
         "meaningJa": "応募者"
       },
-      "explanationJa": "正解は C. is です。主語と動詞の一致では、動詞に対応する本当の主語を探します。「Each of the applicants _____ required to submit two references.」では、途中の of 句や説明語に引っ張られず、中心名詞が単数か複数かを確認します。",
-      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「Each of the applicants _____ required to submit two references.」では中心になる名詞を探してから選択肢を見ましょう。",
       "exerciseNumber": 26
     },
     {
@@ -1843,7 +1843,9 @@
       "correctOption": "B",
       "explanationEn": "With 'neither...nor,' the verb often agrees with the nearer subject. 'Assistants' is plural, so 'are' is correct.",
       "explanationKo": "'neither...nor'에서는 가까운 주어에 동사를 맞추는 경우가 많습니다. 가까운 주어 'assistants'가 복수이므로 'are'가 맞습니다.",
-      "koreanLearnerHint": "상관접속사 문제에서는 동사와 가장 가까운 주어를 확인하세요.",
+      "koreanLearnerHint": "neither...nor에서는 전체 의미보다 동사 가까이에 있는 주어를 확인하세요. 여기서는 assistants가 가까운 복수 주어입니다.",
+      "explanationJa": "neither...nor では、動詞が近いほうの主語に一致することが多いです。ここでは動詞に近い assistants が複数なので are が正解です。",
+      "japaneseLearnerHint": "neither...nor は of 句の問題ではありません。動詞のすぐ近くにある主語が単数か複数かを見ます。ここでは assistants が基準です。",
       "vocabularyItems": [
         {
           "word": "available for the call",
@@ -1864,8 +1866,6 @@
         "exampleSentence": "The assistants are available for the call.",
         "meaningJa": "電話に出られる"
       },
-      "explanationJa": "正解は B. are です。主語と動詞の一致では、動詞に対応する本当の主語を探します。「Neither the manager nor the assistants _____ available for the call.」では、途中の of 句や説明語に引っ張られず、中心名詞が単数か複数かを確認します。",
-      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「Neither the manager nor the assistants _____ available for the call.」では中心になる名詞を探してから選択肢を見ましょう。",
       "exerciseNumber": 47
     },
     {
@@ -1882,9 +1882,11 @@
         "D. its"
       ],
       "correctOption": "A",
-      "explanationEn": "'It' refers to the singular noun phrase 'the safety manual.'",
-      "explanationKo": "'it'은 단수 명사구 'the safety manual'을 가리킵니다.",
-      "koreanLearnerHint": "대명사 문제에서는 앞에 나온 명사의 단수/복수 여부를 확인하세요.",
+      "explanationEn": "'It' refers to the singular noun phrase 'the safety manual,' not to the plural noun 'employees.'",
+      "explanationKo": "'it'은 복수명사 'employees'가 아니라 단수 명사구 'the safety manual'을 가리킵니다.",
+      "koreanLearnerHint": "가까운 employees가 아니라 읽어야 하는 대상인 the safety manual을 찾으세요. manual은 단수이므로 it이 맞습니다.",
+      "explanationJa": "it は複数名詞 employees ではなく、単数名詞句 the safety manual を指します。そのため them/they ではなく it が正解です。",
+      "japaneseLearnerHint": "近くにある複数名詞 employees に引っ張られないでください。代名詞が指す対象は「読むもの」である the safety manual です。",
       "vocabularyItems": [
         {
           "word": "safety manual",
@@ -1905,8 +1907,6 @@
         "exampleSentence": "Employees should read the safety manual.",
         "meaningJa": "安全マニュアル"
       },
-      "explanationJa": "正解は A. it です。代名詞は、前に出た名詞の単数・複数や人称に合わせます。「The safety manual is available online, and employees should read _____ before Friday.」では、代名詞が何を受けるのかを先に決める必要があります。",
-      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「The safety manual is available online, and employees should read _____ before Friday.」では中心になる名詞を探してから選択肢を見ましょう。",
       "exerciseNumber": 48
     },
     {

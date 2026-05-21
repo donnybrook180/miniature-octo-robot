@@ -109,6 +109,8 @@
       "explanationEn": "The sentence describes what employees should do after the system becomes available again.",
       "explanationKo": "시스템을 다시 사용할 수 있게 된 후 해야 할 일을 말하므로 'Afterward'가 맞습니다.",
       "koreanLearnerHint": "전환어 문제는 앞뒤 사건의 시간 순서를 먼저 파악하면 정답을 고르기 쉽습니다.",
+      "explanationJa": "代名詞は sales representatives ではなく several copies を指します。copies は複数なので、目的格の them が正解です。",
+      "japaneseLearnerHint": "代名詞は直前の名詞に自動的に合わせるのではなく、何を受けているかを確認します。ここでは「持っていくもの」である several copies が基準です。",
       "vocabularyItems": [
         {
           "word": "afterward",
@@ -132,8 +134,6 @@
         "exampleSentence": "Afterward, employees should enter the requests.",
         "meaningJa": "その後"
       },
-      "explanationJa": "正解は B. Afterward です。設問「Choose the best answer for blank (3).」は、Notice: Weekend System Update の該当箇所を根拠に判断します。選択肢「Afterward」が本文の情報と最も合います。全文を日本語に訳すより、設問の名詞・数字・日付と本文中の同義表現を対応させると速く解けます。",
-      "japaneseLearnerHint": "文の主語と動詞の関係を見ます。直前の名詞だけでなく、文全体で必要な形を判断します。",
       "exerciseNumber": 3
     },
     {
