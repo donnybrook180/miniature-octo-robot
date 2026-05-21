@@ -391,8 +391,10 @@
       ],
       "correctOption": "A",
       "explanationEn": "'Even though' shows contrast between the delay and the prepared order.",
+      "explanationJa": "配送は遅れましたが、倉庫ではすでに注文を準備していました。二つの内容は理由ではなく対比なので、even though が合います。",
       "explanationKo": "배송 지연과 이미 준비된 주문 사이의 대조를 나타내므로 'even though'가 맞습니다.",
       "koreanLearnerHint": "대조 관계인지 원인 관계인지 먼저 파악하면 접속사 문제를 풀기 쉽습니다.",
+      "japaneseLearnerHint": "前半と後半が原因・結果なのか、意外な対比なのかを先に決めます。ここでは「遅れた」ことと「すでに準備済み」が対比です。",
       "vocabularyItems": [
         {
           "word": "shipment",
@@ -407,8 +409,6 @@
         "exampleSentence": "The shipment was delayed.",
         "meaningJa": "配送、出荷"
       },
-      "explanationJa": "正解は A. even though です。接続語は前後の意味関係で選びます。この文では「The shipment was delayed _____ the warehouse had already prepared the order.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。even though はその関係を自然に示します。",
-      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「The shipment was delayed _____ the warehouse had already prepared the order.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
       "exerciseNumber": 10
     },
     {
@@ -741,8 +741,10 @@
       ],
       "correctOption": "B",
       "explanationEn": "In a real future condition, use the present simple after 'if'.",
+      "explanationJa": "If 節は「機械がまた故障した場合」という条件を表します。未来に起きる可能性がある条件でも、if 節の中では現在形 fails を使います。",
       "explanationKo": "실현 가능한 미래 조건에서는 if절에 현재시제를 사용하므로 'fails'가 맞습니다.",
       "koreanLearnerHint": "if절 안에 미래 의미가 있어도 보통 will을 쓰지 않고 현재시제를 씁니다.",
+      "japaneseLearnerHint": "条件文では if 節と主節を分けて見ます。if 節は条件、please contact... はその時にする行動です。",
       "vocabularyItems": [
         {
           "word": "maintenance",
@@ -757,8 +759,6 @@
         "exampleSentence": "Please contact maintenance immediately.",
         "meaningJa": "保守、整備"
       },
-      "explanationJa": "正解は B. fails です。「If the machine _____ again, please contact maintenance immediately.」で問われている文法機能を確認し、英語の語順・品詞・決まった表現に合う選択肢を選びます。",
-      "japaneseLearnerHint": "条件文では if や unless の節と主節の関係を見ます。「If the machine _____ again, please contact maintenance immediately.」では、条件の中に未来の意味があっても形は現在になることが多いです。",
       "exerciseNumber": 20
     },
     {
@@ -1309,8 +1309,10 @@
       ],
       "correctOption": "C",
       "explanationEn": "In a real future condition, use present tense in the if-clause and 'will' in the main clause.",
+      "explanationJa": "If the shipment arrives before noon が条件で、the staff will distribute... が結果です。if 節は現在形 arrives、主節は未来を表す will distribute になります。",
       "explanationKo": "실현 가능한 미래 조건문에서는 if절에 현재형을 쓰고, 주절에는 'will'을 사용합니다.",
       "koreanLearnerHint": "영어 조건문에서는 if절에 미래 의미가 있어도 보통 'will'을 넣지 않습니다. 주절에서 미래를 표시합니다.",
+      "japaneseLearnerHint": "条件文では二つの部分を分けます。if 節には will を入れず、未来の動作は主節の will で示します。",
       "vocabularyItems": [
         {
           "word": "shipment",
@@ -1331,8 +1333,6 @@
         "exampleSentence": "The shipment arrives before noon.",
         "meaningJa": "配送、出荷"
       },
-      "explanationJa": "正解は C. will distribute です。「If the shipment arrives before noon, the staff _____ the items today.」で問われている文法機能を確認し、英語の語順・品詞・決まった表現に合う選択肢を選びます。",
-      "japaneseLearnerHint": "条件文では if や unless の節と主節の関係を見ます。「If the shipment arrives before noon, the staff _____ the items today.」では、条件の中に未来の意味があっても形は現在になることが多いです。",
       "exerciseNumber": 34
     },
     {
@@ -1473,8 +1473,10 @@
       ],
       "correctOption": "B",
       "explanationEn": "'Even if' means the store will remain open late regardless of whether the work is completed.",
+      "explanationJa": "even if は「たとえ〜でも」という意味です。改装工事が完了しても、その条件に関係なく店は遅くまで営業するので even if が合います。",
       "explanationKo": "공사가 완료되더라도 늦게까지 영업한다는 양보의 의미이므로 'even if'가 알맞습니다.",
       "koreanLearnerHint": "'even if'는 실제 여부와 관계없이 조건을 인정하는 표현입니다. 단순한 시간 표현인 'as soon as'와 구분하세요.",
+      "japaneseLearnerHint": "as soon as は時間の順序、even if は条件を認めた上で結果が変わらないことを表します。ここでは時間ではなく譲歩です。",
       "vocabularyItems": [
         {
           "word": "remain open",
@@ -1495,8 +1497,6 @@
         "exampleSentence": "The store will remain open late.",
         "meaningJa": "営業を続ける"
       },
-      "explanationJa": "正解は B. even if です。接続語は前後の意味関係で選びます。この文では「The store will remain open late _____ the renovation work is completed.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。even if はその関係を自然に示します。",
-      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「The store will remain open late _____ the renovation work is completed.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
       "exerciseNumber": 38
     },
     {
@@ -2129,8 +2129,10 @@
       ],
       "correctOption": "C",
       "explanationEn": "The brochure is the object being sent tomorrow, so a future passive form is needed.",
+      "explanationJa": "Unless the client requests changes は「顧客が変更を求めない限り」という条件です。brochure は送られる側なので、主節では未来の受け身 will be sent が必要です。",
       "explanationKo": "브로셔는 내일 보내지는 대상이므로 미래 수동형 'will be sent'가 필요합니다.",
       "koreanLearnerHint": "unless절은 조건을 말하고, 주절에서는 미래의 동작을 나타냅니다. 대상이 보내지는 것이면 수동태를 씁니다.",
+      "japaneseLearnerHint": "unless 節は例外条件、主節はその条件がなければ起きることです。主語 brochure が動作を受ける側かどうかも確認します。",
       "vocabularyItems": [
         {
           "word": "request changes",
@@ -2151,8 +2153,6 @@
         "exampleSentence": "The client may request changes.",
         "meaningJa": "変更を依頼する"
       },
-      "explanationJa": "正解は C. will be sent です。「Unless the client requests changes, the brochure _____ to the printer tomorrow.」で問われている文法機能を確認し、英語の語順・品詞・決まった表現に合う選択肢を選びます。",
-      "japaneseLearnerHint": "条件文では if や unless の節と主節の関係を見ます。「Unless the client requests changes, the brochure _____ to the printer tomorrow.」では、条件の中に未来の意味があっても形は現在になることが多いです。",
       "exerciseNumber": 54
     },
     {
