@@ -45,7 +45,7 @@
         "meaningJa": "提出する"
       },
       "explanationJa": "正解は B. by です。前置詞は後ろの語との組み合わせで判断します。この文では「Friday」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
-      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The marketing report must be submitted _____ Friday afternoon.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "japaneseLearnerHint": "空所の後の表現が時間・場所・目的・方向のどれかを先に分類します。動詞や形容詞と固定でペアになる前置詞はそのままセットで覚えます。",
       "exerciseNumber": 1
     },
     {
@@ -92,7 +92,7 @@
         "meaningJa": "応募者"
       },
       "explanationJa": "正解は B. an です。空所の後ろにある名詞句を見ます。この文では「Ms. Kim has scheduled _____ interview with the new applicant.」の空所に an が入り、後ろの名詞の数や音に合います。",
-      "japaneseLearnerHint": "空所の直後の名詞を見てください。「Ms. Kim has scheduled _____ interview with the new applicant.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "japaneseLearnerHint": "空所の直後の名詞を見ます。数えられる名詞か否か、また単数なら母音の音で始まるかどうかの2点で冠詞を決めます。",
       "exerciseNumber": 2
     },
     {
@@ -139,7 +139,7 @@
         "meaningJa": "請求書"
       },
       "explanationJa": "正解は C. sent です。時制問題では、文中の時間表現を先に拾います。この文では「yesterday」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
-      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「The supplier _____ the updated invoice yesterday.」の中の過去・未来・継続の合図が得点源です。",
+      "japaneseLearnerHint": "選択肢を見る前に文中の時間表現（yesterday / next year / since など）を先に探します。その表現が過去・未来・継続のどのシグナルかを確認してから動詞の形を選びます。",
       "exerciseNumber": 3
     },
     {
@@ -186,7 +186,7 @@
         "meaningJa": "方針、規定"
       },
       "explanationJa": "正解は C. confidently です。空所が文の中で何を修飾しているかを確認します。「The manager spoke _____ about the new safety policy.」では confidently が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The manager spoke _____ about the new safety policy.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 4
     },
     {
@@ -268,7 +268,7 @@
         "meaningJa": "迅速に"
       },
       "explanationJa": "正解は B. promptly です。空所が文の中で何を修飾しているかを確認します。「The customer service team responded _____ to all complaints.」では promptly が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The customer service team responded _____ to all complaints.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 6
     },
     {
@@ -303,7 +303,7 @@
         "meaningJa": "研修セッション"
       },
       "explanationJa": "正解は A. at です。前置詞は後ろの語との組み合わせで判断します。この文では「9:30」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
-      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The training session will begin _____ 9:30 A.M.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "japaneseLearnerHint": "空所の後の表現が時間・場所・目的・方向のどれかを先に分類します。動詞や形容詞と固定でペアになる前置詞はそのままセットで覚えます。",
       "exerciseNumber": 7
     },
     {
@@ -338,7 +338,7 @@
         "meaningJa": "支店"
       },
       "explanationJa": "正解は A. a です。空所の後ろにある名詞句を見ます。この文では「The company opened _____ new branch near Busan Station.」の空所に a が入り、後ろの名詞の数や音に合います。",
-      "japaneseLearnerHint": "空所の直後の名詞を見てください。「The company opened _____ new branch near Busan Station.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "japaneseLearnerHint": "空所の直後の名詞を見ます。数えられる名詞か否か、また単数なら母音の音で始まるかどうかの2点で冠詞を決めます。",
       "exerciseNumber": 8
     },
     {
@@ -373,7 +373,7 @@
         "meaningJa": "予算"
       },
       "explanationJa": "正解は C. will review です。時制問題では、文中の時間表現を先に拾います。この文では「before」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
-      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「The accounting department _____ the budget before the meeting starts.」の中の過去・未来・継続の合図が得点源です。",
+      "japaneseLearnerHint": "選択肢を見る前に文中の時間表現（yesterday / next year / since など）を先に探します。その表現が過去・未来・継続のどのシグナルかを確認してから動詞の形を選びます。",
       "exerciseNumber": 9
     },
     {
@@ -443,7 +443,7 @@
         "meaningJa": "身分証バッジ"
       },
       "explanationJa": "正解は A. wear です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「Employees must _____ their identification badges while inside the building.」では wear が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「Employees must _____ their identification badges while inside the building.」では wear が文脈に合います。",
+      "japaneseLearnerHint": "空所の前後にある名詞・動詞と自然につながる語を選びます（コロケーション）。意味が似ていても組み合わせとして不自然な選択肢は消せます。",
       "exerciseNumber": 11
     },
     {
@@ -478,7 +478,7 @@
         "meaningJa": "広々とした"
       },
       "explanationJa": "正解は B. more spacious です。比較問題では than や as ... as のような比較の合図を探します。「This year's conference room is _____ than the one we used last year.」では比較対象が示されているため、原級や最上級ではなく比較級が必要です。",
-      "japaneseLearnerHint": "than が見えたら比較級を疑います。「This year's conference room is _____ than the one we used last year.」では、何と何を比べているかを先に確認しましょう。",
+      "japaneseLearnerHint": "than が見えたら比較級、as…as が見えたら同等比較を疑います。何と何を比べているかを先に確認してから形容詞・副詞の形を決めます。",
       "exerciseNumber": 12
     },
     {
@@ -548,7 +548,7 @@
         "meaningJa": "受付"
       },
       "explanationJa": "正解は A. must です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「Visitors _____ sign in at the reception desk before entering.」では must の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "規則や義務を表す文では must、have to、may not などがよく使われます。「Visitors _____ sign in at the reception desk before entering.」が許可・義務・禁止のどれかを見ます。",
+      "japaneseLearnerHint": "選択肢を許可・義務・可能性・禁止の4区分に分けます。文が規則・指示・提案のどれかを判断してから区分に合う助動詞を選びます。",
       "exerciseNumber": 14
     },
     {
@@ -618,7 +618,7 @@
         "meaningJa": "修正する"
       },
       "explanationJa": "正解は C. to revise です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The director asked the team _____ the proposal by Monday.」では to revise の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "動詞ごとの型を見ます。「The director asked the team _____ the proposal by Monday.」では、ask/remind + 人 + to do のように、目的語の後に to 不定詞が続く型が手がかりです。",
+      "japaneseLearnerHint": "空所の前の動詞の語形パターンを確認します。ask/allow/remind + 人 + to do、または make/let + 人 + 動詞の原形のように、主動詞の型が答えを決めます。",
       "exerciseNumber": 16
     },
     {
@@ -653,7 +653,7 @@
         "meaningJa": "文書保管室"
       },
       "explanationJa": "正解は C. approved です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The _____ documents should be placed in the archive room.」では approved の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "名詞が動作をする側か、動作を受ける側かを見ます。「The _____ documents should be placed in the archive room.」では現在分詞か過去分詞かを意味の関係で判断します。",
+      "japaneseLearnerHint": "空所が修飾する名詞が動作をする側なら現在分詞（-ing）、動作を受ける側なら過去分詞（-ed）を選びます。能動・受動の関係だけを見れば判断できます。",
       "exerciseNumber": 17
     },
     {
@@ -688,7 +688,7 @@
         "meaningJa": "作動する、運営する"
       },
       "explanationJa": "正解は B. quietly です。空所が文の中で何を修飾しているかを確認します。「The new printer operates very _____.」では quietly が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The new printer operates very _____.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 18
     },
     {
@@ -723,7 +723,7 @@
         "meaningJa": "無料の"
       },
       "explanationJa": "正解は A. complimentary です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The hotel offers a _____ shuttle service to the airport.」では complimentary が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The hotel offers a _____ shuttle service to the airport.」では complimentary が文脈に合います。",
+      "japaneseLearnerHint": "空所の前後にある名詞・動詞と自然につながる語を選びます（コロケーション）。意味が似ていても組み合わせとして不自然な選択肢は消せます。",
       "exerciseNumber": 19
     },
     {
@@ -799,7 +799,7 @@
         "meaningJa": "修正された予定"
       },
       "explanationJa": "正解は A. on です。前置詞は後ろの語との組み合わせで判断します。この文では「The revised schedule will be posted _____ the employee bulletin board.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
-      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The revised schedule will be posted _____ the employee bulletin board.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "japaneseLearnerHint": "空所の後の表現が時間・場所・目的・方向のどれかを先に分類します。動詞や形容詞と固定でペアになる前置詞はそのままセットで覚えます。",
       "exerciseNumber": 21
     },
     {
@@ -840,7 +840,7 @@
         "meaningJa": "受付係"
       },
       "explanationJa": "正解は C. courteously です。空所が文の中で何を修飾しているかを確認します。「The receptionist greeted each visitor _____.」では courteously が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The receptionist greeted each visitor _____.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 22
     },
     {
@@ -881,7 +881,7 @@
         "meaningJa": "会議"
       },
       "explanationJa": "正解は C. will have been prepared です。時制問題では、文中の時間表現を先に拾います。この文では「By the time the conference begins, all name tags _____.」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
-      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「By the time the conference begins, all name tags _____.」の中の過去・未来・継続の合図が得点源です。",
+      "japaneseLearnerHint": "選択肢を見る前に文中の時間表現（yesterday / next year / since など）を先に探します。その表現が過去・未来・継続のどのシグナルかを確認してから動詞の形を選びます。",
       "exerciseNumber": 23
     },
     {
@@ -922,7 +922,7 @@
         "meaningJa": "上司、監督者"
       },
       "explanationJa": "正解は A. if です。接続語は前後の意味関係で選びます。この文では「Please contact the supervisor _____ you need additional safety equipment.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。if はその関係を自然に示します。",
-      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「Please contact the supervisor _____ you need additional safety equipment.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "japaneseLearnerHint": "コンマの前後・節と節の間の関係を確認します。逆接・理由・条件・追加のどれかを先に決めてから接続語を選ぶと訳だけで迷わずに済みます。",
       "exerciseNumber": 24
     },
     {
@@ -963,7 +963,7 @@
         "meaningJa": "経験豊富な"
       },
       "explanationJa": "正解は B. an です。空所の後ろにある名詞句を見ます。この文では「Our department is looking for _____ experienced technician.」の空所に an が入り、後ろの名詞の数や音に合います。",
-      "japaneseLearnerHint": "空所の直後の名詞を見てください。「Our department is looking for _____ experienced technician.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "japaneseLearnerHint": "空所の直後の名詞を見ます。数えられる名詞か否か、また単数なら母音の音で始まるかどうかの2点で冠詞を決めます。",
       "exerciseNumber": 25
     },
     {
@@ -1045,7 +1045,7 @@
         "meaningJa": "生産を再開する"
       },
       "explanationJa": "正解は A. resume です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The factory will _____ production next week after the equipment inspection.」では resume が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The factory will _____ production next week after the equipment inspection.」では resume が文脈に合います。",
+      "japaneseLearnerHint": "空所の前後にある名詞・動詞と自然につながる語を選びます（コロケーション）。意味が似ていても組み合わせとして不自然な選択肢は消せます。",
       "exerciseNumber": 27
     },
     {
@@ -1086,7 +1086,7 @@
         "meaningJa": "注文を処理する"
       },
       "explanationJa": "正解は B. immediately です。空所が文の中で何を修飾しているかを確認します。「The online order was processed almost _____ after payment was confirmed.」では immediately が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The online order was processed almost _____ after payment was confirmed.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 28
     },
     {
@@ -1127,7 +1127,7 @@
         "meaningJa": "最終提案書"
       },
       "explanationJa": "正解は C. their です。代名詞は、前に出た名詞の単数・複数や人称に合わせます。「The marketing team shared _____ final proposal with the client.」では、代名詞が何を受けるのかを先に決める必要があります。",
-      "japaneseLearnerHint": "日本語では省略される主語や数も、英語では形に出ます。「The marketing team shared _____ final proposal with the client.」では中心になる名詞を探してから選択肢を見ましょう。",
+      "japaneseLearnerHint": "文の中で中心になる名詞（主語）を先に見つけます。日本語では省略される主語の数も英語では動詞や代名詞の形に表れます。",
       "exerciseNumber": 29
     },
     {
@@ -1168,7 +1168,7 @@
         "meaningJa": "効率的な"
       },
       "explanationJa": "正解は B. more efficient です。比較問題では than や as ... as のような比較の合図を探します。「This printer is _____ than the model we purchased last year.」では比較対象が示されているため、原級や最上級ではなく比較級が必要です。",
-      "japaneseLearnerHint": "than が見えたら比較級を疑います。「This printer is _____ than the model we purchased last year.」では、何と何を比べているかを先に確認しましょう。",
+      "japaneseLearnerHint": "than が見えたら比較級、as…as が見えたら同等比較を疑います。何と何を比べているかを先に確認してから形容詞・副詞の形を決めます。",
       "exerciseNumber": 30
     },
     {
@@ -1209,7 +1209,7 @@
         "meaningJa": "在庫管理システム"
       },
       "explanationJa": "正解は C. to use です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The training video explains how _____ the new inventory system.」では to use の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "動詞ごとの型を見ます。「The training video explains how _____ the new inventory system.」では、ask/remind + 人 + to do のように、目的語の後に to 不定詞が続く型が手がかりです。",
+      "japaneseLearnerHint": "空所の前の動詞の語形パターンを確認します。ask/allow/remind + 人 + to do、または make/let + 人 + 動詞の原形のように、主動詞の型が答えを決めます。",
       "exerciseNumber": 31
     },
     {
@@ -1250,7 +1250,7 @@
         "meaningJa": "署名して入る、チェックインする"
       },
       "explanationJa": "正解は A. must です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「Visitors _____ sign in at the front desk before entering the laboratory.」では must の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "規則や義務を表す文では must、have to、may not などがよく使われます。「Visitors _____ sign in at the front desk before entering the laboratory.」が許可・義務・禁止のどれかを見ます。",
+      "japaneseLearnerHint": "選択肢を許可・義務・可能性・禁止の4区分に分けます。文が規則・指示・提案のどれかを判断してから区分に合う助動詞を選びます。",
       "exerciseNumber": 32
     },
     {
@@ -1291,7 +1291,7 @@
         "meaningJa": "文書"
       },
       "explanationJa": "正解は C. placed です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The documents _____ in the blue folder are ready for review.」では placed の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "名詞が動作をする側か、動作を受ける側かを見ます。「The documents _____ in the blue folder are ready for review.」では現在分詞か過去分詞かを意味の関係で判断します。",
+      "japaneseLearnerHint": "空所が修飾する名詞が動作をする側なら現在分詞（-ing）、動作を受ける側なら過去分詞（-ed）を選びます。能動・受動の関係だけを見れば判断できます。",
       "exerciseNumber": 33
     },
     {
@@ -1373,7 +1373,7 @@
         "meaningJa": "無料の"
       },
       "explanationJa": "正解は A. complimentary です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The hotel offers a _____ shuttle service to the airport every hour.」では complimentary が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The hotel offers a _____ shuttle service to the airport every hour.」では complimentary が文脈に合います。",
+      "japaneseLearnerHint": "空所の前後にある名詞・動詞と自然につながる語を選びます（コロケーション）。意味が似ていても組み合わせとして不自然な選択肢は消せます。",
       "exerciseNumber": 35
     },
     {
@@ -1414,7 +1414,7 @@
         "meaningJa": "担当する、責任がある"
       },
       "explanationJa": "正解は A. for です。前置詞は後ろの語との組み合わせで判断します。この文では「The finance director is responsible _____ approving travel expenses.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
-      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The finance director is responsible _____ approving travel expenses.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "japaneseLearnerHint": "空所の後の表現が時間・場所・目的・方向のどれかを先に分類します。動詞や形容詞と固定でペアになる前置詞はそのままセットで覚えます。",
       "exerciseNumber": 36
     },
     {
@@ -1455,7 +1455,7 @@
         "meaningJa": "推薦、提案"
       },
       "explanationJa": "正解は B. affordable です。空所が文の中で何を修飾しているかを確認します。「The consultant's recommendations were both practical and _____.」では affordable が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The consultant's recommendations were both practical and _____.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 37
     },
     {
@@ -1537,7 +1537,7 @@
         "meaningJa": "調査結果"
       },
       "explanationJa": "正解は C. highly です。空所が文の中で何を修飾しているかを確認します。「The customer survey results were _____ positive.」では highly が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The customer survey results were _____ positive.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 39
     },
     {
@@ -1578,7 +1578,7 @@
         "meaningJa": "ミスを減らす"
       },
       "explanationJa": "正解は A. accurate です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「To reduce errors, the warehouse introduced a more _____ labeling process.」では accurate が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「To reduce errors, the warehouse introduced a more _____ labeling process.」では accurate が文脈に合います。",
+      "japaneseLearnerHint": "空所の前後にある名詞・動詞と自然につながる語を選びます（コロケーション）。意味が似ていても組み合わせとして不自然な選択肢は消せます。",
       "exerciseNumber": 40
     },
     {
@@ -1619,7 +1619,7 @@
         "meaningJa": "給与課"
       },
       "explanationJa": "正解は C. confidentially です。空所が文の中で何を修飾しているかを確認します。「The payroll department handles salary information _____.」では confidentially が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The payroll department handles salary information _____.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 41
     },
     {
@@ -1660,7 +1660,7 @@
         "meaningJa": "オリエンテーション"
       },
       "explanationJa": "正解は A. in です。前置詞は後ろの語との組み合わせで判断します。この文では「The new employee orientation will take place _____ the auditorium.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
-      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The new employee orientation will take place _____ the auditorium.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "japaneseLearnerHint": "空所の後の表現が時間・場所・目的・方向のどれかを先に分類します。動詞や形容詞と固定でペアになる前置詞はそのままセットで覚えます。",
       "exerciseNumber": 42
     },
     {
@@ -1701,7 +1701,7 @@
         "meaningJa": "法務チーム"
       },
       "explanationJa": "正解は C. will have reviewed です。時制問題では、文中の時間表現を先に拾います。この文では「The legal team _____ the revised contract by the end of the week.」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
-      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「The legal team _____ the revised contract by the end of the week.」の中の過去・未来・継続の合図が得点源です。",
+      "japaneseLearnerHint": "選択肢を見る前に文中の時間表現（yesterday / next year / since など）を先に探します。その表現が過去・未来・継続のどのシグナルかを確認してから動詞の形を選びます。",
       "exerciseNumber": 43
     },
     {
@@ -1742,7 +1742,7 @@
         "meaningJa": "詳しい説明"
       },
       "explanationJa": "正解は A. a です。空所の後ろにある名詞句を見ます。この文では「Mr. Patel gave _____ detailed explanation of the new billing system.」の空所に a が入り、後ろの名詞の数や音に合います。",
-      "japaneseLearnerHint": "空所の直後の名詞を見てください。「Mr. Patel gave _____ detailed explanation of the new billing system.」では、名詞が数えられる単数か、母音で始まる音かが決め手になります。",
+      "japaneseLearnerHint": "空所の直後の名詞を見ます。数えられる名詞か否か、また単数なら母音の音で始まるかどうかの2点で冠詞を決めます。",
       "exerciseNumber": 44
     },
     {
@@ -1783,7 +1783,7 @@
         "meaningJa": "営業時間を延長する"
       },
       "explanationJa": "正解は A. if です。接続語は前後の意味関係で選びます。この文では「The museum will extend its hours _____ visitor demand continues to increase.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。if はその関係を自然に示します。",
-      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「The museum will extend its hours _____ visitor demand continues to increase.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "japaneseLearnerHint": "コンマの前後・節と節の間の関係を確認します。逆接・理由・条件・追加のどれかを先に決めてから接続語を選ぶと訳だけで迷わずに済みます。",
       "exerciseNumber": 45
     },
     {
@@ -1824,7 +1824,7 @@
         "meaningJa": "修了証明書"
       },
       "explanationJa": "正解は A. completion です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「All workshop participants will receive a certificate of _____.」では completion が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「All workshop participants will receive a certificate of _____.」では completion が文脈に合います。",
+      "japaneseLearnerHint": "空所の前後にある名詞・動詞と自然につながる語を選びます（コロケーション）。意味が似ていても組み合わせとして不自然な選択肢は消せます。",
       "exerciseNumber": 46
     },
     {
@@ -1947,7 +1947,7 @@
         "meaningJa": "個人端末"
       },
       "explanationJa": "正解は A. must not です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「Employees _____ use personal devices to access confidential client files.」では must not の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "規則や義務を表す文では must、have to、may not などがよく使われます。「Employees _____ use personal devices to access confidential client files.」が許可・義務・禁止のどれかを見ます。",
+      "japaneseLearnerHint": "選択肢を許可・義務・可能性・禁止の4区分に分けます。文が規則・指示・提案のどれかを判断してから区分に合う助動詞を選びます。",
       "exerciseNumber": 49
     },
     {
@@ -1988,7 +1988,7 @@
         "meaningJa": "精算手続き"
       },
       "explanationJa": "正解は C. faster です。比較問題では than や as ... as のような比較の合図を探します。「The updated checkout process is significantly _____ than the previous version.」では比較対象が示されているため、原級や最上級ではなく比較級が必要です。",
-      "japaneseLearnerHint": "than が見えたら比較級を疑います。「The updated checkout process is significantly _____ than the previous version.」では、何と何を比べているかを先に確認しましょう。",
+      "japaneseLearnerHint": "than が見えたら比較級、as…as が見えたら同等比較を疑います。何と何を比べているかを先に確認してから形容詞・副詞の形を決めます。",
       "exerciseNumber": 50
     },
     {
@@ -2029,7 +2029,7 @@
         "meaningJa": "企画委員会"
       },
       "explanationJa": "正解は C. approved です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The proposal _____ by the planning committee includes several cost-saving measures.」では approved の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "名詞が動作をする側か、動作を受ける側かを見ます。「The proposal _____ by the planning committee includes several cost-saving measures.」では現在分詞か過去分詞かを意味の関係で判断します。",
+      "japaneseLearnerHint": "空所が修飾する名詞が動作をする側なら現在分詞（-ing）、動作を受ける側なら過去分詞（-ed）を選びます。能動・受動の関係だけを見れば判断できます。",
       "exerciseNumber": 51
     },
     {
@@ -2070,7 +2070,7 @@
         "meaningJa": "人に〜するよう念を押す"
       },
       "explanationJa": "正解は C. to wear です。動詞の後ろに続く形は、動詞ごとのパターンで決まります。「The supervisor reminded the interns _____ their ID badges at all times.」では to wear の形が文型に合います。to 不定詞、原形、現在分詞、過去分詞のどれが必要かを、意味だけでなく構造から判断します。",
-      "japaneseLearnerHint": "動詞ごとの型を見ます。「The supervisor reminded the interns _____ their ID badges at all times.」では、ask/remind + 人 + to do のように、目的語の後に to 不定詞が続く型が手がかりです。",
+      "japaneseLearnerHint": "空所の前の動詞の語形パターンを確認します。ask/allow/remind + 人 + to do、または make/let + 人 + 動詞の原形のように、主動詞の型が答えを決めます。",
       "exerciseNumber": 52
     },
     {
@@ -2111,7 +2111,7 @@
         "meaningJa": "保守依頼"
       },
       "explanationJa": "正解は B. quickly です。空所が文の中で何を修飾しているかを確認します。「The maintenance request was handled _____ after it was submitted.」では quickly が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The maintenance request was handled _____ after it was submitted.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 53
     },
     {
@@ -2193,7 +2193,7 @@
         "meaningJa": "払い戻す、精算する"
       },
       "explanationJa": "正解は A. reimburse です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The airline will _____ passengers for meals if the delay lasts more than four hours.」では reimburse が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The airline will _____ passengers for meals if the delay lasts more than four hours.」では reimburse が文脈に合います。",
+      "japaneseLearnerHint": "空所の前後にある名詞・動詞と自然につながる語を選びます（コロケーション）。意味が似ていても組み合わせとして不自然な選択肢は消せます。",
       "exerciseNumber": 55
     },
     {
@@ -2234,7 +2234,7 @@
         "meaningJa": "祝う"
       },
       "explanationJa": "正解は A. for です。前置詞は後ろの語との組み合わせで判断します。この文では「The marketing director congratulated the team _____ completing the campaign early.」が手がかりです。期限なら by、正確な時刻なら at、曜日や日付なら on、範囲や場所なら in のように、決まった使い方で選びます。",
-      "japaneseLearnerHint": "前置詞は後ろの語とセットで覚えます。「The marketing director congratulated the team _____ completing the campaign early.」の空所後の表現が、期限・時刻・場所のどれかを先に分類しましょう。",
+      "japaneseLearnerHint": "空所の後の表現が時間・場所・目的・方向のどれかを先に分類します。動詞や形容詞と固定でペアになる前置詞はそのままセットで覚えます。",
       "exerciseNumber": 56
     },
     {
@@ -2275,7 +2275,7 @@
         "meaningJa": "耐久性のある"
       },
       "explanationJa": "正解は B. attractive です。空所が文の中で何を修飾しているかを確認します。「The new packaging is more durable and _____ than the old design.」では attractive が周りの語と品詞の役割に合います。動詞を説明する位置なら副詞、名詞を説明する位置なら形容詞、主語や目的語になる位置なら名詞を疑います。",
-      "japaneseLearnerHint": "日本語の自然さより、空所の前後を見ます。「The new packaging is more durable and _____ than the old design.」では、空所が動詞・名詞・形容詞のどれを説明しているかで品詞を決めます。",
+      "japaneseLearnerHint": "空所が修飾しているのが動詞・名詞・形容詞のどれかを先に決めます。動詞を修飾すれば副詞、名詞を修飾すれば形容詞、というように品詞スロットで答えが絞れます。",
       "exerciseNumber": 57
     },
     {
@@ -2316,7 +2316,7 @@
         "meaningJa": "発売を延期する"
       },
       "explanationJa": "正解は A. because です。接続語は前後の意味関係で選びます。この文では「The team postponed the launch _____ several important tests had not been completed.」の二つの内容が、理由・逆接・条件・追加のどれでつながるかを見ます。because はその関係を自然に示します。",
-      "japaneseLearnerHint": "接続語は訳語だけで選ばず、「The team postponed the launch _____ several important tests had not been completed.」の前半と後半が逆接・理由・条件・追加のどれかを先に決めましょう。",
+      "japaneseLearnerHint": "コンマの前後・節と節の間の関係を確認します。逆接・理由・条件・追加のどれかを先に決めてから接続語を選ぶと訳だけで迷わずに済みます。",
       "exerciseNumber": 58
     },
     {
@@ -2357,7 +2357,7 @@
         "meaningJa": "無料駐車場"
       },
       "explanationJa": "正解は A. complimentary です。語彙問題では意味だけでなく、周りの名詞やビジネス場面との相性を見ます。「The hotel offers _____ parking for guests staying more than two nights.」では complimentary が文脈と自然に合います。ほかの選択肢は似た形でも、目的語や場面との組み合わせが弱くなります。",
-      "japaneseLearnerHint": "語彙問題では単語の意味だけでなく、周りの名詞との自然な組み合わせを見ます。「The hotel offers _____ parking for guests staying more than two nights.」では complimentary が文脈に合います。",
+      "japaneseLearnerHint": "空所の前後にある名詞・動詞と自然につながる語を選びます（コロケーション）。意味が似ていても組み合わせとして不自然な選択肢は消せます。",
       "exerciseNumber": 59
     },
     {
@@ -2398,7 +2398,7 @@
         "meaningJa": "方針を導入する"
       },
       "explanationJa": "正解は C. have decreased です。時制問題では、文中の時間表現を先に拾います。この文では「since」が動詞形を決める手がかりです。過去・未来・現在完了などを動詞の形で明示します。",
-      "japaneseLearnerHint": "時制問題では、選択肢を見る前に時間表現を丸で囲えるか確認します。「Since the new policy was introduced, customer complaints _____.」の中の過去・未来・継続の合図が得点源です。",
+      "japaneseLearnerHint": "選択肢を見る前に文中の時間表現（yesterday / next year / since など）を先に探します。その表現が過去・未来・継続のどのシグナルかを確認してから動詞の形を選びます。",
       "exerciseNumber": 60
     }
   ]
