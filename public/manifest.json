@@ -1,7 +1,7 @@
 {
-  "version": "2026-06-03T05:57:52.043Z",
+  "version": "2026-06-03T08:43:40.313Z",
   "minAppVersion": "0.1.0",
-  "publishedAt": "2026-06-03T05:57:52.044Z",
+  "publishedAt": "2026-06-03T08:43:40.314Z",
   "questionFiles": {
     "listening_part_1": "questions/listening_part_1.json",
     "listening_part_2": "questions/listening_part_2.json",
@@ -123,6 +123,12 @@
       "train_to_boston.mp3": "audio/listening/train_to_boston.mp3"
     },
     "images": {
+      "exam_l1_01.png": "images/exam/exam_l1_01.png",
+      "exam_l1_02.png": "images/exam/exam_l1_02.png",
+      "exam_l1_03.png": "images/exam/exam_l1_03.png",
+      "exam_l1_04.png": "images/exam/exam_l1_04.png",
+      "exam_l1_05.png": "images/exam/exam_l1_05.png",
+      "exam_l1_06.png": "images/exam/exam_l1_06.png",
       "bicycles.jpg": "images/listening/part1/bicycles.jpg",
       "boarding_plane.jpg": "images/listening/part1/boarding_plane.jpg",
       "boxes.jpg": "images/listening/part1/boxes.jpg",
